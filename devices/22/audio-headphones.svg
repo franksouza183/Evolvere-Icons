@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="audio-headphones.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cbced6"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="9.964045"
+     inkscape:cy="10.494202"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-10"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid2816"
+       type="xygrid"
+       originx="-410px"
+       originy="18.999958px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-410,-1049.3622)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 421,1052.3622 c -4.41828,0 -8,3.5818 -8,8 l 1,7 3,0 0,-6 -3,0 1,-1 c 0,-3.3137 2.68629,-6 6,-6 3.31371,0 6,2.6863 6,6 l 1,1 -3,0 0,6 3,0 1,-7 c 0,-4.4182 -3.58172,-8 -8,-8 z"
+       id="path3003"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccsscccccs" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 11,1.78125 C 5.93318,1.78125 1.8125,5.9333 1.8125,11 l 0,0.0625 0,0.09375 1,7 0.15625,0.843792 1.03125,0 3,0 1,4.2e-5 0,-1.000042 0,-6 0,-1 L 5,11 4,12 7,12 7,18 4,18 3,11 c 0,-4.4182 3.58172,-8 8,-8 4.41828,0 8,3.5818 8,8 l -1,7 -3,0 0,-6 3,0 -1,-1 -3,4.2e-5 0,1 0,6 0,1.000042 1,-4.2e-5 3,0 1.03125,0 0.15625,-0.843792 1,-7 0,-0.09375 0,-0.0625 C 20.1875,5.9333 16.06682,1.78125 11,1.78125 z"
+       transform="translate(410,1049.3622)"
+       id="path2984"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccccccccccccccccsccccccccccccccccss" />
+  </g>
+</svg>

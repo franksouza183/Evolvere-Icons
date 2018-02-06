@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="22"
+   height="22"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gtg-panel.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="32.000001"
+     inkscape:cx="6.7380172"
+     inkscape:cy="10.859522"
+     inkscape:window-x="-10"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3218"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-11px"
+       originy="18px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3762"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2985"
+       is_visible="true" />
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2985"
+     d="M 5,4 C 4.446,4 4,4.446 4,5 l 0,12 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-9.5625 -6.78125,6.78125 -0.71875,0.6875 -0.71875,-0.6875 -3,-3 1.4375,-1.4375 L 10.5,12.0625 17.90625,4.65625 c -0.0037,-0.00954 0.004,-0.02186 0,-0.03125 C 17.754844,4.2658437 17.4155,4 17,4 L 5,4 z"
+     style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 5 3 C 3.9092972 3 3 3.9092972 3 5 L 3 17 C 3 18.090703 3.9092972 19 5 19 L 17 19 C 18.090703 19 19 18.090703 19 17 L 19 7.4375 L 19 6.4375 L 20.71875 4.71875 L 19.28125 3.28125 L 18.625 3.9375 C 18.283143 3.4043302 17.704053 3 17 3 L 5 3 z M 5 4 L 17 4 C 17.4155 4 17.754844 4.2658437 17.90625 4.625 C 17.91025 4.63439 17.90255 4.64671 17.90625 4.65625 L 10.5 12.0625 L 8.21875 9.78125 L 6.78125 11.21875 L 9.78125 14.21875 L 10.5 14.90625 L 11.21875 14.21875 L 11.71875 13.71875 L 18 7.4375 L 18 17 C 18 17.554 17.554 18 17 18 L 5 18 C 4.446 18 4 17.554 4 17 L 4 5 C 4 4.446 4.446 4 5 4 z "
+     id="rect3764" />
+</svg>

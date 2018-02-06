@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="easystroke.svg"
+   inkscape:export-filename="/home/anton/.kde4/share/apps/desktoptheme/appo/icons/nepomuk.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="11.884568"
+     inkscape:cy="11.138564"
+     inkscape:document-units="px"
+     inkscape:current-layer="klipper"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     inkscape:window-x="-10"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid2818"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="122.963"
+       y="97.149"
+       width="576.609"
+       height="587.491"
+       id="XMLID_23_"
+       i:invertMask="false"
+       i:clipMask="true">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter)"
+         id="g37">
+        <radialGradient
+           id="XMLID_24_"
+           cx="88.977501"
+           cy="-20.899401"
+           r="673.11609"
+           fx="88.977501"
+           fy="-20.899401"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0.309"
+             style="stop-color:#FFFFFF"
+             id="stop40" />
+          <stop
+             offset="1"
+             style="stop-color:#000000"
+             id="stop42" />
+          <a:midPointStop
+             offset="0.309"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="0.5"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="1"
+             style="stop-color:#000000" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#XMLID_24_)"
+           sodipodi:ry="349.10599"
+           sodipodi:rx="512.93402"
+           sodipodi:cy="286.172"
+           sodipodi:cx="295.89499"
+           i:knockout="Off"
+           cx="295.89499"
+           cy="286.172"
+           rx="512.93402"
+           ry="349.10599"
+           id="ellipse44" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter"
+       filterUnits="userSpaceOnUse"
+       x="122.963"
+       y="97.149002"
+       width="576.60901"
+       height="587.49103">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix34" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="155.705"
+       y="461.543"
+       width="93.126"
+       height="44.813"
+       id="XMLID_26_"
+       i:invertMask="false"
+       i:clipMask="true">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_1_)"
+         id="g75">
+        <linearGradient
+           id="XMLID_1_"
+           gradientUnits="userSpaceOnUse"
+           x1="211.7222"
+           y1="562.85791"
+           x2="200.0733"
+           y2="466.75449">
+          <stop
+             offset="0"
+             style="stop-color:#FFFFFF"
+             id="stop78" />
+          <stop
+             offset="1"
+             style="stop-color:#000000"
+             id="stop80" />
+          <a:midPointStop
+             offset="0"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="0.5"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="1"
+             style="stop-color:#000000" />
+        </linearGradient>
+        <ellipse
+           style="fill:url(#XMLID_1_)"
+           sodipodi:ry="59.682999"
+           sodipodi:rx="80.542"
+           sodipodi:cy="495.98801"
+           sodipodi:cx="203.617"
+           i:knockout="Off"
+           cx="203.617"
+           cy="495.98801"
+           rx="80.542"
+           ry="59.682999"
+           id="ellipse82" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_1_"
+       filterUnits="userSpaceOnUse"
+       x="155.705"
+       y="461.543"
+       width="93.125999"
+       height="44.813">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix72" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="101.57"
+       y="425.034"
+       width="156.907"
+       height="127.553"
+       id="XMLID_2_"
+       i:invertMask="false"
+       i:clipMask="true">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_2_)"
+         id="g92">
+        <linearGradient
+           id="XMLID_3_"
+           gradientUnits="userSpaceOnUse"
+           x1="206.09081"
+           y1="397.62061"
+           x2="186.92191"
+           y2="563.47321">
+          <stop
+             offset="0"
+             style="stop-color:#FFFFFF"
+             id="stop95" />
+          <stop
+             offset="0.1111"
+             style="stop-color:#CBCBCB"
+             id="stop97" />
+          <stop
+             offset="0.2396"
+             style="stop-color:#969696"
+             id="stop99" />
+          <stop
+             offset="0.3698"
+             style="stop-color:#686868"
+             id="stop101" />
+          <stop
+             offset="0.4991"
+             style="stop-color:#424242"
+             id="stop103" />
+          <stop
+             offset="0.6273"
+             style="stop-color:#252525"
+             id="stop105" />
+          <stop
+             offset="0.7542"
+             style="stop-color:#111111"
+             id="stop107" />
+          <stop
+             offset="0.8792"
+             style="stop-color:#040404"
+             id="stop109" />
+          <stop
+             offset="1"
+             style="stop-color:#000000"
+             id="stop111" />
+          <a:midPointStop
+             offset="0"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="0.2994"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="1"
+             style="stop-color:#000000" />
+        </linearGradient>
+        <ellipse
+           style="fill:url(#XMLID_3_)"
+           sodipodi:ry="123.604"
+           sodipodi:rx="160.94"
+           sodipodi:cy="495.62299"
+           sodipodi:cx="194.76401"
+           i:knockout="Off"
+           cx="194.76401"
+           cy="495.62299"
+           rx="160.94"
+           ry="123.604"
+           id="ellipse113" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_2_"
+       filterUnits="userSpaceOnUse"
+       x="101.57"
+       y="425.034"
+       width="156.907"
+       height="127.553">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix89" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="191.541"
+       y="217.631"
+       width="447.197"
+       height="527.73"
+       id="XMLID_10_"
+       i:invertMask="false"
+       i:clipMask="true">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_3_)"
+         id="g165">
+        <radialGradient
+           id="XMLID_11_"
+           cx="657.2124"
+           cy="155.23289"
+           r="606.95343"
+           fx="657.2124"
+           fy="155.23289"
+           gradientTransform="matrix(0.931,0,0,0.9299,28.7459,21.6629)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             style="stop-color:#C9C9C8"
+             id="stop168" />
+          <stop
+             offset="0.0881"
+             style="stop-color:#C4C4C4"
+             id="stop170" />
+          <stop
+             offset="0.2192"
+             style="stop-color:#B8B8B7"
+             id="stop172" />
+          <stop
+             offset="0.3769"
+             style="stop-color:#A1A0A0"
+             id="stop174" />
+          <stop
+             offset="0.5556"
+             style="stop-color:#7F7F7E"
+             id="stop176" />
+          <stop
+             offset="0.7517"
+             style="stop-color:#4F4F4E"
+             id="stop178" />
+          <stop
+             offset="0.9595"
+             style="stop-color:#121212"
+             id="stop180" />
+          <stop
+             offset="1"
+             style="stop-color:#000000"
+             id="stop182" />
+          <a:midPointStop
+             offset="0"
+             style="stop-color:#C9C9C8" />
+          <a:midPointStop
+             offset="0.6215"
+             style="stop-color:#C9C9C8" />
+          <a:midPointStop
+             offset="1"
+             style="stop-color:#000000" />
+        </radialGradient>
+        <circle
+           style="fill:url(#XMLID_11_)"
+           sodipodi:ry="302.95401"
+           sodipodi:rx="302.95401"
+           sodipodi:cy="444.22601"
+           sodipodi:cx="408.427"
+           i:knockout="Off"
+           cx="408.427"
+           cy="444.22601"
+           r="302.95401"
+           id="circle184" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_3_"
+       filterUnits="userSpaceOnUse"
+       x="191.541"
+       y="217.631"
+       width="447.19699"
+       height="527.72998">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix162" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="243.061"
+       y="279.317"
+       width="252.506"
+       height="187.183"
+       id="XMLID_13_"
+       i:invertMask="false"
+       i:clipMask="true">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_4_)"
+         id="g199">
+        <linearGradient
+           id="XMLID_14_"
+           gradientUnits="userSpaceOnUse"
+           x1="340.0488"
+           y1="266.93359"
+           x2="372.38071"
+           y2="417.81519">
+          <stop
+             offset="0"
+             style="stop-color:#FFFFFF"
+             id="stop202" />
+          <stop
+             offset="0.0867"
+             style="stop-color:#F8F8F8"
+             id="stop204" />
+          <stop
+             offset="0.2156"
+             style="stop-color:#E4E4E4"
+             id="stop206" />
+          <stop
+             offset="0.3708"
+             style="stop-color:#C2C2C2"
+             id="stop208" />
+          <stop
+             offset="0.5465"
+             style="stop-color:#949494"
+             id="stop210" />
+          <stop
+             offset="0.7394"
+             style="stop-color:#595959"
+             id="stop212" />
+          <stop
+             offset="0.9438"
+             style="stop-color:#151515"
+             id="stop214" />
+          <stop
+             offset="0.9944"
+             style="stop-color:#000000"
+             id="stop216" />
+          <a:midPointStop
+             offset="0"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="0.6215"
+             style="stop-color:#FFFFFF" />
+          <a:midPointStop
+             offset="0.9944"
+             style="stop-color:#000000" />
+        </linearGradient>
+        <ellipse
+           style="fill:url(#XMLID_14_)"
+           sodipodi:ry="183.32201"
+           sodipodi:rx="215.32401"
+           sodipodi:cy="374.28201"
+           sodipodi:cx="363.052"
+           i:knockout="Off"
+           cx="363.052"
+           cy="374.28201"
+           rx="215.32401"
+           ry="183.32201"
+           id="ellipse218" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_4_"
+       filterUnits="userSpaceOnUse"
+       x="243.061"
+       y="279.31699"
+       width="252.506"
+       height="187.183">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix196" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(8.4852817,-1018.6949)"
+     id="klipper"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+       d="m 23.514718,1025.1011 0,0.7813 c 2.192996,0.3709 4.196591,1.3306 5.8125,2.7187 -1.540535,-1.6772 -3.538209,-2.9124 -5.8125,-3.5 z m 7.34375,2.25 c 1.819679,2.013 3.095648,4.5259 3.5,7.3438 l -1.25,0 c 0.08438,0.3266 0.161788,0.6632 0.21875,1 l 2.03125,0 c -0.474742,-3.3085 -2.136643,-6.2073 -4.5,-8.3438 z m -7.34375,1.9375 0,0.6563 c 1.168043,0.2998 2.227907,0.8757 3.125,1.625 -0.837111,-1.0022 -1.894171,-1.7845 -3.125,-2.2813 z m 4.53125,0.8751 c 1.100108,1.27 1.900326,2.8224 2.25,4.5312 l -1.375,0 c 0.130316,0.3229 0.255882,0.6577 0.34375,1 l 2.03125,0 c -0.44958,-2.197 -1.617143,-4.1168 -3.25,-5.5312 z m -2.78125,2.8437 c 0.389353,0.5014 0.690407,1.0763 0.90625,1.6875 l -2.0625,0 c 0.330833,0.2847 0.618854,0.6121 0.84375,1 l 2.21875,0 c -0.376553,-1.0662 -1.041941,-1.9956 -1.90625,-2.6875 z m -1.75,1.0938 0,0.1562 c 0.09333,0.054 0.193793,0.096 0.28125,0.1563 -0.07982,-0.1157 -0.190647,-0.2073 -0.28125,-0.3125 z"
+       id="path3071" />
+    <path
+       style="fill:none;stroke:#27303a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.753280819999999968;stroke-dasharray:none"
+       d="m 1.8256688,1028.195 c -0.2746414,0.033 -0.5633073,0.081 -0.843955,0.1246 -0.2786505,0.044 -0.5492829,0.084 -1.00634309,0.2248 -0.45706036,0.1384 -1.10054871,0.3772 -1.33509951,0.4636 -0.2806478,0.1404 -1.0424102,0.5257 -1.6879102,1.0494 -0.6455,0.5217 -1.1727229,1.18 -1.4914638,1.9806 -0.3187395,0.8006 -0.4289957,1.7438 -0.1663856,2.5484 0.2626099,0.8047 0.8960798,1.4709 1.6839155,1.816 0.7898257,0.3452 1.7320096,0.3694 2.56794656,0.1867 0.83595144,-0.1826 1.56564134,-0.5699 2.13696684,-0.9772 0.573337,-0.4074 0.9882951,-0.8329 1.3150541,-1.2121 0.3247473,-0.3773 0.5612956,-0.7083 0.7577534,-1.0074 0.1984695,-0.2969 0.3588314,-0.5598 0.5011599,-0.8106 0.1423427,-0.2508 0.2666232,-0.4917 0.3828999,-0.7344 0.1142649,-0.245 0.2205122,-0.4937 0.3247474,-0.7626 0.1022384,-0.2709 0.2044759,-0.5599 0.3087112,-0.903 0.1022384,-0.3412 0.2104966,-0.7344 0.2946866,-1.2261 0.086201,-0.4916 0.1503466,-1.0835 0.1022384,-1.7838 -0.050121,-0.7003 -0.2124942,-1.511 -0.603398,-2.2736 -0.3889066,-0.7645 -1.0063286,-1.479 -1.7721146,-1.8683 -0.7677831,-0.3911 -1.6819037,-0.4535 -2.4717294,-0.1505 -0.7898401,0.3032 -1.45137631,0.9733 -1.8623254,1.746 -0.4109634,0.7704 -0.5673163,1.6433 -0.5833525,2.4099 -0.016036,0.7685 0.1122532,1.4287 0.2625999,1.9726 0.1503609,0.5438 0.3247617,0.9671 0.48914708,1.3283 0.16437104,0.3593 0.31672921,0.6542 0.4650784,0.9191 0.14833477,0.2669 0.29267486,0.5056 0.44102402,0.7325 0.1483349,0.2286 0.3026905,0.4454 0.4730966,0.6661 0.1703918,0.2208 0.3548224,0.4435 0.5713253,0.6884 0.2165031,0.2447 0.4670758,0.5116 0.7898258,0.8126 0.3247617,0.3009 0.7256953,0.6361 1.2649339,0.9672 0.5372557,0.3311 1.2168254,0.6563 2.0186927,0.8248 0.8018528,0.1685 1.728015,0.1785 2.5519248,-0.113 0.8218981,-0.2886 1.541572,-0.8786 1.900404,-1.6371 0.358831,-0.7605 0.356834,-1.6895 0.05814,-2.5103 -0.298695,-0.8208 -0.8940749,-1.5311 -1.5335542,-2.0448 -0.6374817,-0.5138 -1.3190632,-0.8328 -1.9164546,-1.0395 -0.5993887,-0.2067 -1.1125757,-0.3029 -1.5495908,-0.3611 -0.4390268,-0.06 -0.8018673,-0.084 -1.1286263,-0.097 -0.3287563,-0.014 -0.6194339,-0.014 -0.8940753,-0.011 -0.2766388,0.014 -0.539253,0.028 -0.8158918,0.059 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc"
+       id="path3816" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 10.125 1.8125 C 9.58146 1.8308984 9.0573382 1.922875 8.53125 2.125 C 7.1312499 2.6624 6.1209484 3.73875 5.5 4.90625 A 1.20012 1.20012 0 0 0 5.375 5.46875 A 1.20012 1.20012 0 0 0 5.375 5.59375 C 5.005139 6.51895 4.7048488 7.45185 4.6875 8.28125 C 4.67894 8.69135 4.756743 8.8885 4.8125 9.1875 C 4.559378 9.3303 4.3839314 9.39545 4.0625 9.65625 C 3.1690359 10.37835 2.3794476 11.34275 1.90625 12.53125 C 1.4365879 13.71095 1.2178711 15.15495 1.6875 16.59375 C 2.1571043 18.03285 3.2630661 19.13595 4.59375 19.71875 C 5.9206194 20.29875 7.297534 20.3253 8.5 20.0625 C 9.6946633 19.8016 10.676886 19.26105 11.4375 18.71875 C 11.96289 18.99085 12.446664 19.2818 13.1875 19.4375 C 14.30178 19.6716 15.62683 19.68255 16.9375 19.21875 C 18.256626 18.75575 19.446617 17.8054 20.09375 16.4375 C 20.741911 15.0638 20.695279 13.5595 20.21875 12.25 C 19.742509 10.9413 18.877783 9.9552 18 9.25 C 17.424797 8.7864 16.8897 8.59145 16.34375 8.34375 C 16.342829 8.32675 16.34495 8.3295 16.34375 8.3125 C 16.280608 7.4302 16.090733 6.32435 15.53125 5.21875 C 15.52752 5.20875 15.53501 5.1945 15.53125 5.1875 L 15.5 5.1875 C 14.939084 4.0999 14.060146 3.0252 12.78125 2.375 C 12.117309 2.0369 11.40195 1.8573 10.6875 1.8125 C 10.50706 1.80125 10.30618 1.8063672 10.125 1.8125 z M 10.625 3 C 11.184813 3.0351 11.742251 3.1789 12.25 3.4375 C 13.262839 3.9524 14.000077 4.8287 14.46875 5.75 C 14.939609 6.6686 15.099074 7.60735 15.15625 8.40625 C 15.17315 8.65225 15.12946 8.80795 15.125 9.03125 C 15.780166 9.26605 16.532134 9.6089 17.25 10.1875 C 18.004096 10.7933 18.712424 11.60835 19.09375 12.65625 C 19.474872 13.70355 19.493553 14.8915 19 15.9375 C 18.505861 16.982 17.582952 17.72455 16.53125 18.09375 C 15.478411 18.46625 14.383216 18.4487 13.4375 18.25 C 12.530607 18.0594 11.816993 17.673 11.21875 17.3125 C 11.045457 17.4614 10.956582 17.6032 10.75 17.75 C 10.094952 18.217 9.2554358 18.6554 8.25 18.875 C 7.2429456 19.0951 6.1040185 19.0802 5.0625 18.625 C 4.0218735 18.1692 3.2030048 17.31965 2.84375 16.21875 C 2.4839994 15.11655 2.6419872 13.94655 3.03125 12.96875 C 3.4204823 11.99115 4.0541838 11.20665 4.8125 10.59375 C 5.3289096 10.17485 5.7062964 10.0214 6.09375 9.8125 C 6.0030689 9.3453 5.862751 8.8995 5.875 8.3125 C 5.8935467 7.4259 6.0847222 6.42305 6.59375 5.46875 L 6.5625 5.46875 C 7.0698165 4.51495 7.8931031 3.6629 8.96875 3.25 C 9.5055498 3.044 10.065187 2.965 10.625 3 z M 10.0625 5 C 9.9241357 5.0210047 9.8140129 5.076475 9.6875 5.125 C 9.1834667 5.3185 8.6583317 5.81465 8.34375 6.40625 C 8.030851 6.99275 7.8885257 7.7284 7.875 8.375 C 7.8702449 8.6029 7.9477055 8.76245 7.96875 8.96875 C 8.0517656 8.94175 8.1088002 8.93025 8.1875 8.90625 C 8.6997759 8.74825 9.0401531 8.69925 9.3125 8.65625 A 1.0001 1.0001 0 0 1 9.34375 8.65625 C 9.5870887 8.61825 9.8541323 8.56625 10.125 8.53125 A 1.0001 1.0001 0 0 1 10.21875 8.5 C 10.53188 8.465 10.815407 8.4515 11.09375 8.4375 A 1.0001 1.0001 0 0 1 11.125 8.4375 C 11.398249 8.4345 11.722741 8.45475 12.0625 8.46875 C 12.073813 8.46925 12.082349 8.46835 12.09375 8.46875 C 12.399347 8.48175 12.782936 8.5115 13.1875 8.5625 C 13.144435 7.9608 12.998448 7.26285 12.6875 6.65625 C 12.37836 6.04855 11.862483 5.48255 11.34375 5.21875 C 10.953699 5.01985 10.477593 4.9369859 10.0625 5 z M 10.4375 6.1875 C 10.564236 6.19075 10.714744 6.23175 10.8125 6.28125 C 10.999473 6.37625 11.423925 6.7922 11.625 7.1875 A 1.20012 1.20012 0 0 0 11.625 7.21875 C 11.63355 7.23575 11.61673 7.26325 11.625 7.28125 C 11.468533 7.27125 11.316593 7.249 11.15625 7.25 C 11.14861 7.2499 11.132639 7.25 11.125 7.25 C 11.109723 7.2499 11.077776 7.2498 11.0625 7.25 A 1.20012 1.20012 0 0 0 11.03125 7.25 C 10.756517 7.264 10.453752 7.2725 10.09375 7.3125 A 1.20012 1.20012 0 0 0 9.90625 7.34375 C 9.885165 7.35375 9.86464 7.369 9.84375 7.375 C 9.6319714 7.406 9.4407052 7.4115 9.28125 7.4375 C 9.3281959 7.2831 9.3445998 7.08435 9.40625 6.96875 C 9.5915131 6.62035 10.001419 6.2974 10.125 6.25 C 10.207799 6.2185 10.310764 6.18425 10.4375 6.1875 z M 11.15625 10.4375 C 10.963901 10.4475 10.796276 10.45375 10.625 10.46875 C 10.564009 10.47375 10.497951 10.49 10.4375 10.5 C 10.194492 10.529 9.9128774 10.58 9.625 10.625 C 9.3400459 10.67 9.1830945 10.6887 8.78125 10.8125 A 1.0001 1.0001 0 0 1 8.75 10.8125 C 8.6392945 10.8465 8.5399105 10.8925 8.40625 10.9375 C 8.442702 11.0241 8.494198 11.13675 8.53125 11.21875 C 8.5347876 11.22675 8.5277089 11.24 8.53125 11.25 C 8.6793035 11.5717 8.8362715 11.85725 8.96875 12.09375 C 9.1062586 12.34125 9.2398563 12.5433 9.375 12.75 C 9.508056 12.9551 9.6571747 13.14265 9.8125 13.34375 C 9.9683564 13.54575 10.139844 13.7693 10.34375 14 C 10.528469 14.2088 10.739963 14.4405 11 14.6875 C 11.139372 14.5051 11.298641 14.32005 11.40625 14.15625 A 1.0001 1.0001 0 0 1 11.4375 14.15625 C 11.622705 13.87915 11.743753 13.63745 11.875 13.40625 C 11.997956 13.18955 12.116286 12.9621 12.21875 12.75 C 12.224262 12.739 12.24453 12.73075 12.25 12.71875 C 12.348767 12.50515 12.439748 12.26725 12.53125 12.03125 C 12.628292 11.77405 12.715731 11.53735 12.8125 11.21875 C 12.87229 11.01925 12.946173 10.76285 13 10.53125 C 12.615323 10.47925 12.298014 10.48075 12 10.46875 C 11.707511 10.45675 11.444818 10.4375 11.1875 10.4375 C 11.177617 10.4376 11.16612 10.4374 11.15625 10.4375 z M 14.875 11.125 C 14.820885 11.3409 14.770861 11.60725 14.71875 11.78125 C 14.607049 12.14885 14.513685 12.4653 14.40625 12.75 C 14.294348 13.0387 14.154719 13.32905 14.03125 13.59375 C 13.906415 13.85435 13.779691 14.1024 13.625 14.375 C 13.47159 14.6453 13.305484 14.9333 13.09375 15.25 C 12.98876 15.4098 12.822909 15.6299 12.6875 15.8125 C 13.051662 15.9944 13.392023 16.18625 13.84375 16.28125 C 14.50174 16.41905 15.280019 16.42935 15.875 16.21875 A 1.0001 1.0001 0 0 1 15.875 16.1875 C 16.467094 15.9796 16.963975 15.56625 17.1875 15.09375 C 17.411609 14.61885 17.435016 13.93805 17.21875 13.34375 C 17.002686 12.75005 16.524863 12.14045 16 11.71875 C 15.636112 11.42555 15.251824 11.2925 14.875 11.125 z M 11.15625 11.625 C 11.140472 11.6252 11.15201 11.6254 11.1875 11.625 L 11.34375 11.625 A 1.20012 1.20012 0 0 0 11.375 11.625 C 11.288736 11.8473 11.225965 12.06805 11.15625 12.21875 A 1.20012 1.20012 0 0 0 11.125 12.21875 C 11.04345 12.38765 10.971365 12.577 10.875 12.75 C 10.839508 12.704 10.785721 12.671 10.75 12.625 C 10.588129 12.4154 10.466999 12.23565 10.375 12.09375 C 10.296658 11.97395 10.254165 11.8573 10.1875 11.75 C 10.324446 11.728 10.496628 11.6985 10.59375 11.6875 A 1.20012 1.20012 0 0 0 10.625 11.6875 C 10.749915 11.6665 10.795206 11.65025 10.71875 11.65625 C 10.833608 11.64625 10.988442 11.633 11.15625 11.625 z M 6.625 11.8125 C 6.4189838 11.9421 6.2843702 12.00155 6.09375 12.15625 C 5.5610662 12.58675 5.1232495 13.09525 4.875 13.71875 C 4.6267838 14.34225 4.5845304 15.08685 4.75 15.59375 C 4.915965 16.10235 5.3399551 16.5781 5.875 16.8125 C 6.4131329 17.0477 7.1789305 17.0828 7.84375 16.9375 C 8.5102171 16.7919 9.1061472 16.4726 9.59375 16.125 A 1.0001 1.0001 0 0 1 9.59375 16.09375 C 9.2962796 15.80955 9.0496589 15.5452 8.84375 15.3125 C 8.6146506 15.0534 8.4036772 14.8021 8.21875 14.5625 C 8.0332631 14.3223 7.8511138 14.09595 7.6875 13.84375 C 7.5259454 13.59675 7.3779109 13.3489 7.21875 13.0625 C 7.0584265 12.7762 6.8942585 12.4461 6.71875 12.0625 C 6.688675 11.9964 6.656156 11.8845 6.625 11.8125 z M 15.5625 13.0625 C 15.770532 13.3087 16.023367 13.5566 16.09375 13.75 C 16.199795 14.0414 16.142717 14.49005 16.09375 14.59375 C 16.048492 14.68975 15.789678 14.9498 15.46875 15.0625 A 1.20012 1.20012 0 0 0 15.375 15.09375 C 15.193393 15.14275 14.890629 15.10375 14.59375 15.09375 C 14.614615 15.05775 14.636324 15.00375 14.65625 14.96875 C 14.826351 14.66905 14.991669 14.4033 15.125 14.125 A 1.20012 1.20012 0 0 0 15.125 14.09375 C 15.244043 13.83855 15.395747 13.5371 15.53125 13.1875 C 15.54622 13.1475 15.548317 13.1025 15.5625 13.0625 z M 6.25 13.8125 C 6.3877785 14.0542 6.5412118 14.2763 6.6875 14.5 C 6.8939717 14.8183 7.1050961 15.05305 7.28125 15.28125 C 7.3952301 15.42885 7.5307192 15.56945 7.65625 15.71875 C 7.6341865 15.72875 7.6157944 15.746 7.59375 15.75 C 7.1560993 15.846 6.5392205 15.80375 6.34375 15.71875 C 6.1419796 15.63075 5.9537063 15.36425 5.90625 15.21875 C 5.867059 15.09875 5.855905 14.51815 6 14.15625 C 6.047517 14.03685 6.1765127 13.9264 6.25 13.8125 z "
+       transform="translate(-8.4852817,1018.6949)"
+       id="path3044" />
+  </g>
+</svg>

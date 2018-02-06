@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg13094"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="system-switch-user.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32.000002"
+     inkscape:cx="14.166378"
+     inkscape:cy="11.632563"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg13094"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-10"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3075"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="1.6362304e-08px"
+       originy="18px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs13096" />
+  <metadata
+     id="metadata13099">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none"
+     d="M 11,3 C 6.9217123,3 3.5563109,6.055557 3.0625,10 l 2.03125,0 C 5.5667274,7.1585893 8.0243793,5 11,5 c 1.226709,0 2.362207,0.3681795 3.3125,1 L 17.25,6 C 15.783865,4.1714864 13.526054,3 11,3 z m 1,5 0,2 4.90625,0 L 18,10 18.9375,10 C 18.85036,9.303914 18.660394,8.628616 18.40625,8 L 18,8 16.1875,8 12,8 z m -8.9375,4 c 0.087144,0.696086 0.2771059,1.371384 0.53125,2 L 5.8125,14 10,14 10,12 5.09375,12 3.0625,12 z m 13.84375,0 C 16.433272,14.84141 13.97562,17 11,17 9.773291,17 8.6377931,16.631821 7.6875,16 L 4.75,16 c 1.466135,1.828514 3.7239459,3 6.25,3 4.078288,0 7.443689,-3.055557 7.9375,-7 l -2.03125,0 z"
+     id="path2987"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 9.03125,2 C 5.5407796,2.7647464 2.7759218,5.513663 2,9 L 3.25,9 C 4.1410368,5.5533227 7.275386,3 11,3 c 3.358598,0 6.220266,2.0664951 7.40625,5 L 19.6875,8 C 18.647191,4.9979673 16.115993,2.6895271 12.96875,2 z M 12,10 l 0,1 8,0 0,-1 z m -10,1 0,1 8,0 0,-1 z m 16.75,2 C 17.858963,16.446677 14.724614,19 11,19 7.6414016,19 4.7797342,16.933505 3.59375,14 L 2.3125,14 c 1.0403084,3.002105 3.5715967,5.310473 6.71875,6 l 3.9375,0 C 16.45932,19.235254 19.224079,16.486436 20,13 z"
+     id="path3003"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscccccccccccccccscccccc" />
+</svg>

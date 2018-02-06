@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="18" height="18" id="svg2" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="xbmc.svg" inkscape:export-filename="/home/anton/.kde4/share/apps/desktoptheme/appo/icons/nepomuk.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="32" inkscape:cx="5.653887" inkscape:cy="6.9519277" inkscape:document-units="px" inkscape:current-layer="klipper" showgrid="true" inkscape:window-width="1920" inkscape:window-height="1033" inkscape:window-x="-10" inkscape:window-y="25" inkscape:window-maximized="1" inkscape:snap-grids="true" showguides="true" inkscape:guide-bbox="true" inkscape:snap-bbox="true" inkscape:object-paths="true" inkscape:snap-global="false" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-intersection-paths="true" inkscape:object-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-center="true">
+    <inkscape:grid snapvisiblegridlinesonly="true" enabled="true" visible="true" empspacing="5" id="grid2818" type="xygrid"/>
+  </sodipodi:namedview>
+  <defs id="defs4">
+    <mask maskUnits="userSpaceOnUse" x="122.963" y="97.149" width="576.609" height="587.491" id="XMLID_23_" i:invertMask="false" i:clipMask="true">
+      <g style="filter:url(#Adobe_OpacityMaskFilter)" id="g37">
+        <radialGradient id="XMLID_24_" cx="88.977501" cy="-20.899401" r="673.11609" fx="88.977501" fy="-20.899401" gradientUnits="userSpaceOnUse">
+          <stop offset="0.309" style="stop-color:#FFFFFF" id="stop40"/>
+          <stop offset="1" style="stop-color:#000000" id="stop42"/>
+          <a:midPointStop offset="0.309" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="1" style="stop-color:#000000"/>
+        </radialGradient>
+        <ellipse style="fill:url(#XMLID_24_)" sodipodi:ry="349.10599" sodipodi:rx="512.93402" sodipodi:cy="286.172" sodipodi:cx="295.89499" i:knockout="Off" cx="295.89499" cy="286.172" rx="512.93402" ry="349.10599" id="ellipse44"/>
+      </g>
+    </mask>
+    <filter color-interpolation-filters="sRGB" id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="122.963" y="97.149002" width="576.60901" height="587.49103">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" id="feColorMatrix34"/>
+    </filter>
+    <mask maskUnits="userSpaceOnUse" x="155.705" y="461.543" width="93.126" height="44.813" id="XMLID_26_" i:invertMask="false" i:clipMask="true">
+      <g style="filter:url(#Adobe_OpacityMaskFilter_1_)" id="g75">
+        <linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="211.7222" y1="562.85791" x2="200.0733" y2="466.75449">
+          <stop offset="0" style="stop-color:#FFFFFF" id="stop78"/>
+          <stop offset="1" style="stop-color:#000000" id="stop80"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="1" style="stop-color:#000000"/>
+        </linearGradient>
+        <ellipse style="fill:url(#XMLID_1_)" sodipodi:ry="59.682999" sodipodi:rx="80.542" sodipodi:cy="495.98801" sodipodi:cx="203.617" i:knockout="Off" cx="203.617" cy="495.98801" rx="80.542" ry="59.682999" id="ellipse82"/>
+      </g>
+    </mask>
+    <filter color-interpolation-filters="sRGB" id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="155.705" y="461.543" width="93.125999" height="44.813">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" id="feColorMatrix72"/>
+    </filter>
+    <mask maskUnits="userSpaceOnUse" x="101.57" y="425.034" width="156.907" height="127.553" id="XMLID_2_" i:invertMask="false" i:clipMask="true">
+      <g style="filter:url(#Adobe_OpacityMaskFilter_2_)" id="g92">
+        <linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="206.09081" y1="397.62061" x2="186.92191" y2="563.47321">
+          <stop offset="0" style="stop-color:#FFFFFF" id="stop95"/>
+          <stop offset="0.1111" style="stop-color:#CBCBCB" id="stop97"/>
+          <stop offset="0.2396" style="stop-color:#969696" id="stop99"/>
+          <stop offset="0.3698" style="stop-color:#686868" id="stop101"/>
+          <stop offset="0.4991" style="stop-color:#424242" id="stop103"/>
+          <stop offset="0.6273" style="stop-color:#252525" id="stop105"/>
+          <stop offset="0.7542" style="stop-color:#111111" id="stop107"/>
+          <stop offset="0.8792" style="stop-color:#040404" id="stop109"/>
+          <stop offset="1" style="stop-color:#000000" id="stop111"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.2994" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="1" style="stop-color:#000000"/>
+        </linearGradient>
+        <ellipse style="fill:url(#XMLID_3_)" sodipodi:ry="123.604" sodipodi:rx="160.94" sodipodi:cy="495.62299" sodipodi:cx="194.76401" i:knockout="Off" cx="194.76401" cy="495.62299" rx="160.94" ry="123.604" id="ellipse113"/>
+      </g>
+    </mask>
+    <filter color-interpolation-filters="sRGB" id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="101.57" y="425.034" width="156.907" height="127.553">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" id="feColorMatrix89"/>
+    </filter>
+    <mask maskUnits="userSpaceOnUse" x="191.541" y="217.631" width="447.197" height="527.73" id="XMLID_10_" i:invertMask="false" i:clipMask="true">
+      <g style="filter:url(#Adobe_OpacityMaskFilter_3_)" id="g165">
+        <radialGradient id="XMLID_11_" cx="657.2124" cy="155.23289" r="606.95343" fx="657.2124" fy="155.23289" gradientTransform="matrix(0.931,0,0,0.9299,28.7459,21.6629)" gradientUnits="userSpaceOnUse">
+          <stop offset="0" style="stop-color:#C9C9C8" id="stop168"/>
+          <stop offset="0.0881" style="stop-color:#C4C4C4" id="stop170"/>
+          <stop offset="0.2192" style="stop-color:#B8B8B7" id="stop172"/>
+          <stop offset="0.3769" style="stop-color:#A1A0A0" id="stop174"/>
+          <stop offset="0.5556" style="stop-color:#7F7F7E" id="stop176"/>
+          <stop offset="0.7517" style="stop-color:#4F4F4E" id="stop178"/>
+          <stop offset="0.9595" style="stop-color:#121212" id="stop180"/>
+          <stop offset="1" style="stop-color:#000000" id="stop182"/>
+          <a:midPointStop offset="0" style="stop-color:#C9C9C8"/>
+          <a:midPointStop offset="0.6215" style="stop-color:#C9C9C8"/>
+          <a:midPointStop offset="1" style="stop-color:#000000"/>
+        </radialGradient>
+        <circle style="fill:url(#XMLID_11_)" sodipodi:ry="302.95401" sodipodi:rx="302.95401" sodipodi:cy="444.22601" sodipodi:cx="408.427" i:knockout="Off" cx="408.427" cy="444.22601" r="302.95401" id="circle184"/>
+      </g>
+    </mask>
+    <filter color-interpolation-filters="sRGB" id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="191.541" y="217.631" width="447.19699" height="527.72998">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" id="feColorMatrix162"/>
+    </filter>
+    <mask maskUnits="userSpaceOnUse" x="243.061" y="279.317" width="252.506" height="187.183" id="XMLID_13_" i:invertMask="false" i:clipMask="true">
+      <g style="filter:url(#Adobe_OpacityMaskFilter_4_)" id="g199">
+        <linearGradient id="XMLID_14_" gradientUnits="userSpaceOnUse" x1="340.0488" y1="266.93359" x2="372.38071" y2="417.81519">
+          <stop offset="0" style="stop-color:#FFFFFF" id="stop202"/>
+          <stop offset="0.0867" style="stop-color:#F8F8F8" id="stop204"/>
+          <stop offset="0.2156" style="stop-color:#E4E4E4" id="stop206"/>
+          <stop offset="0.3708" style="stop-color:#C2C2C2" id="stop208"/>
+          <stop offset="0.5465" style="stop-color:#949494" id="stop210"/>
+          <stop offset="0.7394" style="stop-color:#595959" id="stop212"/>
+          <stop offset="0.9438" style="stop-color:#151515" id="stop214"/>
+          <stop offset="0.9944" style="stop-color:#000000" id="stop216"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.6215" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.9944" style="stop-color:#000000"/>
+        </linearGradient>
+        <ellipse style="fill:url(#XMLID_14_)" sodipodi:ry="183.32201" sodipodi:rx="215.32401" sodipodi:cy="374.28201" sodipodi:cx="363.052" i:knockout="Off" cx="363.052" cy="374.28201" rx="215.32401" ry="183.32201" id="ellipse218"/>
+      </g>
+    </mask>
+    <filter color-interpolation-filters="sRGB" id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="243.061" y="279.31699" width="252.506" height="187.183">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" id="feColorMatrix196"/>
+    </filter>
+  </defs>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(8.4852817,-1024.6949)" id="klipper" inkscape:groupmode="layer" inkscape:label="Layer 1">
+    <path inkscape:connector-curvature="0" id="path3043" d="m -5.4921391,1026.6949 -0.2494285,1 c -0.2755188,1.1046 0.3965734,2 1.5011429,2 1.6620256,0 2.6662646,1.338 2.2517143,3 -0.4145503,1.662 -2.08626,3 -3.7482856,3 -1.1045695,0 -2.2233384,0.8954 -2.4988572,2 l -0.2494285,1 2,0 c 1.7976485,0 3.5983978,-0.7867 5.0066468,-2.0312 0.78740684,1.2445 2.1957047,2.0312 3.9933532,2.0312 l 2,0 0.2494285,-1 c 0.2755188,-1.1046 -0.3965728,-2 -1.5011428,-2 -1.6620256,0 -2.66626464,-1.338 -2.2517144,-3 0.4145503,-1.662 2.0862601,-3 3.7482857,-3 1.104569,0 2.2233383,-0.8954 2.4988571,-2 l 0.2494285,-1 -2,0 c -1.7976485,0 -3.5983978,0.7867 -5.00665666,2.0313 -0.78739696,-1.2446 -2.19569484,-2.0313 -3.99334334,-2.0313 l -2,0 z" style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" transform="translate(1,1)"/>
+    <path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="M 2.0625 0.8125 L 1.84375 1.71875 L 1.59375 2.71875 C 1.3821127 3.56725 1.525218 4.48205 2.03125 5.15625 C 2.5372824 5.83035 3.3734622 6.21875 4.25 6.21875 C 4.7589961 6.21875 5.0471352 6.36515 5.21875 6.59375 C 5.3903648 6.82245 5.4776575 7.18195 5.34375 7.71875 C 5.075935 8.79255 3.7679922 9.8125 2.75 9.8125 C 0.9969244 9.8125 -0.4829754 11.02185 -0.90625 12.71875 L -1.15625 13.71875 L -1.53125 15.21875 L 0 15.21875 L 2 15.21875 C 3.7868066 15.21875 5.4565651 14.4654 6.90625 13.4375 C 7.9627454 14.4695 9.3172991 15.21875 11 15.21875 L 13 15.21875 L 13.9375 15.21875 L 14.1875 14.3125 L 14.4375 13.3125 C 14.649137 12.464 14.506032 11.5492 14 10.875 C 13.493968 10.2008 12.626538 9.8125 11.75 9.8125 C 11.241004 9.8125 10.984115 9.63485 10.8125 9.40625 C 10.640885 9.17755 10.553593 8.8494 10.6875 8.3125 C 10.955315 7.2388 12.232008 6.21875 13.25 6.21875 C 15.003075 6.21875 16.514225 5.0095 16.9375 3.3125 L 17.1875 2.3125 L 17.53125 0.8125 L 16 0.8125 L 14 0.8125 C 12.204237 0.8125 10.547976 1.5254 9.09375 2.5625 C 8.038137 1.5398 6.6742986 0.8125 5 0.8125 L 3 0.8125 L 2.0625 0.8125 z M 3 2 L 5 2 C 6.7976485 2 8.212603 2.78665 9 4.03125 C 10.408259 2.78665 12.202352 2 14 2 L 16 2 L 15.75 3 C 15.474481 4.1046 14.354569 5 13.25 5 C 11.587974 5 9.9145503 6.338 9.5 8 C 9.0854498 9.662 10.087974 11 11.75 11 C 12.85457 11 13.525519 11.8954 13.25 13 L 13 14 L 11 14 C 9.2023515 14 7.7874068 13.21325 7 11.96875 C 5.591751 13.21325 3.7976485 14 2 14 L 0 14 L 0.25 13 C 0.5255188 11.8954 1.6454305 11 2.75 11 C 4.4120256 11 6.0854497 9.662 6.5 8 C 6.9145503 6.338 5.9120256 5 4.25 5 C 3.1454305 5 2.4744812 4.1046 2.75 3 L 3 2 z " transform="translate(-7.4852817,1025.6949)" id="path3060"/>
+  </g>
+</svg>

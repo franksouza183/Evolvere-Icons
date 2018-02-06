@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="64"
+   height="64"
+   id="svg13094"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="text-readme.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview44"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="35.465974"
+     inkscape:cy="31.18437"
+     inkscape:window-x="-5"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13094">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3803"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs11" />
+  <metadata
+     id="metadata13099">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 4,0 64,0 64,62 4,62 z"
+     id="path3960"
+     style="fill:#2396e4;fill-opacity:1;fill-rule:nonzero" />
+  <path
+     style="fill:#153d59;fill-rule:nonzero;fill-opacity:0.23157895"
+     d="M 60 2 L 60 33 L 35.6875 62 L 64 62 L 64 37 L 64 6 L 60 2 z "
+     id="path3900" />
+  <path
+     style="color:#000000;fill:#3daffb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path3066"
+     d="M 0,2 60,2 60,33 34,64 0,64 z"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 34,64 60,33 c -2.328567,2.776369 -4.36141,3 -11,3 H 37 v 15 c 0,6.64407 0.04437,9.37018 -3,13 z"
+     id="path4278"
+     style="fill:#2c9ce6;fill-rule:nonzero;fill-opacity:1" />
+  <path
+     style="color:#000000;fill:#e2f4ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 17 12 C 15.895431 12 15 12.895431 15 14 C 15 15.104569 15.895431 16 17 16 C 18.104569 16 19 15.104569 19 14 C 19 12.895431 18.104569 12 17 12 z M 17 13 C 17.552285 13 18 13.447715 18 14 C 18 14.552285 17.552285 15 17 15 C 16.447715 15 16 14.552285 16 14 C 16 13.447715 16.447715 13 17 13 z "
+     id="path3819" />
+  <rect
+     style="color:#000000;fill:#e2f4ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3812"
+     width="2"
+     height="8"
+     x="16"
+     y="18" />
+  <path
+     style="color:#000000;fill:#e2f4ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 17 7 C 10.372583 7 5 12.372583 5 19 C 5 25.627417 10.372583 31 17 31 C 23.627417 31 29 25.627417 29 19 C 29 12.372583 23.627417 7 17 7 z M 17 9 C 22.522847 9 27 13.477153 27 19 C 27 24.522847 22.522847 29 17 29 C 11.477153 29 7 24.522847 7 19 C 7 13.477153 11.477153 9 17 9 z "
+     id="path3816" />
+</svg>

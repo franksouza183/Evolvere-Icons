@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3434"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="drive-harddisk-usb.svg">
+  <defs
+     id="defs3436" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="10.535204"
+     inkscape:cy="11.687187"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3026"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-10"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3564"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-1px"
+       originy="-1.0000021px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3439">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="device-notifier"
+     transform="translate(-1,-1027.3622)">
+    <g
+       id="g3026"
+       inkscape:label="#device">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none"
+         d="m 6,1039.3622 c 0,0.7396 0.4031,1.3727 1,1.7187 l 0,1.2813 0,0.4687 0.375,0.3125 2.8125,2.25 c -0.1073,0.3087 -0.1875,0.6236 -0.1875,0.9688 0,1.6568 1.3431,3 3,3 1.6569,0 3,-1.3432 3,-3 0,-0.3452 -0.08,-0.6601 -0.1875,-0.9688 l 2.8125,-2.25 0.375,-0.3125 0,-0.4687 0,-3 1,0 0,-4 -4,0 0,4 1,0 0,2.5312 -2.4062,1.9375 c -0.1822,-0.1147 -0.388,-0.2074 -0.5938,-0.2812 l 0,-10.1875 2,0 -3,-4 -3,4 2,0 0,10.1875 c -0.2058,0.074 -0.4116,0.1665 -0.5937,0.2812 L 9,1041.8934 l 0,-0.8125 c 0.5969,-0.346 1,-0.9791 1,-1.7187 0,-1.1046 -0.8954,-2 -2,-2 -1.1046,0 -2,0.8954 -2,2 z"
+         id="path2989" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3819-9"
+         d="m 4.78125,1039.3622 c 0,0.9135 0.64545,1.5504 1.21875,2.0938 l 0,0.9062 0,0.4688 0,0.4687 0.09375,0.3125 0.375,0.3125 0.03125,0 2.34375,1.875 c -0.035,0.1898 -0.15625,0.3316 -0.15625,0.5625 0,2.3672 1.945261,4.3125 4.3125,4.3125 2.367238,0 4.3125,-1.9453 4.3125,-4.3125 0,-0.2297 -0.12225,-0.3734 -0.15625,-0.5625 l 2.34375,-1.875 0.375,-0.3125 0.125,-0.3125 0,-0.4687 0,-0.4688 0,-2 1,0 0,-5 0,-1 -1,0 -4,0 -1,0 0,-1 -1,0 0,10.1875 c 0.2058,0.074 0.41155,0.1665 0.59375,0.2813 L 17,1041.8935 l 0,-2.5313 -1,0 0,-4 4,0 0,4 -1,0 0,3 0,0.4688 -0.375,0.3125 -2.8125,2.25 c 0.1075,0.3086 0.1875,0.6235 0.1875,0.9687 0,1.6569 -1.3431,3 -3,3 -1.6569,0 -3,-1.3431 -3,-3 0,-0.3452 0.0802,-0.6601 0.1875,-0.9687 l -2.8125,-2.25 -0.375,-0.3125 0,-0.4688 0,-1.2812 c -0.5969,-0.3461 -1,-0.9792 -1,-1.7188 0,-1.1046 0.8954,-2 2,-2 1.1046,0 2,0.8954 2,2 0,0.7396 -0.4031,1.3727 -1,1.7188 l 0,0.8125 2.40625,1.9375 c 0.1821,-0.1148 0.38795,-0.2075 0.59375,-0.2813 l 0,-1.1875 0,-9 -1,0 0,4.8438 c -0.468922,-1.2027 -1.6403416,-2.0625 -3,-2.0625 -1.7661657,0 -3.21875,1.4525 -3.21875,3.2187 z m 3.96875,-6 1.25,0 3,-4 3,4 1.25,0 -0.46875,-0.8437 -3,-4 L 13,1027.706 l -0.8125,0.8125 -3,4 -0.4375,0.8437 z m 1.5,8.0625 c 0.320834,-0.3107 0.576212,-0.6625 0.75,-1.0625 l 0,1.7188 -0.75,-0.6563 z m 4.75,0.5313 0,-1.5938 1,0 0,0.8125 -1,0.7813 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </g>
+  </g>
+</svg>

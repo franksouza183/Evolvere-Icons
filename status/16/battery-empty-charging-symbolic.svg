@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg27665"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="battery-010-charging.svg">
+  <defs
+     id="defs27667" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cbcdd6"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32.000002"
+     inkscape:cx="3.9656345"
+     inkscape:cy="7.0247624"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3070"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-47.999653px"
+       originy="-0.00031276823px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata27670">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3316.4171,-2100.7186)">
+    <path
+       style="color:#000000;fill:#27303a;fill-opacity:0.91237116000000003;fill-rule:nonzero;stroke:none;stroke-width:1.20000005000000010;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 7 1 C 6.446 1 6 1.446 6 2 C 4.3553 2 3 3.3553 3 5 L 3 12 C 3 13.6447 4.3553 15 6 15 L 9 15 C 10.6447 15 12 13.6447 12 12 L 12 5 C 12 3.3553 10.6447 2 9 2 C 9 1.446 8.554 1 8 1 L 7 1 z M 6 4 L 9 4 C 9.5713 4 10 4.4287 10 5 L 10 12 C 10 12.5713 9.5713 13 9 13 L 6 13 C 5.4287 13 5 12.5713 5 12 L 5 5 C 5 4.4287 5.4287 4 6 4 z M 13 6 L 13 11 L 14 11 L 14 10 L 14 9 L 14 8 L 14 7 L 14 6 L 13 6 z M 15 7 L 15 8 L 16 8 L 16 7 L 15 7 z M 0 8 L 0 9 L 2 9 L 2 8 L 0 8 z M 15 9 L 15 10 L 16 10 L 16 9 L 15 9 z "
+       transform="translate(-3316.4171,2100.7186)"
+       id="path3075" />
+    <rect
+       transform="scale(-1,-1)"
+       width="16"
+       height="16"
+       x="1382.6936"
+       y="-5459.1357"
+       id="use6225"
+       style="opacity:0.00100002;fill:#43423e;fill-opacity:0.00392157;stroke:none" />
+  </g>
+</svg>
