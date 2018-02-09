@@ -15,7 +15,7 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="firefox-4.0.svg">
+   sodipodi:docname="firefox-3.5.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000004"
-     inkscape:cx="42.602407"
+     inkscape:cx="17.789908"
      inkscape:cy="38.046597"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -299,17 +299,17 @@
          id="stop928"
          stop-color="#ffea00"
          offset="0.156"
-         style="stop-color:#e4d100;stop-opacity:1" />
+         style="stop-color:#beaf00;stop-opacity:1" />
       <stop
          id="stop930"
          stop-color="#ffde00"
          offset="0.231"
-         style="stop-color:#eacb00;stop-opacity:1" />
+         style="stop-color:#d0b500;stop-opacity:1" />
       <stop
          id="stop932"
          stop-color="#ffbf00"
          offset="0.365"
-         style="stop-color:#e2a900;stop-opacity:1" />
+         style="stop-color:#daa300;stop-opacity:1" />
       <stop
          id="stop934"
          stop-color="#ff8e00"
@@ -351,16 +351,18 @@
       <stop
          id="stop947"
          stop-color="#ffea00"
-         offset="0.279" />
+         offset="0.279"
+         style="stop-color:#f0c000;stop-opacity:1" />
       <stop
          id="stop949"
          stop-color="#fd0"
          offset="0.402"
-         style="stop-color:#e99a16;stop-opacity:1" />
+         style="stop-color:#d28b14;stop-opacity:1" />
       <stop
          id="stop951"
          stop-color="#ffba00"
-         offset="0.63" />
+         offset="0.63"
+         style="stop-color:#f3b100;stop-opacity:1" />
       <stop
          id="stop953"
          stop-color="#ff9100"
@@ -519,22 +521,23 @@
       <stop
          id="stop1004"
          stop-color="#fff14f"
-         offset="0" />
+         offset="0"
+         style="stop-color:#e8d500;stop-opacity:1" />
       <stop
          id="stop1006"
          stop-color="#ffee4c"
          offset="0.268"
-         style="stop-color:#eada35;stop-opacity:1" />
+         style="stop-color:#fcda0c;stop-opacity:1" />
       <stop
          id="stop1008"
          stop-color="#ffe643"
          offset="0.452"
-         style="stop-color:#dabf16;stop-opacity:1" />
+         style="stop-color:#f0be11;stop-opacity:1" />
       <stop
          id="stop1010"
          stop-color="#ffd834"
          offset="0.612"
-         style="stop-color:#ceaf2f;stop-opacity:1" />
+         style="stop-color:#e2a51b;stop-opacity:1" />
       <stop
          id="stop1012"
          stop-color="#ffc41e"

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="a" cx="39" cy="41.47" r="32" gradientTransform="matrix(1 0 0 .9375 0 2.125)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#344878" offset="0"/>
-			<stop stop-color="#3c5779" offset="1"/>
+		<radialGradient id="a" cx="41" cy="39.33" r="32" gradientTransform="matrix(1 0 0 .9375 0 2.125)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#b10e39" offset="0"/>
+			<stop stop-color="#ca2039" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -17,8 +17,9 @@
 		</rdf:RDF>
 	</metadata>
 	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="url(#a)"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#90b0d9"/>
-	<path d="m0 1v3l2-2z" fill="#b2d0f5"/>
-	<path d="m64 4-2-2 2-1z" fill="#5d80ab" fill-opacity=".9912"/>
-	<path d="m7 9v48h50v-34l-14-14zm40 0 10 10v-10zm-38 2h33.5l12.5 12.5v31.5h-46z" fill="#d7ebfa"/>
+	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#fba6c0"/>
+	<path d="m0 1v3l2-2z" fill="#ffccdb"/>
+	<path d="m64 4-2-2 2-1z" fill="#cf5a72"/>
+	<path d="m22.25 20v4.875h7.312v21.12h4.875v-21.12h7.312v-4.875z" fill="#f1dbe5" style="paint-order:normal"/>
+	<circle cx="32" cy="33" r="25" fill="none" opacity=".985" stroke="#f1dbe5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:normal"/>
 </svg>

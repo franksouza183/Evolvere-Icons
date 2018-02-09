@@ -15,7 +15,7 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="utilities-system-monitor.svg">
+   sodipodi:docname="ksysguard.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="27.711629"
-     inkscape:cy="17.972692"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="25.430181"
+     inkscape:cy="30.027154"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -85,11 +85,11 @@
        inkscape:collect="always"
        id="linearGradient832">
       <stop
-         style="stop-color:#345e92;stop-opacity:1"
+         style="stop-color:#376198;stop-opacity:1"
          offset="0"
          id="stop828" />
       <stop
-         style="stop-color:#40556d;stop-opacity:1"
+         style="stop-color:#2e3d4f;stop-opacity:1"
          offset="1"
          id="stop830" />
     </linearGradient>
@@ -112,7 +112,7 @@
          offset="0"
          id="stop820" />
       <stop
-         style="stop-color:#567b82;stop-opacity:1"
+         style="stop-color:#416b8d;stop-opacity:1"
          offset="1"
          id="stop822" />
     </linearGradient>
