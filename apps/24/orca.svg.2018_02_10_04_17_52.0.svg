@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="orca.svg"
+   inkscape:dataloss="true">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="29.580634"
+     inkscape:cx="7.264159"
+     inkscape:cy="12.154258"
+     inkscape:current-layer="svg22" />
+  <defs
+     id="defs12">
+    <radialGradient
+       id="b"
+       cx="352.6"
+       cy="-95.02"
+       r="7.254"
+       gradientTransform="matrix(1.179,0,0,1.141,-398.55605,129.26827)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#213851"
+         stop-opacity=".9059"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#27303a"
+         stop-opacity="0"
+         offset="1"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       id="d"
+       cx="7.449"
+       cy="6.531"
+       r="9.555"
+       gradientTransform="matrix(1 0 0 .9709 -.0239 .02024)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ffffff"
+         stop-opacity=".7486"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#ffffff"
+         stop-opacity=".6051"
+         offset="1"
+         id="stop9" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m4.1 15c2.427 1.825 6.111-0.3027 7.678-1.136 3.069-1.632 3.532 0.4163 3.952 0.6985 0.6509 0.5567-1.605 2.317-1.478 3.556 0.07 0.6883 0.1665 1.235 0.1665 1.235 0.2864-1e-4 3.55-1.627 3.45-3.243 1.319 0.7431 1.602-0.4404 3.132-0.2046-0.2163-0.3288-0.4954-0.8185-1.096-1.075-0.6396-0.2395-1.721-0.2061-2.002-1.021-0.0513-0.9215-0.0373-5.837-2.266-7.34-0.3255-0.6546 0.0258-1.587 0.6593-2.224 0.5729-0.5762 1.433-1.107 1.728-1.445-1.333-0.014-2.685 0.3619-3.962 1.105-1.013 0.5893-1.275 1.115-1.698 1.312-3.821-0.7563-8.032 2.392-8.458 7.916-0.0343 0.4458-0.0275 1.728 0.1934 1.866z"
+     enable-background="new"
+     fill="#0c1218"
+     fill-opacity=".7203"
+     fill-rule="evenodd"
+     style="paint-order:normal;fill:#090d11;fill-opacity:0.76620537"
+     id="path16" />
+  <path
+     d="m 7.2439489,22.268269 c 2.427,1.825 6.1110001,-0.3027 7.6780001,-1.136 3.069,-1.632 3.532,0.4163 3.952,0.6985 0.6509,0.5567 -1.605,2.317 -1.478,3.556 0.07,0.6883 0.1665,1.235 0.1665,1.235 0.2864,-10e-5 3.55,-1.627 3.45,-3.243 1.319,0.7431 1.602,-0.4404 3.132,-0.2046 -0.2163,-0.3288 -0.4954,-0.8185 -1.096,-1.075 -0.6396,-0.2395 -1.721,-0.2061 -2.002,-1.021 -0.0513,-0.9215 -0.0373,-5.837 -2.266,-7.34 -0.3255,-0.6546 0.0258,-1.587 0.6593,-2.224 0.5729,-0.5762 1.433,-1.107 1.728,-1.445 -1.333,-0.014 -2.685,0.3619 -3.962,1.105 -1.013,0.5893 -1.275,1.115 -1.698,1.312 -3.821,-0.7563 -8.0320001,2.392 -8.4580001,7.916 -0.0343,0.4458 -0.0275,1.728 0.1934,1.866 z"
+     style="fill:url(#b);fill-opacity:0.75330003;fill-rule:evenodd;paint-order:normal;enable-background:new"
+     id="path18"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m18.45 2.199c-1.612-0.1355-3.587 0.1678-5.003 0.991-1.128 0.6563-1.829 1.488-1.82 1.51-4.301-0.4864-8.292 2.614-8.735 8.363-0.0232 0.3011-0.0287 0.7361 0 1.188 0.0144 0.2258 0.03538 0.4471 0.08398 0.6758 0.0243 0.1144 0.0529 0.2308 0.1152 0.375 0.0586 0.1356 0.1579 0.33 0.4336 0.5195 0.91 0.9129 2.673 1.461 4.827 0.6249 1.525-0.5921 3.652-2.402 4.411-2.806 1.429-0.9576 2.636 0.1428 2.814 1.059-0.5054 1.218-2.426 2.372-2.337 3.526 0.074 0.7273 0.1758 1.309 0.1758 1.309 0.08431 0.4777 0.4993 0.826 0.9844 0.8262 0.2545-1e-4 0.3038-0.03945 0.3848-0.06445 0.0809-0.025 0.1516-0.05198 0.2285-0.08398 0.1539-0.063 0.326-0.1424 0.5195-0.2422 0.3871-0.1997 0.8546-0.4758 1.324-0.8164 0.4696-0.3406 0.5026-0.791 0.8865-1.283 0.1372-0.1758 0.1129-1.403 0.2214-1.613 0.1936 0.3321 0.6235 0.8438 0.9549 0.6883 1.557 0.3746 2.013-0.8326 2.52-0.7545 0.8568 0.1313 0.855-0.1054 0.3778-0.8291-0.1829-0.2781-2.286-1.411-3.595-1.331-0.3772-1.638 0.01971-3.7-0.356-5.532-0.2404-1.172-0.8835-2.227-1.433-2.739 0.07-0.2186 0.3449-0.5914 0.5549-0.8026 0.2181-0.2194 0.545-0.4762 0.8652-0.7207s0.6123-0.4337 0.9062-0.7715c0.4742-0.6361 0.3029-1.278-0.3102-1.266zm-0.4401 0.6056c-0.2945 0.3384-1.156 0.8691-1.729 1.445-0.6335 0.6372-0.9857 1.57-0.6602 2.225 2.228 1.503 2.214 6.418 2.266 7.34 0.2808 0.8147 1.362 0.782 2.002 1.021 0.6001 0.2567 0.8794 0.7454 1.096 1.074-1.53-0.2358-1.814 0.9482-3.133 0.2051 0.1 1.616-3.163 3.244-3.449 3.244 0 0-0.09797-0.548-0.168-1.236-0.1263-1.24 2.129-3 1.479-3.557-0.42-0.2822-0.8824-2.329-3.951-0.6973-1.567 0.8333-5.251 2.96-7.678 1.135-0.2209-0.1381-0.2277-1.419-0.1934-1.865 0.4252-5.524 4.636-8.672 8.457-7.916 0.4232-0.197 0.6859-0.7232 1.699-1.312 1.277-0.743 2.629-1.119 3.963-1.105z"
+     color="#000000"
+     color-rendering="auto"
+     dominant-baseline="auto"
+     enable-background="new"
+     fill="url(#d)"
+     fill-opacity=".9986"
+     fill-rule="evenodd"
+     image-rendering="auto"
+     shape-rendering="auto"
+     solid-color="#000000"
+     style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+     id="path20" />
+</svg>
