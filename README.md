@@ -1,11 +1,10 @@
-
-# Evolvere-Icons
+# Evolvere-Icons 2 GNU/Linux
 
 ### Flat with touches of realism.
 
 This is a project started a few years ago to offer a complete and consistent icon pack. I was forced to take a break for a few years, but I'm back. New icons and adjustments are needed, in addition to the fixes for the issues opened in the old repository.
 
-I intend in this current state icons with vibrant but not so vivid colors, surrounded by ambient and directional light. The base shape of the icons keep squared, so if you're already tired of this style, you're in the wrong place. Although the icons tend to be more flat, my main art line is realism, so do not expect a lot of outlines out there, but shadows (albeit subtle)!
+At the time, I intend icons with vibrant, but not so vivid colors, surrounded by ambient and directional lights. The base shape of the icons keep squared, so if you're already tired of this style, you're in the wrong place. Although the icons tend to be more flat, my main art line is realism, so do not expect a lot of outlines out there, but shadows (albeit subtle)!
 
 The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors. You can download the old variants in the old repository.
 
@@ -15,7 +14,9 @@ Compatible with some windows (wine) applications.
 
 Put the content of this repo into **~/.icons/evolvere-icons-2**
 
-For system-wide: **/usr/share/icons/evolvere-icons-2**
+System-wide: **/usr/share/icons/evolvere-icons-2**
+
+And choose it via your theming tool.
 
 ## Notes
 
