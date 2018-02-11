@@ -1,138 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="64"
-   height="64"
-   id="svg13094"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="xml.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     id="namedview68"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="19.906528"
-     inkscape:cy="32.565758"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-global="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3142" />
-  </sodipodi:namedview>
-  <defs
-     id="defs11">
-    <linearGradient
-       x1="31"
-       y1="64"
-       x2="31"
-       y2="2"
-       id="linearGradient3984-4"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop3099-7"
-         style="stop-color:#7996ca;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop3875-2"
-         style="stop-color:#7092bc;stop-opacity:1;"
-         offset="0.5" />
-      <stop
-         id="stop3873-9"
-         style="stop-color:#5c7ea5;stop-opacity:1;"
-         offset="0.51612902" />
-      <stop
-         id="stop3101-3"
-         style="stop-color:#547296;stop-opacity:1;"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3923">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,2 60,2 60,33 34,64 0,64 z"
-         id="path3925"
-         style="fill:url(#linearGradient3927);fill-rule:nonzero" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3984-4"
-       id="linearGradient3927"
-       gradientUnits="userSpaceOnUse"
-       x1="31"
-       y1="64"
-       x2="31"
-       y2="2" />
-  </defs>
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="M 4,0 64,0 64,62 4,62 z"
-     id="path3960"
-     style="fill:#9621be;fill-rule:nonzero;fill-opacity:1" />
-  <path
-     style="fill:#000000;fill-rule:nonzero;fill-opacity:0.2179676"
-     d="M 60 2 L 60 33 L 35.677734 62 L 64 62 L 64 37 L 64 6 L 60 2 z "
-     id="path3900" />
-  <path
-     d="M 0,2 60,2 60,33 34,64 0,64 z"
-     id="path3982"
-     style="fill:#af49d2;fill-rule:nonzero;fill-opacity:1" />
-  <g
-     id="g3920"
-     clip-path="url(#clipPath3923)"
-     style="color:#000000;fill:#e8e1e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
-    <path
-       style="font-size:28.84833145px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e8e1e9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Monospace;-inkscape-font-specification:Monospace;color:#000000;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 37 -2.25 L -1.09375 63.6875 L 2.03125 65.5 L 40.125 -0.4375 L 37 -2.25 z M 21.75 11.90625 L 20.71875 12.4375 L 7.71875 18.78125 L 7.3125 18.96875 L 7.3125 19.4375 L 7.3125 20.875 L 7.3125 21.3125 L 7.71875 21.5 L 18.21875 26.65625 L 19.9375 23.65625 L 12.65625 20.15625 L 21.34375 15.96875 L 21.75 15.78125 L 21.75 15.34375 L 21.75 13.0625 L 21.75 11.90625 z M 31.75 17.65625 L 30.03125 20.65625 L 37.53125 24.25 L 28.84375 28.40625 L 28.4375 28.625 L 28.4375 29.0625 L 28.4375 31.3125 L 29.15625 31.3125 L 29.46875 31.96875 L 42.46875 25.625 L 42.875 25.4375 L 42.875 24.96875 L 42.875 23.53125 L 42.875 23.09375 L 42.46875 22.875 L 31.75 17.65625 z "
-       id="text3968" />
-  </g>
-  <path
-     d="M 34,64 60,33 c -2.328567,2.776369 -4.36141,3 -11,3 H 37 v 15 c 0,6.64407 0.04437,9.37018 -3,13 z"
-     id="path4278"
-     style="fill:#a023cb;fill-rule:nonzero;fill-opacity:1" />
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="20.34" cy="28.54" r="30" gradientTransform="matrix(1.181,0,0,1.22,-5.424,-7.265)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#c909e8" stop-opacity=".18824" offset="0"/>
+			<stop stop-color="#e213e9" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<linearGradient id="c" x1="37" x2="48.96" y1="36" y2="46.16" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#eb57ff" stop-opacity="0" offset="0"/>
+			<stop stop-color="#eb57ff" stop-opacity=".13103" offset=".5903"/>
+			<stop stop-color="#eb57ff" stop-opacity=".22241" offset=".7003"/>
+			<stop stop-color="#eb57ff" stop-opacity=".32069" offset=".8081"/>
+			<stop stop-color="#eb57ff" stop-opacity=".44655" offset=".9019"/>
+			<stop stop-color="#eb57ff" stop-opacity=".64828" offset="1"/>
+		</linearGradient>
+		<linearGradient id="d" x1="82.74" x2="71" y1="79.42" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#833da9" offset="0"/>
+			<stop stop-color="#7b379f" offset=".2523"/>
+			<stop stop-color="#863cae" offset="1"/>
+		</linearGradient>
+		<radialGradient id="b" cx="46.87" cy="36.89" r="14.16" gradientTransform="matrix(1.44,0,0,2.118,-19.19,-35.79)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#550045" stop-opacity=".3137" offset="0"/>
+			<stop stop-color="#480d42" stop-opacity=".14118" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m4 0h60v62h-60z" fill="#863cae"/>
+	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="#bc64d1"/>
+	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#a)"/>
+	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#c)"/>
+	<path d="m34 64 26-31c-2.329 2.776-4.361 3-11 3h-12v15c0 6.644 0.04437 9.37-3 13z" fill="url(#d)"/>
+	<path d="m60 2v31l-24.32 29h28.32v-56z" fill="url(#b)"/>
+	<path d="m20.654 8.0371-6.1621 19 2.8535 0.92578 6.1621-19-2.8535-0.92578zm-8.4551 1.3633-6.4492 8.5996 6.4492 8.5996 1.6016-1.1992-5.5508-7.4004 5.5508-7.4004-1.6016-1.1992zm13.602 0-1.6016 1.1992 5.5508 7.4004-5.5508 7.4004 1.6016 1.1992 6.4492-8.5996-6.4492-8.5996z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#d6e9c9" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>
