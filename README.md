@@ -2,7 +2,7 @@
 
 ### Flat with touches of realism.
 
-This is a project started a few years ago to offer a complete and consistent icon pack. I was forced to take a break for a few years, but I'm back. New icons and adjustments are needed, in addition to the fixes for the issues opened in the old repository.
+This is a project started a few years ago to offer a complete and consistent icon pack. I was forced to take a break for a few years. New icons and adjustments are needed, in addition to the fixes for the issues opened in the old repository.
 
 At the time, I intend icons with vibrant, but not so vivid colors, surrounded by ambient and directional lights. The base shape of the icons keep squared, so if you're already tired of this style, you're in the wrong place. Although the icons tend to be more flat, my main art line is realism, so do not expect a lot of outlines out there, but shadows (albeit subtle)!
 
