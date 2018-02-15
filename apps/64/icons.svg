@@ -6,28 +6,28 @@
 			<stop stop-color="#202a44" offset="0"/>
 			<stop stop-color="#293747" stop-opacity=".0089286" offset="1"/>
 		</linearGradient>
-		<linearGradient id="k" x1="18" x2="27" y1="38" y2="38" gradientUnits="userSpaceOnUse">
+		<linearGradient id="k" x1="18" x2="27" y1="38" y2="38" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#dfe5ec" offset="0"/>
 			<stop stop-color="#9aaec5" offset="1"/>
 		</linearGradient>
-		<linearGradient id="j" x1="37" x2="46" y1="38" y2="38" gradientUnits="userSpaceOnUse">
+		<linearGradient id="j" x1="37" x2="46" y1="38" y2="38" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#c6d0dd" offset="0"/>
 			<stop stop-color="#f4f6f8" offset=".21992"/>
 			<stop stop-color="#d2dbe5" offset="1"/>
 		</linearGradient>
-		<linearGradient id="i" x1="9" x2="27" y1="39" y2="39" gradientUnits="userSpaceOnUse">
+		<linearGradient id="i" x1="9" x2="27" y1="39" y2="39" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#f8c843" offset="0"/>
 			<stop stop-color="#fde458" offset=".12363"/>
 			<stop stop-color="#f8cd58" offset=".43299"/>
 			<stop stop-color="#eab82d" offset="1"/>
 		</linearGradient>
-		<linearGradient id="h" x1="9" x2="27" y1="12" y2="12" gradientUnits="userSpaceOnUse">
+		<linearGradient id="h" x1="9" x2="27" y1="12" y2="12" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#c5e24d" offset="0"/>
 			<stop stop-color="#ebf975" stop-opacity=".96471" offset=".11111"/>
 			<stop stop-color="#c8eb3c" offset=".49191"/>
 			<stop stop-color="#849f19" offset="1"/>
 		</linearGradient>
-		<linearGradient id="g" x1="37" x2="55" y1="21" y2="21" gradientUnits="userSpaceOnUse">
+		<linearGradient id="g" x1="37" x2="55" y1="21" y2="21" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#e86060" offset="0"/>
 			<stop stop-color="#ff6464" offset=".095227"/>
 			<stop stop-color="#e95b5b" offset=".50771"/>
@@ -51,26 +51,26 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33h-32z" color="#000000" fill="url(#e)"/>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33h-32z" color="#000000" fill="url(#d)"/>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33h-32z" color="#000000" fill="url(#c)"/>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33h-32z" color="#000000" fill="url(#b)"/>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33h-32z" color="#000000" fill="url(#f)"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#9cbbe2"/>
+	<path d="m0 1v61l2 2h60l2-2v-61h-32z" color="#000000" fill="url(#e)"/>
+	<path d="m0 1v61l2 2h60l2-2v-61h-32z" color="#000000" fill="url(#d)"/>
+	<path d="m0 1v61l2 2h60l2-2v-61h-32z" color="#000000" fill="url(#c)"/>
+	<path d="m0 1v61l2 2h60l2-2v-61h-32z" color="#000000" fill="url(#b)"/>
+	<path d="m0 1v61l2 2h60l2-2v-61h-32z" color="#000000" fill="url(#f)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#9cbbe2"/>
 	<path d="m0 1v3l2-2z" fill="#cddff5"/>
 	<path d="m64 4-2-2 2-1z" fill="#6886aa"/>
-	<path d="m9 21a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="url(#h)" fill-rule="evenodd"/>
-	<path d="m9 22a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#a1c11f" fill-rule="evenodd"/>
-	<path d="m18 22v9c4.9706 0 9-4.0294 9-9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
-	<path d="m9 47a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="url(#i)" fill-rule="evenodd"/>
-	<path d="m9 48a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#eab82d" fill-rule="evenodd"/>
-	<path d="m37 21a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="url(#g)" fill-rule="evenodd"/>
-	<path d="m37 22a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#d23636" fill-rule="evenodd"/>
-	<path d="m37 22c0 4.9706 4.0294 9 9 9v-9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
+	<path d="m9 20a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="url(#h)" fill-rule="evenodd"/>
+	<path d="m9 21a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#a1c11f" fill-rule="evenodd"/>
+	<path d="m18 21v9c4.9706 0 9-4.0294 9-9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
+	<path d="m9 46a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="url(#i)" fill-rule="evenodd"/>
+	<path d="m9 47a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#eab82d" fill-rule="evenodd"/>
+	<path d="m37 20a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="url(#g)" fill-rule="evenodd"/>
+	<path d="m37 21a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#d23636" fill-rule="evenodd"/>
+	<path d="m37 21c0 4.9706 4.0294 9 9 9v-9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
+	<path d="m37 46a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#2491e0" fill-rule="evenodd"/>
 	<path d="m37 47a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#2491e0" fill-rule="evenodd"/>
-	<path d="m37 48a9 9 0 0 1 9-9 9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9z" color="#000000" fill="#2491e0" fill-rule="evenodd"/>
-	<path d="m46 38c-4.9706 0-9 4.0294-9 9h9z" color="#000000" fill="url(#j)" fill-rule="evenodd"/>
-	<path d="m46 39c-4.9706 0-9 4.0294-9 9h9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
-	<path d="m18 38c4.9706 0 9 4.0294 9 9h-9z" color="#000000" fill="url(#k)" fill-rule="evenodd"/>
-	<path d="m18 39c4.9706 0 9 4.0294 9 9h-9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
+	<path d="m46 37c-4.9706 0-9 4.0294-9 9h9z" color="#000000" fill="url(#j)" fill-rule="evenodd"/>
+	<path d="m46 38c-4.9706 0-9 4.0294-9 9h9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
+	<path d="m18 37c4.9706 0 9 4.0294 9 9h-9z" color="#000000" fill="url(#k)" fill-rule="evenodd"/>
+	<path d="m18 38c4.9706 0 9 4.0294 9 9h-9z" color="#000000" fill="#dfe5ec" fill-rule="evenodd"/>
 </svg>
