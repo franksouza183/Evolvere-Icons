@@ -2,10 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<linearGradient id="e" x1="48.92" x2="32.67" y1="46.21" y2="24" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".5298" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
-		</linearGradient>
 		<linearGradient id="d" x1="82.74" x2="71" y1="79.42" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#50931a" offset="0"/>
 			<stop stop-color="#4e9316" offset=".2523"/>
@@ -39,7 +35,6 @@
 	</metadata>
 	<path d="m4 0h60v62h-60z" fill="#4f941d"/>
 	<path d="m60 2v31l-24.32 29h28.32v-56z" fill="url(#b)"/>
-	<path d="m0 2h60v31l-26 31h-34z" fill="url(#e)"/>
 	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="#70bc2c"/>
 	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#c)"/>
 	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#a)"/>
