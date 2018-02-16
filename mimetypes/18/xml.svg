@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="7.4324" cy="8.0164" r="6.9234" gradientTransform="matrix(1,0,0,1.144,16.188,-1.1542)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="7.4314" cy="8.0171" r="5.9225" gradientTransform="matrix(1,0,0,1.1686,17.349,4.104)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="h" cx="7.9605" cy="7.3357" r="3.8904" gradientTransform="matrix(1.6876,0,0,2.9791,-4.458,-13.963)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="g" cx="9.7517" cy="7.8546" r="2.0125" gradientTransform="matrix(3.6197,-5.0641e-8,5.4006e-8,3.8601,-19.302,-21.237)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="f" cx="4.9338" cy="7.4726" r="2.0125" gradientTransform="matrix(2.1867,3.9691e-8,-7.0067e-8,3.8601,-8.5579,-21.237)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="e" cx="-8.8261" cy="2.8843" r="5.9225" gradientTransform="matrix(1.6463,0,0,1.7876,24.373,3.199)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="d" cx="-6.12" cy="3.2704" r="5.9225" gradientTransform="matrix(1.6463,2.2517e-8,0,1.7876,24.373,3.199)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="c" cx="-12.256" cy="3.0774" r="5.9225" gradientTransform="matrix(1.6463,-6.5209e-8,7.0808e-8,1.7876,24.374,3.199)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m5.6255 5-3 4 3 4" fill="none" stroke="#000000" stroke-opacity=".75294" style="paint-order:normal"/>
+	<path d="m5.6255 5-3 4 3 4" fill="none" stroke="url(#c)" stroke-opacity=".75294" style="paint-order:normal"/>
+	<path d="m4.3745 5-3 4 3 4" fill="none" stroke="url(#f)" style="paint-order:normal"/>
+	<path d="m12.326 5 3 4-3 4" fill="none" stroke="#000000" stroke-opacity=".75294" style="paint-order:normal"/>
+	<path d="m12.326 5 3 4-3 4" fill="none" stroke="url(#d)" stroke-opacity=".75294" style="paint-order:normal"/>
+	<path d="m13.57 5 3 4-3 4" fill="none" stroke="url(#g)" style="paint-order:normal"/>
+	<path d="m10.978 2.8626-4.0033 12.275" fill="none" stroke="#000000" stroke-opacity=".75294" stroke-width="2" style="paint-order:normal"/>
+	<path d="m10.978 2.8626-4.0033 12.275" fill="none" stroke="url(#e)" stroke-opacity=".75294" stroke-width="2" style="paint-order:normal"/>
+	<path d="m12.436 3.1482-6.9201 11.704" fill="#ffffff" fill-opacity=".99599" stroke="url(#h)" style="paint-order:normal"/>
+</svg>
