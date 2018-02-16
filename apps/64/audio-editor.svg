@@ -3,10 +3,10 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<linearGradient id="a">
-			<stop stop-color="#260071" stop-opacity=".75686" offset="0"/>
-			<stop stop-color="#3100af" stop-opacity=".40766" offset=".31429"/>
-			<stop stop-color="#3b00e5" stop-opacity=".18369" offset=".58569"/>
-			<stop stop-color="#3e00d0" stop-opacity=".027451" offset="1"/>
+			<stop stop-color="#260071" stop-opacity=".42835" offset="0"/>
+			<stop stop-color="#3100af" stop-opacity=".20697" offset=".31429"/>
+			<stop stop-color="#3b00e5" stop-opacity=".10917" offset=".58569"/>
+			<stop stop-color="#3e00d0" stop-opacity="0" offset="1"/>
 		</linearGradient>
 		<radialGradient id="e" cx="21.274" cy="32.829" r="32" gradientTransform="matrix(.61616 0 0 .84636 -66.625 3.8891)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
 		<linearGradient id="b">
@@ -38,8 +38,8 @@
 		<path d="m-75.837 0.76256v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#d)"/>
 	</g>
 	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#8efcf1"/>
-	<path d="m1 34h12.596l2.0516-19.045 1.0258 26.045 1.0258-17 2.0516 32 2.0516-45.818 1.1976 39.818 0.85399-26 1.146 7 1.9313-14 1.0258 35 1.0258-26 2.0171 15 1.0602-13 1.0258 6v-18.364l2.0516 27.364 2.0516-15 1.0258 6h24.785" fill="none" stroke="#2f00ac" stroke-linejoin="round" stroke-opacity=".090373" stroke-width="5"/>
-	<path d="m1 34h12.596l2.0516-19.045 1.0258 26.045 1.0258-17 2.0516 32 2.0516-45.818 1.1976 39.818 0.85399-26 1.146 7 1.9313-14 1.0258 35 1.0258-26 2.0171 15 1.0602-13 1.0258 6v-18.364l2.0516 27.364 2.0516-15 1.0258 6h24.785" fill="none" stroke="#050044" stroke-linejoin="round" stroke-width=".9"/>
+	<path d="m1 34h12.596l2.0516-19.045 1.0258 26.045 1.0258-17 2.0516 32 2.0516-45.818 1.1976 39.818 0.85399-26 1.146 7 1.9313-14 1.0258 35 1.0258-26 2.0171 15 1.0602-13 1.0258 6v-18.364l2.0516 27.364 2.0516-15 1.0258 6h24.785" fill="none" stroke="#2f00ac" stroke-linejoin="round" stroke-opacity=".037908" stroke-width="5"/>
+	<path d="m1 34h12.596l2.0516-19.045 1.0258 26.045 1.0258-17 2.0516 32 2.0516-45.818 1.1976 39.818 0.85399-26 1.146 7 1.9313-14 1.0258 35 1.0258-26 2.0171 15 1.0602-13 1.0258 6v-18.364l2.0516 27.364 2.0516-15 1.0258 6h24.785" fill="none" stroke="#050044" stroke-linejoin="round" stroke-opacity=".72024" stroke-width=".9"/>
 	<path d="m0 1v3l2-2z" fill="#c0fdf7"/>
 	<path d="m64 4-2-2 2-1z" fill="#72d4d1"/>
 </svg>

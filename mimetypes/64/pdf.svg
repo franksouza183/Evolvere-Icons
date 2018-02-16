@@ -1,114 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="64"
-   height="64"
-   id="svg13094"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="pdf.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
-     id="namedview84"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="45.294851"
-     inkscape:cy="24.539302"
-     inkscape:window-x="-5"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true" />
-  <defs
-     id="defs11">
-    <linearGradient
-       x1="48.917568"
-       y1="46.213669"
-       x2="32.669781"
-       y2="24"
-       id="linearGradient3942"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop3988"
-         style="stop-color:#e68262;stop-opacity:0.6647473"
-         offset="0" />
-      <stop
-         id="stop3990"
-         style="stop-color:#e1715d;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="48.917568"
-       y1="46.213669"
-       x2="32.669781"
-       y2="24"
-       id="linearGradient3103"
-       xlink:href="#linearGradient3942"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="M 4,0 64,0 64,62 4,62 z"
-     id="path3960"
-     style="fill:#d1280c;fill-rule:nonzero;fill-opacity:1" />
-  <path
-     style="fill:#8a1e00;fill-opacity:0.38245615;fill-rule:nonzero"
-     d="M 60 2 L 60 33 L 35.677734 62 L 64 62 L 64 37 L 64 6 L 60 2 z "
-     id="path3900" />
-  <path
-     d="M 0,2 60,2 60,33 34,64 0,64 z"
-     id="path3101"
-     style="fill:url(#linearGradient3103);fill-rule:nonzero" />
-  <path
-     d="M 0,2 60,2 60,33 34,64 0,64 z"
-     id="path3982"
-     style="color:#000000;fill:#f94219;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="M 29.125,2 C 29.27018,14.51844 19.848923,25.947074 0,31.625 l 0,0.5625 C 19.31671,27.368908 35.681742,17.394779 38.3125,2 L 29.125,2 z M 48.09375,16.90625 C 28.329433,16.93045 9.4501522,28.907462 0,59.8125 L 0,64 10.0625,64 C 16.842713,34.596891 34.655936,14.948758 60,19.375 l 0,-1.09375 c -0.481415,-0.109112 -0.955273,-0.216006 -1.4375,-0.3125 -3.488147,-0.697982 -6.988821,-1.066761 -10.46875,-1.0625 z"
-     id="path3938"
-     style="color:#000000;fill:#fbecec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <path
-     d="M 34,64 60,33 c -2.328567,2.776369 -4.36141,3 -11,3 H 37 v 15 c 0,6.64407 0.04437,9.37018 -3,13 z"
-     id="path4278"
-     style="fill:#d92907;fill-rule:nonzero;fill-opacity:1" />
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="20.34" cy="28.54" r="30" gradientTransform="matrix(1.181,0,0,1.22,-5.424,-7.265)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#c909e8" stop-opacity=".18824" offset="0"/>
+			<stop stop-color="#e213e9" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<linearGradient id="c" x1="37" x2="48.96" y1="36" y2="46.16" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#d92907" stop-opacity=".04928" offset="0"/>
+			<stop stop-color="#ff5773" stop-opacity=".056861" offset=".5903"/>
+			<stop stop-color="#ff5773" stop-opacity=".19712" offset=".7003"/>
+			<stop stop-color="#ff5773" stop-opacity=".3207" offset=".8081"/>
+			<stop stop-color="#ff5773" stop-opacity=".45337" offset=".9019"/>
+			<stop stop-color="#ff5773" stop-opacity=".61486" offset="1"/>
+		</linearGradient>
+		<linearGradient id="d" x1="82.74" x2="71" y1="79.42" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#bd2413" offset="0"/>
+			<stop stop-color="#d1280c" offset=".2523"/>
+			<stop stop-color="#d92907" offset="1"/>
+		</linearGradient>
+		<radialGradient id="b" cx="46.87" cy="36.89" r="14.16" gradientTransform="matrix(1.44,0,0,2.118,-19.19,-35.79)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#550045" stop-opacity=".3137" offset="0"/>
+			<stop stop-color="#480d42" stop-opacity=".14118" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m4 0h60v62h-60z" fill="#d1280c"/>
+	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="#f94219"/>
+	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#a)"/>
+	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#c)"/>
+	<path d="m34 64 26-31c-2.329 2.776-4.361 3-11 3h-12v15c0 6.644 0.04437 9.37-3 13z" fill="url(#d)"/>
+	<path d="m60 2v31l-24.32 29h28.32v-56z" fill="url(#b)"/>
+	<path d="m29.125 2c0.14518 12.518-9.2761 23.947-29.125 29.625v0.5625c19.317-4.8186 35.682-14.793 38.312-30.188h-9.1875zm18.969 14.906c-19.764 0.0242-38.644 12.001-48.094 42.906v4.1875h10.062c6.7802-29.403 24.593-49.051 49.938-44.625v-1.0938c-0.48142-0.10911-0.95527-0.21601-1.4375-0.3125-3.4881-0.69798-6.9888-1.0668-10.469-1.0625z" color="#000000" fill="#fbecec"/>
 </svg>
