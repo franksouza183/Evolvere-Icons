@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="-47.233" cy="6.4419" r="10" gradientTransform="matrix(.6 0 0 1.1 36.34 -.0861)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="337.62" cy="-97.351" r="7.254" gradientTransform="matrix(1.4245,0,0,1.3785,-470.45,147.7)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m5 7c-0.554 0-1 0.446-1 1v11c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-2h-2v1h-9v-9h9v6h2v-7c0-0.554-0.446-1-1-1z" fill="#8a929e" fill-opacity=".60932" style="paint-order:normal"/>
+	<path d="m8 3c-1.0907 0-2 0.9093-2 2v1h-1c-1.0907 0-2 0.9093-2 2v11c0 1.0907 0.9093 2 2 2h11c1.0907 0 2-0.9093 2-2v-1h1c1.0907 0 2-0.9093 2-2v-11c0-1.0907-0.9093-2-2-2zm0 1h11c0.554 0 1 0.446 1 1v11c0 0.554-0.46254 1.1344-1 1h-2v2c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-11c0-0.554 0.446-1 1-1h2v-2c0-0.554 0.446-1 1-1zm1 2v1h7c0.554 0 1 0.446 1 1v7h1v-9zm-3 3v9h9v-1h-7c-0.554 0-1-0.446-1-1v-7zm3 0v6h6v-6zm1 1h4v4h-4z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m8 4c-0.554 0-1.0911 0.45354-1 1v2h2v-1h9v9h-9v-6h-2v7c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m8 4c-0.554 0-1 0.446-1 1v2h2v-1h9v9h-9v-6h-2v7c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1z" fill="url(#b)" fill-opacity=".7533" style="paint-order:normal"/>
+</svg>
