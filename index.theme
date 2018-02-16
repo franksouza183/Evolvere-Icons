@@ -434,47 +434,65 @@ Type=Threshold
 [64x64/actions]
 Size=64
 Context=Actions
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/animations]
 Size=64
 Context=Animations
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/apps]
 Size=64
 Context=Applications
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/categories]
 Size=64
 Context=Categories
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/devices]
 Size=64
 Context=Devices
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/emblems]
 Size=64
 Context=Emblems
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/mimetypes]
 Size=64
 Context=MimeTypes
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/places]
 Size=64
 Context=Places
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 [64x64/status]
 Size=64
 Context=Status
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=512
 
 
 
