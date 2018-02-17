@@ -2,12 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="b" cx="32" cy="14" r="26" gradientTransform="matrix(-1.1706e-8 1.3462 -1.7692 -1.5385e-8 56.769 -19.077)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#8abdc1" offset="0"/>
-			<stop stop-color="#bca3c0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="-373.55" cy="-20.61" r="29" gradientTransform="matrix(-2.2755e-6 1.3977 -1.6552 0 2.8853 556.11)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#000000" stop-opacity=".72085" offset="0"/>
+		<radialGradient id="a" cx="-365.94" cy="-23.993" r="29" gradientTransform="matrix(-1.7455e-6 1.0721 -1.2697 0 12.481 437.34)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#000000" stop-opacity=".42101" offset="0"/>
 			<stop stop-color="#000000" stop-opacity="0" offset="1"/>
 		</radialGradient>
 		<linearGradient id="f" x1="8" x2="8" y1="25" y2="19" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse">
@@ -15,16 +11,26 @@
 			<stop stop-color="#8b979e" offset="1"/>
 		</linearGradient>
 		<radialGradient id="c" cx="10.667" cy="34" r="32" gradientTransform="matrix(0 1.75 -1.75 0 91.5 -8.6667)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#488ade" offset="0"/>
-			<stop stop-color="#3776c1" offset="1"/>
+			<stop stop-color="#3688f0" offset="0"/>
+			<stop stop-color="#1873e0" offset="1"/>
 		</radialGradient>
 		<radialGradient id="e" cx="43.615" cy="20.109" r="9" gradientTransform="matrix(0 -.625 3.4444 -2.9299e-6 -36.639 61.01)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#d5d7d7" stop-opacity=".99902" offset="0"/>
-			<stop stop-color="#6d7b87" stop-opacity=".69804" offset="1"/>
+			<stop stop-color="#1e66bf" offset="0"/>
+			<stop stop-color="#3486ef" offset="1"/>
 		</radialGradient>
-		<radialGradient id="d" cx="31.823" cy="35.056" r="32" gradientTransform="matrix(1 0 0 .17661 0 -.18609)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#9ae7ff" offset="0"/>
-			<stop stop-color="#85cbfd" offset="1"/>
+		<radialGradient id="g" cx="32" cy="14" r="26" gradientTransform="matrix(-1.1706e-8,1.3462,-1.7692,-1.5385e-8,56.769,-19.077)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8abdc1" offset="0"/>
+			<stop stop-color="#bca3c0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="d" cx="32.471" cy="29.468" r="24" gradientTransform="matrix(.78556 0 0 .47194 9.0652 18.873)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#000000" stop-opacity=".22534" offset="0"/>
+			<stop stop-color="#000000" stop-opacity=".078589" offset=".30917"/>
+			<stop stop-color="#000000" stop-opacity=".031373" offset=".63512"/>
+			<stop stop-color="#000000" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="32" cy="37" r="32" gradientTransform="matrix(1 0 0 .3125 0 -1.5625)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#85eef5" offset="0"/>
+			<stop stop-color="#4fd8f9" stop-opacity=".87971" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -36,17 +42,21 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 6v28 28l2 2h30 30l2-2v-28-28h-32z" color="#000000" fill="url(#c)"/>
-	<path d="m2 0-2 1v5h32 32v-5l-2-1h-30z" color="#000000" fill="url(#d)"/>
-	<path d="m0 5v3l2-2z" fill="#9fe0f4"/>
-	<path d="m64 8-2-2 2-1z" fill="#4795dd" fill-opacity=".99836"/>
-	<path d="m8 54 4.2864 1.8378 5.7136 8.1622h44l2-2v-36l-8-8z" color="#000000" fill="url(#a)" fill-rule="evenodd"/>
-	<path d="m8 18h48v32h-48z" color="#000000" fill="#5e6972" fill-rule="evenodd"/>
-	<path d="m12 14v24h40v-26h-15l-3 2z" fill="#546c8e"/>
-	<path d="m17.609 15v0.83984 19.23h25.555l3.8359-6.0703v-13.16-0.83984z" color="#000000" fill="#e7e6e4"/>
-	<path d="m12 16v20h40v-18h-15l-3-2z" fill="#f3a243"/>
-	<path d="m8 24h48v32l-1 1h-46l-1-1z" color="#000000" fill="url(#b)" fill-rule="evenodd"/>
-	<path d="m8 18v4 2h3 45v-2-4h-3v4h-42v-4z" color="#000000" fill="url(#f)" fill-rule="evenodd"/>
-	<path d="m27 28h12c1.662 0 3 1.338 3 3s-1.338 3-3 3h-12c-1.662 0-3-1.338-3-3s1.338-3 3-3z" color="#000000" fill="url(#e)" fill-rule="evenodd"/>
-	<path d="m14 24h42v-2-4h-3v4h-41z" color="#000000" fill="#000000" fill-opacity=".11131"/>
+	<path d="m0 1v61l2 2h60l2-2v-61h-32z" color="#000000" fill="url(#c)"/>
+	<path d="m2 0-2 1v9h64v-9l-2-1h-30z" color="#000000" fill="#267de8"/>
+	<path d="m2 0-2 1v9h64v-9l-2-1h-30z" color="#000000" fill="url(#b)"/>
+	<path d="m0 9v3l2-2z" fill="#7febf5"/>
+	<path d="m64 12-2-2 2-1z" fill="#57a6d8"/>
+	<g transform="translate(0,1)">
+		<path d="m5 55 3.2864 1.8378 7.7136 6.1622h45l3-2v-36l-5-7z" color="#000000" fill="url(#a)" fill-rule="evenodd"/>
+		<path d="m5 18h54v33h-54z" color="#000000" fill="#5e6972" fill-rule="evenodd"/>
+		<path d="m9 11v24h46v-26h-15l-3 2z" fill="#546c8e"/>
+		<path d="m14.609 12v20.07h28.555l6.8359-6.0703v-14z" color="#000000" fill="#e7e6e4"/>
+		<path d="m9 13v20h46v-18h-15l-3-2z" fill="#f3a243"/>
+		<path d="m5 24h54v33l-1 1h-52l-1-1z" color="#000000" fill="url(#g)" fill-rule="evenodd"/>
+		<path d="m5 24h54v33l-1 1h-52l-1-1z" color="#000000" fill="url(#d)" fill-rule="evenodd"/>
+		<path d="m5 18v6h54v-6h-3v4h-48v-4z" color="#000000" fill="url(#f)" fill-rule="evenodd"/>
+		<path d="m27 28h12c1.662 0 3 1.338 3 3s-1.338 3-3 3h-12c-1.662 0-3-1.338-3-3s1.338-3 3-3z" color="#000000" fill="url(#e)" fill-rule="evenodd"/>
+		<path d="m11 24h48v-6h-3v4h-47z" color="#000000" fill="#000000" fill-opacity=".16279"/>
+	</g>
 </svg>
