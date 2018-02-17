@@ -1,138 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg13094"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="audio-card.svg">
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="10.824398"
-     inkscape:cy="10.224527"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-10"
-     inkscape:window-y="31"
-     inkscape:window-maximized="1"
-     inkscape:snap-global="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showborder="true"
-     inkscape:showpageshadow="false">
-    <sodipodi:guide
-       orientation="0,1"
-       position="-25.000005,930.61286"
-       id="guide4700" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="576.71887,328.89388"
-       id="guide4702" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="576.71899,489.70395"
-       id="guide4706" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="54.999996,930.61286"
-       id="guide4708" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-25.000005,850.61296"
-       id="guide4710" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="536.71887,408.8938"
-       id="guide4712" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="496.71887,408.8938"
-       id="guide4714" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid3216"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-24.999951px"
-       originy="-219.00005px" />
-    <sodipodi:guide
-       orientation="-0.70710664,0.70710692"
-       position="4.0000502,-246.00005"
-       id="guide3847" />
-    <sodipodi:guide
-       orientation="0.70710594,0.70710762"
-       position="5.0000502,-245.00005"
-       id="guide3849" />
-    <sodipodi:guide
-       orientation="-0.70710681,0.70710676"
-       position="7.0000502,-212.00005"
-       id="guide3851" />
-  </sodipodi:namedview>
-  <defs
-     id="defs13096" />
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(9379.308,-4837.1988)"
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Camada 1">
-    <path
-       style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 2 2 L 2 21 L 20 21 L 20 2 L 2 2 z M 3 3 L 19 3 L 19 20 L 18 20 L 18 18 L 17 18 L 17 20 L 16 20 L 16 18 L 15 18 L 15 20 L 14 20 L 14 18 L 13 18 L 13 20 L 12 20 L 12 18 L 11 18 L 11 20 L 10 20 L 10 18 L 9 18 L 9 20 L 8 20 L 8 18 L 7 18 L 7 20 L 6 20 L 6 18 L 5 18 L 5 20 L 4 20 L 4 18 L 3 18 L 3 3 z M 13 5 L 11.5625 5.0625 L 9.53125 12.84375 C 6.17415 10.65515 4.3239 15.3371 8 16 C 9.3887 16.111 10.3755 15.8102 11 13 L 12 8.5 L 13.75 10.5 L 12.5 12.90625 L 13 13.5 L 15 10.5 C 14.0325 8.5241 13 6 13 6 L 13 5 z "
-       transform="translate(-9379.308,4837.1988)"
-       id="rect2998" />
-    <path
-       style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none"
-       d="m -9376.308,4840.1988 0,15 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,-17 z m 8.5625,2.0625 1.4375,-0.062 0,1 c 0,0 1.0325,2.5241 2,4.5 l -2,3 -0.5,-0.5938 1.25,-2.4062 -1.75,-2 -1,4.5 c -0.6245,2.8102 -1.6113,3.111 -3,3 -3.6761,-0.6629 -1.8259,-5.3449 1.5312,-3.1563 z"
-       id="path3006"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
-  </g>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="3.8718" cy="3.2565" r="8" gradientTransform="matrix(1.625,0,0,1.625,-3.2917,-2.2917)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="5.6001" cy="5.6001" r="8" fx="8.5225" fy="8.8" gradientTransform="matrix(1.25,2.1322e-8,-2.1322e-8,1.25,2,2)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="e" cx="3.9147" cy="2.9199" r="8" gradientTransform="matrix(1.625 0 0 1.625 -.2917 .7083)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="c" cx="-9372.2" cy="4850.9" r="1.1387" gradientTransform="matrix(9.6556 .046746 -.043232 8.9298 90710 -42874)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m8 1v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm-6 4c-0.5538 0-1 0.4462-1 1v10c0 0.5538 0.4462 1 1 1h10c0.5538 0 1-0.4462 1-1v-10c0-0.5538-0.4462-1-1-1zm5 1.293 3.3535 3.3535-0.70703 0.70703-1.6465-1.6465v4.293c0 1.0987-0.90128 2-2 2-1.0987 0-2-0.90128-2-2 0-1.0987 0.90129-2 2-2 0.38898 0 0.69172 0.08457 1 0.2793v-4.9863zm7 1.707v1h3v-1zm-17 1v1h3v-1zm17 1v1h3v-1zm-17 1v1h3v-1zm9 1c-0.55829 0-1 0.44171-1 1 0 0.55828 0.44176 1 1 1 0.55828 0 1-0.44176 1-1 0-0.55828-0.44176-1-1-1zm8 0v1h3v-1zm-17 1v1h3v-1zm8 5v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m8 1v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm-6 4c-0.55379 0-1 0.44621-1 1v10c0 0.5538 0.44621 1 1 1h10c0.5538 0 1-0.4462 1-1v-10c0-0.55379-0.4462-1-1-1zm5 1.293 3.3535 3.3535-0.70703 0.70703-1.6465-1.6465v4.293c0 1.0987-0.90128 2-2 2-1.0987 0-2-0.90128-2-2 0-1.0987 0.90129-2 2-2 0.38898 0 0.69172 0.08457 1 0.2793v-4.9863zm7 1.707v1h3v-1zm-17 1v1h3v-1zm17 1v1h3v-1zm-17 1v1h3v-1zm9 1c-0.55829 0-1 0.44171-1 1 0 0.55828 0.44176 1 1 1 0.55828 0 1-0.44176 1-1 0-0.55828-0.44176-1-1-1zm8 0v1h3v-1zm-17 1v1h3v-1zm8 5v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3z" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
+	<path d="m9 1v3h-3c-1.1081 0-2 0.89193-2 2v2h-3v1h3v1h-3v1h3v1h-3v1h3v3c0 1.1081 0.89193 2 2 2h2v3h1v-3h1v3h1v-3h1v3h1v-3h3c1.1081 0 2-0.89194 2-2v-2h3v-1h-3v-1h3v-1h-3v-1h3v-1h-3v-3c0-1.1081-0.89194-2-2-2h-2v-3h-1v3h-1v-3h-1v3h-1v-3zm-3 4h10c0.5538 0 1 0.4462 1 1v10c0 0.5538-0.4462 1-1 1h-10c-0.5538 0-1-0.4462-1-1v-10c0-0.5538 0.4462-1 1-1z" fill="url(#e)" style="paint-order:normal"/>
+	<path d="m11.5 13v-5.5l2.5 2.5m-2.4999 3.0002c0 0.82846-0.6716 1.5001-1.5001 1.5001-0.82846 0-1.5001-0.6716-1.5001-1.5001s0.6716-1.5001 1.5001-1.5001c0.82846 0 1.5001 0.6716 1.5001 1.5001z" fill="none" stroke="url(#c)" style="paint-order:normal"/>
 </svg>
