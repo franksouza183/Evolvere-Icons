@@ -1,129 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg13094"
-   height="64"
-   width="64"
-   version="1.1"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="bball.svg"
-   inkscape:export-filename="folder.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     id="namedview46"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="10.429825"
-     inkscape:cx="34.985258"
-     inkscape:cy="28.552758"
-     inkscape:window-x="-10"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-page="true"
-     inkscape:snap-global="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3023"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-80px"
-       originy="-75px" />
-  </sodipodi:namedview>
-  <defs
-     id="defs11" />
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     sodipodi:nodetypes="ccccccccc"
-     inkscape:connector-curvature="0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3b577a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     id="path3812"
-     d="M 0,1 2,0 62,0 64,1 64,62 62,64 2,64 0,62 Z" />
-  <path
-     d="M 0,1 2,0 62,0 64,1 64,4 0,4 Z"
-     id="path3029"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#668cbb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     d="M 64,6 62,4 64,3 Z"
-     id="path3028"
-     style="opacity:1;fill:#162f4d;fill-opacity:0.35241502;stroke:none;stroke-width:0.62299293;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 0,6 2,4 0,3 Z"
-     id="path3028-6"
-     style="opacity:1;fill:#87bde7;fill-opacity:0.54740607;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     inkscape:connector-curvature="0" />
-  <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2c8fe4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-     d="m 6,10 52,0 0,47 -52,0 z"
-     id="rect3776"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     id="rect3776-4"
-     d="m 6,10 0,47 18.6875,0 18,-47 L 6,10 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6ce3ff;fill-opacity:0.177102;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-  <circle
-     r="8"
-     cy="27"
-     cx="48"
-     id="circle4207"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f46659;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.13318586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-  <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e3ecf0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07376679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     d="M 11.248047 29.173828 C 18.965727 33.23676 22.593558 41.810232 24.779297 48.136719 C 25.269118 45.855826 25.483798 45.222621 25.925781 43.945312 C 23.853188 39.520365 19.685048 32.913004 11.248047 29.173828 z M 37.898438 29.763672 C 31.232049 34.355198 27.882328 42.829195 25.966797 51.728516 C 29.250947 41.425403 34.792499 35.383307 39.185547 32.339844 C 38.373946 31.481087 38.194213 30.622429 37.898438 29.763672 z M 40.880859 34.101562 C 38.308939 35.558822 34.464449 38.364376 30.449219 44.095703 C 35.804987 38.658321 40.130868 37.128124 43.457031 36 C 42.374244 35.548023 41.312228 35.095913 40.880859 34.101562 z "
-     id="path4219" />
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient id="c">
+			<stop stop-color="#ff52c2" offset="0"/>
+			<stop stop-color="#e6325a" offset="1"/>
+		</linearGradient>
+		<radialGradient id="b" cx="18.161" cy="21.075" r="32" gradientTransform="matrix(1.8449,0,0,1.8449,-10.998,-11.484)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#294c79" offset="0"/>
+			<stop stop-color="#27456a" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="29.445" cy="61.742" r="26" gradientTransform="matrix(1.963,0,0,1.9945,-26.567,-68.247)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#7ae944" stop-opacity=".7451" offset="0"/>
+			<stop stop-color="#27b39b" offset="1"/>
+		</radialGradient>
+		<radialGradient id="l" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -3.423 -1.6937)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="k" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -11.093 2.8126)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="j" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -16.75 8.0859)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="i" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -20.394 12.976)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="h" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -22.982 17.194)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="g" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -37.556 3.0044)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="f" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -33.817 5.3054)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="e" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -29.886 8.5653)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="d" cx="45.827" cy="24.89" r="8" gradientTransform="matrix(1.0719 0 0 1.0719 -25.763 13.455)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 1 2-1h60l2 1v59s-16 4-32 4-32-4-32-4z" color="#000000" fill="url(#b)"/>
+	<path d="m0 1 2-1h60l2 1v1h-64z" color="#000000" fill="#9bb4d3"/>
+	<path d="m64 4-2-2 2-1z" fill="#607794"/>
+	<path d="m0 4 2-2-2-1z" fill="#c8d9ee"/>
+	<path d="m5 7h54v49h-54z" color="#000000" fill="#1d8ee8"/>
+	<path d="m5 7h54v49h-54z" color="#000000" fill="url(#a)"/>
+	<path d="m29.508 57.008v1.0678h1.0678v-1.0678zm3.5593 0v1.4237h1.4237v-1.4237zm-1.7797 0.35593v1.0678h1.4237v-1.0678zm-1.4237 1.4237v1.4237h1.0678v-1.4237zm1.4237 0v1.4237h1.4237v-1.4237zm1.7797 0v1.4237h1.0678v-1.4237zm-3.5593 1.7797v1.4237h1.4237v-1.4237zm1.7797 0v1.0678h1.4237v-1.0678zm2.1356 0.35593v1.0678h1.0678v-1.0678z" color="#000000" fill="#edeff3" fill-opacity=".23183"/>
+	<g opacity=".446">
+		<circle cx="13.867" cy="31.698" r="8" color="#000000" fill="url(#g)" opacity=".095"/>
+		<circle cx="17.606" cy="33.999" r="8" color="#000000" fill="url(#f)" opacity=".144"/>
+		<circle cx="21.537" cy="37.259" r="8" color="#000000" fill="url(#e)" opacity=".183"/>
+		<circle cx="25.66" cy="42.149" r="8" color="#000000" fill="url(#d)" opacity=".245"/>
+		<circle cx="28.441" cy="45.888" r="8" color="#000000" fill="url(#h)" opacity=".344"/>
+		<circle cx="31.029" cy="41.669" r="8" color="#000000" fill="url(#i)" opacity=".419"/>
+		<circle cx="34.673" cy="36.78" r="8" color="#000000" fill="url(#j)" opacity=".773"/>
+		<circle cx="40.33" cy="31.506" r="8" color="#000000" fill="url(#k)" opacity="1"/>
+	</g>
+	<circle cx="48" cy="27" r="8" color="#000000" fill="url(#l)"/>
 </svg>

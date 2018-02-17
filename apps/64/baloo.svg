@@ -24,8 +24,8 @@
 	<path d="m0 1 2-1h60l2 1v1h-64z" color="#000000" fill="#9bb4d3"/>
 	<path d="m64 4-2-2 2-1z" fill="#607794"/>
 	<path d="m0 4 2-2-2-1z" fill="#c8d9ee"/>
-	<path d="m6 8h52v47h-52z" color="#000000" fill="#1d8ee8" style="font-variant-east_asian:normal"/>
-	<path d="m6 8h52v47h-52z" color="#000000" fill="url(#a)" style="font-variant-east_asian:normal"/>
+	<path d="m5 7h54v49h-54z" color="#000000" fill="#1d8ee8"/>
+	<path d="m5 7h54v49h-54z" color="#000000" fill="url(#a)"/>
 	<g transform="matrix(1.9085 0 0 1.9085 17890 -3939.7)" color="#000000" style="font-variant-east_asian:normal">
 		<path d="m-9355.7 2073.5c-3.3137 0-6 2.6863-6 6 0 1.2983 0.4241 2.4869 1.125 3.4687l-4.8437 4.8438 1.4375 1.4062 4.8437-4.8437c0.9781 0.6921 2.1482 1.125 3.4375 1.125 3.3137 0 6-2.6863 6-6s-2.6863-6-6-6zm0 2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4-4-1.7909-4-4 1.7909-4 4-4z" color="#000000" fill="#d4fbc1"/>
 	</g>
