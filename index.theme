@@ -7,6 +7,8 @@ DisplayDepth=32
 
 Inherits=gnome,hicolor
 
+FollowsColorScheme=true
+
 Example=folder
 
 LinkOverlay=link-overlay
