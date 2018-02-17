@@ -3,9 +3,9 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<linearGradient id="c">
-			<stop stop-color="#e6f3ab" offset="0"/>
-			<stop stop-color="#de798b" offset=".59888"/>
-			<stop stop-color="#cd5877" offset="1"/>
+			<stop stop-color="#c6da6c" offset="0"/>
+			<stop stop-color="#da5c72" offset=".59888"/>
+			<stop stop-color="#d7315d" offset="1"/>
 		</linearGradient>
 		<radialGradient id="b" cx="18.161" cy="21.075" r="32" gradientTransform="matrix(1.8449,0,0,1.8449,-10.998,-11.484)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#294c79" offset="0"/>
