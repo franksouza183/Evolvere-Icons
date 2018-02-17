@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
 		<radialGradient id="b" cx="39.376" cy="40.075" r="32" gradientTransform="matrix(1.0269 0 0 1.0109 -.43613 .48883)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#0605dc" stop-opacity=".18103" offset="0"/>
+			<stop stop-color="#0605dc" stop-opacity=".074579" offset="0"/>
 			<stop stop-color="#2d09ec" stop-opacity="0" offset="1"/>
 		</radialGradient>
 		<radialGradient id="a" cx="32" cy="33" r="16" gradientTransform="matrix(.875 0 0 .875 4 4.125)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#b1dae9" offset="0"/>
-			<stop stop-color="#c1e2ee" offset="1"/>
+			<stop stop-color="#dbeef5" offset="0"/>
+			<stop stop-color="#eaf5f9" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -20,11 +20,11 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33z" color="#000000" fill="#0caee1"/>
-	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33z" color="#000000" fill="url(#b)"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#7ff9fb"/>
+	<path d="m0 1v61l2 2h60l2-2v-61z" color="#000000" fill="#08b1ea"/>
+	<path d="m0 1v61l2 2h60l2-2v-61z" color="#000000" fill="url(#b)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#75fdff"/>
 	<path d="m0 1v3l2-2z" fill="#abf6f7"/>
-	<path d="m64 4-2-2 2-1z" fill="#5fbbcc"/>
+	<path d="m64 4-2-2 2-1z" fill="#55cde3"/>
 	<path d="m38 17v10h10v-10zm-20 2v6h6v-6zm10 0v8h8v-8zm-10 10v8h8v-8zm10 0v8h8v-8zm10 0v8h8v-8zm-22 10v10h10v-10zm12 0v8h8v-8zm12 2v6h6v-6z" color="#000000" fill="url(#a)"/>
 	<path d="m38 17v1h10v-1zm-20 2v1h6v-1zm10 0v1h8v-1zm-10 10v1h8v-1zm10 0v1h8v-1zm10 0v1h8v-1zm-22 10v1h10v-1zm12 0v1h8v-1zm12 2v1h6v-1z" color="#000000" fill="#ffffff" fill-opacity=".61034"/>
 	<path d="m38 16v1h10v-1zm-20 2v1h6v-1zm10 0v1h8v-1zm-10 10v1h8v-1zm10 0v1h8v-1zm10 0v1h8v-1zm-22 10v1h10v-1zm12 0v1h8v-1zm12 2v1h6v-1z" color="#000000" fill="#ffffff" fill-opacity=".19052"/>

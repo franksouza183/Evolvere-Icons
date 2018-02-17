@@ -2,14 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="b" cx="45.562" cy="46.432" r="32" gradientTransform="matrix(1.3094 0 0 1.2684 -13.427 -12.55)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#961220" offset="0"/>
-			<stop stop-color="#e0273d" offset="1"/>
-		</radialGradient>
 		<radialGradient id="a" cx="27.574" cy="35.147" r="5" gradientTransform="matrix(1.4596 0 0 .66364 -11.95 11.736)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#97111e" offset="0"/>
-			<stop stop-color="#ff1c4e" offset="1"/>
+			<stop stop-color="#c51653" offset="0"/>
+			<stop stop-color="#ff1c6d" offset="1"/>
 		</radialGradient>
+		<linearGradient id="c" x1="14.954" x2="14.819" y1="33.608" y2="33.055" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#daadb2" offset="0"/>
+			<stop stop-color="#f9f1f1" offset="1"/>
+		</linearGradient>
+		<radialGradient id="b" cx="43.656" cy="44.585" r="32" gradientTransform="matrix(1.4049 0 0 1.361 -16.907 -15.432)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#931551" stop-opacity=".31917" offset="0"/>
+			<stop stop-color="#931551" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<linearGradient id="d" x1="18.569" x2="18.569" y1="29.953" y2="37.953" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#f1e1e2" offset="0"/>
+			<stop stop-color="#e9cbcb" offset="1"/>
+		</linearGradient>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -20,12 +28,13 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="url(#b)"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#ff89aa"/>
-	<path d="m0 1v3l2-2z" fill="#ffbed0"/>
-	<path d="m64 4-2-2 2-1z" fill="#e8627b" fill-opacity=".99314"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#e80749"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#b)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#ff7ed8"/>
+	<path d="m0 1v3l2-2z" fill="#ffa6e4"/>
+	<path d="m64 4-2-2 2-1z" fill="#eb4b92" fill-opacity=".93235"/>
 	<g transform="translate(0,-1)">
-		<path d="m33 16-2 5-3.5 1.4375-4.9375-2.125-4.25 4.25 2.125 4.9375-1.4375 3.5-2.5 1h-1.375c-1.1818 0-1.035 1.6684-2.125 2.125l-4.625 1.9688 5.1245 5.1566c0.38845 0.45972 0.97029 0.7496 1.6255 0.7496h4.2812l1.0312 2.5-2.125 4.9375 4.25 4.25 4.9375-2.125 3.5 1.4375 2 5h6l2-5 3.5-1.4375 4.9375 2.125 4.25-4.25-2.125-4.9375 1.4375-3.5h-7.1875c-1.8199 3.564-5.5361 6-9.8125 6-3.8618 0-7.2561-1.9894-9.2188-5h9.0938c1.1818 0 2.125-0.94318 2.125-2.125v-5.75c0-0.6238-0.26278-1.1811-0.68472-1.5683l-5.0894-5.0701-6.4447 4.5135c1.6017-4.0942 5.5571-7 10.219-7 4.2764 0 7.9926 2.436 9.8125 6h7.1875l-1.4375-3.5 2.125-4.9375-4.25-4.25-4.9375 2.125-3.5-1.4375-2-5z" color="#000000" fill="#5e0e00" fill-opacity=".1053"/>
+		<path d="m33 16-2 5-3.5 1.4375-4.9375-2.125-4.25 4.25 2.125 4.9375-1.4375 3.5-2.5 1h-1.375c-1.1818 0-1.035 1.6684-2.125 2.125l-4.625 1.9688 5.1245 5.1566c0.38845 0.45972 0.97029 0.7496 1.6255 0.7496h4.2812l1.0312 2.5-2.125 4.9375 4.25 4.25 4.9375-2.125 3.5 1.4375 2 5h6l2-5 3.5-1.4375 4.9375 2.125 4.25-4.25-2.125-4.9375 1.4375-3.5h-7.1875c-1.8199 3.564-5.5361 6-9.8125 6-3.8618 0-7.2561-1.9894-9.2188-5h9.0938c1.1818 0 2.125-0.94318 2.125-2.125v-5.75c0-0.6238-0.26278-1.1811-0.68472-1.5683l-5.0894-5.0701-6.4447 4.5135c1.6017-4.0942 5.5571-7 10.219-7 4.2764 0 7.9926 2.436 9.8125 6h7.1875l-1.4375-3.5 2.125-4.9375-4.25-4.25-4.9375 2.125-3.5-1.4375-2-5z" color="#000000" fill="#5e0e00" fill-opacity=".086608"/>
 		<path d="m29 12-2 5-3.5 1.4375-4.9375-2.125-4.25 4.25 2.125 4.9375-1.4375 3.5-5 2v6l5 2 1.4375 3.5-2.125 4.9375 4.25 4.25 4.9375-2.125 3.5 1.4375 2 5h6l2-5 3.5-1.4375 4.9375 2.125 4.25-4.25-2.125-4.9375 1.4375-3.5h-7.1875c-1.8199 3.564-5.5361 6-9.8125 6-6.0751 0-11-4.9249-11-11s4.9249-11 11-11c4.2764 0 7.9926 2.436 9.8125 6h7.1875l-1.4375-3.5 2.125-4.9375-4.25-4.25-4.9375 2.125-3.5-1.4375-2-5z" color="#000000" fill="#b8b8b8" fill-opacity=".50472"/>
 		<g fill="#ffffff" opacity=".26661">
 			<path d="m46 28v1h0.5zm0 11v1l0.5-1z" color="#000000"/>
@@ -92,34 +101,34 @@
 		</g>
 		<path d="m45.438 51.688 4.25-4.25-0.71694-0.70958-4.2426 4.2426z" color="#000000" fill="#ffffff" opacity=".1346"/>
 		<g fill="#ffffff" opacity=".24072">
-			<path d="m28.995 56.009h6.0104l-0.005204-1.0087-6 1e-6z" color="#000000" fill="#ffffff"/>
+			<path d="m28.995 56.009h6.0104l-0.0052-1.0087-6 1e-6z" color="#000000" fill="#ffffff"/>
 		</g>
 		<g fill="#ffffff" fill-opacity=".41682">
 			<path d="m49.688 20.562-4.25-4.25-0.70958 0.71694 4.2426 4.2426z" color="#000000"/>
 			<path d="m14.312 47.438 4.25 4.25 0.70958-0.71694-4.2426-4.2426z" color="#000000"/>
 		</g>
 		<g fill="#ffffff" opacity=".85">
-			<path d="m35.005 11.991h-6.0104l0.005204 1.0087 6-1e-6z" color="#000000"/>
-			<path d="m9.9913 30.995v6.0104l1.0087-0.005203-1e-6 -6z" color="#000000"/>
+			<path d="m35.005 11.991h-6.0104l0.0052 1.0087 6-1e-6z" color="#000000"/>
+			<path d="m9.9913 30.995v6.0104l1.0087-0.0052-1e-6 -6z" color="#000000"/>
 		</g>
 		<path d="m18.562 16.312-4.25 4.25 0.71694 0.70958 4.2426-4.2426z" color="#000000" fill="#ffffff"/>
 		<path d="m12.5 30-2.5 1v6l5 2 0.40625 1h7.375c-1.1248-1.7254-1.7812-3.7867-1.7812-6 0-1.4135 0.2956-2.7586 0.78125-4z" color="#000000" fill="#000000" fill-opacity=".18021"/>
-		<rect x="8" y="29" width="25" height="10" rx="2.1332" ry="2.1332" color="#000000" fill="#d4b9b9"/>
-		<rect x="9" y="30" width="23" height="8" rx="1" ry="1" color="#000000" fill="#e6dddd"/>
-		<rect x="21" y="31" width="10" height="6" rx="1" ry="1" color="#000000" fill="url(#a)"/>
+		<path d="m13 29h17c2.77 0 5 2.23 5 5s-2.23 5-5 5h-17c-2.77 0-5-2.23-5-5s2.23-5 5-5z" color="#000000" fill="url(#c)"/>
+		<path d="m13 30h17c2.216 0 4 1.784 4 4s-1.784 4-4 4h-17c-2.216 0-4-1.784-4-4s1.784-4 4-4z" color="#000000" fill="url(#d)"/>
+		<path d="m24 31h6c1.662 0 3 1.338 3 3s-1.338 3-3 3h-6c-1.662 0-3-1.338-3-3s1.338-3 3-3z" color="#000000" fill="url(#a)"/>
 	</g>
 	<g>
 		<g transform="translate(0,-2)">
-			<circle cx="6" cy="9" r="2" color="#000000" fill="#ececec"/>
+			<circle cx="6" cy="9" r="2" color="#000000" fill="#ebcbd5"/>
 		</g>
 		<g transform="translate(52,-2)">
-			<circle cx="6" cy="9" r="2" color="#000000" fill="#ececec"/>
+			<circle cx="6" cy="9" r="2" color="#000000" fill="#ebcbd5"/>
 		</g>
 		<g transform="translate(52,50)">
-			<circle cx="6" cy="9" r="2" color="#000000" fill="#ececec"/>
+			<circle cx="6" cy="9" r="2" color="#000000" fill="#ebcbd5"/>
 		</g>
 		<g transform="translate(1.6362e-8 50)">
-			<circle cx="6" cy="9" r="2" color="#000000" fill="#ececec"/>
+			<circle cx="6" cy="9" r="2" color="#000000" fill="#ebcbd5"/>
 		</g>
 	</g>
 </svg>
