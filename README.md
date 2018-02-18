@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/present.png" alt="Evolvere icons"/>
+  <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.png" alt="Evolvere icons"/>
 </p>
 
 # Evolvere Icons 2 for GNU/Linux
