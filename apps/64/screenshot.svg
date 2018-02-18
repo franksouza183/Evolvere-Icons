@@ -3,9 +3,11 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<linearGradient id="c">
-			<stop stop-color="#c6da6c" offset="0"/>
-			<stop stop-color="#da5c72" offset=".59888"/>
-			<stop stop-color="#d7315d" offset="1"/>
+			<stop stop-color="#f4fd3f" offset="0"/>
+			<stop stop-color="#e1957e" offset=".1775"/>
+			<stop stop-color="#d03dc6" offset=".35373"/>
+			<stop stop-color="#3d4380" offset=".63167"/>
+			<stop stop-color="#284870" offset="1"/>
 		</linearGradient>
 		<radialGradient id="b" cx="18.161" cy="21.075" r="32" gradientTransform="matrix(1.8449,0,0,1.8449,-10.998,-11.484)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#294c79" offset="0"/>
@@ -15,7 +17,7 @@
 			<stop stop-color="#27538f" offset="0"/>
 			<stop stop-color="#923999" offset="1"/>
 		</radialGradient>
-		<radialGradient id="i" cx="11.39" cy="27.763" r="15.31" fx="23.823" fy="27.995" gradientTransform="matrix(2 9.5928e-8 -1.0155e-6 1.6526 -15.917 -21.881)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+		<radialGradient id="i" cx="10.959" cy="27.763" r="15.31" fx="23.392" fy="27.995" gradientTransform="matrix(2,9.5928e-8,-1.0155e-6,1.6526,-15.917,-21.881)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
 		<radialGradient id="h" cx="-8.1684" cy="21.473" r="13" fx="-12.936" gradientTransform="matrix(0 1.9243 -3.0232 3.3538e-6 92.792 51.367)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
 		<radialGradient id="g" cx="-7.8381" cy="19.982" r="15.021" fx="-7.7844" fy="9.702" gradientTransform="matrix(1.2114 -.69942 .68716 1.1901 28.398 19.575)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
 		<radialGradient id="f" cx="40.561" cy="-15.179" r="26" gradientTransform="matrix(1.1776 3.0379e-6 0 .84976 -4.0513 52.61)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
