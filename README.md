@@ -1,3 +1,7 @@
+<p align="center">
+![alt text](https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/present.png)
+</p>
+
 # Evolvere-Icons 2 GNU/Linux
 
 ### Flat with touches of realism.
