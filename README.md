@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/present.png" alt="Evolvere icons"/>
 </p>
 
-# Evolvere Icons 2 GNU/Linux
+# Evolvere Icons 2 for GNU/Linux
 
 ### Flat with touches of realism.
 
