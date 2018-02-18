@@ -1,81 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg13094"
-   height="24"
-   width="24"
-   version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="gnome-mime-video-x-ms-asf.svg">
-  <defs
-     id="defs3016" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     id="namedview3014"
-     showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="7.3573759"
-     inkscape:cy="10.67182"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2982"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f1f3f5;fill-opacity:0.90288714;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;font-variant-east_asian:normal"
-     d="M 4 4 C 2.9092972 4 2 4.9092972 2 6 L 2 18 C 2 19.090703 2.9092972 20 4 20 L 20 20 C 21.090703 20 22 19.090703 22 18 L 22 6 C 22 4.9092972 21.090703 4 20 4 L 4 4 z M 4 5 L 20 5 C 20.554 5 21 5.446 21 6 L 21 18 C 21 18.554 20.554 19 20 19 L 4 19 C 3.446 19 3 18.554 3 18 L 3 6 C 3 5.446 3.446 5 4 5 z M 5 6 L 5 8 L 7 8 L 7 6 L 5 6 z M 9 6 L 9 8 L 11 8 L 11 6 L 9 6 z M 13 6 L 13 8 L 15 8 L 15 6 L 13 6 z M 17 6 L 17 8 L 19 8 L 19 6 L 17 6 z M 5 16 L 5 18 L 7 18 L 7 16 L 5 16 z M 9 16 L 9 18 L 11 18 L 11 16 L 9 16 z M 13 16 L 13 18 L 15 18 L 15 16 L 13 16 z M 17 16 L 17 18 L 19 18 L 19 16 L 17 16 z "
-     id="rect814" />
-  <path
-     id="path850"
-     d="M 4,5 C 3.446,5 3,5.446 3,6 v 12 c 0,0.554 0.446,1 1,1 h 16 c 0.554,0 1,-0.446 1,-1 V 6 C 21,5.446 20.554,5 20,5 Z M 5,6 H 7 V 8 H 5 Z m 4,0 h 2 V 8 H 9 Z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 V 8 H 17 Z M 5,16 h 2 v 2 H 5 Z m 4,0 h 2 v 2 H 9 Z m 4,0 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z"
-     style="opacity:1;vector-effect:none;fill:#27303a;fill-opacity:0.75328082;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;font-variant-east_asian:normal"
-     inkscape:connector-curvature="0" />
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="b" cx="-9357.7" cy="5055.6" r="9" gradientTransform="matrix(2.1499,0,0,1.8889,20130,-9530.7)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="33.63" cy="11.301" r="9.0713" gradientTransform="matrix(3.7855,0,0,3.2677,-116.3,-29.929)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m4 4c-1.0907 0-2 0.9093-2 2v12c0 1.0907 0.9093 2 2 2h16c1.0907 0 2-0.9093 2-2v-12c0-1.0907-0.9093-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1zm1 2v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1zm-12 9v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m4 5c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1zm1 1h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm-12 10h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m4 5c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1zm1 1h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm-12 10h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2z" fill="url(#b)" style="paint-order:normal"/>
 </svg>
