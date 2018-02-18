@@ -1,5 +1,5 @@
 <p align="center">
-![alt text](https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/present.png)
+![alt text](present.png?raw=true "Title" )
 </p>
 
 # Evolvere-Icons 2 GNU/Linux
