@@ -1,1 +1,26 @@
-audio-editor.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="5.4493" cy="14.935" r="1.0913" gradientTransform="matrix(21.022 -1.9178e-8 8.0742e-8 19.045 -103.6 -266.59)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="337.38" cy="-93.771" r="7.254" gradientTransform="matrix(1.0338e-8 2.1501 -2.0807 2.8827e-8 -184.01 -710.98)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m11 1.1874-8.7321 5.041v11.227l3.866 2.2324 2.433-1.4043-9e-7 -3.3457-3.799-1.9824 5e-7 -5.3809 6.2321-3.6529 6.2321 3.6529-1e-6 5.3809-3.799 1.9824v3.3457l2.433 1.4043 3.866-2.2324v-11.227z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m11 1.1874-8.7321 5.041v11.227l3.866 2.2324 2.433-1.4043-9e-7 -3.3457-3.799-1.9824 5e-7 -5.3809 6.2321-3.6529 6.2321 3.6529-1e-6 5.3809-3.799 1.9824v3.3457l2.433 1.4043 3.866-2.2324v-11.227z" fill="url(#a)" fill-opacity=".99858" style="paint-order:normal"/>
+	<path d="m11 0.03312-0.5 0.28906-9.232 5.3281-4e-7 12.508 4.866 2.8086 3.433-1.9804-1e-6 -4.3137-3.799-1.9824v-5.056l5.2321-3.0768 5.232 3.0768 1e-6 5.056-3.799 1.9824v4.3137l3.433 1.9804 4.866-2.8086v-12.508zm0 1.1543 8.7321 5.041 1e-6 11.227-3.866 2.2324-2.433-1.4043 1e-6 -3.3457 3.799-1.9824 2e-6 -5.3809-6.2321-3.6529-6.2321 3.6529 3e-7 5.3809 3.799 1.9824-4e-7 3.3457-2.433 1.4043-3.866-2.2324 2e-7 -11.227z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99816" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
