@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<radialGradient id="a" cx="10.739" cy="15.859" r="8" gradientTransform="matrix(2.7012,0,0,2.7012,-20.713,-28.116)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="-1.0719" cy="17.856" r="9" gradientTransform="matrix(1.8,0,0,1.8,9.419,-16.524)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<path d="m2.5 1.5h11c0.554 0 1 0.446 1 1v11c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-11c0-0.554 0.446-1 1-1z" fill="none" stroke="#090d11" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m2.5 1.5h11c0.554 0 1 0.446 1 1v11c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-11c0-0.554 0.446-1 1-1z" fill="none" stroke="url(#a)" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m2.5508 0.5h10.898c1.1361 0 2.0508 0.91466 2.0508 2.0508v10.898c0 1.1361-0.91466 2.0508-2.0508 2.0508h-10.898c-1.1361 0-2.0508-0.91466-2.0508-2.0508v-10.898c0-1.1361 0.91466-2.0508 2.0508-2.0508z" fill="none" stroke="url(#b)" style="paint-order:normal"/>
+</svg>
