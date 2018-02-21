@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="344.55" cy="-98.428" r="7.254" gradientTransform="matrix(-2.0354,0,0,-1.9697,732.23,-192.3)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="f" cx="8.4402" cy="5.2821" r="3.0808" gradientTransform="matrix(4.4999,0,0,2.7586,-27.368,-9.8514)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="e" cx="12.908" cy="4.9544" r="8" gradientTransform="matrix(-2.7078,0,0,-2.7078,45.684,17.353)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="d" cx="9.5798" cy="6.3403" r="1.302" gradientTransform="matrix(2.6359,0,0,2.9376,-15.506,-12.408)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="c" cx="9.9012" cy="5.8837" r="1.302" gradientTransform="matrix(4.1926,0,0,4.6725,-30.919,-22.616)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="a" transform="translate(4.0402,2.1055)">
+		<path d="m3.5752 3.8945c0.67327-0.88321 2.5609-2.9784 3.1963-2.9784 1 0 3.8485 3.9784 3.8485 3.9784" fill="none" stroke="#090d11" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
+		<path d="m3.5752 3.8945c0.67327-0.88321 2.5609-2.9784 3.1963-2.9784 1 0 3.8485 3.9784 3.8485 3.9784" fill="none" stroke="url(#f)" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
+		<path d="m6.9001-1.2609c-2.3634 0.2727-1.6561 1.8737-4.0796 4.5391 1.1741-1.2514 2.715-3.3634 3.9207-3.3634 1.3826 0 3.0901 2.3044 4.6243 4.3578l1.1254-0.88472 0.01765 4.4954 0.28963 0.68984c0.35073-1.7779 1.1088-4.0037 1.6511-5.6999 0.38979-1.219-0.31928-2.0137-1.3137-1.4103l-1.6182 1.1278c-0.38648-0.5431-2.7135-4.0713-4.6174-3.8517z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#e)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path d="m12.511 7.8425-4-1.4458 3.9759-3.0121z" fill="#090d11" fill-opacity=".76471" style="paint-order:normal"/>
+		<g fill="url(#c)" fill-opacity=".76471" style="paint-order:normal">
+			<path d="m12.511 7.8425-4-1.4458 3.9759-3.0121z" fill="url(#d)" fill-opacity=".76471" style="paint-order:normal"/>
+		</g>
+	</g>
+	<use transform="rotate(120,10.945,11.752)" width="100%" height="100%" xlink:href="#a"/>
+	<use transform="rotate(240 10.945 11.752)" width="100%" height="100%" xlink:href="#a"/>
+</svg>
