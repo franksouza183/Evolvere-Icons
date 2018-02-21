@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
@@ -11,16 +11,21 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<radialGradient id="b" cx="12.32" cy="56" r="10" gradientTransform="matrix(0,1.8,-1.5,0,92,-21.3)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".7486" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		<radialGradient id="b" cx="12" cy="4" r="8" gradientTransform="matrix(3.0529,0,0,1.5265,-28.635,-6.1059)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
-		<linearGradient id="a" x1="11.56" x2="11.56" y1="15.76" y2="6.124" gradientTransform="matrix(1.431,0,0,1.431,-7.685,-7.647)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#e4e9ed" stop-opacity=".9133" offset="0"/>
-			<stop stop-color="#404f60" stop-opacity="0" offset="1"/>
+		<linearGradient id="c" x1="27" x2="27" y1="20" y2="4" gradientTransform="matrix(2.5044 0 0 2.5044 -113.31 -10.283)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".0042194" offset="1"/>
 		</linearGradient>
+		<radialGradient id="a" cx="48.405" cy="10.843" r="8.7344" gradientTransform="matrix(2.4613,0,0,2.4613,-111.22,-9.816)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60392" offset="1"/>
+		</radialGradient>
 	</defs>
-	<path d="m2 1h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" fill="#232b34" fill-opacity=".8237" style="paint-order:normal"/>
-	<path d="m2 1h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
-	<path d="m2 0c-1.09-0.03893-2 0.9093-2 2v12c0 1.091 0.91 2.039 2 2l12-0.5c1.09-0.03893 1.5-0.4093 1.5-1.5v-12c0-1.091-0.41-1.461-1.5-1.5zm0 1h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".9986" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m3 2h10c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m3 2h10c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="url(#c)" style="paint-order:normal"/>
+	<path d="m3 2h10c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="url(#b)" fill-opacity=".75328" style="paint-order:normal"/>
+	<path d="m3 1c-1.09-0.03893-2 0.9093-2 2v10c0 1.091 0.91 2.039 2 2h10c1.09-0.03893 2-0.9093 2-2v-10c0-1.091-0.91-1.961-2-2zm0 1h10c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

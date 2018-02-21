@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="-3.5165" cy="14.265" r="8.5006" gradientTransform="matrix(1.9779,0,0,2.4431,11.142,-22.107)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="30.984" cy="8.7853" r="8.7344" gradientTransform="matrix(2.5044,0,0,2.5044,-70.595,-11.002)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m10 1.5859-7.7774 7.7774c-0.77115 0.77115-0.77115 2.057 0 2.8281l2.8066 2.8086h9.5235c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-4.2383l0.39258-0.39258 5.6562-5.6582-6.3633-6.3633zm0 1.4141 4.9492 4.9492-4.9492 4.9512-4.9492-4.9512zm-5.6562 5.6562 4.9492 4.9512-0.39258 0.39258h-3.457l-2.5137-2.5156c-0.39174-0.39174-0.39174-1.0223 0-1.4141l1.4141-1.4141zm7.1562 7.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m10 3-4.9492 4.9492 4.9492 4.9512 4.9492-4.9512zm-5.6562 5.6562-1.4141 1.4141c-0.39174 0.39174-0.39174 1.0223 0 1.4141l2.5137 2.5156h9.0058c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-5.7637zm7.1562 6.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m10 3-4.9492 4.9492 4.9492 4.9512 4.9492-4.9512zm-5.6562 5.6562-1.4141 1.4141c-0.39174 0.39174-0.39174 1.0223 0 1.4141l2.5137 2.5156h9.0058c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-5.7637zm7.1562 6.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" fill="url(#a)" fill-opacity=".75328" style="paint-order:normal"/>
+</svg>
