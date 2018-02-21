@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="a" cx="35.75" cy="40.613" r="32" gradientTransform="matrix(1 0 0 .96875 0 1.0312)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#0a087e" stop-opacity=".16667" offset="0"/>
-			<stop stop-color="#090d8b" stop-opacity="0" offset="1"/>
+		<radialGradient id="a" cx="33.24" cy="34.654" r="32" gradientTransform="matrix(1.1922 0 0 1.1549 -6.3873 -5.4197)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00cacc" stop-opacity=".4616" offset="0"/>
+			<stop stop-color="#7024f5" stop-opacity=".90211" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="32" cy="32.63" r="32" gradientTransform="matrix(1 0 0 .95718 0 1.3971)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#09ff8e" stop-opacity=".15359" offset="0"/>
+			<stop stop-color="#00c2ea" stop-opacity=".27848" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -16,13 +20,13 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="#246e85"/>
-	<path d="m0 2v32 28l1.2598 1.2598 30.74-18.082 30.74 18.082 1.2598-1.2598v-28-32l-32 20.078-32-20.078zm32 20.824 19 11.176-19 11.176-19-11.176 19-11.176z" color="#000000" fill="#297b88"/>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="url(#a)"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#32abbc"/>
-	<path d="m0 1v3l2-2z" color="#000000" fill="#3db7b5"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#246e85"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m0 2v60l1.2598 1.2598 30.74-18.082 30.74 18.082 1.2598-1.2598v-60l-32 20.078-32-20.078zm32 20.824 19 11.176-19 11.176-19-11.176 19-11.176z" color="#000000" fill="url(#b)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#96ffec"/>
+	<path d="m0 1v3l2-2z" color="#000000" fill="#bffff3"/>
 	<path d="m64 4-2-2 2-1z" fill="#3097aa"/>
-	<g transform="translate(-.26523 2.8254)" fill="none" stroke="#a3ffc8" stroke-linecap="square" stroke-width="2">
+	<g transform="translate(-.26523 2.8254)" fill="none" stroke="#beffeb" stroke-linecap="square" stroke-width="2">
 		<circle transform="rotate(15)" cx="34.198" cy="30.489" r="5.875" style="paint-order:normal"/>
 		<path d="m30.817 39.821 5.6778-21.19 3.8343 14.31 2.3662-8.8309 2.0308 7.5789" style="paint-order:normal"/>
 	</g>
