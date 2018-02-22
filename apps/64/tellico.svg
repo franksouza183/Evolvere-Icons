@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<radialGradient id="a" cx="18.771" cy="45.462" r="25.5" gradientTransform="matrix(1.7171 0 0 1.8778 3.7681 -42.368)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#381422" stop-opacity=".7443" offset="0"/>
 			<stop stop-color="#3d0018" stop-opacity=".31561" offset="1"/>
-		</radialGradient>
-		<radialGradient id="e" cx="29.001" cy="4.6129" r="32" gradientTransform="matrix(1.3328 0 0 .96875 -8.6517 -.96875)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#984f33" offset="0"/>
-			<stop stop-color="#a33e4f" offset="1"/>
 		</radialGradient>
 		<linearGradient id="h" x1="54" x2="46" y1="48" y2="48" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#a51639" offset="0"/>
@@ -44,6 +40,14 @@
 			<stop stop-color="#003b6f" stop-opacity=".37215" offset="0"/>
 			<stop stop-color="#00ad6d" stop-opacity=".44051" offset="1"/>
 		</linearGradient>
+		<radialGradient id="i" cx="29.001" cy="4.6129" r="32" gradientTransform="matrix(0 1.9922 -1.448 0 36.68 -54.275)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#d4440c" stop-opacity=".16287" offset="0"/>
+			<stop stop-color="#722834" stop-opacity=".19156" offset="1"/>
+		</radialGradient>
+		<radialGradient id="e" cx="29.001" cy="4.6129" r="32" gradientTransform="matrix(1.3328 0 0 .96875 -8.6517 -.96875)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9e6431" offset="0"/>
+			<stop stop-color="#6f5c53" offset="1"/>
+		</radialGradient>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -54,10 +58,11 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4 0v8h-4v54l2 2h60l2-2v-54h-3v-8z" color="#000000" fill="url(#e)" style="font-variant-east_asian:normal"/>
-	<path d="m2 0-2 1v11h7v-10h51v10h6v-11l-2-1h-58z" color="#000000" fill="#ffb8ce"/>
-	<path d="m64 14-2-2 2-1z" fill="#b1596f"/>
-	<path d="m7 14-2-2 2-1z" fill="#b1596f"/>
+	<path d="m4 0v8h-4v54l2 2h60l2-2v-54h-3v-8z" color="#000000" fill="url(#e)"/>
+	<path d="m4 0v8h-4v54l2 2h60l2-2v-54h-3v-8z" color="#000000" fill="url(#i)"/>
+	<path d="m2 0-2 1v11h7v-10h51v10h6v-11l-2-1h-58z" color="#000000" fill="#f3c4d3" style="font-variant-east_asian:normal"/>
+	<path d="m64 14-2-2 2-1z" fill="#b38a8b" style="font-variant-east_asian:normal"/>
+	<path d="m7 14-2-2 2-1z" fill="#b38a8b" style="font-variant-east_asian:normal"/>
 	<g fill="#550022">
 		<g transform="translate(0,-14.5)" fill-opacity=".036219">
 			<path transform="translate(0,14.5)" d="m2 0-2 1v21.5h2v-22.5zm2 0v3.5h2v-3.5h-2zm4 0v17.5h2v-17.5h-2zm4 0v32.5h2v-32.5h-2zm8 0v27.5h2v-27.5h-2zm16 0v0.5h2v-0.5h-2zm12 0v19.5h2v-19.5h-2zm4 0v33.5h2v-33.5h-2zm4 0v14.5h2v-14.5h-2zm4 0v30.5h2v-30.5h-2zm-20 0.5v37h2v-37h-2zm-36 5v37h2v-37h-2zm28 0v37h2v-37h-2zm-8 1v37h2v-37h-2zm-8 3v37h2v-37h-2zm12 2v37h2v-37h-2zm16 5v37h2v-37h-2zm-36 3v37h2v-37h-2zm28 0v37h2v-37h-2zm12 2v37h2v-37h-2zm-48 3v37h2v-37h-2zm60 8v31.5h2v-31.5h-2zm-8 5v26.5h2v-26.5h-2zm4 14v12.5h2v-12.5h-2z" color="#000000"/>
@@ -108,6 +113,6 @@
 			<path d="m42.616 21.09-0.0025 8e-3 -0.14968 28.293 3.4428 6.6071 0.09356-0.0994-5.1e-5 0.10133 1.0012 1.0001 5.9989-6.67e-4 1.001-0.99951 5.19e-4 -25.896-7.9961-2.5177-0.0044 2.8e-5 -9.25e-4 -0.0018z" fill="url(#b)" style="paint-order:normal"/>
 		</g>
 	</g>
-	<path d="m58 11v3l2-2z" fill="#edb5c4"/>
-	<path d="m1.6362e-8 11v3l2-2z" fill="#edb5c4"/>
+	<path d="m58 11v3l2-2z" fill="#f7d6e1" style="font-variant-east_asian:normal"/>
+	<path d="m1.6362e-8 11v3l2-2z" fill="#f7d6e1" style="font-variant-east_asian:normal"/>
 </svg>

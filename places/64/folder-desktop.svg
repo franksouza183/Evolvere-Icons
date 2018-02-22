@@ -14,9 +14,10 @@
 			<stop stop-color="#294c79" offset="0"/>
 			<stop stop-color="#27456a" offset="1"/>
 		</radialGradient>
-		<radialGradient id="d" cx="32" cy="57.5" r="26" gradientTransform="matrix(2.1624 0 0 1.9544 -37.195 -57.38)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#0caee1" offset="0"/>
-			<stop stop-color="#825fd0" offset="1"/>
+		<radialGradient id="d" cx="44.028" cy="49.266" r="26" fx="22.254" fy="47.044" gradientTransform="matrix(3.6255 3.6255 -1.2576 1.2576 -10.392 -123.26)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00bccc" offset="0"/>
+			<stop stop-color="#4845ff" offset=".51165"/>
+			<stop stop-color="#d83f82" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -42,7 +43,7 @@
 			<rect x="25" y="47" width="5" height="5" color="#000000" fill="#94e353"/>
 			<rect x="33" y="47" width="5" height="5" color="#000000" fill="#ffd00e" fill-opacity=".84347"/>
 			<rect x="17" y="47" width="5" height="5" color="#000000" fill="#dceefb"/>
-			<path transform="translate(2,-5)" d="m52 27.5a9.5 9.5 0 0 1-9.5 9.5 9.5 9.5 0 0 1-9.5-9.5 9.5 9.5 0 0 1 9.5-9.5 9.5 9.5 0 0 1 9.5 9.5z" color="#000000" fill="#c1def7"/>
+			<path transform="translate(2,-5)" d="m52 27.5a9.5 9.5 0 0 1-9.5 9.5 9.5 9.5 0 0 1-9.5-9.5 9.5 9.5 0 0 1 9.5-9.5 9.5 9.5 0 0 1 9.5 9.5z" color="#000000" fill="#d9ecfc"/>
 			<rect x="44" y="16" width="1" height="7" color="#000000" fill="#000000" fill-opacity=".31184"/>
 			<rect transform="rotate(90)" x="22" y="-51" width="1" height="7" color="#000000" fill="#000000" fill-opacity=".31184"/>
 		</g>

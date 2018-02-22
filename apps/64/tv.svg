@@ -10,9 +10,13 @@
 			<stop stop-color="#fbe596" stop-opacity=".3098" offset="0"/>
 			<stop stop-color="#e9e9a8" stop-opacity=".071" offset="1"/>
 		</radialGradient>
-		<radialGradient id="c" cx="6.3556" cy="5.6601" r="32" gradientTransform="matrix(2.5168 0 0 2.1236 -9.6403 -1.4626)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#984f33" offset="0"/>
-			<stop stop-color="#a33e4f" offset="1"/>
+		<radialGradient id="d" cx="-71.96" cy="11.073" r="32" gradientTransform="matrix(0 2.3328 -2.2599 0 29.024 180.37)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#d4440c" stop-opacity=".16287" offset="0"/>
+			<stop stop-color="#722834" stop-opacity=".19156" offset="1"/>
+		</radialGradient>
+		<radialGradient id="c" cx="-66.118" cy="-.36554" r="32" gradientTransform="matrix(0 1.3694 -1.3266 0 19.515 111.04)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9e6431" offset="0"/>
+			<stop stop-color="#6f5c53" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -24,8 +28,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m2 0-2 1v9h64v-9l-2-1h-30z" color="#000000" fill="#ffb8ce" style="font-variant-east_asian:normal"/>
-	<path d="m0 10v52l2 2h60l2-2v-52h-32z" color="#000000" fill="url(#c)" style="font-variant-east_asian:normal"/>
+	<path d="m2 0-2 1v9h64v-9l-2-1h-30z" color="#000000" fill="#f3c4d3" style="font-variant-east_asian:normal"/>
+	<path d="m0 10v52l2 2h60l2-2v-52h-32z" color="#000000" fill="url(#c)"/>
+	<path d="m0 10v52l2 2h60l2-2v-52h-32z" color="#000000" fill="url(#d)"/>
 	<g fill="#550022">
 		<g transform="translate(0,-14.5)" fill-opacity=".036219">
 			<path transform="translate(0,14.5)" d="m2 0-2 1v21.5h2zm2 0v3.5h2v-3.5zm4 0v17.5h2v-17.5zm4 0v32.5h2v-32.5zm8 0v27.5h2v-27.5zm16 0v0.5h2v-0.5zm12 0v19.5h2v-19.5zm4 0v33.5h2v-33.5zm4 0v14.5h2v-14.5zm4 0v30.5h2v-30.5zm-20 0.5v37h2v-37zm-36 5v37h2v-37zm28 0v37h2v-37zm-8 1v37h2v-37zm-8 3v37h2v-37zm12 2v37h2v-37zm16 5v37h2v-37zm-36 3v37h2v-37zm28 0v37h2v-37zm12 2v37h2v-37zm-48 3v37h2v-37zm60 8v31.5h2v-31.5zm-8 5v26.5h2v-26.5zm4 14v12.5h2v-12.5z" color="#000000"/>
