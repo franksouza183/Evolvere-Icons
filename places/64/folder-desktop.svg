@@ -15,9 +15,9 @@
 			<stop stop-color="#27456a" offset="1"/>
 		</radialGradient>
 		<radialGradient id="d" cx="44.028" cy="49.266" r="26" fx="22.254" fy="47.044" gradientTransform="matrix(3.6255 3.6255 -1.2576 1.2576 -10.392 -123.26)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#00bccc" offset="0"/>
-			<stop stop-color="#4845ff" offset=".51165"/>
-			<stop stop-color="#d83f82" offset="1"/>
+			<stop stop-color="#10b9bc" offset="0"/>
+			<stop stop-color="#5c5aea" offset=".51165"/>
+			<stop stop-color="#cb4c84" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
