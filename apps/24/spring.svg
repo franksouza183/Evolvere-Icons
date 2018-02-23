@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="b" cx="346.37" cy="-101.23" r="7.254" gradientTransform="matrix(-2.6874 0 0 -2.6006 942.35 -248.95)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="11.813" cy="4.8277" r="8" gradientTransform="matrix(-2.3606 0 0 -2.3606 41.305 18.102)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m12.002 6.2893-2.52 3.6699-4.5263-1.3212 0.77981 4.5018-3.9115 0.97865 3.9115 3.1317c0-3.459 2.8045-6.2635 6.2635-6.2635 3.459 0 6.2635 2.8013 6.2635 6.2635l3.9146-3.1317-3.9146-0.97865 0.78292-4.5018-4.5294 1.3212z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m12.002 6.2893-2.52 3.6699-4.5263-1.3212 0.77981 4.5018-3.9115 0.97865 3.9115 3.1317c0-3.459 2.8045-6.2635 6.2635-6.2635 3.459 0 6.2635 2.8013 6.2635 6.2635l3.9146-3.1317-3.9146-0.97865 0.78292-4.5018-4.5294 1.3212z" fill="url(#b)" fill-opacity=".7533" style="font-variant-east_asian:normal;paint-order:normal"/>
+	<path d="m12.002 4.5215-0.82422 1.2012-2.1113 3.0742-5.3711-1.5684 0.89648 5.166-4.9688 1.2441 7.1113 5.6934v-2.082c0-2.9185 2.3452-5.2637 5.2637-5.2637 2.9191 0 5.2637 2.3415 5.2637 5.2637v2.0801l7.1152-5.6914-4.9707-1.2441 0.89844-5.166-5.373 1.5684-2.9297-4.2754zm0 1.7676 2.5137 3.6699 4.5293-1.3203-0.7832 4.502 3.9141 0.97852-3.9141 3.1309c0-3.4622-2.8047-6.2637-6.2637-6.2637-3.459 0-6.2637 2.8047-6.2637 6.2637l-3.9102-3.1309 3.9102-0.97852-0.7793-4.502 4.5273 1.3203 2.5195-3.6699z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east_asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
