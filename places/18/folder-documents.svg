@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="18" height="18" id="svg13094" inkscape:version="0.48.3.1 r9886" sodipodi:docname="document.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1032" id="namedview6" showgrid="true" inkscape:zoom="41.7193" inkscape:cx="6.6197249" inkscape:cy="7.2503461" inkscape:window-x="-7" inkscape:window-y="25" inkscape:window-maximized="1" inkscape:current-layer="svg13094" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:object-paths="true" inkscape:snap-intersection-paths="true" inkscape:object-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-center="true">
-    <inkscape:grid type="xygrid" id="grid2982"/>
-  </sodipodi:namedview>
-  <defs id="defs16"/>
-  <metadata id="metadata13099">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path sodipodi:nodetypes="cccccccccccccccccccc" inkscape:connector-curvature="0" style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero" id="path2983" d="M 10,15 15,10 15,1 1,1 1,15 z M 9,14 9,9 14,9 z M 12,7 4,7 4,6 12,6 z M 12,5 4,5 4,4 12,4 z" transform="translate(1,1)"/>
-  <path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="M 0 0 L 0 1 L 0 15 L 0 16 L 1 16 L 8 16 L 8 16.40625 L 8.40625 16 L 10 16 L 10.40625 16 L 10.96875 15.96875 L 15.96875 10.96875 L 16 10.40625 L 16 10 L 16 8.40625 L 16.40625 8 L 16 8 L 16 1 L 16 0 L 15 0 L 1 0 L 0 0 z M 1 1 L 15 1 L 15 10 L 13 12 L 10 15 L 1 15 L 1 1 z M 4 4 L 4 5 L 12 5 L 12 4 L 4 4 z M 4 6 L 4 7 L 12 7 L 12 6 L 4 6 z M 9 9 L 9 14 L 10 13 L 10 12 L 10 10 L 13 10 L 14 9 L 9 9 z " id="path3789" transform="translate(1,1)"/>
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="-9416.5" cy="5037.2" r="9" gradientTransform="matrix(0,-1.7027,-1.5135,0,7632.6,-16018)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="8" cy="11.997" r="9.3438" gradientTransform="matrix(0 -1 -.82441 0 18.638 20.344)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m4.5 2c-0.82235 0-1.5 0.67765-1.5 1.5v11c0 0.82235 0.67765 1.5 1.5 1.5h4.5v-1h-4.5c-0.28565 0-0.5-0.21435-0.5-0.5v-11c0-0.28565 0.21435-0.5 0.5-0.5h9c0.28565 0 0.5 0.21435 0.5 0.5v6.5h1v-6.5c0-0.82235-0.67765-1.5-1.5-1.5zm2 3c-0.67616-0.00956-0.67616 1.0096 0 1h3c0.67616 0.00956 0.67616-1.0096 0-1zm0 2c-0.67616-0.00956-0.67616 1.0096 0 1h3c0.67616 0.00956 0.67616-1.0096 0-1zm3.5 4v5l5-5z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#090d11" fill-opacity=".76621" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m4.5 2c-0.82235 0-1.5 0.67765-1.5 1.5v11c0 0.82235 0.67765 1.5 1.5 1.5h4.5v-1h-4.5c-0.28565 0-0.5-0.21435-0.5-0.5v-11c0-0.28565 0.21435-0.5 0.5-0.5h9c0.28565 0 0.5 0.21435 0.5 0.5v6.5h1v-6.5c0-0.82235-0.67765-1.5-1.5-1.5zm2 3c-0.67616-0.00956-0.67616 1.0096 0 1h3c0.67616 0.00956 0.67616-1.0096 0-1zm0 2c-0.67616-0.00956-0.67616 1.0096 0 1h3c0.67616 0.00956 0.67616-1.0096 0-1zm3.5 4v5l5-5z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".75328" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m3.5 1c-0.82235 0-1.5 0.67765-1.5 1.5v13c0 0.82235 0.67765 1.5 1.5 1.5h6.5v-0.0078c0.24808 0.0019 0.5012-0.07946 0.70703-0.28516l5-5c0.62956-0.63 0.18361-1.7067-0.70703-1.707h-5c-0.55226 5.5e-5 -0.99994 0.44774-1 1v4h1v-4h5l-5 5h-6.5c-0.28565 0-0.5-0.21435-0.5-0.5v-13c0-0.28565 0.21435-0.5 0.5-0.5h11c0.28565 0 0.47809 0.21519 0.5 0.5v6.5h1v-6.5c0-0.82235-0.67765-1.5-1.5-1.5h-11zm2 3c-0.67616-0.00956-0.67616 1.0096 0 1h3c0.67616 0.0096 0.67616-1.0096 0-1zm0 2c-0.67616-0.0096-0.67616 1.0096 0 1h3c0.67616 0.0096 0.67616-1.0096 0-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

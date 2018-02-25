@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
 		<radialGradient id="a" cx="11" cy="5.4446" r="10" gradientTransform="matrix(1 0 0 .9 0 1.1)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
 		</radialGradient>
-		<radialGradient id="b" cx="353.34" cy="-90.447" r="7.254" gradientTransform="matrix(1.4245 0 0 1.3785 -9890.9 5170.7)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="b" cx="353.34" cy="-90.447" r="7.254" gradientTransform="matrix(1.4245,0,0,1.3785,-492.3,140.7)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
@@ -20,9 +20,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g transform="translate(9398.6 -5030)">
-		<path d="m-9396.6 5033v2h18v-2zm0 3v10h18v-10zm2.7812 1.9688 4.5 2.6249v0.8125l-4.5 2.625-0.8125-1.3125 3.125-1.7187-3.125-1.7188zm-2.7812 9.0312v2h18v-2z" fill="#090d11" fill-opacity=".76621" style="font-variant-east_asian:normal;paint-order:normal"/>
-		<path d="m-9396.6 5033v2h18v-2zm0 3v10h18v-10zm2.7812 1.9688 4.5 2.6249v0.8125l-4.5 2.625-0.8125-1.3125 3.125-1.7187-3.125-1.7188zm-2.7812 9.0312v2h18v-2z" fill="url(#b)" fill-opacity=".7533" style="font-variant-east_asian:normal;paint-order:normal"/>
-		<path transform="translate(-9398.6 5030)" d="m1 2v1 2 1 10 1 2 1h1 18 1v-1-2-1-10-1-2-1h-1-18-1zm1 1h18v2h-18v-2zm0 3h18v10h-18v-10zm2.7812 1.9688-0.8125 1.3125 3.125 1.7188-3.125 1.7188 0.8125 1.3125 4.5-2.625v-0.8125l-4.5-2.625zm-2.7812 9.0312h18v2h-18v-2z" color="#000000" fill="url(#a)" fill-opacity=".99858" style="block-progression:tb;font-variant-east_asian:normal;paint-order:normal;text-indent:0;text-transform:none"/>
-	</g>
+	<path d="m2 3v2h18v-2zm0 3v10h18v-10zm2.7812 1.9688 4.5 2.6249v0.8125l-4.5 2.625-0.8125-1.3125 3.125-1.7187-3.125-1.7188zm-2.7812 9.0312v2h18v-2z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m2 3v2h18v-2zm0 3v10h18v-10zm2.7812 1.9688 4.5 2.6249v0.8125l-4.5 2.625-0.8125-1.3125 3.125-1.7187-3.125-1.7188zm-2.7812 9.0312v2h18v-2z" fill="url(#b)" fill-opacity=".7533" style="paint-order:normal"/>
+	<path d="m1 2v18h20v-18h-19zm1 1h18v2h-18zm0 3h18v10h-18zm2.7812 1.9688-0.8125 1.3125 3.125 1.7188-3.125 1.7188 0.8125 1.3125 4.5-2.625v-0.8125l-4.5-2.625zm-2.7812 9.0312h18v2h-18z" color="#000000" fill="url(#a)" fill-opacity=".99858" style="paint-order:normal;text-indent:0;text-transform:none"/>
 </svg>

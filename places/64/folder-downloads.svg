@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
 		<linearGradient id="c" x1="-5" x2="-5" y1="64" y2="14" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#f43f66" stop-opacity=".018868" offset="0"/>
@@ -51,5 +51,5 @@
 		<path d="m0 13v50l1 1h59l1-1v-45l-1-1-26 1e-6 -5-5-28-1e-6z" color="#000000" fill="url(#c)"/>
 		<path d="m0 13v50l1 1h59l1-1v-45l-1-1-26 1e-6 -5-5-28-1e-6z" color="#000000" fill="url(#b)"/>
 	</g>
-	<path d="m21 20v20 1h1 4.9375l-8.9375 11.375-8.9375-11.375h4.9375 1v-1-3.1562l2.2188 2.7812 1.7812 2.2188v-2.8438-12h-2v9.1562l-2.2188-2.7812-1.7812-2.2188v2.8438 5h-6-2.0625l1.2812 1.625 11 14 0.78125 1 0.78125-1 11-14 1.2812-1.625h-2.0625-6v-19z" color="#000000" fill="#3e566a" fill-opacity=".85196" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
+	<path d="m21 20v21h5.9375l-8.9375 11.375-8.9375-11.375h5.9375v-4.1562l2.2188 2.7812 1.7812 2.2188v-14.844h-2v9.1562l-2.2188-2.7812-1.7812-2.2188v7.8438h-8.0625l1.2812 1.625 11 14 0.78125 1 0.78125-1 11-14 1.2812-1.625h-8.0625v-19z" color="#000000" fill="#3e566a" fill-opacity=".85196" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
 </svg>
