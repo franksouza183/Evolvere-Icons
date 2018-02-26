@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="18" height="18" id="svg13094" inkscape:version="0.48.3.1 r9886" sodipodi:docname="document-open.svg" inkscape:export-filename="folder.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1032" id="namedview6" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:object-paths="true" inkscape:snap-intersection-paths="true" inkscape:object-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-center="true" inkscape:zoom="41.7193" inkscape:cx="11.098009" inkscape:cy="6.7767057" inkscape:window-x="-7" inkscape:window-y="25" inkscape:window-maximized="1" inkscape:current-layer="svg13094">
-    <inkscape:grid type="xygrid" id="grid2983"/>
-  </sodipodi:namedview>
-  <defs id="defs7"/>
-  <metadata id="metadata13099">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path sodipodi:nodetypes="ccccccccccccccccccccccccccc" inkscape:connector-curvature="0" id="path2983" d="m 9,1 0,1 -7,0 0,2 7,0 0,1 5,0 0,7 -1,0 0,-6 -4,0 0,-1 -8,0 0,8 0,2 8,0 0,-2 4,0 1,0 1,0 0,-12 z m -6,6 4,0 0,6 -4,0 z" style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero" transform="translate(1,1)"/>
-  <path style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" d="m 9,0 0,1 -7,0 0,0 0,1 0,2 -2,0 0,1 0,8 0,2 0,1 1,0 8,0 1,0 0,-2 3,0 1,0 1,0 1,0 0,-1 0,-12 0,-1 -1,0 z m 0,1 6,0 0,12 -1,0 -1,0 -4,0 0,2 L 1,15 1,13 1,5 9,5 9,4 2,4 2,2 9,2 z m 0,4 0,1 4,0 0,6 1,0 0,-7 z m -6,2 0,6 4,0 0,-6 z m 1,1 2,0 0,4 -2,0 z" id="rect2997" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" transform="translate(1,1)"/>
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="7.5991" cy="7.6272" r="8" gradientTransform="matrix(1.3186,0,0,1.3186,-6.0181,-6.1244)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="-9400.8" cy="5092.7" r="9" gradientTransform="matrix(2.2808,-1.551e-5,0,1.6667,21450,-8472.1)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m11 2c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-6c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v5h11c0.554 0 1 0.446 1 1v5h-1v-4.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v4.5h-10v-5c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v4c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-12c-4.1e-5 -0.554-0.44604-1-1-1h-4zm-7 3h9v3h-9z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m11 2c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-6c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v5h11c0.554 0 1 0.446 1 1v5h-1v-4.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v4.5h-10v-5c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v4c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-12c-4.1e-5 -0.554-0.44604-1-1-1h-4zm-7 3h9v3h-9z" fill="url(#b)" style="paint-order:normal"/>
+	<path d="m11 1c-0.70348 0-1.2228 0.43877-1.5801 1h-5.4199c-1.0907 0-2 0.9093-2 2v5.4199c-0.56123 0.35725-1 0.87658-1 1.5801v4c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-12c-8.1e-5 -1.0907-0.9093-2-2-2zm0 1h4c0.55396 0 0.99996 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-4c0-0.554 0.44657-1.0252 1-1h11v5h1v-5c0-0.554-0.44657-1.0252-1-1h-11v-5c0-0.554 0.446-1 1-1h6c0-0.554 0.446-1 1-1zm-7 3v3h9v-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>
