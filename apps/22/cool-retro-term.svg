@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="b" cx="353.73" cy="-88.051" r="7.254" gradientTransform="matrix(2.1511,0,0,2.0816,-749.66,202.88)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="12" cy="8.2035" r="11" gradientTransform="matrix(2.2321,0,0,1.9277,-15.785,-12.596)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m5 3c-2.216 0-4 1.784-4 4v9c0 2.216 1.784 4 4 4h12c2.216 0 4-1.784 4-4v-9c0-2.216-1.784-4-4-4zm3 4h2v1h-2zm2 2h2v1h-2zm2 2h2v1h-2zm-2 2h2v1h-2zm-2 2h2v1h-2z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m5 3c-2.216 0-4 1.784-4 4v9c0 2.216 1.784 4 4 4h12c2.216 0 4-1.784 4-4v-9c0-2.216-1.784-4-4-4zm3 4h2v1h-2zm2 2h2v1h-2zm2 2h2v1h-2zm-2 2h2v1h-2zm-2 2h2v1h-2z" fill="url(#b)" fill-opacity=".7533" style="paint-order:normal"/>
+	<path d="m5 2c-2.7527 0-5 2.2473-5 5v9c0 2.7527 2.2473 5 5 5h12c2.7527 0 5-2.2473 5-5v-9c0-2.7527-2.2473-5-5-5zm0 1h12c2.216 0 4 1.784 4 4v9c0 2.216-1.784 4-4 4h-12c-2.216 0-4-1.784-4-4v-9c0-2.216 1.784-4 4-4zm3 4v1h2v-1zm2 2v1h2v-1zm2 2v1h2v-1zm-2 2v1h2v-1zm-2 2v1h2v-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
