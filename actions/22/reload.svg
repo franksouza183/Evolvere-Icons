@@ -2,11 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="b" cx="-21.56" cy="-.5293" r="7.335" gradientTransform="matrix(1 0 0 .9674 -9372 5e3)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="b" cx="-30.041" cy="-1.3894" r="7.335" gradientTransform="matrix(2.0384,0,0,1.9719,64.351,4.8508)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
-		<radialGradient id="a" cx="4.875" cy="2.105" r="8.548" gradientTransform="matrix(1,0,0,1.028,0,2.022)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="a" cx="21.375" cy="4.9347" r="8.548" gradientTransform="matrix(-1.6203,0,0,-1.6657,42.709,9.0642)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
 		</radialGradient>
@@ -20,10 +20,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g id="f" transform="translate(9398,-4991)">
-		<path d="m-9387 4994c-2.539 0-4.816 1.188-6.281 3.031l-1.719-1.719v4.688h4.688l-1.531-1.531c1.09-1.493 2.852-2.469 4.844-2.469 3.314 0 6 2.686 6 6h2c0-4.418-3.582-8-8-8z" color="#000000" fill="#0c1218" fill-opacity=".7203" style="paint-order:normal"/>
-		<path d="m-9387 4994c-2.539 0-4.816 1.188-6.281 3.031l-1.719-1.719v4.688h4.688l-1.531-1.531c1.09-1.493 2.852-2.469 4.844-2.469 3.314 0 6 2.686 6 6h2c0-4.418-3.582-8-8-8z" color="#000000" fill="url(#b)" style="paint-order:normal"/>
-		<path transform="translate(-9399,4990)" d="m12 3c-2.89 0.1521-5.099 0.997-7.232 3.08l0.9511 0.9512c1.466-1.844 3.742-3.031 6.281-3.031 4.418 0 8 3.582 8 8 0.7344-4.441-2.808-9-8-9zm-9 2v5l1 1h5l-1-1-4-1.2e-5 9.52e-5 -4zm9 1c-1.991 0-3.753 0.976-4.844 2.469l0.375 0.375c0.7684-1.228 2.691-2.484 4.469-2.484 3.566 0 5.797 2.344 6 5.641 0-3.314-2.686-6-6-6z" color="#000000" fill="url(#a)" fill-opacity=".9986" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
+	<g id="c" transform="translate(3,3)" shape-rendering="auto">
+		<path d="m1 2-1-1c-1-1-1-1-1 0v3.5c0 0.27853 0.20563 0.5 0.5 0.5h3.5c1 0 1 0 0-1l-1.05-1.05c0.41551-0.41551 2.6441-2.95 6.05-2.95 5.2033 0 8.009 4.7939 8.009 8.0273h0.47371c0-4.5569-3.4266-9.0273-8.4828-9.0273-3.3178 0-5.688 1.688-7 3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#0c1218" fill-opacity=".7203" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path d="m1 2-1-1c-1-1-1-1-1 0v3.5c0 0.27853 0.20563 0.5 0.5 0.5h3.5c1 0 1 0 0-1l-1.05-1.05c0.41551-0.41551 2.6441-2.95 6.05-2.95 5.2033 0 8.009 4.7939 8.009 8.0273h0.47371c0-4.5569-3.4266-9.0273-8.4828-9.0273-3.3178 0-5.688 1.688-7 3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path transform="translate(-4,-4)" d="m12 2.3c-3.0052 0-5.2676 0.63933-7.6377 3.0094l0.63766 0.6906c1.3561-1.3561 3.3292-3 7-3 5.0914 0 8.4824 4.4704 8.4824 9.0273 0-6.1522-4.4428-9.7273-8.4824-9.7273zm-9 0.7c-0.47714 2-1 5-1 6s0 1 1 1 4-0.4641 6-1h-5.5c-0.29437 0-0.5-0.22147-0.5-0.5zm9 1c-3.4059 0-5.6353 2.5337-6.0508 2.9492l0.14304 0.14304c3.7536-4.0357 8.4272-3.6033 11.224-0.96335-1.3157-1.2526-3.0956-2.1289-5.3164-2.1289z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".9986" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 	</g>
-	<use transform="rotate(180,11,11)" width="24" height="24" xlink:href="#f"/>
+	<use transform="rotate(180,11,11)" width="100%" height="100%" xlink:href="#c"/>
 </svg>

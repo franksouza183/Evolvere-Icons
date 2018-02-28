@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="a" cx="290.59" cy="-95.005" r="7.254" gradientTransform="matrix(1.9943 0 0 1.93 -9970.1 5233.4)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="a" cx="290.59" cy="-95.005" r="7.254" gradientTransform="matrix(1.9943,0,0,1.93,-571.5,197.4)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
@@ -20,10 +20,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g transform="translate(9398.6 -5036)">
-		<g transform="matrix(.034547 0 0 .034547 -9257.2 5031.5)"></g>
-		<path d="m-9397.6 5038v13l1 1 0.9998-2e-4v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2l1.0002-0.9998v-13l-1-1h-12zm3.9998 1.9998h1v1h-1v1h-1v-1h1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h0.5 0.5v0.5 0.5h-0.5-0.5v-0.5zm0 2h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1v1h-1v-1h1zm-7 1h0.5 0.5v0.5 0.5h-0.5-0.5v-0.5zm2 0h1v1h-1zm2 0h1v1h-1z" color="#000000" fill="#090d11" fill-opacity=".76621" style="font-variant-east_asian:normal;paint-order:normal"/>
-		<path d="m-9397.6 5038v13l1 1 0.9998-2e-4v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2l1.0002-0.9998v-13l-1-1h-12zm3.9998 1.9998h1v1h-1v1h-1v-1h1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h0.5 0.5v0.5 0.5h-0.5-0.5v-0.5zm0 2h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1v1h-1v-1h1zm-7 1h0.5 0.5v0.5 0.5h-0.5-0.5v-0.5zm2 0h1v1h-1zm2 0h1v1h-1z" color="#000000" fill="url(#a)" fill-opacity=".7533" style="font-variant-east_asian:normal;paint-order:normal"/>
-		<path transform="translate(-9398.6 5036)" d="m1.5938 0-0.3125 0.28125-1 1-0.28125 0.3125v0.40625 13 0.40625l0.28125 0.3125 1 1 0.3125 0.28125h0.40625 1 1 1 1 1 1 1 1 1 1 1v1.4062l1.7188-1.6875 1-1 0.28125-0.3125v-0.40625-13-0.40625l-0.28125-0.3125-1-1-0.3125-0.28125h-0.40625-12-0.40625zm0.40625 1h12l1 1v13l-1 1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1l-1-1v-13l1-1zm3 3v1h1v-1h-1zm0 1h-1v1h1v-1zm2-1v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v0.5 0.5h0.5 0.5v-0.5-0.5h-0.5-0.5zm0 2v1h1v-1h-1zm-7 1v1h1v-1h-1zm7 1v1h1v-1h-1zm-7 1v1h1v-1h-1zm7 1v1h1v-1h-1zm0 1h-1v1h1v-1zm-7 0v0.5 0.5h0.5 0.5v-0.5-0.5h-0.5-0.5zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1z" color="#000000" fill="url(#b)" style="block-progression:tb;font-variant-east_asian:normal;paint-order:normal;text-indent:0;text-transform:none"/>
-	</g>
+	<path d="m1 2v13l1 1 0.9998-2e-4v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2l1.0002-0.9998v-13l-1-1h-12zm3.9998 1.9998h1v1h-1v1h-1v-1h1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1v-0.5zm0 2h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1v1h-1v-1h1zm-7 1h1v1h-1v-0.5zm2 0h1v1h-1zm2 0h1v1h-1z" color="#000000" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m1 2v13l1 1 0.9998-2e-4v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2h1v-2h1v2l1.0002-0.9998v-13l-1-1h-12zm3.9998 1.9998h1v1h-1v1h-1v-1h1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1v-0.5zm0 2h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1zm-7 1h1v1h-1zm7 1h1v1h-1v1h-1v-1h1zm-7 1h1v1h-1v-0.5zm2 0h1v1h-1zm2 0h1v1h-1z" color="#000000" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
+	<path d="m1.5938 0-0.3125 0.28125-1 1-0.28125 0.3125v13.812l0.28125 0.3125 1 1 0.3125 0.28125h11.406v1.4062l1.7188-1.6875 1-1 0.28125-0.3125v-13.812l-0.28125-0.3125-1-1-0.3125-0.28125h-12.812zm0.40625 1h12l1 1v13l-1 1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1v-2h-1v2h-1l-1-1v-13zm3 3v1h1v-1zm0 1h-1v1h1zm2-1v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1h-0.5zm0 2v1h1v-1zm-7 1v1h1v-1zm7 1v1h1v-1zm-7 1v1h1v-1zm7 1v1h1v-1zm0 1h-1v1h1zm-7 0v1h1v-1h-0.5zm2 0v1h1v-1zm2 0v1h1v-1z" color="#000000" fill="url(#b)" style="paint-order:normal;text-indent:0;text-transform:none"/>
 </svg>
