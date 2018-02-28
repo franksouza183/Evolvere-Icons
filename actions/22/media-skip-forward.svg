@@ -1,90 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="media-skip-forward.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     id="namedview6"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="11.573594"
-     inkscape:cy="11.674456"
-     inkscape:window-x="-10"
-     inkscape:window-y="31"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2983"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <defs
-     id="defs7" />
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#27303a;fill-opacity:0.753280819999999968"
-     d="M 8,5 8,9.59375 2,6 2,16 8,12.40625 8,17 18,11 8,5 z m 10,6 0,4 2,0 0,-8 -2,0 0,4 z"
-     id="path2987"
-     inkscape:connector-curvature="0" />
-  <path
-     inkscape:connector-curvature="0"
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 7,3 8.625,3.96875 18,9.59375 18,11 8,5 8,9.59375 2,6 2,16 8,12.40625 8,17 18,11 18,12.40625 8.625,18.03125 7,19 l 0,-4 -0.1875,0 0,-0.46875 L 6.03125,15 6,15.03125 l -3.375,2 L 1,18 1,4 2.625,4.96875 6,6.96875 6.03125,7 6.8125,7.46875 6.8125,7 7,7 7,3 z"
-     id="path2987-4" />
-  <rect
-     style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect2996"
-     width="1"
-     height="8"
-     x="-21"
-     y="7"
-     transform="scale(-1,1)" />
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="-9409" cy="5035.3" r="9" gradientTransform="matrix(0,-1.4589,-1.2967,0,6553.4,-13714)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="8" cy="11.997" r="9.3438" gradientTransform="matrix(-1 0 0 .82441 35.597 -2.1944)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="f" cx="10.978" cy="8.017" r=".50005" gradientTransform="matrix(23.084,0,0,28.629,-239.43,-218.52)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="e" cx="8.792" cy="8" r="3.4618" gradientTransform="matrix(3.8456,0,0,3.856,-19.811,-19.848)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="d" cx="7.2494" cy="8.0065" r="1.0001" gradientTransform="matrix(11.586,-2.9208e-6,2.9359e-6,11.646,-71.993,-82.244)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="c" cx="9" cy="8" r="3.4618" gradientTransform="matrix(3.3472,8.9522e-8,-8.9984e-8,3.3645,-18.125,-15.916)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m5.0817 18.995 8.4183-7.9952-8.4183-7.9952" fill="none" stroke="#090d11" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m5.0817 18.995 8.4183-7.9952-8.4183-7.9952" fill="none" stroke="url(#c)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m6.5595 18.995 8.4183-7.9952-8.4183-7.9952" fill="none" stroke="url(#e)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:normal"/>
+	<path d="m18 8.0078v6.0102" fill="#ececec" fill-opacity=".76621" stroke="#090d11" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
+	<path d="m18 8.0078v6.0102" fill="#ececec" fill-opacity=".76621" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
+	<path d="m19.5 7.5089v7.0275" fill="#ececec" fill-opacity=".76621" stroke="url(#f)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" style="paint-order:normal"/>
 </svg>
