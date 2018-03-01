@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="a" cx="289.34" cy="-103.84" r="7.254" gradientTransform="matrix(2.0678,0,0,2.0012,-589.3,216.81)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="b" cx="7800.1" cy="-3926.4" r="6.5" gradientTransform="matrix(-7.7857e-6,1.8461,-2,-1.5122e-5,-7845,-14396)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="e" cx="15.162" cy="21.071" r="9.4181" gradientTransform="matrix(1.5929 -.01552 .014656 1.5042 -13.288 -15.398)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="d" cx="15.799" cy="18.914" r="2.3997" gradientTransform="matrix(5.7794,0,0,5.7782,-80.625,-87.841)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
-		<radialGradient id="b" cx="7800.1" cy="-3926.4" r="6.5" gradientTransform="matrix(-7.7857e-6,1.8461,-2,-1.5122e-5,-7844,-14395)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		<radialGradient id="c" cx="14.508" cy="19.125" r="9.4181" gradientTransform="matrix(1.6916 -.016483 .015564 1.5975 -13.664 -14.372)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="a" cx="16.308" cy="19.135" r="8.4199" gradientTransform="matrix(2.2098,0,0,2.0689,-23.547,-24.805)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -20,7 +26,12 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m6.5312 4c-2.5014 0-4.5312 2.0299-4.5312 4.5312v0.9375h1v-0.9375c0-1.9647 1.5666-3.5312 3.5312-3.5312h4.9375c1.9647 0 3.5312 1.5666 3.5312 3.5312v0.9375c0 1.9647-1.5666 3.5312-3.5312 3.5312h-5.9688v-2l-3.5 3h9.4688c2.5014 0 4.5312-2.0299 4.5312-4.5312v-0.9375c0-2.5014-2.0299-4.5312-4.5312-4.5312z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m6.5312 4c-2.5014 0-4.5312 2.0299-4.5312 4.5312v0.9375h1v-0.9375c0-1.9647 1.5666-3.5312 3.5312-3.5312h4.9375c1.9647 0 3.5312 1.5666 3.5312 3.5312v0.9375c0 1.9647-1.5666 3.5312-3.5312 3.5312h-5.9688v-2l-3.5 3h9.4688c2.5014 0 4.5312-2.0299 4.5312-4.5312v-0.9375c0-2.5014-2.0299-4.5312-4.5312-4.5312z" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
-	<path d="m5.5312 3c-2.5014 0-4.5312 2.0299-4.5312 4.5312v1.9375h1v-1.9375c0-1.9647 1.5666-3.5312 3.5312-3.5312h6.9375c1.9647 0 3.5312 1.5666 3.5312 3.5312v2.9375c0 1.9647-1.5666 3.5312-3.5312 3.5312h-10.469l3.5 3v-2h6.9688c2.5014 0 4.5312-2.0299 4.5312-4.5312v-2.9375c0-2.5014-2.0299-4.5312-4.5312-4.5312z" fill="url(#b)" style="paint-order:normal"/>
+	<path d="m5.3243 15.374a7.3514 7.3514 0 0 1-3.3117-8.6511 7.3514 7.3514 0 0 1 7.7827-5.0237 7.3514 7.3514 0 0 1 6.52 6.5801 7.3514 7.3514 0 0 1-5.095 7.7362" fill="none" stroke="url(#c)" stroke-opacity=".76471" stroke-width="1.1" style="paint-order:normal"/>
+	<path d="m11.125 12.123-0.42933 4.3082 5.0177-0.40455" fill="none" stroke="url(#e)" stroke-opacity=".76471" style="paint-order:normal"/>
+	<g transform="matrix(.98055 0 0 .98053 1.2334 -6.7701)" stroke-width="1.0198">
+		<path d="m4.9367 21.248a5.9679 5.9679 0 0 1-2.8782-6.287 5.9679 5.9679 0 0 1 4.9911-4.7853 5.9679 5.9679 0 0 1 6.1603 3.1402 5.9679 5.9679 0 0 1-0.94003 6.8503" fill="none" stroke="#090d11" stroke-opacity=".76471" stroke-width="1.0198" style="paint-order:normal"/>
+		<path d="m4.9367 21.248a5.9679 5.9679 0 0 1-2.8782-6.287 5.9679 5.9679 0 0 1 4.9911-4.7853 5.9679 5.9679 0 0 1 6.1603 3.1402 5.9679 5.9679 0 0 1-0.94003 6.8503" fill="none" stroke="url(#a)" stroke-opacity=".76471" stroke-width="1.0198" style="paint-order:normal"/>
+		<path d="m10.531 18.396c0.16478-0.02319 1.103 0.89245 1.5085 1.2929l0.0056-0.0056 0.57522 0.57525-0.0067 0.0067c0.43623 0.44405 1.2408 1.276 1.2188 1.4322-0.02715 0.19288-1.6571 0.42777-1.85 0.45492-0.19288 0.02714-1.8269 0.2511-1.9927 0.08535-0.16574-0.16574 0.05934-1.7987 0.08649-1.9915 0.02714-0.19288 0.26203-1.8229 0.45492-1.85z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#090d11" fill-opacity=".76471" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path d="m10.531 18.396c0.16478-0.02319 1.103 0.89245 1.5085 1.2929l0.0056-0.0056 0.57522 0.57525-0.0067 0.0067c0.43623 0.44405 1.2408 1.276 1.2188 1.4322-0.02715 0.19288-1.6571 0.42777-1.85 0.45492-0.19288 0.02714-1.8269 0.2511-1.9927 0.08535-0.16574-0.16574 0.05934-1.7987 0.08649-1.9915 0.02714-0.19288 0.26203-1.8229 0.45492-1.85z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#d)" fill-opacity=".76471" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	</g>
 </svg>
