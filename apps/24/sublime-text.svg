@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="b" cx="-9387.5" cy="5039.6" r="9" gradientTransform="matrix(0 2.3787 -2.1144 0 10667 22334)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="9.9746" cy="5.9293" r="9.0713" gradientTransform="matrix(1 0 0 .99903 3.0011 -2.7416)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m17.958 3.6588-11.916 3.7912v4.55l5.4157 2.069-5.4157 1.7222v4.55l11.916-3.7912v-4.55l-5.4157-2.069 5.4157-1.7222z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m17.958 3.6588-11.916 3.7912v4.55l5.4157 2.069-5.4157 1.7222v4.55l11.916-3.7912v-4.55l-5.4157-2.069 5.4157-1.7222z" fill="url(#b)" style="font-variant-east_asian:normal;paint-order:normal"/>
+	<path d="m18.957 2.291-1.3027 0.41406-12.611 4.0137v5.9688l3.3867 1.2949-3.3867 1.0781v6.6484l13.914-4.4277v-5.9688l-3.3867-1.2949 3.3867-1.0781v-6.6484zm-1 1.3672v4.5508l-5.4141 1.7227 5.4141 2.0684v4.5508l-11.914 3.791v-4.5508l5.4141-1.7227-5.4141-2.0684v-4.5508l11.914-3.791z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east_asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
