@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="-9391.2" cy="5043.9" r="9" gradientTransform="matrix(1.5555,0,0,5.424,14612,-27345)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="9.9746" cy="5.9293" r="9.0713" gradientTransform="matrix(1 0 0 .99903 -2.4793 -8.3606)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+		<radialGradient id="e" cx="8.4259" cy="7.3147" r="2" gradientTransform="matrix(6.75,-1.2211e-6,1.3199e-6,7.2961,-45.875,-45.369)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="d" cx="-8.5926" cy="7.1434" r="2.5" gradientTransform="matrix(5.4,-7.7915e-7,8.4219e-7,5.8369,57.4,-33.695)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="c" cx="8.4074" cy="7.1434" r="2.5" gradientTransform="matrix(5.4,-1.0676e-6,1.1539e-6,5.8369,-34.4,-33.695)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m4 3h16c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m3 3h6v18h-6z" fill="url(#c)" opacity=".113" style="paint-order:normal"/>
+	<path d="m9 3h6v18h-6z" fill="url(#d)" opacity=".47" style="paint-order:normal"/>
+	<path d="m15 3h6v18h-6z" fill="url(#e)" style="paint-order:normal"/>
+	<path d="m4 3h16c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="url(#b)" style="paint-order:normal"/>
+</svg>
