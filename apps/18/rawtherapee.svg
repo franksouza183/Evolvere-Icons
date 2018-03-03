@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="11" cy="5.4446" r="10" gradientTransform="matrix(1 0 0 .9 -9378.6 5035.1)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="d" cx="8" cy="5.051" r="8" gradientTransform="matrix(2,0,0,2,-7,-7)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="c" cx="6.7273" cy="11.481" r="7" gradientTransform="matrix(1.5714,0,0,1.5714,-3.5714,-3.5714)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="8" cy="4.8182" r="7" gradientTransform="matrix(1.5714,0,0,1.5714,-3.5714,-3.5714)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<circle cx="9" cy="9" r="5" fill="none" opacity=".645" stroke="url(#b)" stroke-opacity=".76471" stroke-width="4" style="paint-order:normal"/>
+	<g transform="translate(1,1)" fill="none" stroke="#090d11" stroke-opacity=".76471" stroke-width="4">
+		<path d="m10.5 12.33a5 5 0 0 1-2.5 0.66987" opacity=".824" style="paint-order:normal"/>
+		<path transform="rotate(-90)" d="m-5.5 12.33a5 5 0 0 1-2.5 0.66987" opacity=".528" style="paint-order:normal"/>
+		<path transform="scale(-1)" d="m-5.5-3.6699a5 5 0 0 1-2.5 0.66987" opacity=".392" style="paint-order:normal"/>
+		<path transform="rotate(90)" d="m10.5-3.6699a5 5 0 0 1-2.5 0.66987" opacity=".71" style="paint-order:normal"/>
+		<path d="m12.33 10.5a5 5 0 0 1-1.8301 1.8301" opacity=".71" style="paint-order:normal"/>
+		<path transform="rotate(-90)" d="m-3.6699 10.5a5 5 0 0 1-1.8301 1.8301" opacity=".392" style="paint-order:normal"/>
+		<path transform="scale(-1)" d="m-3.6699-5.5a5 5 0 0 1-1.8301 1.8301" opacity=".528" style="paint-order:normal"/>
+		<path transform="rotate(90)" d="m12.33-5.5a5 5 0 0 1-1.8301 1.8301" opacity=".824" style="paint-order:normal"/>
+		<path d="m13 8a5 5 0 0 1-0.66987 2.5" opacity=".645" style="paint-order:normal"/>
+		<path transform="rotate(-90)" d="m-3 8a5 5 0 0 1-0.66987 2.5" opacity=".259" style="paint-order:normal"/>
+		<path transform="scale(-1)" d="m-3-8a5 5 0 0 1-0.66987 2.5" opacity=".645" style="paint-order:normal"/>
+		<path transform="rotate(90)" d="m13-8a5 5 0 0 1-0.66987 2.5" style="paint-order:normal"/>
+	</g>
+	<path d="M 11.5,9 A 2.5,2.5 0 0 1 9,11.5 2.5,2.5 0 0 1 6.5,9 2.5,2.5 0 0 1 9,6.5 2.5,2.5 0 0 1 11.5,9 Z m 5,0 A 7.5,7.5 0 0 1 9,16.5 7.5,7.5 0 0 1 1.5,9 7.5,7.5 0 0 1 9,1.5 7.5,7.5 0 0 1 16.5,9 Z" fill="none" stroke="url(#d)" style="paint-order:normal"/>
+	<circle cx="9" cy="9" r="5" fill="none" opacity=".645" stroke="url(#c)" stroke-opacity=".76471" stroke-width="4" style="paint-order:normal"/>
+</svg>
