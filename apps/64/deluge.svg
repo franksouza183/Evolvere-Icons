@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="b" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.2545 0 0 1.3 -8.1393 -10.223)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="b" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.2545,0,0,1.3,-8.1393,-10.223)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#002dc0" stop-opacity="0" offset="0"/>
 			<stop stop-color="#0038a0" stop-opacity=".18366" offset=".62424"/>
 			<stop stop-color="#00429c" stop-opacity=".44553" offset="1"/>
 		</radialGradient>
-		<radialGradient id="c" cx="29.978" cy="35.463" r="8.8388" gradientTransform="matrix(1.1183 0 0 1.1888 -3.8264 -7.1898)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="c" cx="29.978" cy="35.463" r="8.8388" gradientTransform="matrix(1.1183,0,0,1.1888,-3.8264,-7.1898)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#8aefff" stop-opacity="0" offset="0"/>
 			<stop stop-color="#82e7fe" offset=".22979"/>
 			<stop stop-color="#139ffd" stop-opacity=".23529" offset=".32893"/>
 			<stop stop-color="#0089fd" stop-opacity="0" offset=".58394"/>
 			<stop stop-color="#6ce7ff" stop-opacity=".78631" offset="1"/>
 		</radialGradient>
-		<radialGradient id="a" cx="31.757" cy="47.784" r="8.8388" fx="31.719" fy="39.533" gradientTransform="matrix(1.654 -1.654 2.0074 2.0074 -105.21 .3445)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="a" cx="31.304" cy="48.158" r="8.8388" fx="31.266" fy="39.907" gradientTransform="matrix(1.654 -1.654 2.0074 2.0074 -105.21 .3445)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#10ebff" stop-opacity=".26746" offset="0"/>
 			<stop stop-color="#1bf8ff" stop-opacity=".31634" offset=".49"/>
 			<stop stop-color="#001e6e" stop-opacity=".19553" offset=".71"/>
@@ -30,16 +30,16 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="#278bf6"/>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="url(#a)" style="font-variant-east_asian:normal"/>
-	<path d="m26 2c0 4 1e-6 11-4 15 4.5075-4.0941 8.0869-4.3741 10.5-4.5 2.4131 0.12588 5.9925 0.4059 10.5 4.5-4-4-4-11-4-15h-6.5z" color="#000000" fill="#0046c1" fill-opacity=".47696"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#6ce4ff"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#278bf6"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)" style="font-variant-east_asian:normal"/>
+	<path d="m26 2c0 4 1e-6 13-4 17 4.5075-4.0941 8.0869-4.3741 10.5-4.5 2.4131 0.12588 5.9925 0.4059 10.5 4.5-4-4-4-13-4-17h-6.5z" color="#000000" fill="#0046c1" fill-opacity=".47696"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#6ce4ff"/>
 	<path d="m26-1e-6h13v2h-13z" color="#000000" fill="#ffffff" fill-opacity=".58729"/>
 	<path d="m64 4-2-2 2-1z" fill="#4ab7fa"/>
 	<path d="m0 1v3l2-2z" fill="#98ecff"/>
-	<g transform="matrix(1.9992 0 0 1.9992 -31.247 -42.942)">
+	<g transform="matrix(1.9992,0,0,1.9992,-31.247,-40.942)">
 		<path d="m40.438 37.572c0 4.8816-3.8187 8.8388-8.5293 8.8388s-8.5293-3.9573-8.5293-8.8388 3.8187-9.8392 8.5293-9.8392 8.5293 4.9577 8.5293 9.8392z" color="#000000" fill="url(#b)"/>
 		<path d="m40.438 37.572c0 4.8816-3.8187 8.8388-8.5293 8.8388s-8.5293-3.9573-8.5293-8.8388 3.8187-9.8392 8.5293-9.8392 8.5293 4.9577 8.5293 9.8392z" color="#000000" fill="url(#c)"/>
 	</g>
-	<path d="m25.103 22.429c-0.65667 0.65911-1.1838 1.4203-1.572 2.2322 0.43298 0.04423 0.84796 0.11956 1.2528 0.2231 0.07582 0.01929 0.15127 0.03956 0.22635 0.06073 7e-3 -0.01545 0.01408-0.0309 0.02119-0.04635 0.49898-1.0344 1.1628-1.9447 1.9372-2.7223-0.59819 0.05785-1.2178 0.14568-1.8655 0.25261zm2.2241-0.2838c-0.78865 0.79812-1.4683 1.7235-1.9789 2.776-0.01699 0.03663-0.03374 0.0733-0.05024 0.10999 0.47084 0.14895 0.92994 0.33391 1.3771 0.54708 0.06801-0.1611 0.14025-0.32107 0.21688-0.4797 0.52799-1.0869 1.255-2.0714 2.1048-2.9817-0.52807-0.02882-1.0832-0.01666-1.6696 0.02839zm-4.0121 3.0111c-0.32451 0.81817-0.50937 1.659-0.5604 2.4786 0.44826 0.32046 0.89738 0.67234 1.3436 1.0581 0.05244-0.99884 0.25434-2.0604 0.64809-3.1106-0.46428-0.17627-0.94138-0.32086-1.4312-0.42609zm1.7122 0.5372c-0.40337 1.092-0.60602 2.1983-0.65776 3.2386 0.44618 0.40086 0.89383 0.84099 1.3394 1.3257 0.046-1.282 0.24169-2.6208 0.67353-3.9054-0.44302-0.24815-0.89514-0.46971-1.3552-0.65892z" fill="#ffffff" fill-opacity=".98603" style="paint-order:normal"/>
+	<path d="m25.103 24.429c-0.65667 0.65911-1.1838 1.4203-1.572 2.2322 0.43298 0.04423 0.84796 0.11956 1.2528 0.2231 0.07582 0.01929 0.15127 0.03956 0.22635 0.06073 7e-3 -0.01545 0.01408-0.0309 0.02119-0.04635 0.49898-1.0344 1.1628-1.9447 1.9372-2.7223-0.59819 0.05785-1.2178 0.14568-1.8655 0.25261zm2.2241-0.2838c-0.78865 0.79812-1.4683 1.7235-1.9789 2.776-0.01699 0.03663-0.03374 0.0733-0.05024 0.10999 0.47084 0.14895 0.92994 0.33391 1.3771 0.54708 0.06801-0.1611 0.14025-0.32107 0.21688-0.4797 0.52799-1.0869 1.255-2.0714 2.1048-2.9817-0.52807-0.02882-1.0832-0.01666-1.6696 0.02839zm-4.0121 3.0111c-0.32451 0.81817-0.50937 1.659-0.5604 2.4786 0.44826 0.32046 0.89738 0.67234 1.3436 1.0581 0.05244-0.99884 0.25434-2.0604 0.64809-3.1106-0.46428-0.17627-0.94138-0.32086-1.4312-0.42609zm1.7122 0.5372c-0.40337 1.092-0.60602 2.1983-0.65776 3.2386 0.44618 0.40086 0.89383 0.84099 1.3394 1.3257 0.046-1.282 0.24169-2.6208 0.67353-3.9054-0.44302-0.24815-0.89514-0.46971-1.3552-0.65892z" fill="#ffffff" fill-opacity=".98603" style="paint-order:normal"/>
 </svg>
