@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="b" cx="-9382.9" cy="5043.1" r="9" gradientTransform="matrix(0,1.6418,-1.4595,0,7371.3,15414)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="9.4774" cy="11.416" r="9.0713" gradientTransform="matrix(-1.1273e-7,1.6289,-1.448,-1.0021e-7,25.53,-10.439)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m3 2c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1zm5 2h2c0.554 0 1 0.446 1 1v1h3.5c0.277 0 0.5 0.223 0.5 0.5s-0.22578 0.46083-0.5 0.5h-3.5v1c0 0.554-0.446 1-1 1h-2c-0.554 0-1-0.446-1-1v-1h-3.5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5h3.5v-1c0-0.554 0.446-1 1-1zm-4 8h1v2h-1zm2 0h1v1h-1zm2 0h1v2h-1zm2 0h1v1h-1zm2 0h1v2h-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
+	<path d="m3 2c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1zm5 2h2c0.554 0 1 0.446 1 1v1h3.5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-3.5v1c0 0.554-0.446 1-1 1h-2c-0.554 0-1-0.446-1-1v-1h-3.5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5h3.5v-1c0-0.554 0.446-1 1-1zm-4 8h1v2h-1zm2 0h1v1h-1zm2 0h1v2h-1zm2 0h1v1h-1zm2 0h1v2h-1z" fill="url(#b)" style="paint-order:normal"/>
+	<path d="m3 1c-1.0907 0-2 0.9093-2 2v12c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-12c0-1.0907-0.9093-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1zm5 2c-0.554 0-1 0.446-1 1v1h-3.5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3.5v1c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-1h3.5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-3.5v-1c0-0.554-0.446-1-1-1zm-4 8v2h1v-2zm2 0v1h1v-1zm2 0v2h1v-2zm2 0v1h1v-1zm2 0v2h1v-2z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

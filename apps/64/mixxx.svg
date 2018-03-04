@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="43.063" cy="15.869" r="32" gradientTransform="matrix(.82981 .82981 -.54387 .54387 11.25 -6.5073)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#869bac" offset="0"/>
+			<stop stop-color="#acb8d6" offset="1"/>
+		</radialGradient>
+		<linearGradient id="e" x1="20.769" x2="42.41" y1="23" y2="23" gradientTransform="matrix(1.109 0 0 1.0417 -3.5325 -.95982)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#48456c" offset="0"/>
+			<stop stop-color="#657b87" offset="1"/>
+		</linearGradient>
+		<radialGradient id="d" cx="35.1" cy="29.085" r="18.755" gradientTransform="matrix(1.6583 1.6583 -.83062 .83062 .14678 -53.125)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2e1c4a" stop-opacity=".59384" offset="0"/>
+			<stop stop-color="#3c2f51" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="c" cx="32.5" cy="23.339" r="1" gradientTransform="matrix(-1.3716 -1.4691e-7 2.2662e-6 -13 77.077 328.4)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8e303b" offset="0"/>
+			<stop stop-color="#ce1c52" offset="1"/>
+		</radialGradient>
+		<linearGradient id="f" x1="20" x2="43" y1="26" y2="26" gradientTransform="matrix(1.0435 0 0 1 -1.3696 0)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#6c838e" offset="0"/>
+			<stop stop-color="#2d3950" offset=".5"/>
+			<stop stop-color="#382d4b" offset="1"/>
+		</linearGradient>
+		<radialGradient id="b" cx="32.403" cy="34.062" r="12" gradientTransform="matrix(.33924 0 0 3.0428 13.508 -78.637)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#a7b3cd" offset="0"/>
+			<stop stop-color="#232b3d" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h63.999v-1l-2-1h-42.437z" color="#000000" fill="#e2f2f5"/>
+	<path d="m64 4-2-2 2-1z" fill="#cbd1de" fill-opacity=".99228"/>
+	<path d="m0 1v3l2-2z" fill="#f2f4f7"/>
+	<rect x="9" y="22" width="46" height="5" rx="2.5" ry="2.5" fill="#2a3747" fill-opacity=".6981" style="paint-order:normal"/>
+	<rect x="10" y="23.007" width="44" height="2.993" rx="1.5678" ry="1.4965" fill="#d5d5ff" fill-opacity=".32094" style="paint-order:normal"/>
+	<rect x="11" y="24" width="42" height="1.007" rx=".5035" ry=".5035" fill="#636560" style="paint-order:normal"/>
+	<g transform="translate(.5)">
+		<path d="m25.493 17.99-1 0.99609v24.004l12.49 14.686h23.932l1.0879-1.0859v-26.107l-14.506-12.492h-4e-3z" fill="url(#d)" style="paint-order:normal"/>
+		<rect x="19.5" y="13" width="24" height="26" rx="1" ry="1" fill="url(#f)" style="paint-order:normal"/>
+		<rect x="19.5" y="13" width="24" height="26" rx="1" ry="1" fill="url(#b)" style="paint-order:normal"/>
+		<rect x="26.821" y="18" width="13.179" height="13.986" rx="1.986" ry="1.986" fill="#22223c" fill-opacity=".19492"/>
+		<rect x="24.5" y="16.014" width="14" height="13.986" rx="2.1097" ry="1.986" fill="#d5d5ff" fill-opacity=".32094"/>
+		<path d="m26.609 16.014c-1.1688 0-2.1094 0.88607-2.1094 1.9863v10.014c0 0.64973 0.3324 1.2201 0.8418 1.582-0.21493-0.31127-0.3418-0.68156-0.3418-1.082v-10.014c0-1.1003 0.9406-1.9863 2.1094-1.9863h9.7812c0.47858 0 0.91436 0.15336 1.2676 0.4043-0.37556-0.54391-1.0242-0.9043-1.7676-0.9043z" fill="#d5e5ff" fill-opacity=".27108"/>
+		<rect x="25.5" y="17.014" width="12" height="11.986" rx="1.0373" ry=".92101" fill="url(#e)"/>
+		<rect x="30.5" y="17" width="2" height="12.014" fill="url(#c)"/>
+	</g>
+	<path d="m7 46v9h2v-9zm6 0v7h2v-7zm6 0v5h2v-5zm6 0v3h2v-3zm6 0v9h2v-9zm6 0v3h2v-3zm6 0v5h2v-5zm6 0v7h2v-7zm6 0v9h2v-9z" fill="#2a3747" fill-opacity=".6981" style="paint-order:normal"/>
+	<path d="m9 47v8h-1v1h2v-9h-1zm6 0v6h-1v1h2v-7h-1zm6 0v4h-1v1h2v-5h-1zm6 0v2h-1v1h2v-3h-1zm6 0v8h-1v1h2v-9h-1zm6 0v2h-1v1h2v-3h-1zm6 0v4h-1v1h2v-5h-1zm6 0v6h-1v1h2v-7h-1zm6 0v8h-1v1h2v-9h-1z" fill="#ffffff" fill-opacity=".1505" style="paint-order:normal"/>
+</svg>
