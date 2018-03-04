@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="-9387.7" cy="5040.6" r="9" gradientTransform="matrix(2.0158,0,0,1.7919,18931,-9025.3)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<linearGradient id="c" x1="-11.061" x2="-9.4273" y1="17.928" y2="13.585" gradientTransform="matrix(1 0 0 .99903 21.824 -1.1487)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".0036265" offset="1"/>
+		</linearGradient>
+		<radialGradient id="a" cx="9.9746" cy="5.9293" r="9.0713" gradientTransform="matrix(1.7081,0,0,1.7065,-5.8789,-6.1796)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
+		</radialGradient>
+		<linearGradient id="d" x1="11.16" x2="12.65" y1="9.4449" y2="9.4449" gradientTransform="translate(-1,-1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="e" cx="9.9746" cy="5.9293" r="9.0713" gradientTransform="matrix(1.7081,0,0,1.7065,-6.8789,-7.1796)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m14.842 2c-0.30205 8.743e-4 -0.5988 0.039867-0.88672 0.11719-1.6196 0.44005-2.7863 2.0324-3.0176 4.1211-1.2186 0.70052-3.3413 2.3595-4.3789 3.8906-0.16064 0.23701-0.29007 0.5443-0.4043 0.875l-0.1543 0.99609h1.9707c0.34902-0.36651 0.71933-0.72237 1.2539-0.99609 0.8865-0.32578 1.6021-0.40042 2.5859-0.42578 1.1912 2.1855 3.2723 3.3291 5.1484 2.8262 2.3804-0.64285 3.6376-3.6909 2.8086-6.8066-0.71431-2.6842-2.7739-4.6065-4.9258-4.5977zm-10.342 11c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5zm-1.5 2c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1z" fill="#090d11" fill-opacity=".76621" stroke-width="1.2748" style="paint-order:normal"/>
+	<path d="m14.842 2c-0.30205 8.743e-4 -0.5988 0.039867-0.88672 0.11719-1.6196 0.44005-2.7863 2.0324-3.0176 4.1211-1.2186 0.70052-3.3413 2.3595-4.3789 3.8906-0.16064 0.23701-0.29007 0.5443-0.4043 0.875l-0.1543 0.99609h1.9707c0.34902-0.36651 0.71933-0.72237 1.2539-0.99609 0.8865-0.32578 1.6021-0.40042 2.5859-0.42578 1.1912 2.1855 3.2723 3.3291 5.1484 2.8262 2.3804-0.64285 3.6376-3.6909 2.8086-6.8066-0.71431-2.6842-2.7739-4.6065-4.9258-4.5977zm-10.342 11c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5zm-1.5 2c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1z" fill="url(#b)" style="paint-order:normal"/>
+	<path d="m14.838 1c-0.38556 0.00128-0.77039 0.052395-1.1426 0.15234h-2e-3c-1.9099 0.51894-3.1248 2.3039-3.543 4.4258-1.3719 0.83509-3.2872 2.3188-4.4199 3.9902-0.24589 0.3628-0.39356 0.73903-0.52148 1.1094l-0.029297 0.08399-0.19141 1.2383h-0.48823c-0.8137 0-1.5 0.6863-1.5 1.5 0 0.19285 0.14128 0.3289 0.21094 0.5h-0.21094c-1.0907 0-2 0.9093-2 2v3c0 1.0907 0.9093 2 2 2h8c1.0907 0 2-0.9093 2-2v-3c0-1.0907-0.9093-2-2-2h-0.21094c0.06966-0.1711 0.21094-0.30715 0.21094-0.5 0-0.80094-0.66992-1.4653-1.4668-1.4863 0.0356-0.02152 0.06003-0.0597 0.09766-0.08008 0.58165-0.20778 1.1174-0.24383 1.7383-0.2793 1.4132 2.0887 3.6467 3.3073 5.8496 2.7168v-2e-3c1.5315-0.41359 2.67-1.6007 3.2715-3.0586s0.71178-3.2131 0.24414-4.9707c-0.80646-3.0304-3.1454-5.35-5.8945-5.3398h-2e-3zm0.0039 1c2.1518-0.00884 4.2115 1.9134 4.9258 4.5977 0.82902 3.1158-0.42824 6.1638-2.8086 6.8066-1.8761 0.5029-3.9572-0.64063-5.1484-2.8262-0.98383 0.02537-1.6994 0.1-2.5859 0.42578-0.53458 0.27373-0.90489 0.62959-1.2539 0.99609h-1.9707l0.1543-0.99609c0.11423-0.3307 0.24366-0.63799 0.4043-0.875 1.0376-1.5311 3.1603-3.1901 4.3789-3.8906 0.2313-2.0887 1.398-3.681 3.0176-4.1211 0.28792-0.07732 0.58467-0.11631 0.88672-0.11719zm-10.342 11h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm-1.5 2h8c0.554 0 1 0.446 1 1v3c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-3c0-0.554 0.446-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#e)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<ellipse transform="rotate(-16.136)" cx="13.144" cy="11.8" rx="3.6092" ry="4.9559" fill="url(#c)" style="paint-order:normal"/>
+	<path d="m10.932 7.0293a0.25002 0.25002 0 0 0-0.22852 0.24609c-0.02453 0.95107 0.16506 1.7432 0.4668 2.4355a0.25018 0.25018 0 1 0 0.45898-0.19922c-0.27714-0.63592-0.44843-1.3446-0.42578-2.2227a0.25002 0.25002 0 0 0-0.27148-0.25977z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#d)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
