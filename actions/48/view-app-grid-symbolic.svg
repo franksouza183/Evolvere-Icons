@@ -1,62 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   version="1.1"
-   id="svg9"
-   sodipodi:docname="view-app-grid-symbolic.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="7.1594562"
-     inkscape:cx="26.816747"
-     inkscape:cy="25.512334"
-     inkscape:current-layer="svg9" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
 			color:#090d11;
 			}</style>
-  </defs>
-  <path
-     d="M 34.5,5 C 33.67765,5 33,5.67765 33,6.5 v 7 c 0,0.82235 0.67765,1.5 1.5,1.5 h 7 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -7 C 43,5.67765 42.32235,5 41.5,5 Z m 2,3 h 3 C 39.78565,8 40,8.21435 40,8.5 v 3 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -3 C 36.21435,12 36,11.78565 36,11.5 v -3 C 36,8.21435 36.21435,8 36.5,8 Z M 9.5,8 C 8.67765,8 8,8.67765 8,9.5 v 2 C 8,12.32235 8.67765,13 9.5,13 h 2 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -2 C 13,8.67765 12.32235,8 11.5,8 Z m 12,0 C 20.67765,8 20,8.67765 20,9.5 v 4 c 0,0.82235 0.67765,1.5 1.5,1.5 h 4 c 0.82235,0 2.5,-0.67765 2.5,-1.5 v -4 C 28,8.67765 27.32235,8 26.5,8 Z m -12,1 h 2 C 11.78565,9 12,9.21435 12,9.5 v 2 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -2 C 9.21435,12 9,11.78565 9,11.5 v -2 C 9,9.21435 9.21435,9 9.5,9 Z m 13,1 h 3 c 0.28565,0 0.5,0.21435 0.5,0.5 v 2 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -3 C 22.21435,13 22,12.78565 22,12.5 v -2 C 22,10.21435 22.21435,10 22.5,10 Z m -2,9 C 19.67765,19 19,19.67765 19,20.5 v 7 c 0,0.82235 0.67765,1.5 1.5,1.5 h 7 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -7 C 29,19.67765 28.32235,19 27.5,19 Z m -11,1 C 8.67765,20 8,20.67765 8,21.5 v 5 C 8,27.32235 8.67765,28 9.5,28 h 4 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -5 C 15,20.67765 14.32235,20 13.5,20 Z m 25,0 C 33.67765,20 33,20.67765 33,21.5 v 5 c 0,0.82235 0.67765,1.5 1.5,1.5 h 4 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -5 C 40,20.67765 39.32235,20 38.5,20 Z m -24,2 h 2 c 0.28565,0 0.5,0.21435 0.5,0.5 v 3 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -2 C 10.21435,26 10,25.78565 10,25.5 v -3 C 10,22.21435 10.21435,22 10.5,22 Z m 25,0 h 2 c 0.28565,0 0.5,0.21435 0.5,0.5 v 3 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -2 C 35.21435,26 35,25.78565 35,25.5 v -3 C 35,22.21435 35.21435,22 35.5,22 Z M 6.5,33 C 5.67765,33 5,33.67765 5,34.5 v 7 C 5,42.32235 5.67765,43 6.5,43 h 7 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -7 C 15,33.67765 14.32235,33 13.5,33 Z m 15,0 C 20.67765,33 20,33.67765 20,34.5 v 4 c 0,0.82235 0.67765,1.5 1.5,1.5 h 5 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -4 C 28,33.67765 27.32235,33 26.5,33 Z m -13,3 h 3 c 0.28565,0 0.5,0.21435 0.5,0.5 v 3 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -3 C 8.21435,40 8,39.78565 8,39.5 v -3 C 8,36.21435 8.21435,36 8.5,36 Z m 14,-1 h 3 c 0.28565,0 0.5,0.21435 0.5,0.5 v 2 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -3 C 22.21435,38 22,37.78565 22,37.5 v -2 C 22,35.21435 22.21435,35 22.5,35 Z m 14,0 C 35.67765,35 35,35.67765 35,36.5 v 2 c 0,0.82235 0.67765,1.5 1.5,1.5 h 2 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -2 C 40,35.67765 39.32235,35 38.5,35 Z m 0,1 h 2 c 0.28565,0 0.5,0.21435 0.5,0.5 v 2 c 0,0.28565 -0.21435,0.5 -0.5,0.5 h -2 C 36.21435,39 36,38.78565 36,38.5 v -2 C 36,36.21435 36.21435,36 36.5,36 Z"
-     dominant-baseline="auto"
-     style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#000000;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     id="path7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" />
+	</defs>
+	<path d="m34.5 5c-0.82235 0-1.5 0.67765-1.5 1.5v7c0 0.82235 0.67765 1.5 1.5 1.5h7c0.82235 0 1.5-0.67765 1.5-1.5v-7c0-0.82235-0.67765-1.5-1.5-1.5zm1 2h5c0.28565 0 0.5 0.21435 0.5 0.5v5c0 0.28565-0.21435 0.5-0.5 0.5h-5c-0.28565 0-0.5-0.21435-0.5-0.5v-5c0-0.28565 0.21435-0.5 0.5-0.5zm-26 1c-0.82235 0-1.5 0.67765-1.5 1.5v2c0 0.82235 0.67765 1.5 1.5 1.5h2c0.82235 0 1.5-0.67765 1.5-1.5v-2c0-0.82235-0.67765-1.5-1.5-1.5zm12 0c-0.82235 0-1.5 0.67765-1.5 1.5v4c0 0.82235 0.67765 1.5 1.5 1.5h5c0.82235 0 1.5-0.67765 1.5-1.5v-4c0-0.82235-0.67765-1.5-1.5-1.5zm-12 1h2c0.28565 0 0.5 0.21435 0.5 0.5v2c0 0.28565-0.21435 0.5-0.5 0.5h-2c-0.28565 0-0.5-0.21435-0.5-0.5v-2c0-0.28565 0.21435-0.5 0.5-0.5zm12 0h5c0.28565 0 0.5 0.21435 0.5 0.5v4c0 0.28565-0.21435 0.5-0.5 0.5h-5c-0.28565 0-0.5-0.21435-0.5-0.5v-4c0-0.28565 0.21435-0.5 0.5-0.5zm-1 10c-0.82235 0-1.5 0.67765-1.5 1.5v7c0 0.82235 0.67765 1.5 1.5 1.5h7c0.82235 0 1.5-0.67765 1.5-1.5v-7c0-0.82235-0.67765-1.5-1.5-1.5zm-11 1c-0.82235 0-1.5 0.67765-1.5 1.5v5c0 0.82235 0.67765 1.5 1.5 1.5h4c0.82235 0 1.5-0.67765 1.5-1.5v-5c0-0.82235-0.67765-1.5-1.5-1.5zm25 0c-0.82235 0-1.5 0.67765-1.5 1.5v5c0 0.82235 0.67765 1.5 1.5 1.5h4c0.82235 0 1.5-0.67765 1.5-1.5v-5c0-0.82235-0.67765-1.5-1.5-1.5zm-25 1h4c0.28565 0 0.5 0.21435 0.5 0.5v5c0 0.28565-0.21435 0.5-0.5 0.5h-4c-0.28565 0-0.5-0.21435-0.5-0.5v-5c0-0.28565 0.21435-0.5 0.5-0.5zm25 0h4c0.28565 0 0.5 0.21435 0.5 0.5v5c0 0.28565-0.21435 0.5-0.5 0.5h-4c-0.28565 0-0.5-0.21435-0.5-0.5v-5c0-0.28565 0.21435-0.5 0.5-0.5zm-28 12c-0.82235 0-1.5 0.67765-1.5 1.5v7c0 0.82235 0.67765 1.5 1.5 1.5h7c0.82235 0 1.5-0.67765 1.5-1.5v-7c0-0.82235-0.67765-1.5-1.5-1.5zm15 0c-0.82235 0-1.5 0.67765-1.5 1.5v4c0 0.82235 0.67765 1.5 1.5 1.5h5c0.82235 0 1.5-0.67765 1.5-1.5v-4c0-0.82235-0.67765-1.5-1.5-1.5zm-14 2h5c0.28565 0 0.5 0.21435 0.5 0.5v5c0 0.28565-0.21435 0.5-0.5 0.5h-5c-0.28565 0-0.5-0.21435-0.5-0.5v-5c0-0.28565 0.21435-0.5 0.5-0.5zm14-1h5c0.28565 0 0.5 0.21435 0.5 0.5v4c0 0.28565-0.21435 0.5-0.5 0.5h-5c-0.28565 0-0.5-0.21435-0.5-0.5v-4c0-0.28565 0.21435-0.5 0.5-0.5zm15 1c-0.82235 0-1.5 0.67765-1.5 1.5v2c0 0.82235 0.67765 1.5 1.5 1.5h2c0.82235 0 1.5-0.67765 1.5-1.5v-2c0-0.82235-0.67765-1.5-1.5-1.5zm0 1h2c0.28565 0 0.5 0.21435 0.5 0.5v2c0 0.28565-0.21435 0.5-0.5 0.5h-2c-0.28565 0-0.5-0.21435-0.5-0.5v-2c0-0.28565 0.21435-0.5 0.5-0.5z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#000000" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>
