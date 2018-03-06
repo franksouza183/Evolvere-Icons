@@ -19,25 +19,19 @@
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
-		<radialGradient id="d" cx="12.177" cy="9.6178" r="8.5303" gradientTransform="matrix(1.9429,0,0,1.9429,-11.482,-10.487)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<radialGradient id="c" cx="12.884" cy="8.9718" r="8" gradientTransform="matrix(1.8949,0,0,1.8949,-12.631,-11.481)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<radialGradient id="d" cx="12.177" cy="9.6178" r="8.5303" gradientTransform="matrix(1.9429,0,0,1.9429,-12.482,-11.487)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="c" cx="12.884" cy="8.9718" r="8" gradientTransform="matrix(1.8949,0,0,1.8949,-13.631,-12.481)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
 	</defs>
-	<g transform="translate(-1,-1)" fill="none" stroke="url(#c)" stroke-opacity=".72157">
-		<path d="m5.7286 19.619 8-8" style="paint-order:normal"/>
-		<path d="m13.729 11.619 8-8" style="paint-order:normal"/>
-		<path d="m12.729 10.619-7-7" stroke-width="2" style="paint-order:normal"/>
-		<path d="m13.375 11.266 8 8" style="paint-order:normal"/>
-	</g>
-	<g transform="translate(-1,-1)" fill="none" stroke="#090d11" stroke-opacity=".76471">
-		<path d="m20 4-8 8" style="paint-order:normal"/>
-		<path d="m12 12-8 8" style="paint-order:normal"/>
-		<path d="m13 13 7 7" stroke-width="2" style="paint-order:normal"/>
-		<path d="m12.354 12.354-8-8" style="paint-order:normal"/>
-	</g>
-	<g transform="translate(-1,-1)" fill="none" stroke="url(#d)" stroke-opacity=".76471">
-		<path d="m20 4-8 8" style="paint-order:normal"/>
-		<path d="m12 12-8 8" style="paint-order:normal"/>
-		<path d="m13 13 7 7" stroke-width="2" style="paint-order:normal"/>
-		<path d="m12.354 12.354-8-8" style="paint-order:normal"/>
-	</g>
+	<path d="m5.7286 17.619 7-7" fill="none" stroke="url(#c)" stroke-opacity=".72157" style="paint-order:normal"/>
+	<path d="m12.729 10.619 7-7" fill="none" stroke="url(#c)" stroke-opacity=".72157" style="paint-order:normal"/>
+	<path d="m11.729 9.619-6-6" fill="none" stroke="url(#c)" stroke-opacity=".72157" stroke-width="2" style="paint-order:normal"/>
+	<path d="m12.375 10.266 7 7" fill="none" stroke="url(#c)" stroke-opacity=".72157" style="paint-order:normal"/>
+	<path d="m18 4-7 7" fill="none" stroke="#090d11" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m11 11-7 7" fill="none" stroke="#090d11" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m12 12 6 6" fill="none" stroke="#090d11" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
+	<path d="m11.354 11.354-7-7" fill="none" stroke="#090d11" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m18 4-7 7" fill="none" stroke="url(#d)" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m11 11-7 7" fill="none" stroke="url(#d)" stroke-opacity=".76471" style="paint-order:normal"/>
+	<path d="m12 12 6 6" fill="none" stroke="url(#d)" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
+	<path d="m11.354 11.354-7-7" fill="none" stroke="url(#d)" stroke-opacity=".76471" style="paint-order:normal"/>
 </svg>

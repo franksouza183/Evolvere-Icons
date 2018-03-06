@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="defs3051">
+		<style type="text/css" id="current-color-scheme">
+			.ColorScheme-Text {
+			color:#090d11;
+			}
+		</style>
+	</defs>
+	<defs>
+		<radialGradient id="a" cx="8" cy="5.8853" r="6" gradientTransform="matrix(1.904,0,0,1.904,-7.2319,-7.2319)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<path d="m12.646 2.6465-4.6465 4.6465-4.293-4.293-0.70703 0.70703 4.293 4.293-4.6465 4.6465 0.70703 0.70703 10-10-0.70703-0.70703zm-2.9395 5.6465-1.4141 1.4141 4 4 1.4141-1.4141-4-4z" color="#090d11" fill="currentColor" class="ColorScheme-Text"/>
+</svg>
