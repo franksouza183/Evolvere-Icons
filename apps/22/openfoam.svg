@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="9.4007" cy="12.837" r="6" gradientTransform="matrix(2.938,0,0,3.1845,-14.017,-28.881)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="c" cx="7800.7" cy="-3926.4" r="6.5" gradientTransform="matrix(8.5282e-6,2.5506,-2.7632,0,-10839,-19889)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m19.178 4-16.297 0.011719c-0.38582-7.855e-4 -0.62715 0.41556-0.43359 0.74805l8.1367 14.041c0.19223 0.33334 0.67496 0.33334 0.86719 0l0.57422-0.99023 0.22461-0.12891-0.07422-0.12891 7.4336-12.807c0.19087-0.3313-0.04819-0.74452-0.43164-0.74609zm-13.674 2h12.223l-6.127 10.555z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#090d11" fill-opacity=".76621" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m19.178 4-16.297 0.011719c-0.38582-7.855e-4 -0.62715 0.41556-0.43359 0.74805l8.1367 14.041c0.19223 0.33334 0.67496 0.33334 0.86719 0l0.57422-0.99023 0.22461-0.12891-0.07422-0.12891 7.4336-12.807c0.19087-0.3313-0.04819-0.74452-0.43164-0.74609zm-13.674 2h12.223l-6.127 10.555z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".7533" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m0.759 3.78a0.50005 0.50005 0 0 1 0.43272-0.7505l19.617-0.029451a0.50005 0.50005 0 0 1 0.43262 0.74932l-9.8342 16.974a0.50005 0.50005 0 0 1-0.86632-5.04e-4zm1.2986 0.24931 8.917 15.445 8.9678-15.475z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#c)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
