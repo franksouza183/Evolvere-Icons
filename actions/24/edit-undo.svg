@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="b" cx="10.524" cy="8.6911" r="9.3037" gradientTransform="matrix(1.4243 0 0 1.346 -5.9898 -4.6984)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="2.9333" cy="12.79" r="9.0774" gradientTransform="matrix(1.875 0 0 1.6525 -3.5 -8.1345)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="b" cx="5.3655" cy="11.547" r="7.3603" gradientTransform="matrix(1.6038 0 0 1.0837 -1.1962 .0557)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="10.524" cy="8.6911" r="9.3037" gradientTransform="matrix(1.4243 0 0 1.346 -5.7652 -2.417)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -20,7 +20,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m21.149 16.512c-4.9677-4.9677-5.149-5.0118-7.0941-5.0118h-9.9694l5.4475-5.5571v4.0165" fill="none" stroke="url(#b)" style="paint-order:normal"/>
-	<path d="m8.5 10.959v-1.9594l-4.5 4.5h8c2.5 0 3.6941 0.11176 8.5941 5.0118-5.9588-5.9588-6.0941-6.0118-8.5941-6.0118h-7.14" fill="none" stroke="#0c1218" stroke-opacity=".72157" style="paint-order:normal"/>
-	<path d="m8.5 10.959v-1.9594l-4.5 4.5h8c2.5 0 3.6941 0.11176 8.5941 5.0118-5.9588-5.9588-6.0941-6.0118-8.5941-6.0118h-7.14" fill="none" stroke="url(#a)" stroke-opacity=".72157" style="font-variant-east_asian:normal;paint-order:normal"/>
+	<path d="m21.665 15.512c-3.926-3.926-5.1267-4.0118-7.7004-4.0118h-9.8631l5.4475-4.8587v3.3181" fill="none" stroke="url(#a)" style="paint-order:normal"/>
+	<path d="m9.0158 7.793-6.207 6.207h8.8549c3.7592 0 5.6892-0.16096 9.1587 3.1953l0.54242 7.88e-4c-4.5767-5.191-6.3131-5.1961-9.2817-5.1961h-5.8603l1.793-1.793v0.75195h1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#0c1218" fill-opacity=".72157" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m9.0158 7.793-6.207 6.207h8.8549c3.7592 0 5.6892-0.16096 9.1587 3.1953l0.54242 7.88e-4c-4.5767-5.191-6.3131-5.1961-9.2817-5.1961h-5.8603l1.793-1.793v0.75195h1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".72157" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

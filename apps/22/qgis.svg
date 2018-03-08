@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="-9416.7" cy="5037.1" r="9" gradientTransform="matrix(2.5699,0,0,2.5639,24215,-12899)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="12.803" cy="14.887" r="10" gradientTransform="matrix(2.4912,0,0,2.3666,-17.894,-21.231)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m11 2c-4.9528 0-9 4.0472-9 9s4.0472 9 9 9c1.7555 0 3.3913-0.51558 4.7793-1.3926l-2.1934-2.1934c-0.7826 0.37175-1.6566 0.58594-2.5859 0.58594-3.3315 0-6-2.6685-6-6s2.6685-6 6-6 6 2.6685 6 6c0 0.9293-0.21419 1.8033-0.58594 2.5859l2.1934 2.1934c0.87699-1.388 1.3926-3.0238 1.3926-4.7793 0-4.9528-4.0472-9-9-9zm0 9v1.4141l7.5859 7.5859h1.4141v-1.4141l-7.5859-7.5859z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#090d11" fill-opacity=".76621" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m11 2c-4.9528 0-9 4.0472-9 9s4.0472 9 9 9c1.7555 0 3.3913-0.51558 4.7793-1.3926l-2.1934-2.1934c-0.7826 0.37175-1.6566 0.58594-2.5859 0.58594-3.3315 0-6-2.6685-6-6s2.6685-6 6-6 6 2.6685 6 6c0 0.9293-0.21419 1.8033-0.58594 2.5859l2.1934 2.1934c0.87699-1.388 1.3926-3.0238 1.3926-4.7793 0-4.9528-4.0472-9-9-9zm0 9v1.4141l7.5859 7.5859h1.4141v-1.4141l-7.5859-7.5859z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".75328" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m11 1c-5.4976 0-10 4.5024-10 10s4.5024 10 10 10c1.9513 0 3.7742-0.57492 5.3125-1.5469l0.19141-0.12109 1.668 1.668h2.8281v-2.8281l-1.668-1.668 0.12109-0.19141c0.97196-1.5383 1.5469-3.3612 1.5469-5.3125 0-5.4976-4.5024-10-10-10zm0 1c4.9528 0 9 4.0472 9 9 0 1.7555-0.51558 3.3913-1.3926 4.7793l-2.1934-2.1934c0.37175-0.7826 0.58594-1.6566 0.58594-2.5859 0-3.3315-2.6685-6-6-6s-6 2.6685-6 6 2.6685 6 6 6c0.9293 0 1.8033-0.21419 2.5859-0.58594l2.1934 2.1934c-1.388 0.87699-3.0238 1.3926-4.7793 1.3926-4.9528 0-9-4.0472-9-9s4.0472-9 9-9zm0 4c2.7975 0 5 2.2025 5 5 0 0.63718-0.18479 1.2126-0.40039 1.7715l-2.7715-2.7715h-2.8281v2.8281l2.7715 2.7715c-0.55883 0.2156-1.1343 0.40039-1.7715 0.40039-2.7975 0-5-2.2025-5-5s2.2025-5 5-5zm0 5h1.4141l7.5859 7.5859v1.4141h-1.4141l-7.5859-7.5859z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

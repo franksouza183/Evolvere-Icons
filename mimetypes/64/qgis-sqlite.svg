@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient id="a" x2="64" y1="15" y2="15" gradientTransform="translate(0,64)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#5f281b" stop-opacity=".14902" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".8897" offset=".49866"/>
+			<stop stop-color="#5f231b" stop-opacity=".14902" offset="1"/>
+		</linearGradient>
+		<linearGradient id="g" x1="23.351" x2="41.135" y1="92.5" y2="92.5" gradientTransform="translate(0,-47)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<linearGradient id="f" x1="23.351" x2="41.135" y1="92.5" y2="92.5" gradientTransform="translate(0,-64)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<linearGradient id="e" x1=".12447" x2="63.876" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#9486b4" offset="0"/>
+			<stop stop-color="#3f5c3b" offset=".11928"/>
+			<stop stop-color="#a89d85" offset=".25966"/>
+			<stop stop-color="#d8d7b8" offset=".5"/>
+			<stop stop-color="#95a49a" offset=".7446"/>
+			<stop stop-color="#485947" offset=".87008"/>
+			<stop stop-color="#59476e" offset="1"/>
+		</linearGradient>
+		<radialGradient id="c" cx="32.839" cy="15.581" r="10.211" gradientTransform="matrix(1.6372 0 0 1.3221 -21.765 -5.5997)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".37771" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="31.454" cy="22.498" r="32" gradientTransform="matrix(1 0 0 1.1639 0 .29664)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#66812c" offset="0"/>
+			<stop stop-color="#4a661c" offset="1"/>
+		</radialGradient>
+		<radialGradient id="d" cx="31.878" cy="36.165" r="3.3096" gradientTransform="matrix(-.95903 0 0 -14.755 62.45 548.56)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".75907" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m2 0-2 1v55.5c0 4.1421 14.327 7.5 32 7.5s32-3.3579 32-7.5v-55.5l-2-1h-14.531v3.4375h-30.938v-3.4375z" fill="url(#e)"/>
+	<path d="m2 0-2 1v6.2402h64v-6.2402l-2-1h-14.531v3.4375h-30.938v-3.4375h-14.531z" fill="#497136" style="font-variant-east_asian:normal"/>
+	<path d="m2 0-2 1v4.4062c2.3053-2.3466 8.4229-4.2944 16.531-5.4062h-14.531zm45.469 0c8.1084 1.1119 14.226 3.0597 16.531 5.4062v-4.4062l-2-1h-14.531zm-47.469 9.5938v5.4062h16.531c-8.1111-1.1112-14.226-3.0595-16.531-5.4062zm64 0c-2.3055 2.3467-8.4201 4.295-16.531 5.4062h16.531v-5.4062z" fill="#9ed231" style="font-variant-east_asian:normal"/>
+	<path d="m32 0c-17.673 0-32 3.3579-32 7.5s14.327 7.5 32 7.5 32-3.3579 32-7.5-14.327-7.5-32-7.5z" fill="#f0f1e5"/>
+	<path d="m0 24.5v1.4375c0.090011 0.13446 0.17059 0.27951 0.28125 0.40625 0.48169 0.55171 1.1566 1.0326 2 1.5 1.6868 0.93472 4.0458 1.7524 6.9688 2.4375 5.8459 1.3701 13.882 2.2188 22.75 2.2188s16.904-0.84862 22.75-2.2188c2.9229-0.68506 5.2819-1.5028 6.9688-2.4375 0.84342-0.46736 1.5183-0.94829 2-1.5 0.11066-0.12674 0.19124-0.27179 0.28125-0.40625v-1.4375h-0.5c0 0.37365-0.1604 0.76274-0.53125 1.1875s-0.94288 0.85132-1.7188 1.2812c-1.5517 0.85986-3.8821 1.6716-6.75 2.3438-5.7358 1.3443-13.695 2.1875-22.5 2.1875s-16.764-0.84316-22.5-2.1875c-2.8679-0.67217-5.1983-1.4839-6.75-2.3438-0.77587-0.42993-1.3479-0.85649-1.7188-1.2812-0.37085-0.42476-0.53125-0.81385-0.53125-1.1875h-0.5z" color="#000000" fill="url(#f)" style="block-progression:tb;text-indent:0;text-transform:none"/>
+	<path d="m0 41.5v1.4375c0.090011 0.13446 0.17059 0.27951 0.28125 0.40625 0.48169 0.55171 1.1566 1.0326 2 1.5 1.6868 0.93472 4.0458 1.7524 6.9688 2.4375 5.8459 1.3701 13.882 2.2188 22.75 2.2188s16.904-0.84862 22.75-2.2188c2.9229-0.68506 5.2819-1.5028 6.9688-2.4375 0.84342-0.46736 1.5183-0.94829 2-1.5 0.11066-0.12674 0.19124-0.27179 0.28125-0.40625v-1.4375h-0.5c0 0.37365-0.1604 0.76274-0.53125 1.1875s-0.94288 0.85132-1.7188 1.2812c-1.5517 0.85986-3.8821 1.6716-6.75 2.3438-5.7358 1.3443-13.695 2.1875-22.5 2.1875s-16.764-0.84316-22.5-2.1875c-2.8679-0.67217-5.1983-1.4839-6.75-2.3438-0.77587-0.42993-1.3479-0.85649-1.7188-1.2812-0.37085-0.42476-0.53125-0.81385-0.53125-1.1875h-0.5z" color="#000000" fill="url(#g)" style="block-progression:tb;text-indent:0;text-transform:none"/>
+	<path d="m0 15v47l2 2h14.531v-49h-16.531zm47.469 0v49h14.531l2-2v-47h-16.531z" fill="url(#b)" style="font-variant-east_asian:normal"/>
+	<path d="m64 17-2-2 2-1z" fill="#779f28"/>
+	<path d="m0 17 2-2-2-1z" fill="#c3ec6f"/>
+	<path d="m0 31v1h16.531v-1zm47.469 0v1h16.531v-1zm-47.469 17v1h16.531v-1zm47.469 0v1h16.531v-1z" fill="#1b250a" fill-opacity=".23955"/>
+	<path d="m0 32v0.5h16.531v-0.5zm47.469 0v0.5h16.531v-0.5zm-47.469 17v0.5h16.531v-0.5zm47.469 0v0.5h16.531v-0.5z" fill="#9ed231" fill-opacity=".30672"/>
+	<path d="m28.568 14.955v49c1.1283 0.028216 2.2714 0.044922 3.4316 0.044922 1.0762 0 2.1386-0.01279 3.1875-0.03711v-49c-1.0489 0.024323-2.1113 0.03711-3.1875 0.03711-1.1602 0-2.3034-0.01671-3.4316-0.04492z" fill="url(#d)" style="font-variant-east_asian:normal;paint-order:normal"/>
+	<ellipse cx="32" cy="15" rx="16.718" ry="13.5" fill="url(#c)" style="paint-order:normal"/>
+	<path d="m56 18c-2.7515 0-5 2.2484-5 5 0 2.7515 2.2484 5 5 5 0.97528 0 1.884-0.28643 2.6552-0.77366l-1.2186-1.2186c-0.43478 0.20653-0.92033 0.32552-1.4366 0.32552-1.8508 0-3.3333-1.4825-3.3333-3.3333s1.4825-3.3333 3.3333-3.3333 3.3333 1.4825 3.3333 3.3333c0 0.51628-0.11899 1.0018-0.32552 1.4366l1.2186 1.2186c0.48722-0.77111 0.77366-1.6799 0.77366-2.6552 0-2.7515-2.2484-5-5-5zm0 5v0.78561l4.2144 4.2144h0.78561v-0.78561l-4.2144-4.2144z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#b8cb9f" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
