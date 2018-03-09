@@ -2,11 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="a" cx="7.5229" cy="8.2544" r="5.8618" gradientTransform="matrix(1.7118,0,0,2.3362,-3367.8,2090.4)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="a" cx="7803.4" cy="-3928" r="6.5" gradientTransform="matrix(8.5282e-6 2.5506 -2.7632 0 -10845 -19895)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
 		</radialGradient>
-		<radialGradient id="b" cx="-3356.4" cy="2108.7" r="7" gradientTransform="matrix(2.1428,0,0,2.1428,7201.3,-4509.6)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="b" cx="298.32" cy="-112.66" r="7.254" gradientTransform="matrix(1.4907 0 0 1.4427 -435.46 172.12)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
 			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
 		</radialGradient>
@@ -20,7 +20,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m9 2c-3.8556 0-7 3.1444-7 7s3.1444 7 7 7 7-3.1444 7-7-3.1444-7-7-7zm-2 4h4l1 1v4l-1 1h-4l-1-1v-2l1-1h4l-1-1h-3zm1 3-1 1 1 1h2l1-1v-1z" color="#000000" fill="#000000" fill-opacity=".76471" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
-	<path d="m9 2c-3.8556 0-7 3.1444-7 7s3.1444 7 7 7 7-3.1444 7-7-3.1444-7-7-7zm-2 4h4l1 1v4l-1 1h-4l-1-1v-2l1-1h4l-1-1h-3zm1 3-1 1 1 1h2l1-1v-1z" color="#000000" fill="url(#b)" fill-opacity=".76471" style="paint-order:normal;text-indent:0;text-transform:none"/>
-	<path d="m9 0.99996c-4.4048 0-8 3.5953-8 8 0 4.4048 3.5953 8 8 8 4.4048 0 8-3.5953 8-8 0-4.4048-3.5953-8-8-8zm0 1c3.8556 0 7 3.1444 7 7 0 3.8556-3.1444 7-7 7s-7-3.1444-7-7c0-3.8556 3.1444-7 7-7zm-2 4v1h3l1 1h-4l-1 1v2l1 1h4l1-1v-4l-1-1zm1 3h3v1l-1 1h-2l-1-1z" color="#000000" fill="url(#a)" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
+	<path d="m9 2c-3.8556 0-7 3.1444-7 7s3.1444 7 7 7 7-3.1444 7-7-3.1444-7-7-7zm-2 4h4l1 1v4l-1 1h-4l-1-1v-2l1-1h4l-1-1h-3zm1 3-1 1 1 1h2l1-1v-1z" color="#000000" fill="#090d11" fill-opacity=".76621" style="font-variant-east_asian:normal;paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
+	<path d="m9 2c-3.8556 0-7 3.1444-7 7s3.1444 7 7 7 7-3.1444 7-7-3.1444-7-7-7zm-2 4h4l1 1v4l-1 1h-4l-1-1v-2l1-1h4l-1-1h-3zm1 3-1 1 1 1h2l1-1v-1z" color="#000000" fill="url(#b)" fill-opacity=".7533" style="font-variant-east_asian:normal;paint-order:normal;text-indent:0;text-transform:none"/>
+	<path d="m9 0.99996c-4.4048 0-8 3.5953-8 8 0 4.4048 3.5953 8 8 8 4.4048 0 8-3.5953 8-8 0-4.4048-3.5953-8-8-8zm0 1c3.8556 0 7 3.1444 7 7s-3.1444 7-7 7-7-3.1444-7-7 3.1444-7 7-7zm-2 4v1h3l1 1h-4l-1 1v2l1 1h4l1-1v-4l-1-1zm1 3h3v1l-1 1h-2l-1-1z" color="#000000" fill="url(#a)" style="font-variant-east_asian:normal;paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
 </svg>
