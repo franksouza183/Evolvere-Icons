@@ -2,14 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="a" cx="-9417.8" cy="5038.4" r="9" gradientTransform="matrix(2.5699 0 0 2.5639 24215 -12897)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="12" cy="18.056" r="10" gradientTransform="matrix(2.4912 0 0 2.3666 -17.894 -20.731)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -20,7 +18,6 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4 4c-0.5541 0-1 0.4459-1 1v5h18v-5c0-0.5541-0.4459-1-1-1zm-1 7v6c0 0.5541 0.46485 1 1 1h1v1.5c0 0.8224 0.6776 1.5 1.5 1.5h11c0.8224 0 1.5-0.6776 1.5-1.5v-1.5h1c0.5541 0 1-0.4459 1-1v-6zm3 2h12v6.5c0 0.2857-0.2143 0.5-0.5 0.5h-11c-0.2857 0-0.5-0.2143-0.5-0.5z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m4 4c-0.5541 0-1 0.4459-1 1v5h18v-5c0-0.5541-0.4459-1-1-1zm-1 7v6c0 0.5541 0.46485 1 1 1h1v1.5c0 0.8224 0.6776 1.5 1.5 1.5h11c0.8224 0 1.5-0.6776 1.5-1.5v-1.5h1c0.5541 0 1-0.4459 1-1v-6zm3 2h12v6.5c0 0.2857-0.2143 0.5-0.5 0.5h-11c-0.2857 0-0.5-0.2143-0.5-0.5z" fill="url(#a)" fill-opacity=".75328" style="font-variant-east_asian:normal;paint-order:normal"/>
-	<path d="m4 3c-1.0906 0-2 0.90941-2 2v12c0 1.1134 0.90937 2 2 2v0.5c0 1.3717 1.1283 2.5 2.5 2.5h11c1.3717 0 2.5-1.1283 2.5-2.5v-0.5c1.0906 0 2-0.90941 2-2v-12c0-1.0906-0.90941-2-2-2zm0 1h16c0.5541 0 1 0.4459 1 1v5h-18v-5c0-0.5541 0.4459-1 1-1zm-1 7h18v6c0 0.5541-0.4459 1-1 1h-1v1.5c0 0.8224-0.6776 1.5-1.5 1.5h-11c-0.8224 0-1.5-0.6776-1.5-1.5v-1.5h-1c-0.53515 0-1-0.4459-1-1zm3 2v6.5c0 0.2857 0.2143 0.5 0.5 0.5h11c0.2857 0 0.5-0.2143 0.5-0.5v-6.5z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m4 4c-0.5541 0-1 0.4459-1 1v5h18v-5c0-0.5541-0.4459-1-1-1zm-1 7v6c0 0.5541 0.46485 1 1 1h1v1.5c0 0.8224 0.6776 1.5 1.5 1.5h11c0.8224 0 1.5-0.6776 1.5-1.5v-1.5h1c0.5541 0 1-0.4459 1-1v-6zm3 2h12v6.5c0 0.2857-0.2143 0.5-0.5 0.5h-11c-0.2857 0-0.5-0.2143-0.5-0.5z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
+	<path d="m4 3c-1.0906 0-2 0.90941-2 2v12c0 1.1134 0.90937 2 2 2h1v-1h-1c-0.53515 0-1-0.4459-1-1v-6h18v6c0 0.5541-0.4459 1-1 1h-1v1h1c1.0906 0 2-0.90941 2-2v-12c0-1.0906-0.90941-2-2-2zm0 1h16c0.5541 0 1 0.4459 1 1v5h-18v-5c0-0.5541 0.4459-1 1-1zm2 9v6.5c0 0.2857 0.2143 0.5 0.5 0.5h11c0.2857 0 0.5-0.2143 0.5-0.5v-6.5z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
 </svg>

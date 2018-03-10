@@ -2,14 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="b" cx="353.34" cy="-90.447" r="7.254" gradientTransform="matrix(1.4245,0,0,1.3785,-491.3,139.7)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="11" cy="5.4446" r="10" gradientTransform="matrix(1 0 0 .9 -9397.6 5036.1)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -20,7 +18,6 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4 3c-1.0907 0-2 0.9093-2 2v14c0 1.0907 0.9093 2 2 2h16c1.0907 0 2-0.9093 2-2v-14c0-1.0907-0.9093-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1zm1.4648 13c-0.66667 0.02344-0.63151 1.0234 0.035156 1h3c0.67616 0.0096 0.67616-1.0096 0-1h-3c-0.011715-4.12e-4 -0.023441-4.12e-4 -0.035156 0z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-	<path d="m4 4c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1.5 13h3c0.67616-0.0096 0.67616 1.0096 0 1h-3c-0.67616 0.0096-0.67616-1.0096 0-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m4 4c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1.5 13h3c0.67616-0.0096 0.67616 1.0096 0 1h-3c-0.67616 0.0096-0.67616-1.0096 0-1z" fill="url(#b)" fill-opacity=".7533" style="paint-order:normal"/>
+	<path d="m4 3c-1.0907 0-2 0.9093-2 2v14c0 1.0907 0.9093 2 2 2h16c1.0907 0 2-0.9093 2-2v-14c0-1.0907-0.9093-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1zm1.4648 13c-0.66667 0.02344-0.63151 1.0234 0.035156 1h3c0.67616 0.0096 0.67616-1.0096 0-1h-3c-0.011715-4.12e-4 -0.023441-4.12e-4 -0.035156 0z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
+	<path d="m4 4c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1.5 13h3c0.67616-0.0096 0.67616 1.0096 0 1h-3c-0.67616 0.0096-0.67616-1.0096 0-1z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
 </svg>

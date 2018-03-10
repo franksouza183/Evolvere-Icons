@@ -2,14 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="a" cx="-9400.8" cy="5092.7" r="9" gradientTransform="matrix(2.2808,-1.551e-5,0,1.6667,21449,-8473.1)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="7.5991" cy="7.6272" r="8" gradientTransform="matrix(1.3186,0,0,1.3186,-7.0181,-7.1244)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
-		</radialGradient>
+		<style
+			id="current-color-scheme"
+			type="text/css">
+			.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}
+		</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -20,7 +22,6 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m10 1c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-6c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v1h11c0.554 0 1 0.446 1 1v9h-1v-8.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v8.5h-10v-9c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v8c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-12c-4.1e-5 -0.554-0.44604-1-1-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m10 1c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-6c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v1h1 1 9c0.554 0 1 0.446 1 1v9h-1v-8.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v8.5h-10v-9c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v8c0 0.554 0.446 1 1 1h1 10 1c0.554 0 1-0.446 1-1v-12c-4.1e-5 -0.554-0.44604-1-1-1h-4z" fill="url(#a)" style="font-variant-east_asian:normal;paint-order:normal"/>
-	<path d="m10 0c-0.70348 0-1.2228 0.43877-1.5801 1h-5.4199c-1.0907 0-2 0.9093-2 2v1.4199c-0.56123 0.35725-1 0.8766-1 1.5801v8c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-12c-8.1e-5 -1.0907-0.9093-2-2-2zm0 1h4c0.55396 0 0.99996 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h11v9h1v-9c0-0.554-0.446-1-1-1h-11v-1c0-0.554 0.446-1 1-1h6c0-0.554 0.446-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m10 1c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-6c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v1h11c0.554 0 1 0.446 1 1v9h-1v-8.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v8.5h-10v-9c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v8c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-12c-4.1e-5 -0.554-0.44604-1-1-1z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
+	<path d="m10 0c-0.70348 0-1.2228 0.43877-1.5801 1h-5.4199c-1.0907 0-2 0.9093-2 2v1.4199c-0.56123 0.35725-1 0.8766-1 1.5801v8c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-12c-8.1e-5 -1.0907-0.9093-2-2-2zm0 1h4c0.55396 0 0.99996 0.446 1 1v12c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h11v9h1v-9c0-0.554-0.446-1-1-1h-11v-1c0-0.554 0.446-1 1-1h6c0-0.554 0.446-1 1-1z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
 </svg>

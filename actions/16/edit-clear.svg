@@ -11,19 +11,15 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<radialGradient id="b" cx="8" cy="11.997" r="9.3438" gradientTransform="matrix(1 0 0 .82441 15.406 -3.3875)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="-9416.6" cy="5035.4" r="9" gradientTransform="matrix(1.3333 0 0 1.1851 12563 -5960.9)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="d" cx="8" cy="6.5" r="3" gradientTransform="matrix(4.6667 -9.8978e-6 9.9585e-6 4.6667 -29.333 -29.333)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="c" cx="8" cy="4" r="8" gradientTransform="matrix(1.75 -3.9612e-6 3.9612e-6 1.75 -6 -6)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}
+		</style>
 	</defs>
-	<path d="m6 1c-2.77 0-5 2.23-5 5v4c0 2.77 2.23 5 5 5h4c2.77 0 5-2.23 5-5v-4c0-2.77-2.23-5-5-5zm-0.29297 4 2.293 2.293 2.293-2.293 0.70703 0.70703-2.293 2.293 2.293 2.293-0.70703 0.70703-2.293-2.293-2.293 2.293-0.70703-0.70703 2.293-2.293-2.293-2.293z" style="fill-opacity:.76621;fill:#090d11;paint-order:normal"/>
-	<path d="m6 1c-2.77 0-5 2.23-5 5v4c0 2.77 2.23 5 5 5h4c2.77 0 5-2.23 5-5v-4c0-2.77-2.23-5-5-5h-4zm-0.29297 4 2.293 2.293 2.293-2.293 0.70703 0.70703-2.293 2.293 2.293 2.293-0.70703 0.70703-2.293-2.293-2.293 2.293-0.70703-0.70703 2.293-2.293-2.293-2.293 0.70703-0.70703z" style="fill-opacity:.75328;fill:url(#a);font-variant-east_asian:normal;paint-order:normal"/>
-	<rect x=".5" y=".5" width="15" height="15" rx="5.5" ry="5.5" style="fill:none;paint-order:normal;stroke:url(#c)"/>
-	<path d="m5.3536 10.646 5.2929-5.2929m-5.2929 0 5.2929 5.2929" style="fill:#bebebe;paint-order:normal;stroke:url(#d)"/>
+	<path d="m6 1c-2.77 0-5 2.23-5 5v4c0 2.77 2.23 5 5 5h4c2.77 0 5-2.23 5-5v-4c0-2.77-2.23-5-5-5zm-0.29297 4 2.293 2.293 2.293-2.293 0.70703 0.70703-2.293 2.293 2.293 2.293-0.70703 0.70703-2.293-2.293-2.293 2.293-0.70703-0.70703 2.293-2.293-2.293-2.293z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
+	<path d="m6 0c-3.3154 0-6 2.6846-6 6v4c0 3.3154 2.6846 6 6 6h4c3.3154 0 6-2.6846 6-6v-4c0-3.3154-2.6846-6-6-6h-4zm0 1h4c2.7786 0 5 2.2214 5 5v4c0 2.7786-2.2214 5-5 5h-4c-2.7786 0-5-2.2214-5-5v-4c0-2.7786 2.2214-5 5-5zm-0.29297 4-0.70703 0.70703 2.293 2.293-2.293 2.293 0.70703 0.70703 2.293-2.293 2.293 2.293 0.70703-0.70703-2.293-2.293 2.293-2.293-0.70703-0.70703-2.293 2.293-2.293-2.293z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
 </svg>

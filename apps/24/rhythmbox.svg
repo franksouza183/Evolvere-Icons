@@ -2,14 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="b" cx="7800.1" cy="-3926.4" r="6.5" gradientTransform="matrix(-7.7857e-6 1.8461 -2 -1.5122e-5 -7841.2 -14392)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="290.19" cy="-94.206" r="7.254" gradientTransform="matrix(2.5328 0 0 2.4511 -722.98 250.91)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
+		<style
+			id="current-color-scheme"
+			type="text/css">
+			.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}
+		</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -20,7 +22,6 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m7 3c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm5 3c2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4 0-2.2091 1.7909-4 4-4zm0 1.913c-1.1526 0-2.087 0.93436-2.087 2.087 0 1.1526 0.93436 2.087 2.087 2.087s2.087-0.93436 2.087-2.087c0-1.1526-0.93436-2.087-2.087-2.087zm4 9.087c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z" color="#000000" fill="#090d11" fill-opacity=".76621" style="font-variant-east_asian:normal;paint-order:normal"/>
-	<path d="m7 3c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm5 3c2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4 0-2.2091 1.7909-4 4-4zm0 1.913c-1.1526 0-2.087 0.93436-2.087 2.087 0 1.1526 0.93436 2.087 2.087 2.087s2.087-0.93436 2.087-2.087c0-1.1526-0.93436-2.087-2.087-2.087zm4 9.087c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z" color="#000000" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
-	<path d="m7 2c-1.6447 0-3 1.3553-3 3v14c0 1.6447 1.3553 3 3 3h10c1.6447 0 3-1.3553 3-3v-14c0-1.6447-1.3553-3-3-3zm0 1h10c1.108 0 2 0.892 2 2v14c0 1.108-0.892 2-2 2h-10c-1.108 0-2-0.892-2-2v-14c0-1.108 0.892-2 2-2zm5 3c-2.2091 0-4 1.7909-4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4zm0 1.913c1.1526 0 2.087 0.93436 2.087 2.087 0 1.1526-0.93436 2.087-2.087 2.087s-2.087-0.93436-2.087-2.087c0-1.1526 0.93436-2.087 2.087-2.087zm4 9.087c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1z" color="#000000" fill="url(#b)" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
+	<path d="m7 3c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm5 3c2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4 0-2.2091 1.7909-4 4-4zm0 1.913c-1.1526 0-2.087 0.93436-2.087 2.087 0 1.1526 0.93436 2.087 2.087 2.087s2.087-0.93436 2.087-2.087c0-1.1526-0.93436-2.087-2.087-2.087zm4 9.087c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
+	<path d="m7 2c-1.6447 0-3 1.3553-3 3v14c0 1.6447 1.3553 3 3 3h10c1.6447 0 3-1.3553 3-3v-14c0-1.6447-1.3553-3-3-3zm0 1h10c1.108 0 2 0.892 2 2v14c0 1.108-0.892 2-2 2h-10c-1.108 0-2-0.892-2-2v-14c0-1.108 0.892-2 2-2zm5 3c-2.2091 0-4 1.7909-4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4zm0 1.913c1.1526 0 2.087 0.93436 2.087 2.087 0 1.1526-0.93436 2.087-2.087 2.087s-2.087-0.93436-2.087-2.087c0-1.1526 0.93436-2.087 2.087-2.087zm4 9.087c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
 </svg>
