@@ -2,14 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="b" cx="8" cy="10.465" r="6.0801" gradientTransform="matrix(2.4671,0,0,3.2461,-7.736,-13.969)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="-9376.3" cy="4856.5" r="5" gradientTransform="matrix(2.1999 0 0 3.0799 20639 -14938)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -20,7 +18,6 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m11 3v8h-3l4 5 4-5h-3v-8zm-6 17h14l-1.11e-4 -3.9998h-1l1.11e-4 2.9998h-12l-1.11e-4 -2.9998h-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m11 3v8h-3l4 5 4-5h-3v-8zm-6 17h14l-1e-4 -3.9998h-1l1e-4 2.9998h-12l-1e-4 -2.9998h-1z" fill="url(#a)" fill-opacity=".75328" style="paint-order:normal"/>
-	<path d="m10 2v8h-4.0801l6.0801 7.6016 6.0801-7.6016h-4.0801v-8zm1 1h2v8h3l-4 5-4-5h3zm-7 14v4h16v-4h-1v3h-14v-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path d="m11 3v8h-3l4 5 4-5h-3v-8zm-6 17h14l-1.11e-4 -3.9998h-1l1.11e-4 2.9998h-12l-1.11e-4 -2.9998h-1z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
+	<path d="m10 2v8h-4.0801l6.0801 7.6016 6.0801-7.6016h-4.0801v-8zm1 1h2v8h3l-4 5-4-5h3zm-7 14v4h16v-4h-1v3h-14v-3z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background" />
 </svg>
