@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="e" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="g">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="a">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Highlight{color:#0079c1;}</style>
+	</defs>
+	<path id="q" d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" style="color:#000000;fill:#aeb4c3"/>
+	<path id="r" d="m2 0-2 1v1h19.562 19.562 24.875v-1l-2-1h-22.875-19.562z" style="color:#000000;fill:#e7ecf0"/>
+	<path id="a" d="m64 4-2-2 2-1z" style="fill:#ccd1db"/>
+	<path id="b" d="m0 1v3l2-2z" style="fill:#f2f5f7"/>
+	<g id="c">
+		<rect id="m" x="21" y="15" width="39" height="45" style="color:#000000;fill-opacity:.53578;fill:#ffffff"/>
+		<rect id="f" x="56" y="19" width="3" height="22" rx="1.5" ry="1.5" style="color:#000000;fill-opacity:.6586;fill:#00122b"/>
+		<rect id="l" transform="rotate(-90)" x="-59" y="25" width="3" height="22" rx="1.5" ry="1.5" style="color:#000000;fill-opacity:.6586;fill:#00122b"/>
+		<g id="active-center" transform="matrix(.5625 0 0 .5625 1.7324 4)">
+			<rect id="v" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="s" d="m5.4688 4.0312-1.4375 1.4375 2.5312 2.5312-2.5312 2.5312 1.4375 1.4375 2.5312-2.5312 2.5312 2.5312 1.4375-1.4375-2.5312-2.5312 2.5312-2.5312-1.4375-1.4375-2.5312 2.5312z" style="block-progression:tb;color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="x" transform="matrix(.5625 0 0 .5625 19.732 4)">
+			<rect id="t" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="j" d="m5 5v6h6v-6zm2 2h2v2h-2z" style="block-progression:tb;color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="w" transform="matrix(.5625 0 0 .5625 10.732 4)">
+			<rect id="d" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="i" d="m4 6.9671v2.0329h8v-2.0329z" style="block-progression:tb;color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="h" transform="matrix(.5625 0 0 .5625 53 4)">
+			<rect id="u" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="k" d="m6.5625 6.7344-2.5312 2.5312 1.4375 1.4375 2.5312-2.5312 2.5312 2.5312 1.4375-1.4375-2.5312-2.5312-1.4375-1.4375z" style="block-progression:tb;color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<path id="o" d="m27 19v9h9v-9zm0 12v9h9v-9zm0 12v9h9v-9z" style="color:#000000;fill:#ef9a25"/>
+		<path id="p" d="m41 19v9h9v-9zm0 12v9h9v-9zm0 12v9h9v-9z" style="color:#000000;fill:#ef9a25"/>
+		<path id="n" d="m4 15h15v45h-15z" style="fill-opacity:1;fill:currentColor" class="ColorScheme-Highlight"/>
+	</g>
+</svg>
