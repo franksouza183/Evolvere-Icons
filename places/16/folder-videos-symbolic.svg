@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata>
+<svg id="a" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="b">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -10,5 +9,8 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m2 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1 2h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2zm-8 7h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2z" color="#bebebe" fill="#bebebe"/>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}</style>
+	</defs>
+	<path id="d" d="m1.5 2a0.50005 0.50005 0 0 0-0.5 0.5v9a0.50005 0.50005 0 1 0 1 0v-8.5h12.5a0.50005 0.50005 0 1 0 0-1zm1.9648 2a0.50005 0.50005 0 1 0 0 1h1.0781a0.50005 0.50005 0 1 0 0-1zm4.0273 0a0.50005 0.50005 0 1 0 0 1h1.0762a0.50005 0.50005 0 1 0 0-1zm4 0a0.50005 0.50005 0 1 0 0 1h1.0762a0.50005 0.50005 0 1 0 0-1zm3.0078 0a0.50005 0.50005 0 0 0-0.49219 0.50781v8.5h-12.5a0.50005 0.50005 0 1 0 0 1h13a0.50005 0.50005 0 0 0 0.5-0.5v-9a0.50005 0.50005 0 0 0-0.50781-0.50781zm-11.035 7a0.50005 0.50005 0 1 0 0 1h1.0781a0.50005 0.50005 0 1 0 0-1zm4.0273 0a0.50005 0.50005 0 1 0 0 1h1.0762a0.50005 0.50005 0 1 0 0-1zm4 0a0.50005 0.50005 0 1 0 0 1h1.0762a0.50005 0.50005 0 1 0 0-1z" style="color-rendering:auto;color:#090d11;dominant-baseline:auto;fill:currentColor;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east_asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

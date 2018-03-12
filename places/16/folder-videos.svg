@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="c" cx="-3371" cy="1867.5" r="4.2518" gradientTransform="matrix(3.6005,0,0,3.0891,12145,-5755.3)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="-5.1561" cy="7.1889" r="7.1556" gradientTransform="matrix(2.3758,0,0,2.6522,15.25,-17.066)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="c" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="b">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -20,7 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m2 1c-1.0907 0-2 0.9093-2 2v10c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-10c0-1.0907-0.9093-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1zm1 2v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1zm-8 7v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-	<path d="m2 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1 2h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2zm-8 7h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m2 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1 2h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2zm-8 7h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2z" fill="url(#c)" fill-opacity=".7533" style="paint-order:normal"/>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="d" d="m1.4998 11.5v-9h13m0.0072 2.0071v9h-13m3.035-2.0071h-1.0762m1.0762-7h-1.0762m5.1031 7h-1.0762m1.0762-7h-1.0762m5.0762 7h-1.0762m1.0762-7h-1.0762" style="color:none;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor" class="ColorScheme-Text" />
+	<path id="a" class="ColorScheme-Background" d="m0.49977 11.5v-10h15m0.0071 3.0071v10h-15m3.0352-2.0071h0.9238m-0.92378-9h0.9238m3.1031 9h0.9238m-0.92378-9h0.9238m3.0762 9h0.9238m-0.92378-9h0.9238" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 </svg>
