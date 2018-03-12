@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="h" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs id="d">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+		<radialGradient id="a" cx="-9387.6" cy="5041" r="9" gradientTransform="matrix(1 0 0 .99998 9396.6 -5031.9)" gradientUnits="userSpaceOnUse">
+			<stop id="g" stop-color="#ff2352" stop-opacity=".96875" offset="0"/>
+			<stop id="i" stop-color="#ff236e" stop-opacity=".85511" offset=".2257"/>
+			<stop id="e" stop-color="#ff2377" stop-opacity=".51847" offset=".42364"/>
+			<stop id="c" stop-color="#ff2399" stop-opacity=".32812" offset=".60764"/>
+			<stop id="f" stop-color="#ff23d5" stop-opacity=".0039216" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata id="m">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="j" class="ColorScheme-Text" d="m3 3c-0.5541 0-1 0.4459-1 1v10c0 0.5541 0.4459 1 1 1h12c0.5541 0 1-0.4459 1-1v-10c0-0.5541-0.4459-1-1-1zm1 1h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2zm-3 3c1.1046 0 2 0.89543 2 2s-0.89543 2-2 2c-1.1046 0-2-0.89543-2-2s0.89543-2 2-2zm-5 6h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="k" d="m3 3c-0.5541 0-1 0.4459-1 1v10c0 0.5541 0.4459 1 1 1h12c0.5541 0 1-0.4459 1-1v-10c0-0.5541-0.4459-1-1-1zm1 1h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2zm-3 3c1.1046 0 2 0.89543 2 2s-0.89543 2-2 2c-1.1046 0-2-0.89543-2-2s0.89543-2 2-2zm-5 6h2v1h-2zm4 0h2v1h-2zm4 0h2v1h-2z" style="fill-opacity:.75328;fill:url(#a);paint-order:normal"/>
+	<path id="l" class="ColorScheme-Background" d="m1 2v1h16v-1zm3 2v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1zm-8 9v1h2v-1zm4 0v1h2v-1zm4 0v1h2v-1zm-11 2v1h16c0.2357-0.2357 0-1 0-1z" style="fill-opacity:.5;fill:currentColor"/>
+	<circle id="b" cx="9" cy="9" r="2" style="fill:#ff2155;paint-order:normal"/>
+</svg>

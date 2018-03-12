@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="b">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="c" d="m16.365 0.49609a0.50005 0.50005 0 0 0-0.34375 0.15039l-14 14a0.50005 0.50005 0 1 0 0.70703 0.70703l1.3535-1.3535h9.918c0.5541 0 1-0.4459 1-1v-9.918l1.7285-1.7285a0.50005 0.50005 0 0 0-0.36328-0.85742zm-14.365 1.5039c-0.5541 0-1 0.4459-1 1v10c0 0.35338 0.19167 0.64841 0.4668 0.82617l1.5332-1.5332v-0.29297h0.29297l2.9902-2.9902c-0.17512-0.29725-0.2832-0.6398-0.2832-1.0098 0-1.1046 0.89543-2 2-2 0.36998 0 0.71251 0.10808 1.0098 0.2832l2.2832-2.2832h-0.29297v-1h1.293l1-1h-11.293zm1 1h2v1h-2v-1zm4 0h2v1h-2v-1zm2.9902 5.0918c-0.047654 1.0298-0.86868 1.8508-1.8984 1.8984l1.8984-1.8984zm-2.9902 3.9082h2v1h-2v-1zm4 0h2v1h-2v-1z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="a" d="m14.99 0.49609a0.50005 0.50005 0 0 0-0.34375 0.15039l-0.35352 0.35352h-14.293v1h13.293l-1 1h-1.293v1h0.29297l-2.2832 2.2832c-0.29725-0.17512-0.6398-0.2832-1.0098-0.2832-1.1046 0-2 0.89543-2 2 0 0.36998 0.10808 0.71251 0.2832 1.0098l-2.9902 2.9902h-0.29297v0.29297l-1.707 1.707h-1.293v1h0.49219a0.50005 0.50005 0 0 0 0.86133 0.35352l0.35352-0.35352h0.16016a0.50005 0.50005 0 0 1 0.1543-0.35352l13.646-13.646h-0.16406a0.50005 0.50005 0 0 0-0.51367-0.50391zm-11.99 2.5039v1h2v-1h-2zm4 0v1h2v-1h-2zm1 4c0.087924 0 0.16556 0.026861 0.24609 0.046875l-1.1992 1.1992c-0.020014-0.08053-0.046875-0.15817-0.046875-0.24609 0-0.5641 0.4359-1 1-1zm1.9902 1.0918-1.8984 1.8984c1.0298-0.047654 1.8508-0.86868 1.8984-1.8984zm-2.9902 3.9082v1h2v-1h-2zm4 0v1h2v-1h-2zm-6.918 2-1 1h12.918v-1h-11.918z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+</svg>

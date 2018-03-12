@@ -10,8 +10,8 @@
 		</rdf:RDF>
 	</metadata>
 	<defs id="d">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Highlight{color:#0079c1;}</style>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-NegativeText{color:#df0278;}</style>
 	</defs>
-	<path id="c" d="M 7.5,2 A 6.5,6.5 0 0 0 1,8.5 6.5,6.5 0 0 0 7.5,15 6.5,6.5 0 0 0 14,8.5 6.5,6.5 0 0 0 7.5,2 Z" style="fill:currentColor;" class="ColorScheme-Highlight" />
-	<path id="b" d="m7 5v3h-3v1h3v3h1v-3h3v-1h-3v-3z" style="fill:currentColor" class="ColorScheme-Text" />
+	<path id="c" class="ColorScheme-NegativeText" d="M 7.5,2 A 6.5,6.5 0 0 0 1,8.5 6.5,6.5 0 0 0 7.5,15 6.5,6.5 0 0 0 14,8.5 6.5,6.5 0 0 0 7.5,2 Z" style="fill:currentColor"/>
+	<path id="b" class="ColorScheme-Text" d="m4 8v1h7v-1z" style="color:#090d11;fill:currentColor"/>
 </svg>
