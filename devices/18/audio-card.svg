@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<radialGradient id="b" cx="3.8718" cy="3.2565" r="8" gradientTransform="matrix(1.625,0,0,1.625,-3.2917,-2.2917)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="5.6001" cy="5.6001" r="8" fx="10.4" fy="10.4" gradientTransform="matrix(1.25 2.1322e-8 -2.1322e-8 1.25 1e-5 1e-5)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="d" cx="-9372.3" cy="4851.8" r="1.4999" gradientTransform="matrix(7.3263 .031702 -.02933 6.7779 68811 -32584)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="c" cx="-9372.2" cy="4850.9" r="1.1387" gradientTransform="matrix(9.6556 .046746 -.043232 8.9298 90708 -42876)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="e" cx="3.8718" cy="3.2565" r="8" gradientTransform="matrix(1.625,0,0,1.625,-2.2917,-1.2917)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-	</defs>
-	<metadata>
+<svg id="b" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -23,9 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m6 1v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2zm-5 3c-0.5538 0-1 0.4462-1 1v8c0 0.5538 0.4462 1 1 1h8c0.5538 0 1-0.4462 1-1v-8c0-0.5538-0.4462-1-1-1zm10 2v1h2v-1zm-5.998 0.064 2.2773 1.5195-0.5547 0.832-0.7226-0.4824v2.5664c0 0.8224-0.6776 1.5-1.5 1.5s-1.498-0.6776-1.498-1.5 0.6756-1.5 1.498-1.5c0.1768 0 0.3439 0.036 0.502 0.094zm-8.002 0.9355v1h2v-1zm14 1v1h2v-1zm-14 1v1h2v-1zm7.5 1c-0.282 0-0.498 0.218-0.498 0.5s0.216 0.5 0.498 0.5 0.5-0.218 0.5-0.5-0.218-0.5-0.5-0.5zm6.5 0v1h2v-1zm-14 1v1h2v-1zm6 4v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m6 1v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2zm-5 3c-0.55379 0-1 0.44621-1 1v8c0 0.5538 0.44621 1 1 1h8c0.5538 0 1-0.4462 1-1v-8c0-0.55379-0.4462-1-1-1zm10 2v1h2v-1zm-5.998 0.064453 2.2773 1.5195-0.55469 0.83203-0.72266-0.48242v2.5664h-0.00195c0 0.8224-0.6776 1.5-1.5 1.5s-1.498-0.6776-1.498-1.5 0.67565-1.5 1.498-1.5c0.17676 0 0.34386 0.036436 0.50195 0.09375v-3.0293zm-8.002 0.93555v1h2v-1zm14 1v1h2v-1zm-14 1v1h2v-1zm7.5 1c-0.282 0-0.49805 0.218-0.49805 0.5s0.21605 0.5 0.49805 0.5 0.5-0.218 0.5-0.5-0.218-0.5-0.5-0.5zm6.5 0v1h2v-1zm-14 1v1h2v-1zm6 4v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2z" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
-	<path d="m7 1v2h-2c-1.1081 0-2 0.89193-2 2v1h-2v1h2v1h-2v1h2v1h-2v1h2v2c0 1.1081 0.89193 2 2 2h1v2h1v-2h1v2h1v-2h1v2h1v-2h2c1.1081 0 2-0.89194 2-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-2c0-1.1081-0.89194-2-2-2h-1v-2h-1v2h-1v-2h-1v2h-1v-2zm-2 3h8c0.5538 0 1 0.4462 1 1v8c0 0.5538-0.4462 1-1 1h-8c-0.5538 0-1-0.4462-1-1v-8c0-0.5538 0.4462-1 1-1z" fill="url(#e)" style="paint-order:normal"/>
-	<circle cx="8.5002" cy="10.5" r=".99986" fill="none" stroke="url(#d)" style="paint-order:normal"/>
-	<path d="m9.5 10.5v-3.5l1.5 1" fill="none" stroke="url(#c)" style="paint-order:normal"/>
+	<defs id="f">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="d" class="ColorScheme-Text" d="m6 1v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2zm-5 3c-0.5538 0-1 0.4462-1 1v8c0 0.5538 0.4462 1 1 1h8c0.5538 0 1-0.4462 1-1v-8c0-0.5538-0.4462-1-1-1zm10 2v1h2v-1zm-5.998 0.064453 2.2754 1.5195h2e-3l-0.55469 0.83203h-2e-3l-0.7207-0.48047v2.5645c0 0.20654-0.04406 0.4022-0.12109 0.58203-0.076536 0.17867-0.1863 0.34086-0.32227 0.47656-0.27176 0.27176-0.6462 0.44086-1.0566 0.44141-0.10345 0-0.20498-0.01086-0.30273-0.03125-0.096006-0.01988-0.18878-0.0504-0.27734-0.08789-0.090301-0.03823-0.1754-0.08424-0.25586-0.13867-4.17e-4 -2.84e-4 -0.00154 2.83e-4 -0.00195 0-0.3993-0.27079-0.66406-0.72817-0.66406-1.2422 0-0.51402 0.26477-0.9714 0.66406-1.2422 4.732e-4 -3.209e-4 0.00148 3.204e-4 0.00195 0 0.080511-0.054434 0.16561-0.10045 0.25591-0.13867 0.04249-0.017987 0.088489-0.028916 0.13281-0.042969 0.13264-0.042399 0.27073-0.069149 0.41602-0.072266 0.01-2.011e-4 0.019253-0.00391 0.029297-0.00391 6.628e-4 0 0.00129-1.1e-6 0.00195 0 0.17547 0 0.341 0.036515 0.49805 0.09375v-3.0273l0.00195 0.00195v-0.00391zm-8.002 0.93555v1h2v-1zm14 1v1h2v-1zm-14 1v1h2v-1zm7.5 1c-0.14099 0-0.26572 0.05478-0.35547 0.14453-0.08925 0.08975-0.14258 0.21447-0.14258 0.35547s0.053328 0.26572 0.14258 0.35547c0.089752 0.08975 0.21448 0.14453 0.35547 0.14453 0.28199 0 0.5-0.21801 0.5-0.5 0-0.14099-0.05478-0.26572-0.14453-0.35547-0.089752-0.089752-0.21448-0.14453-0.35547-0.14453zm6.5 0v1h2v-1zm-14 1v1h2v-1zm6 4v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="c" class="ColorScheme-Background" d="m7 1v2h-2c-1.1081 0-2 0.89193-2 2v1h-2v1h2v1h-2v1h2v1h-2v1h2v2c0 1.1081 0.89193 2 2 2h1v2h1v-2h1v2h1v-2h1v2h1v-2h2c1.1081 0 2-0.89194 2-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-2c0-1.1081-0.89194-2-2-2h-1v-2h-1v2h-1v-2h-1v2h-1v-2zm-2 3h8c0.5538 0 1 0.4462 1 1v8c0 0.5538-0.4462 1-1 1h-8c-0.5538 0-1-0.4462-1-1v-8c0-0.5538 0.4462-1 1-1zm4 2.0664v3.0273c-0.15724-0.056623-0.32435-0.09375-0.5-0.09375-0.82243 0-1.5 0.67757-1.5 1.5s0.67757 1.5 1.5 1.5 1.5-0.67757 1.5-1.5v-2.5664l0.72266 0.48242 0.55469-0.83203-2.2773-1.5176zm-0.5 3.9336c0.28199 0 0.5 0.21801 0.5 0.5s-0.21801 0.5-0.5 0.5-0.5-0.21801-0.5-0.5 0.21801-0.5 0.5-0.5z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>

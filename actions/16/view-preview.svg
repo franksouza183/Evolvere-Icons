@@ -14,7 +14,7 @@
 	</defs>
 	<path id="c" class="ColorScheme-Background" d="m0 14.5h15.5v-4c-7.805 0-10.801-10.053-15-0.5v1.9765-10.476h15v6.1259" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 	<path id="g" class="ColorScheme-Text" d="m12.5 5c0 0.27614-0.22386 0.5-0.5 0.5s-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5 0.5 0.22386 0.5 0.5z" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
-	<path id="b" class="ColorScheme-Background" d="m13.5 5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
+	<path id="b" d="m13.5 5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor" class="ColorScheme-Background" />
 	<path id="h" class="ColorScheme-Text" d="m1.5 9.5v-7h13v5.1259" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
 	<path id="d" class="ColorScheme-Text" d="m14.5 13.5v-2c-7.4382 0-8.5865-8.4857-13-2v4z" style="fill-opacity:.75;fill:currentColor;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
 </svg>

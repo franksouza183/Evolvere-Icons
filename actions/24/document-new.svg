@@ -11,6 +11,9 @@
 			.ColorScheme-Background{
 			color:#ffffff;
 			}
+			.ColorScheme-NeutralText {
+			color:#feab00;
+			}
 		</style>
 	</defs>
 	<metadata>
@@ -25,6 +28,6 @@
 	<g transform="translate(9384.3 -4838.2)">
 		<path d="m-9378.8 4841.2c-0.8224 0-1.5 0.6776-1.5 1.5v15c0 0.8223 0.6776 1.5 1.5 1.5h6.5v-1h-6.5c-0.2857 0-0.5-0.2144-0.5-0.5v-15c0-0.2857 0.2143-0.5 0.5-0.5h13c0.2856 0 0.5 0.2143 0.5 0.5v8.5h1v-8.5c0-0.8224-0.6777-1.5-1.5-1.5zm7.5 11v7l7-7z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
 		<path d="m-9379.8 4840.2c-0.8224 0-1.5 0.6776-1.5 1.5v17c0 0.8223 0.6776 1.5 1.5 1.5h8.5v-0.01c0.2481 0 0.5012-0.079 0.707-0.2852l7-7c0.6296-0.63 0.1836-1.7067-0.707-1.707h-7c-0.5523 1e-4 -0.9999 0.4478-1 1v6h1v-6h7l-7 7h-8.5c-0.2857 0-0.5-0.2143-0.5-0.5v-17c0-0.2856 0.2143-0.5 0.5-0.5h15c0.2856 0 0.5 0.2144 0.5 0.5v8.5h1v-8.5c0-0.8223-0.6777-1.5-1.5-1.5h-15z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
-		<circle cx="-9379.3" cy="4842.2" r="3" fill="#feab00" style="paint-order:normal"/>
+		<circle cx="-9379.3" cy="4842.2" r="3" style="fill:currentColor;" class="ColorScheme-NeutralText"/>
 	</g>
 </svg>

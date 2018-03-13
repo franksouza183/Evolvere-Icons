@@ -7,6 +7,9 @@
 			}
 			.ColorScheme-Background{
 			color:#ffffff;
+			}
+			.ColorScheme-NeutralText {
+			color:#feab00;
 			}</style>
 	</defs>
 	<metadata>
@@ -20,5 +23,5 @@
 	</metadata>
 	<path d="m4.5 2.002c-0.8224 0-1.5 0.6776-1.5 1.5v11c0 0.8223 0.6776 1.5 1.5 1.5h4.5v-1h-4.5c-0.2857 0-0.5-0.2144-0.5-0.5v-11c0-0.2857 0.2143-0.5 0.5-0.5h9c0.2856 0 0.5 0.2143 0.5 0.5v6.5h1v-6.5c0-0.8224-0.6777-1.5-1.5-1.5zm5.5 9v5l5-5z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
 	<path d="m3.5 1v0.00195c-0.8224 0-1.5 0.6776-1.5 1.5v13c0 0.8223 0.6776 1.5 1.5 1.5h6.5v-0.0098c0.2481 0 0.50123-0.07896 0.70703-0.28516l5-5c0.6296-0.62996 0.18357-1.7067-0.70703-1.707h-5c-0.5523 9.99e-5 -0.9999 0.4478-1 1v4h1v-4h5l-5 5h-6.5c-0.2857 0-0.5-0.2143-0.5-0.5v-13c0-0.2856 0.2143-0.5 0.5-0.5h11c0.2856 0 0.4781 0.2152 0.5 0.5v6.5h1v-6.5c0-0.8223-0.6777-1.5-1.5-1.5h-11z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
-	<circle cx="4.5001" cy="3.5001" r="2.4999" fill="#feab00" style="paint-order:normal"/>
+	<circle cx="4.5001" cy="3.5001" r="2.4999" style="fill:currentColor;" class="ColorScheme-NeutralText"/>
 </svg>
