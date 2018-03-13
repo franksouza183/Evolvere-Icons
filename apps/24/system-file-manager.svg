@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-			color:#090d11;
-			}
-			.ColorScheme-Background{
-			color:#ffffff;
-			}</style>
-	</defs>
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
@@ -18,6 +10,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
 	<path d="m6 4c-1.1081 0-2 0.89193-2 2h16c0-1.1081-0.89193-2-2-2zm-2 3v11c0 1.1081 0.89193 2 2 2h12c1.1081 0 2-0.89193 2-2v-11zm6 4h4c1.3523-0.01913 1.3523 2.0191 0 2h-4c-1.3523 0.01913-1.3523-2.0191 0-2z" style="fill:currentColor;fill-opacity:.75;" class="ColorScheme-Text"/>
 	<g transform="translate(3364.4,-2092.7)" style="fill:none;stroke-opacity:.5;stroke:currentColor" class="ColorScheme-Background">
 		<path d="m-3354.4 2104.7h4" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
