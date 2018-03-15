@@ -9,12 +9,12 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="f">
+	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-ViewText {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
 	<circle id="g" class="ColorScheme-Text" cx="23" cy="11" r="1.5" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
-	<circle id="b" class="ColorScheme-Background" cx="23" cy="11" r="2.5086" style="color:#ffffff;fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
+	<circle id="b" class="ColorScheme-Background" cx="23" cy="11" r="2.5086" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 	<path id="h" class="ColorScheme-Text" d="m2.5 20.833v-16.333h27v12.543" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
 	<path id="d" class="ColorScheme-Text" d="m29.5 27.5v-3.3333c-12.689 0-18.87-19.701-27-3.3333v6.6667z" style="fill-opacity:.75;fill:currentColor;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
-	<path id="c" class="ColorScheme-Background" d="m1.5164 28.518 28.984 0.0072v-5.359c-12.29 1.1765-20.876-21.731-29-1.8021v3.1421-21.013l29 0.00724v13.508" style="color:#ffffff;fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
+	<path id="c" class="ColorScheme-Background" d="m1.5164 28.518 28.984 0.0072v-5.359c-12.29 1.1765-20.876-21.731-29-1.8021v3.1421-21.013l29 0.00724v13.508" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 </svg>
