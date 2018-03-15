@@ -619,7 +619,9 @@ Type=Threshold
 [48x48/actions]
 Size=48
 Context=Actions
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/animations]
 Size=48
@@ -666,7 +668,9 @@ Type=Threshold
 Size=48
 Context=Actions
 Scale=2
-Type=Threshold
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/animations]
 Size=48

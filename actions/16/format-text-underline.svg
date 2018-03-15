@@ -9,11 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs>
+	<defs id="b">
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<g id="b" transform="translate(9379.3 -4843.2)">
-		<path id="c" transform="translate(-9379.3 4843.2)" d="m2 1v6c0 2.7528 2.2472 5 5 5s5.002-2.2472 5.002-5v-6h-2v6.502c0 1.9587-1.5433 3.498-3.502 3.498-1.9585 0-3.498-1.5393-3.498-3.498v-6.502h-1.002zm1.4609 13a0.50005 0.50005 0 1 0 0 1h9.0801a0.50005 0.50005 0 1 0 0-1h-9.0801z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
-		<path id="d" transform="translate(-9379.3 4843.2)" d="m3 1v6c0 2.7528 2.2492 5 5.002 5 2.7528 0 5-2.2472 5-5v-6h-1.002v6.502c0 1.9587-1.5395 3.498-3.498 3.498-1.9587 0-3.502-1.5393-3.502-3.498v-6.502h-2zm0.46094 12a0.50005 0.50005 0 1 0 0 1h9.0801a0.50005 0.50005 0 1 0 0-1h-9.0801z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
-	</g>
+	<path id="c"  d="m2 1v7c0 2.7528 2.2472 5 5 5s5.002-2.2472 5.002-5v-7h-2v7.502c0 1.9587-1.5433 3.498-3.502 3.498-1.9585 0-3.498-1.5393-3.498-3.498v-7.502zm1.4609 14c-0.67616-0.0096-0.67616 1.0096 0 1h9.0801c0.67616 0.0096 0.67616-1.0096 0-1z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+	<path id="d" d="m3 1v7c0 2.7528 2.2492 5 5.002 5s5-2.2472 5-5v-7h-1.002v7.502c0 1.9587-1.5395 3.498-3.498 3.498-1.9587 0-3.502-1.5393-3.502-3.498v-7.502zm0.46094 13c-0.67616-0.0096-0.67616 1.0096 0 1h9.0801c0.67616 0.0096 0.67616-1.0096 0-1z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
 </svg>
