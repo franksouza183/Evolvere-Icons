@@ -1,92 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg27665"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="audio-volume-high-symbolic.svg">
-  <defs
-     id="defs27667" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#cbcdd6"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="15.693879"
-     inkscape:cy="10.739266"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-5"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-global="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:showpageshadow="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3070"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-47.999653px"
-       originy="-0.00031276823px" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata27670">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(3316.4171,-2094.7186)">
-    <path
-       inkscape:connector-curvature="0"
-       d="m -3305.5109,2097.7186 c -0.2984,0.024 -0.5825,0.1893 -0.75,0.4375 l -1.8125,2.75 -3.6875,1.375 c -0.3813,0.1396 -0.6555,0.5314 -0.6562,0.9375 l 0,5 c 7e-4,0.4061 0.2749,0.7979 0.6562,0.9375 l 3.6875,1.375 1.8125,2.75 c 0.1857,0.273 0.5137,0.443 0.8438,0.4375 l 4,0 c 0.4135,-0.01 0.8083,-0.2947 0.9375,-0.6875 0,0 1.0625,-3.1458 1.0625,-7.3125 0,-4.1667 -1.0625,-7.3125 -1.0625,-7.3125 -0.1292,-0.3928 -0.524,-0.6823 -0.9375,-0.6875 l -4,0 c -0.031,0 -0.062,0 -0.094,0 z"
-       id="path3015"
-       style="color:#000000;fill:#27303a;fill-opacity:0.912371168;fill-rule:nonzero;stroke:none;stroke-width:2.28571415;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       class="ColorScheme-Text" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<g id="b" transform="translate(3316.4 -2094.7)">
+		<path id="c" class="ColorScheme-Text" d="m-3304.4 2096.8v1.0078c3.9486 0.4874 6.9998 3.8482 6.9998 7.9412s-3.0512 7.4538-6.9998 7.9412v1.0078c4.4943-0.4949 7.9998-4.3157 7.9998-8.9489 0-4.6333-3.5055-8.4541-7.9998-8.9489zm-1.7031 1.9491c-2.5713 0-3.634 3.2256-5.1425 3.6308-2.5299 0.7381-3.1542 0.5688-3.1542 1.9686v2.8007c0 1.4 0.6243 1.2306 3.1542 1.9687 1.5084 0.4051 2.571 3.6308 5.1425 3.6308 0.489 0 0.7031-3e-4 0.7031-0.6562v-12.688c0-0.656-0.2141-0.6563-0.7031-0.6563zm1.7031 1.0352v1.0098c2.2754 0.4349 3.9999 2.4762 3.9999 4.955 0 2.4787-1.7245 4.5201-3.9999 4.955v1.0117c2.831-0.4485 4.9999-2.9559 4.9999-5.9666s-2.1688-5.5161-4.9999-5.9646zm0 3.0097v1.0938c0.5898 0.3488 1 1.049 1 1.8612 0 0.8126-0.4099 1.5146-1 1.8632v1.0918c1.2048-0.4062 1.9999-1.6109 1.9999-2.955 0-1.3442-0.7952-2.5488-1.9999-2.955z" style="fill-opacity:.75;fill:currentColor"/>
+	</g>
 </svg>
