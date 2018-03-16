@@ -384,7 +384,9 @@ Type=Fixed
 Size=22
 Context=Status
 Scale=2
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=22
 
 
 
@@ -626,42 +628,66 @@ MaxSize=48
 [48x48/animations]
 Size=48
 Context=Animations
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/apps]
 Size=48
 Context=Applications
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/categories]
 Size=48
 Context=Categories
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/devices]
 Size=48
 Context=Devices
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/emblems]
 Size=48
 Context=Emblems
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/mimetypes]
 Size=48
 Context=MimeTypes
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/places]
 Size=48
 Context=Places
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48/status]
 Size=48
 Context=Status
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 
 [48x48@2x/actions]
@@ -676,49 +702,73 @@ MaxSize=48
 Size=48
 Context=Animations
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/apps]
 Size=48
 Context=Applications
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/categories]
 Size=48
 Context=Categories
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/devices]
 Size=48
 Context=Devices
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/emblems]
 Size=48
 Context=Emblems
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/mimetypes]
 Size=48
 Context=MimeTypes
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/places]
 Size=48
 Context=Places
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 [48x48@2x/status]
 Size=48
 Context=Status
 Scale=2
-Type=Threshold
+
+Type=Scalable
+MinSize=32
+MaxSize=48
 
 
 

@@ -13,7 +13,7 @@
    height="18"
    id="svg27665"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="audio-volume-high-panel.svg">
   <defs
      id="defs27667" />
@@ -25,7 +25,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000002"
-     inkscape:cx="8.8923785"
+     inkscape:cx="2.6892539"
      inkscape:cy="8.4363422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -62,8 +62,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-47.999653px"
-       originy="-0.00031276823px" />
+       originx="-47.999653"
+       originy="-0.00031276823"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata27670">

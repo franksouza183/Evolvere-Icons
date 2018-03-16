@@ -9,17 +9,14 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="f">
-		<style id="current-color-scheme" type="text/css">
-			.ColorScheme-Text {
-				color:#090d11;
+	<defs id="a">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
 			}
 			.ColorScheme-Background{
-				color:#ffffff;
-			}
-		</style>
+			color:#ffffff;
+			}</style>
 	</defs>
-	<path id="e" d="m6.4974 3.8613-0.77734 0.77734 4.3613 4.3613-4.3613 4.3613 0.77734 0.77734 4.3613-4.3613 4.3613 4.3613 0.77734-0.77734-4.3613-4.3613 4.3613-4.3613-0.77734-0.77734-4.3613 4.3613z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background" />
-	<path id="b" d="m4.6387 3.8613-0.77734 0.77734 4.3613 4.3613-4.3613 4.3613 0.77734 0.77734 4.3613-4.3613 4.3613 4.3613 0.77734-0.77734-4.3613-4.3613 4.3613-4.3613-0.77734-0.77734-4.3613 4.3613z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
-	<path id="a" d="m4.6387 3.8613-0.77734 0.77734 4.3613 4.3613-4.3613 4.3613 0.77734 0.77734 4.3613-4.3613 4.3613 4.3613 0.77734-0.77734-4.3613-4.3613 4.3613-4.3613-0.77734-0.77734-4.3613 4.3613z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
+	<path id="e" class="ColorScheme-Background" d="m6.4974 3.8613-0.77734 0.77734 4.3613 4.3613-4.3613 4.3613 0.77734 0.77734 4.3613-4.3613 4.3613 4.3613 0.77734-0.77734-4.3613-4.3613 4.3613-4.3613l-0.77734-0.77734-4.3613 4.3613z" style="fill-opacity:.5;fill:currentColor"/>
+	<path id="b" class="ColorScheme-Text" d="m4.6387 3.8613-0.77734 0.77734 4.3613 4.3613-4.3613 4.3613l0.77734 0.77734 4.3613-4.3613 4.3613 4.3613 0.77734-0.77734-4.3613-4.3613 4.3613-4.3613-0.77734-0.77734-4.3613 4.3613z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
