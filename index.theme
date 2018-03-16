@@ -5,7 +5,7 @@ Version=2.3
 
 DisplayDepth=32
 
-Inherits=gnome,hicolor
+Inherits=gnome,breeze,hicolor
 
 FollowsColorScheme=true
 
