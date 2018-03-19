@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="a" cx="8" cy="13.342" r="6" gradientTransform="matrix(2.938,0,0,3.1845,-13.017,-25.381)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="c" cx="7800.7" cy="-3926.4" r="6.5" gradientTransform="matrix(8.5282e-6,2.5506,-2.7632,0,-10839,-19890)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="c" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="e">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -20,7 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h13v-13h2v-4c0-0.554-0.446-1-1-1zm4 5h5c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-3c-0.554 0-1-0.446-1-1v-2c0-0.554 0.446-1 1-1h1c0.554 0 1 0.446 1 1v2h1v-4h-5v6h3v1h-3c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1zm10 1v2h1v-2zm-8 2v2h1v-2zm8 1v2h1v-2zm0 3v2h1v-2zm0 3v2h1v-2z" color="#000000" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m4 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h13v-13h2v-4c0-0.554-0.446-1-1-1zm4 5h5c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-3c-0.554 0-1-0.446-1-1v-2c0-0.554 0.446-1 1-1h1c0.554 0 1 0.446 1 1v2h1v-4h-5v6h3v1h-3c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1zm10 1v2h1v-2zm-8 2v2h1v-2zm8 1v2h1v-2zm0 3v2h1v-2zm0 3v2h1v-2z" color="#000000" fill="url(#a)" fill-opacity=".7533" style="paint-order:normal"/>
-	<path d="m4 1c-1.0907 0-2 0.9093-2 2v16c0 1.0907 0.9093 2 2 2h14v-1h2v-17c0-1.0907-0.9093-2-2-2zm0 1h14c0.554 0 1 0.446 1 1v4h-2v13h-13c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1zm4 5c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h3v-1h-3v-6h5v4h-1v-2c0-0.554-0.446-1-1-1h-1c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm10 1h1v2h-1zm-8 2h1v2h-1zm8 1h1v2h-1zm0 3h1v2h-1zm0 3h1v2h-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#c)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<defs id="d">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="a" class="ColorScheme-Text" d="m4 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h13v-13h2v-4c0-0.554-0.446-1-1-1zm4 5h5c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-3c-0.554 0-1-0.446-1-1v-2c0-0.554 0.446-1 1-1h1c0.554 0 1 0.446 1 1v2h1v-4h-5v6h3v1h-3c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1zm10 1v2h1v-2zm-8 2v2h1v-2zm8 1v2h1v-2zm0 3v2h1v-2zm0 3v2h1v-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="b" class="ColorScheme-Background" d="m4 1c-1.0907 0-2 0.9093-2 2v16c0 1.0907 0.9093 2 2 2h14v-1h2v-17c0-1.0907-0.9093-2-2-2zm0 1h14c0.554 0 1 0.446 1 1v4h-2v13h-13c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1zm4 5c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h3v-1h-3v-6h5v4h-1v-2c0-0.554-0.446-1-1-1h-1c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm10 1h1v2h-1zm-8 2h1v2h-1zm8 1h1v2h-1zm0 3h1v2h-1zm0 3h1v2h-1z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
