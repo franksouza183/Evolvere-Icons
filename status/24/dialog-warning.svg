@@ -1,74 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg27665"
-   height="24"
-   width="24"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="dialog-warning.svg">
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     id="namedview6"
-     showgrid="true"
-     inkscape:zoom="29.500054"
-     inkscape:cx="11.297285"
-     inkscape:cy="9.9195084"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2985"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata27670">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(3364.4171,-2119.7186)">
-    <path
-       id="path2984"
-       d="m -3353.5734,2122.7186 -8.7187,15.125 1.875,1.875 16,0 1.875,-1.875 -8.7188,-15.125 -2.3125,0 z m 0.1563,6 2,0 0,4 -2,0 0,-4 z m 0,6 2,0 0,2 -2,0 0,-2 z"
-       style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 10.09375 2 L 9.84375 2.4375 L 1.125 17.5625 L 0.6875 18.3125 L 1.3125 18.9375 L 3.1875 20.8125 L 3.375 21 L 20.625 21 L 20.8125 20.8125 L 22.6875 18.9375 L 23.3125 18.3125 L 22.875 17.5625 L 14.15625 2.4375 L 13.90625 2 L 10.09375 2 z M 10.84375 3 L 13.15625 3 L 21.875 18.125 L 20 20 L 4 20 L 2.125 18.125 L 10.84375 3 z M 11 9 L 11 13 L 13 13 L 13 9 L 11 9 z M 11 15 L 11 17 L 13 17 L 13 15 L 11 15 z "
-       transform="translate(-3364.4171,2119.7186)"
-       id="path2985" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="c">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-NeutralText{color:#feab00;}</style>
+	</defs>
+	<path id="b" d="m11.998 3c-0.30808 8.817e-4 -5.1938 8.4987-5.3477 8.7656-0.15351 0.2659-5.0526 8.7211-4.8984 8.9863 0.15481 0.26639 9.9552 0.24805 10.264 0.24805 0.30703 0 10.08 0.018337 10.232-0.24805 0.15331-0.26726-4.7619-8.7503-4.916-9.0176-0.15351-0.2659-5.027-8.7353-5.334-8.7344zm0.001953 7c0.554 0 1 0.446 1 1v3c0 0.554-0.446 1-1 1s-1-0.446-1-1v-3c0-0.554 0.446-1 1-1zm0 6c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1z" style="fill:currentColor" class="ColorScheme-NeutralText"/>
 </svg>
