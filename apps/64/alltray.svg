@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<radialGradient id="a" cx="40.333" cy="27.151" r="32" gradientTransform="matrix(-2.25 0 0 -2.1797 152.75 63.18)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#802ad2" offset="0"/>
-			<stop stop-color="#d22a49" stop-opacity="0" offset="1"/>
+<svg id="i" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs id="l">
+		<radialGradient id="a" cx="40.39" cy="27.268" r="32" gradientTransform="matrix(-2.25 0 0 -2.1797 152.75 63.18)" gradientUnits="userSpaceOnUse">
+			<stop id="h" stop-color="#802ad2" offset="0"/>
+			<stop id="f" stop-color="#d22a49" stop-opacity="0" offset="1"/>
 		</radialGradient>
 	</defs>
-	<metadata>
+	<metadata id="j">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -16,10 +15,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="#2a38d2"/>
-	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="url(#a)"/>
-	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#ebb6ff"/>
-	<path d="m0 1v3l2-2z" fill="#f1cbff"/>
-	<path d="m64 4-2-2 2-1z" fill="#9a75dd"/>
-	<path d="m56 10h-28l28 28zm-21.778 10.464-2.8284 2.8284 10.607 10.607 2.8284-2.8284zm-4.9497 4.9497-2.1213 2.1213 10.607 10.607 2.1213-2.1213zm-4.2426 4.2426-1.4142 1.4142 10.607 10.607 1.4142-1.4142zm-3.5355 3.5355-0.70711 0.70711 10.607 10.607 0.70711-0.70711z" color="#000000" fill="#eceed9"/>
+	<path id="d" d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#2a38d2"/>
+	<path id="e" d="m0 2v60l2 2h60l2-2v-60h-32z" style="color:#000000;fill:url(#a)"/>
+	<path id="b" d="m2 0-2 1v1h64v-1l-2-1h-30z" style="color:#000000;fill:#ebb6ff"/>
+	<path id="c" d="m0 1v3l2-2z" style="fill:#f1cbff"/>
+	<path id="g" d="m64 4-2-2 2-1z" style="fill:#9a75dd"/>
+	<path id="k" d="m56 10h-28l28 28zm-21.778 10.464-2.8284 2.8284 10.607 10.607 2.8284-2.8284zm-4.9497 4.9497-2.1213 2.1213 10.607 10.607 2.1213-2.1213zm-4.2426 4.2426-1.4142 1.4142 10.607 10.607 1.4142-1.4142zm-3.5355 3.5355-0.70711 0.70711 10.607 10.607 0.70711-0.70711z" style="color:#000000;fill:#eceed9"/>
 </svg>
