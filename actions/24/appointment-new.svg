@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="e" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs id="d">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}
+			.ColorScheme-NeutralText {
+			color:#feab00;
+			}</style>
+	</defs>
+	<metadata id="c">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="f" class="ColorScheme-Text" d="m11.5 7v5.5h5.5m3.5-0.5c0 4.6945-3.8055 8.5-8.5 8.5-4.6945 0-8.5-3.8055-8.5-8.5 0-4.6945 3.8055-8.5 8.5-8.5 4.6945 0 8.5 3.8055 8.5 8.5z" style="fill:none;stroke-opacity:.75;stroke:currentColor"/>
+	<path id="a" class="ColorScheme-Background" d="m12.5 6v5.5h5.5m3.5 0.5c0 5.2467-4.2533 9.5-9.5 9.5-5.2467 0-9.5-4.2533-9.5-9.5-1e-7 -5.2467 4.2533-9.5 9.5-9.5 5.2467 4e-7 9.5 4.2533 9.5 9.5z" style="fill:none;stroke-opacity:.5;stroke:currentColor"/>
+	<circle id="b" class="ColorScheme-NeutralText" cx="5.0002" cy="4.0002" r="3" style="fill:currentColor"/>
+</svg>

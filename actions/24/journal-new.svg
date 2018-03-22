@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}.ColorScheme-NeutralText {color:#feab00;}</style>
+	</defs>
+	<metadata id="g">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="b" class="ColorScheme-Text" d="m6 3c-0.554 0-0.86564 0.46254-1 1v3h-0.5c-0.277 0-0.5 0.223-0.5 0.5v1c0 0.277 0.223 0.5 0.5 0.5h0.5v2h-0.5s-0.5 0.223-0.5 0.5v1c0 0.277 0.223 0.5 0.5 0.5h0.5v2h-0.5c-0.277 0-0.5 0.223-0.5 0.5v1c0 0.277 0.223 0.5 0.5 0.5h0.5v3c0 0.554 0.446 1 1 1h12v-18zm13 0v18c0.554 0 1-0.446 1-1v-16c0-0.554-0.446-1-1-1zm-11 5h7v1h-7zm0 2h7v1h-7zm0 2h7v1h-7zm0 2h7v1h-7z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="a" class="ColorScheme-Background" d="m6 2c-0.5553 0-1.0863 0.27846-1.4023 0.63086-0.31604 0.3524-0.47343 0.74718-0.56836 1.127l-0.029297 0.11914v2.334c-0.55082 0.22426-1 0.66817-1 1.2891v1c0 0.62085 0.44918 1.0648 1 1.2891v0.42188c-0.55082 0.22426-1 0.66817-1 1.2891v1c0 0.62085 0.44918 1.0648 1 1.2891v0.42188c-0.55082 0.22426-1 0.66817-1 1.2891v1c0 0.62085 0.44918 1.0648 1 1.2891v2.2109c0 1.0907 0.9093 2 2 2h13c1.0907 0 2-0.9093 2-2v-16c0-1.0907-0.9093-2-2-2zm0 1h12v18h-12c-0.554 0-1.0911-0.45354-1-1v-3h-0.5s-0.5-0.223-0.5-0.5v-1c0-0.277 0.223-0.5 0.5-0.5h0.5v-2h-0.5c-0.277 0-0.5-0.223-0.5-0.5v-1c0-0.277 0.223-0.5 0.5-0.5h0.5v-2h-0.5c-0.277 0-0.5-0.223-0.5-0.5v-1c0-0.277 0.223-0.5 0.5-0.5h0.5v-3c0.13436-0.53746 0.446-1 1-1zm13 0c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1zm-11 5v1h7v-1zm0 2v1h7v-1zm0 2v1h7v-1zm0 2v1h7v-1z" style="fill-opacity:.5;fill:currentColor"/>
+	<circle id="c" class="ColorScheme-NeutralText" cx="5.0001" cy="4" r="3" style="fill:currentColor"/>
+</svg>
