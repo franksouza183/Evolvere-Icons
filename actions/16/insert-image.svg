@@ -10,10 +10,7 @@
 		</rdf:RDF>
 	</metadata>
 	<defs id="e">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}
-			.ColorScheme-NeutralText {
-			color:#feab00;
-			}</style>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}.ColorScheme-NeutralText {color:#feab00;}</style>
 	</defs>
 	<path id="f" class="ColorScheme-Background" d="m0 13.5h15.5v-4c-7.805 0-10.801-10.053-15-0.5v1.9765-10.476h15v6.1259" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 	<path id="g" class="ColorScheme-Text" d="m12.5 4c0 0.27614-0.22386 0.5-0.5 0.5s-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5 0.5 0.22386 0.5 0.5z" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
