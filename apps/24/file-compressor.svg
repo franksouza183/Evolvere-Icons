@@ -9,7 +9,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="a">
+	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
 	<path id="f" d="m6 4c-1.108 0-2 0.892-2 2v2.5l8-0.5h-2v-1h2v-1h-2v-1h2v-1h-6zm6 1v1h2v1h-2v1l8 0.5v-2.5c0-1.108-0.892-2-2-2h-4v1h-2zm-8 4v9c0 1.108 0.892 2 2 2h6v-1h-2v-1h2v-0.5c-0.48213 0-1.0038-0.19446-1.457-0.5h-0.54297v-0.45117c-0.52744-0.5663-0.80483-1.3159-0.49219-2.0488l0.63867-1.5h-0.14648v-1h0.57422l0.42578-1h-1v-1h2v-1h-8zm8 1c0.554 0 0.78264 0.49042 1 1h1v1h-0.57422l0.42774 1h0.14648v0.3457l0.49219 1.1543c0.40749 0.95533-0.19009 1.9303-1.0352 2.5h0.54297v1h-2v1h2v1h4c1.108 0 2-0.892 2-2v-9h-6v1h-2zm0 3.7129c-0.71292 0-1.2871 0.57419-1.2871 1.2871s0.57419 1.2871 1.2871 1.2871 1.2871-0.57419 1.2871-1.2871-0.57419-1.2871-1.2871-1.2871z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
