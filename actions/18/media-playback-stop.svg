@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="b" cx="8" cy="11.997" r="9.3438" gradientTransform="matrix(-1 0 0 .82441 17.595 -.7059)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="8" cy="10.264" r="5" gradientTransform="matrix(2.8,0,0,2.8,-13.4,-14.74)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="g" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -20,7 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4.4512 4c-0.25044 0-0.45117 0.223-0.45117 0.5v9c0 0.277 0.20073 0.5 0.45117 0.5h9.0977c0.25044 0 0.45117-0.223 0.45117-0.5v-9c0-0.277-0.20073-0.5-0.45117-0.5zm1.5488 2h6v6h-6z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m4.4512 4c-0.25044 0-0.45117 0.223-0.45117 0.5v9c0 0.277 0.20073 0.5 0.45117 0.5h9.0977c0.25044 0 0.45117-0.223 0.45117-0.5v-9c0-0.277-0.20073-0.5-0.45117-0.5zm1.5488 2h6v6h-6z" fill="url(#a)" style="paint-order:normal"/>
-	<path d="m3.9512 3c-0.54725 0-0.95117 0.48038-0.95117 1v10c0 0.51962 0.40392 1 0.95117 1h10.098c0.54725 0 0.95117-0.48038 0.95117-1v-10c0-0.51962-0.40392-1-0.95117-1zm0.048828 1h10v10h-10z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99858" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<defs id="b">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="e" class="ColorScheme-Text" d="m4.4512 4c-0.25044 0-0.45117 0.223-0.45117 0.5v9c0 0.277 0.20073 0.5 0.45117 0.5h9.0977c0.25044 0 0.45117-0.223 0.45117-0.5v-9c0-0.277-0.20073-0.5-0.45117-0.5zm1.5488 2h6v6h-6z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="h" class="ColorScheme-Background" d="m3.9512 3c-0.54725 0-0.95117 0.48038-0.95117 1v10c0 0.51962 0.40392 1 0.95117 1h10.098c0.54725 0 0.95117-0.48038 0.95117-1v-10c0-0.51962-0.40392-1-0.95117-1zm0.048828 1h10v10h-10z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>

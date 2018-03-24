@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<radialGradient id="a" cx="289.34" cy="-103.84" r="7.254" gradientTransform="matrix(2.0678,0,0,2.0012,-574.3,215.81)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="7800.1" cy="-3926.4" r="6.5" gradientTransform="matrix(-7.7857e-6,1.8461,-2,-1.5122e-5,-7845,-14396)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="f" cx="14.203" cy="20.913" r="9.4181" gradientTransform="matrix(1.5929 -.01552 .014656 1.5042 -10.341 -11.014)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="e" cx="15.799" cy="18.914" r="2.3997" gradientTransform="matrix(5.7794,0,0,5.7782,-75.362,-90.449)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<radialGradient id="d" cx="14.203" cy="20.913" r="9.4181" gradientTransform="matrix(1.6916 -.016483 .015564 1.5975 -11.664 -12.372)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="c" cx="16.308" cy="19.135" r="8.4199" gradientTransform="matrix(2.2536,0,0,2.1099,-20.443,-21.727)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-	</defs>
-	<metadata>
+<svg id="f" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="e">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -24,12 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m6.2647 19.209a9.4706 9.4711 0 0 1-4.2739-11.122 9.4706 9.4711 0 0 1 9.9856-6.5004 9.4706 9.4711 0 0 1 8.4402 8.4103 9.4706 9.4711 0 0 1-6.4641 10.009" fill="none" stroke="url(#d)" stroke-opacity=".76471" stroke-width="1.1" style="paint-order:normal"/>
-	<path d="m13.894 15.642-0.31841 5.0847 6.3709-1.2032" fill="none" stroke="url(#f)" stroke-opacity=".76471" style="paint-order:normal"/>
-	<g transform="matrix(.98055 0 0 .98053 -.76664 -.77008)" stroke-width="1.0198">
-		<path d="m8.0402 18.859a7.9196 7.9196 0 0 1-3.6831-8.9336 7.9196 7.9196 0 0 1 7.6953-5.8444 7.9196 7.9196 0 0 1 7.6173 5.9457 7.9196 7.9196 0 0 1-3.801 8.8841" fill="none" stroke="#090d11" stroke-opacity=".76471" stroke-width="1.0198" style="paint-order:normal"/>
-		<path d="m8.0402 18.859a7.9196 7.9196 0 0 1-3.6831-8.9336 7.9196 7.9196 0 0 1 7.6953-5.8444 7.9196 7.9196 0 0 1 7.6173 5.9457 7.9196 7.9196 0 0 1-3.801 8.8841" fill="none" stroke="url(#c)" stroke-opacity=".76471" stroke-width="1.0198" style="paint-order:normal"/>
-		<path d="m15.708 15.244c0.2026-0.02851 1.3561 1.0973 1.8547 1.5896l0.0069-0.0069 0.70723 0.70727-0.0083 0.0083c0.53634 0.54596 1.5255 1.5688 1.4985 1.7609-0.03338 0.23715-2.0375 0.52595-2.2746 0.55932-0.23715 0.03337-2.2462 0.30872-2.45 0.10494-0.20377-0.20377 0.07297-2.2115 0.10635-2.4486 0.03337-0.23715 0.32216-2.2412 0.55932-2.2746z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#090d11" fill-opacity=".76471" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-		<path d="m15.708 15.244c0.2026-0.02851 1.3561 1.0973 1.8547 1.5896l0.0069-0.0069 0.70723 0.70727-0.0083 0.0083c0.53634 0.54596 1.5255 1.5688 1.4985 1.7609-0.03338 0.23715-2.0375 0.52595-2.2746 0.55932-0.23715 0.03337-2.2462 0.30872-2.45 0.10494-0.20377-0.20377 0.07297-2.2115 0.10635-2.4486 0.03337-0.23715 0.32216-2.2412 0.55932-2.2746z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#e)" fill-opacity=".76471" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-	</g>
+	<defs id="a">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="g" class="ColorScheme-Background" d="m11.156 0.9863c-4.3626-0.069602-8.3235 2.7172-9.6895 6.9316-1.4567 4.4952 0.43135 9.4048 4.5234 11.768l0.54883-0.95312c-3.6481-2.1064-5.3241-6.469-4.0254-10.477 1.2989-4.0077 5.216-6.5574 9.4063-6.123 4.1903 0.43433 7.4998 3.7329 7.9492 7.9219 0.27733 2.5862-0.58837 5.066-2.2305 6.8965 0.28072 0.29449 0.54526 0.57751 0.73828 0.82031 1.8942-2.0674 2.9013-4.893 2.5859-7.834-0.50408-4.6987-4.2295-8.4113-8.9297-8.8984-0.29376-0.030451-0.58611-0.048094-0.87695-0.052734zm2.2383 14.625-0.35742 5.7266 7.002-1.3223-0.18555-0.98438-4.0488 0.76562c0.6734-0.36816 1.294-0.81006 1.8555-1.3105-0.55112 0.11337-1.1521 0.2014-1.2754 0.21875-0.10935 0.01538-0.62763 0.08392-1.1406 0.13086-0.34642 0.18731-0.70429 0.35937-1.0801 0.50195l0.0293-0.4707c-0.10015-0.01111-0.1805-0.02817-0.21094-0.05859-0.19981-0.1998 0.07274-2.1679 0.10547-2.4004 0.01026-0.07293 0.0747-0.44537 0.125-0.74609l-0.81836-0.05078z" style="fill-opacity:.5;fill:currentColor"/>
+	<path id="h" class="ColorScheme-Text" d="m11.055 2.7324c-3.7487-0.02479-7.049 2.4819-8.0313 6.0996-0.98222 3.6177 0.59725 7.4479 3.8438 9.3223l0.5-0.86524c-2.8577-1.6499-4.2435-5.0108-3.3789-8.1953 0.86459-3.1845 3.7608-5.3851 7.0605-5.3633 3.2998 0.021838 6.1659 2.2594 6.9883 5.4551 0.60804 2.3627-0.02241 4.8018-1.5527 6.5664l-0.02344-0.02344-0.0059 0.0078c-0.4889-0.48272-1.6197-1.5865-1.8184-1.5586-0.23255 0.03275-0.51611 1.9979-0.54883 2.2305-0.03273 0.23248-0.30528 2.2006-0.10547 2.4004 0.19984 0.19981 2.1698-0.0708 2.4023-0.10352 0.23249-0.03272 2.1977-0.3163 2.2305-0.54883 0.0259-0.18427-0.89505-1.1406-1.4277-1.6836 1.7792-2.0126 2.5143-4.8232 1.8164-7.5352-0.93427-3.6304-4.2006-6.1803-7.9492-6.2051z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>

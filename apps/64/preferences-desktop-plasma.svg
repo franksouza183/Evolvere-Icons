@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="q" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs id="v">
+		<radialGradient id="c" cx="18.161" cy="21.075" r="32" gradientTransform="matrix(1.8449,0,0,1.8449,-10.998,-11.484)" gradientUnits="userSpaceOnUse">
+			<stop id="w" stop-color="#294c79" offset="0"/>
+			<stop id="u" stop-color="#27456a" offset="1"/>
+		</radialGradient>
+		<radialGradient id="d" cx="44.028" cy="49.266" r="26" fx="22.254" fy="47.044" gradientTransform="matrix(3.6255 3.6255 -1.2576 1.2576 -10.392 -123.26)" gradientUnits="userSpaceOnUse">
+			<stop id="i" stop-color="#10b9bc" offset="0"/>
+			<stop id="e" stop-color="#5c5aea" offset=".51165"/>
+			<stop id="f" stop-color="#cb4c84" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata id="aa">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="a">
+		<path id="x" d="m0 1 2-1h60l2 1v59s-16 4-32 4-32-4-32-4z" color="#000000" fill="url(#c)"/>
+		<path id="m" d="m0 1 2-1h60l2 1v1h-64z" color="#000000" fill="#9bb4d3"/>
+		<path id="k" d="m64 4-2-2 2-1z" fill="#607794"/>
+		<path id="p" d="m0 4 2-2-2-1z" fill="#c8d9ee"/>
+		<path id="o" d="m5 7h54v49h-54z" color="#000000" fill="url(#d)"/>
+		<path id="j" d="m29.508 57.008v1.0678h1.0678v-1.0678zm3.5593 0v1.4237h1.4237v-1.4237zm-1.7797 0.35593v1.0678h1.4237v-1.0678zm-1.4237 1.4237v1.4237h1.0678v-1.4237zm1.4237 0v1.4237h1.4237v-1.4237zm1.7797 0v1.4237h1.0678v-1.4237zm-3.5593 1.7797v1.4237h1.4237v-1.4237zm1.7797 0v1.0678h1.4237v-1.0678zm2.1356 0.35593v1.0678h1.0678v-1.0678z" color="#000000" fill="#edeff3" fill-opacity=".23183"/>
+	</g>
+	<g id="r">
+		<g id="z">
+			<rect id="h" x="5" y="51" width="54" height="5" style="color:#000000;fill:#dceefb"/>
+			<path id="y" transform="translate(2,-5)" d="m52 27.5a9.5 9.5 0 0 1-9.5 9.5 9.5 9.5 0 0 1-9.5-9.5 9.5 9.5 0 0 1 9.5-9.5 9.5 9.5 0 0 1 9.5 9.5z" color="#000000" fill="#d9ecfc"/>
+			<rect id="t" x="44" y="16" width="1" height="7" color="#000000" fill="#000000" fill-opacity=".31184"/>
+			<rect id="s" transform="rotate(90)" x="22" y="-51" width="1" height="7" color="#000000" fill="#000000" fill-opacity=".31184"/>
+			<rect id="g" x="55" y="52" width="3" height="3" style="color:#000000;fill:#284871"/>
+			<rect id="b" x="51" y="52" width="3" height="3" style="color:#000000;fill:#284871"/>
+			<rect id="l" x="47" y="52" width="3" height="3" style="color:#000000;fill:#284871"/>
+			<rect id="n" x="6" y="52" width="3" height="3" style="color:#000000;fill:#284871"/>
+		</g>
+	</g>
+	<path id="ab" class="ColorScheme-Text" d="m14.72 13.592c-0.66959 0-1.2124 0.54279-1.2124 1.2124 0 0.66959 0.54279 1.2124 1.2124 1.2124 0.66959 0 1.2124-0.54279 1.2124-1.2124 0-0.66959-0.54279-1.2124-1.2124-1.2124zm8.4866 0-2.4247 2.4247 3.6371 3.6371-3.6371 3.6371 2.4247 2.4247 6.0616-6.0616zm-11.315 7.2744c-1.1159 0-2.0206 0.90467-2.0206 2.0206 1e-6 1.1159 0.90467 2.0206 2.0206 2.0206 1.1159 0 2.0206-0.90467 2.0206-2.0206s-0.90467-2.0206-2.0206-2.0206zm5.2536 7.2744c-1.3391 0-2.4247 1.0856-2.4247 2.4247s1.0856 2.4247 2.4247 2.4247 2.4247-1.0856 2.4247-2.4247-1.0856-2.4247-2.4247-2.4247z" style="fill:#d9ecfc"/>
+</svg>

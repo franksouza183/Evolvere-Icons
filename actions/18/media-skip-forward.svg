@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<radialGradient id="a" cx="-9409" cy="5035.3" r="9" gradientTransform="matrix(0,-1.4589,-1.2967,0,6553.4,-13714)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="8" cy="11.997" r="9.3438" gradientTransform="matrix(-1 0 0 .82441 35.597 -2.1944)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="f" cx="10.978" cy="8.017" r=".50005" gradientTransform="matrix(23.084,0,0,28.629,-241.43,-220.52)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="e" cx="8.792" cy="8" r="3.4618" gradientTransform="matrix(3.8456,0,0,3.856,-21.811,-21.848)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-		<radialGradient id="d" cx="7.2494" cy="8.0065" r="1.0001" gradientTransform="matrix(11.586,-2.9208e-6,2.9359e-6,11.646,-73.993,-84.244)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<radialGradient id="c" cx="9" cy="8" r="3.4618" gradientTransform="matrix(3.3472,8.9522e-8,-8.9984e-8,3.3645,-20.125,-17.916)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-	</defs>
-	<metadata>
+<svg id="g" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="h">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -24,10 +9,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="M 4.5817,14.495 10.5,8.9998 4.5817,3.5046" fill="none" stroke="#090d11" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" style="paint-order:normal"/>
-	<path d="M 4.5817,14.495 10.5,8.9998 4.5817,3.5046" fill="none" stroke="url(#c)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" style="paint-order:normal"/>
-	<path d="m6.0595 14.495 5.9183-5.4952-5.9183-5.4952" fill="none" stroke="url(#e)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:normal"/>
-	<path d="m14 8.0078v2.0102" fill="#ececec" fill-opacity=".76621" stroke="#090d11" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
-	<path d="m14 8.0078v2.0102" fill="#ececec" fill-opacity=".76621" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" stroke-width="2" style="paint-order:normal"/>
-	<path d="m15.5 7.5089v3.0275" fill="#ececec" fill-opacity=".76621" stroke="url(#f)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".76471" style="paint-order:normal"/>
+	<defs id="a">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="i" class="ColorScheme-Text" d="m4.5815 14.495 5.9183-5.4952-5.9183-5.4952" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
+	<path id="l" class="ColorScheme-Text" d="m14 8.0078v2.0102" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke-width:2;stroke:currentColor"/>
+	<path id="k" class="ColorScheme-Background" d="m6.0595 14.495 5.9183-5.4952-5.9183-5.4952m9.4405 4.0043v3.0275" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 </svg>

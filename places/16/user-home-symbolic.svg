@@ -10,14 +10,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="defs3051">
-		<style type="text/css" id="current-color-scheme">
-			.ColorScheme-Text {
-			color:#090d11;
-			}
-		</style>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}</style>
 	</defs>
 	<g transform="translate(9379.3,-4844.2)">
-		<path transform="translate(-9379.3,4843.2)" d="m8 2-7 7 1 1 1-1v6h2.5c1 0 1-1 2-1h1c1 0 1 1 2 1h2.5v-6l1 1 1-1zm0 2.25 4 3.75v6h-1c-1 0-1-1-2-1h-2c-1 0-1 1-2 1h-1v-6z" color="#090d11" fill="currentColor" style="fill:currentColor;" class="ColorScheme-Text"/>
+		<path transform="translate(-9379.3,4843.2)" d="m8 2-7 7 1 1 1-1v6h2.5c1 0 1-1 2-1h1c1 0 1 1 2 1h2.5v-6l1 1 1-1zm0 2.25 4 3.75v6h-1c-1 0-1-1-2-1h-2c-1 0-1 1-2 1h-1v-6z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
 	</g>
 </svg>
