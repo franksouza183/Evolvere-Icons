@@ -10,5 +10,8 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m6.082 3.4062a1.0001 1.0001 0 0 0-1.0117 1v9.1875a1.0001 1.0001 0 0 0 1.5742 0.81836l6.543-4.5937a1.0001 1.0001 0 0 0 0-1.6367l-6.543-4.5938a1.0001 1.0001 0 0 0-0.5625-0.18164zm0.98828 2.9258 3.8008 2.668-3.8008 2.668z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#bebebe" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}</style>
+	</defs>
+	<path d="m6.082 3.4062a1.0001 1.0001 0 0 0-1.0117 1v9.1875a1.0001 1.0001 0 0 0 1.5742 0.81836l6.543-4.5937a1.0001 1.0001 0 0 0 0-1.6367l-6.543-4.5938a1.0001 1.0001 0 0 0-0.5625-0.18164zm0.98828 2.9258 3.8008 2.668-3.8008 2.668z" color="#000000" color-rendering="auto" dominant-baseline="auto" style="fill-opacity:.75;fill:currentColor;" class="ColorScheme-Text"/>
 </svg>
