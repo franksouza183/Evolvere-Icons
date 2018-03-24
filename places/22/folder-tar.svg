@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="b" cx="-9356.7" cy="5054.1" r="9" gradientTransform="matrix(1.7777,0,0,1.5619,16644,-7885.9)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="34.117" cy="12.438" r="9.0713" gradientTransform="matrix(2.0386,0,0,1.7597,-58.552,-13.888)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="g" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="b">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -20,7 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m5 3c-1.108 0-2 0.892-2 2v2.5l8-0.5h-2v-1h2v-1h-2v-1h2v-1zm6 1v1h2v1h-2v1l8 0.5v-2.5c0-1.108-0.892-2-2-2h-4v1zm-8 4v9c0 1.108 0.892 2 2 2h6v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1zm8 1v1h2v1h-2v1h2v1h-2v1h2v1h-2v1h2v1h-2v1h2v1h4c1.108 0 2-0.892 2-2v-9h-6v1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m5 3c-1.108 0-2 0.892-2 2v2.5l8-0.5h-2v-1h2v-1h-2v-1h2v-1zm6 1v1h2v1h-2v1l8 0.5v-2.5c0-1.108-0.892-2-2-2h-4v1zm-8 4v9c0 1.108 0.892 2 2 2h6v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1zm8 1v1h2v1h-2v1h2v1h-2v1h2v1h-2v1h2v1h-2v1h2v1h4c1.108 0 2-0.892 2-2v-9h-6v1z" fill="url(#b)" style="paint-order:normal"/>
-	<path d="m5 2c-1.6447 0-3 1.3553-3 3v2.5c4.742e-4 0.0844 0.011631 0.1684 0.033203 0.25-0.021572 0.081598-0.032729 0.1656-0.033203 0.25v9c0 1.6447 1.3553 3 3 3h12c1.6447 0 3-1.3553 3-3v-9c-4.74e-4 -0.0844-0.01163-0.1684-0.0332-0.25 0.02157-0.081598 0.032726-0.1656 0.0332-0.25v-2.5c0-1.6447-1.3553-3-3-3zm0 1h6v1h2v-1h4c1.108 0 2 0.892 2 2v2.5l-8-0.5-8 0.5v-2.5c0-1.108 0.892-2 2-2zm6 4v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm-8 3h8v1h2v-1h6v9c0 1.108-0.892 2-2 2h-4v-1h-2v1h-6c-1.108 0-2-0.892-2-2zm8 10v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<defs id="a">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="f" class="ColorScheme-Text" d="m5 3c-1.108 0-2 0.892-2 2v2.5l8-0.5h-2v-1h2v-1h-2v-1h2v-1zm6 1v1h2v1h-2v1l8 0.5v-2.5c0-1.108-0.892-2-2-2h-4v1zm-8 4v9c0 1.108 0.892 2 2 2h6v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1h-2v-1h2v-1zm8 1v1h2v1h-2v1h2v1h-2v1h2v1h-2v1h2v1h-2v1h2v1h4c1.108 0 2-0.892 2-2v-9h-6v1z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="h" class="ColorScheme-Background" d="m5 2c-1.6447 0-3 1.3553-3 3v2.5c4.742e-4 0.0844 0.011631 0.1684 0.033203 0.25-0.021572 0.081598-0.032729 0.1656-0.033203 0.25v9c0 1.6447 1.3553 3 3 3h12c1.6447 0 3-1.3553 3-3v-9c-4.74e-4 -0.0844-0.01163-0.1684-0.0332-0.25 0.02157-0.081598 0.032726-0.1656 0.0332-0.25v-2.5c0-1.6447-1.3553-3-3-3zm0 1h6v1h2v-1h4c1.108 0 2 0.892 2 2v2.5l-8-0.5-8 0.5v-2.5c0-1.108 0.892-2 2-2zm6 4v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm-8 3h8v1h2v-1h6v9c0 1.108-0.892 2-2 2h-4v-1h-2v1h-6c-1.108 0-2-0.892-2-2zm8 10v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1zm0-1h2v-1h-2zm0-1v-1h-2v1z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
