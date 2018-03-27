@@ -12,7 +12,7 @@
 	<defs id="e">
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="f" class="ColorScheme-Text" d="m18 4.135-14.875 6.8267 4.0242 1.006 7.689-4.8146-6.0722 5.4973 2.4432 1.9043 4.2397 2.9463 2.551-13.366z" style="color:#090d11;fill-opacity:.75;fill:currentColor"/>
-	<path id="b" class="ColorScheme-Background" d="m19.346 2.416-1.7637 0.81055-17.463 8.0137 6.1799 1.8243 2.4311 4.8315 1.8326-2.4586 5.5799 3.7638zm-1.3457 1.7188-2.5508 13.367-4.2402-2.9473-2.4434-1.9043 6.0723-5.498-7.6895 4.8145-4.0234-1.0059z" style="color:#ffffff;fill-opacity:.5;fill:currentColor"/>
-	<path id="d" class="ColorScheme-Text" d="m8.7301 17.896 0.03593-5.2458 2.4432 1.9043z" style="color:#090d11;fill-opacity:.75;fill:currentColor;opacity:.5"/>
+	<path id="f" class="ColorScheme-Text" d="m18 4.135-14.875 6.8267 4.0242 1.006 7.689-4.8146-6.0722 5.4973 2.4432 1.9043 4.2397 2.9463 2.551-13.366z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="b" class="ColorScheme-Background" d="m19.346 2.416-1.7637 0.81055-17.463 8.0137 6.1799 1.8243 2.4311 4.8315 1.8326-2.4586 5.5799 3.7638zm-1.3457 1.7188-2.5508 13.367-4.2402-2.9473-2.4434-1.9043 6.0723-5.498-7.6895 4.8145-4.0234-1.0059z" style="fill-opacity:.5;fill:currentColor"/>
+	<path id="d" class="ColorScheme-Text" d="m8.7301 17.896 0.03593-5.2458 2.4432 1.9043z" style="fill-opacity:.75;fill:currentColor;opacity:.5"/>
 </svg>

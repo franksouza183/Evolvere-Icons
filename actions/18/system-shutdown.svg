@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="18" height="18" id="svg13094" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="system-shutdown.svg">
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="32.000002" inkscape:cx="6.7261001" inkscape:cy="8.2852994" inkscape:document-units="px" inkscape:current-layer="svg13094" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:object-paths="true" inkscape:snap-intersection-paths="true" inkscape:object-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-center="true" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1920" inkscape:window-height="1032" inkscape:window-x="-7" inkscape:window-y="25" inkscape:window-maximized="1" inkscape:snap-global="true" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" showborder="true" inkscape:showpageshadow="false">
-    <inkscape:grid type="xygrid" id="grid3075" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true" originx="1.6362304e-08px" originy="18px"/>
-  </sodipodi:namedview>
-  <defs id="defs13096"/>
-  <metadata id="metadata13099">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path id="path2993" d="m 7,1.0013618 0,8 2,0 0,-8 -2,0 z m -2,0.6875 c -2.3630216,1.1241935 -4,3.5215101 -4,6.3125 0,3.8659932 3.1340068,7.0000002 7,7.0000002 3.865993,0 7,-3.134007 7,-7.0000002 0,-2.7909899 -1.636978,-5.1883065 -4,-6.3125 l 0,2.3125 c 1.208484,0.9126784 2,2.3688927 2,4 0,2.7614242 -2.238576,5.0000002 -5,5.0000002 -2.7614237,0 -5,-2.238576 -5,-5.0000002 0,-1.6311073 0.7915163,-3.0873216 2,-4 l 0,-2.3125 z" style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none" inkscape:connector-curvature="0" transform="translate(1,1)"/>
-  <path style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="M 4 0.78125 C 1.4559856 2.1852034 -0.25 4.8867825 -0.25 8 C -0.25 12.556349 3.4436513 16.25 8 16.25 C 12.556349 16.25 16.25 12.556349 16.25 8 C 16.25 4.8867825 14.544015 2.1852034 12 0.78125 L 12 2.28125 C 13.804276 3.5448593 15 5.6290031 15 8 C 15 11.865993 11.865993 15 8 15 C 4.1340068 15 1 11.865993 1 8 C 1 5.6290031 2.1957241 3.5448593 4 2.28125 L 4 0.78125 z " id="path2986" transform="translate(1,1)"/>
-  <path style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m 6,0 0,10 4,0 0,-10 z M 7,1 9,1 9,9 7,9 z" id="rect2996" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccc" transform="translate(1,1)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="d">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="c" class="ColorScheme-Text" d="m8 2.0014v8h2v-8zm-2 0.6875c-2.363 1.1242-4 3.5215-4 6.3125 0 3.866 3.134 7 7 7s7-3.134 7-7c0-2.791-1.637-5.1883-4-6.3125v2.3125c1.2085 0.91268 2 2.3689 2 4 0 2.7614-2.2386 5-5 5s-5-2.2386-5-5c0-1.6311 0.79152-3.0873 2-4z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="a" class="ColorScheme-Background" d="m7 1v10h4v-10zm-1.8789 1c-2.4669 1.3614-4.1211 3.9811-4.1211 7 0 4.4183 3.5817 8 8 8s8-3.5817 8-8c0-3.0189-1.6542-5.6386-4.1211-7l0.12109 1.2812c1.8043 1.2636 3 3.3478 3 5.7188 0 3.866-3.134 7-7 7s-7-3.134-7-7c0-2.371 1.1957-4.4551 3-5.7188l0.12109-1.2812zm2.8789 0h2v8h-2z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
