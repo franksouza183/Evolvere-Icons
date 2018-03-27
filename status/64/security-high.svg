@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="n" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs id="ab">
+		<linearGradient id="a">
+			<stop id="g" style="stop-color:#a9ff20" offset="0"/>
+			<stop id="k" style="stop-color:#4eff00;stop-opacity:0" offset="1"/>
+		</linearGradient>
+		<radialGradient id="d" cx="105.85" cy="72.047" r="32" gradientTransform="matrix(.8465 0 -.00016842 3.762 -69.198 -282.39)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="b" cx="44.556" cy=".60247" r="32" gradientTransform="matrix(.187 -.01164 .17013 2.7333 19.065 1.0014)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+	</defs>
+	<metadata id="u">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="az" d="m0 1v44.525c0 2.8765 10.732 9.6742 20 14.174l2.0508 0.97656c4.321 1.9823 8.0935 3.3242 9.9492 3.3242 1.8632 0 5.6569-1.3521 10-3.3477l2.0117-0.95898c9.2653-4.4995 19.988-11.293 19.988-14.168v-44.525s-21.328-1-32-1-32 0.99996-32 0.99996z" style="fill:#55961a"/>
+	<path id="ah" d="m0 1v44.525c0 2.8765 10.732 9.6742 20 14.174l2.0508 0.97656c4.321 1.9823 8.0935 3.3242 9.9492 3.3242 1.8632 0 5.6569-1.3521 10-3.3477l2.0117-0.95898c9.2653-4.4995 19.988-11.293 19.988-14.168v-44.525s-21.328-1-32-1-32 0.99996-32 0.99996z" style="fill:url(#b)"/>
+	<path id="c" d="m0 1v44.525c0 2.8765 10.732 9.6742 20 14.174l2.0508 0.97656c4.321 1.9823 8.0935 3.3242 9.9492 3.3242 1.8632 0 5.6569-1.3521 10-3.3477l2.0117-0.95898c9.2653-4.4995 19.988-11.293 19.988-14.168v-44.525s-21.328-1-32-1-32 0.99996-32 0.99996z" style="fill:url(#d)"/>
+	<path id="v" d="m0 1s21.328 1 32 1 32-1 32-1-21.328-1-32-1-32 1-32 1z" style="color:#000000;fill:#bfff46"/>
+</svg>
