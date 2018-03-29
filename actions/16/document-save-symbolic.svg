@@ -10,7 +10,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}</style>
+	</defs>
 	<g transform="translate(9384.3 -4846.2)">
-		<path transform="translate(-9384.3 4846.2)" d="m7 1v5h-3l4 5 4-5h-3v-5zm-4 11v3h10v-3h-1v2h-8v-2z" color="#bebebe" fill="#bebebe"/>
+		<path transform="translate(-9384.3 4846.2)" d="m7 1v5h-3l4 5 4-5h-3v-5zm-4 11v3h10v-3h-1v2h-8v-2z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
 	</g>
 </svg>
