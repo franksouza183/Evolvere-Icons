@@ -12,6 +12,6 @@
 	<defs id="b">
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="c" d="m5 4-4 3 4 3v-2h6v-2h-6v-2zm7 2v2h1v-2h-1zm2 0v2h1v-2h-1zm1.0312 3.0938-3.2812 3.2812-1.5312-1.5312-1.1875 1.1875 2.4688 2.4688 4.4688-4.4688-0.9375-0.9375z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
-	<path id="e" d="m4.957 2.25-0.84375 0.6875-4 3-0.8125 1.0625 0.8125 1.0625 4 3 0.84375 0.6875v-1.75l-4-3 4-3v-1.75zm0 2.75v1h6v2h-6v1h6 1v-1-2-1h-1-6zm8 0v1 2 1h1v-1-2-1h-1zm2 0v1 2 1h1v-1-2-1h-1zm-0.17578 6.2188-3.2812 3.2812-1.5312-1.5312-0.86719 0.86719 2.3984 2.4141 4.2188-4.0938-0.9375-0.9375z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+	<path id="c" class="ColorScheme-Text" d="m5 5-4 3 4 3v-2h6v-2h-6zm7 2v2h1v-2zm2 0v2h1v-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="e" class="ColorScheme-Background" d="m-0.7 8 0.8125-1.0625 4-3 0.8439-0.6875v1.75l-4 3 4 3v1.75l-0.8439-0.6875-4-3zm5.6564-2h7v4h-7v-1h6v-2h-6zm8 0h1v4h-1v-3zm2 0h1v4h-1v-3z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>

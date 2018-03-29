@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="a" cx="10.524" cy="8.6911" r="9.3037" gradientTransform="matrix(-1.4243,0,0,1.346,25.784,-6.417)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".8252" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".6051" offset="1"/>
-		</radialGradient>
-	</defs>
+	
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
@@ -16,6 +11,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m7.9688 1.5254v4.4336h1v-2.2031l3.6367 3.2441h-4.5508c-1.2924 0-2.3474 0.025193-3.5527 0.58008-1.2054 0.55489-2.5222 1.5984-4.502 3.5781l0.70703 0.70703c1.9463-1.9463 3.193-2.9074 4.2129-3.377 1.0199-0.46951 1.8535-0.48828 3.1348-0.48828h7.1738z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:url(#a);font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-	<path d="m9.003 3.793 6.207 6.207h-4.8549c-3.7592 0-5.6892-0.16096-9.1587 3.1953l-0.54242 7.88e-4c4.5767-5.191 6.3131-5.1961 9.2817-5.1961h1.8603l-1.793-1.793v0.75195h-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#0c1218" fill-opacity=".72157" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path d="m7.9688 1.5254v4.4336h1v-2.2031l3.6367 3.2441h-4.5508c-1.2924 0-2.3474 0.025193-3.5527 0.58008-1.2054 0.55489-2.5222 1.5984-4.502 3.5781l0.70703 0.70703c1.9463-1.9463 3.193-2.9074 4.2129-3.377 1.0199-0.46951 1.8535-0.48828 3.1348-0.48828h7.1738z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+	<path d="m9.003 3.793 6.207 6.207h-4.8549c-3.7592 0-5.6892-0.16096-9.1587 3.1953l-0.54242 7.88e-4c4.5767-5.191 6.3131-5.1961 9.2817-5.1961h1.8603l-1.793-1.793v0.75195h-1z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
 </svg>
