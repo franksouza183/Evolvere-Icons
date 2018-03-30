@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="a" cx="11.5" cy="11" r="3.4999" gradientTransform="matrix(0,-3.2477,3.3788,0,-9408.5,4888.5)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="d" cx="9.5267" cy="11" r="3.5603" gradientTransform="matrix(0,-3.073,4.4242,0,-9420,4884.2)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="d" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="b">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -20,9 +9,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g transform="rotate(-90,-7102.2,-2260)" fill="none" shape-rendering="auto" stroke-linecap="round" stroke-linejoin="round">
-		<path d="m-9377.3 4849.4 5.2147 4.4942c0.4544 0.3917 1.141 0.391 1.5948 0l5.1899-4.4726" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stroke="#090d11" stroke-opacity=".76471" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-		<path d="m-9377.3 4849.4 5.2147 4.4942c0.4544 0.3917 1.141 0.391 1.5948 0l5.1899-4.4726" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stroke="url(#a)" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-		<path d="m-9377.3 4850.8 4.9158 4.2366c0.6433 0.5545 1.6057 0.5538 2.248 0l4.8362-4.1677" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stroke="url(#d)" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-	</g>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="c" class="ColorScheme-Text" d="m7.2 15.1 4.4942-5.2147c0.3917-0.4544 0.391-1.141 0-1.5948l-4.4726-5.1899" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
+	<path id="a" class="ColorScheme-Background" d="m8.6 15.1 4.2366-4.9158c0.5545-0.6433 0.5538-1.6057 0-2.248l-4.1677-4.8362" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 </svg>
