@@ -12,6 +12,8 @@
 	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="b" d="m5 3c-0.5541 0-1 0.4459-1 1v15c0 0.5541 0.4459 1 1 1h4v-12h6v-5zm11 0v17h4c0.5541 0 1-0.4459 1-1v-15c0-0.5541-0.4459-1-1-1zm-6 6v11h5v-11z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
-	<path id="c" d="m5 2c-1.0906 0-2 0.90941-2 2v15c0 1.0906 0.90941 2 2 2h4 1 5 1 4c1.0906 0 2-0.90941 2-2v-15c0-1.0906-0.90941-2-2-2h-4-1-10zm0 1h10v5h-6v12h-4c-0.5541 0-1-0.4459-1-1v-15c0-0.5541 0.4459-1 1-1zm11 0h4c0.5541 0 1 0.4459 1 1v15c0 0.5541-0.4459 1-1 1h-4v-17zm-6 6h5v11h-5v-11z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+	<g id="b" transform="translate(9379.3 -4835.2)">
+		<path id="e" d="m-9374.3 4840.7h13c1 0 3.5 1.5 3.5 5.5s-2.5 5.5-3.5 5.5h-15l5 5v-3.5" style="fill:none;stroke-opacity:.5;stroke:currentColor" class="ColorScheme-Background"/>
+		<path id="c" d="m-9375.8 4850.7h14.5c1 0 2.5-1.5 2.5-4.5m-15.5-4.5h13c1 0 2.5 1.5 2.5 4.5s-1.5 3.5-2.5 3.5h-15.5l4.5 4.5v-2" style="fill:none;stroke-opacity:.75;stroke:currentColor" class="ColorScheme-Text"/>
+	</g>
 </svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText{color:#df0278;}</style>
+	</defs>
+	<path id="c" class="ColorScheme-NegativeText" d="m12 3c-1.6568-1e-7 -3 1.3432-3 3 1e-7 1.6568 1.3432 3 3 3 1.6568-1e-7 3-1.3432 3-3s-1.3432-3-3-3zm0 7c-0.83609 0-5.082 0.18611-5.5 0.9363-0.41804 0.75019 1.5494 4.8465 1.9675 5.5966 0.41804 0.75019 2.6965 4.4671 3.5325 4.4671 0.83609 0 3.1145-3.7169 3.5325-4.4671 0.41804-0.75019 2.3855-4.8465 1.9675-5.5966-0.41804-0.75019-4.6639-0.9363-5.5-0.9363z" style="fill:currentColor"/>
+</svg>
