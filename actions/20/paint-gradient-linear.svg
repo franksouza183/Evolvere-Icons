@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="h" width="20" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<metadata id="v">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="n">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<g id="x" transform="translate(-1,-1)">
+		<g id="y">
+			<path id="b" class="ColorScheme-Text" d="m3 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1z" style="fill-opacity:.75;fill:currentColor"/>
+		</g>
+		<g id="z" style="opacity:.95">
+			<path id="a" class="ColorScheme-Text" d="m3 2h1v18h-1z" style="fill-opacity:.75;fill:currentColor"/>
+		</g>
+		<use id="s" transform="translate(1)" width="100%" height="100%" style="opacity:.9" xlink:href="#a"/>
+		<use id="k" transform="translate(2)" width="100%" height="100%" style="opacity:.85" xlink:href="#a"/>
+		<use id="f" transform="translate(3)" width="100%" height="100%" style="opacity:.8" xlink:href="#a"/>
+		<use id="o" transform="translate(4)" width="100%" height="100%" style="opacity:.75" xlink:href="#a"/>
+		<use id="l" transform="translate(5)" width="100%" height="100%" style="opacity:.7" xlink:href="#a"/>
+		<use id="r" transform="translate(6)" width="100%" height="100%" style="opacity:.65" xlink:href="#a"/>
+		<use id="g" transform="translate(7)" width="100%" height="100%" style="opacity:.6" xlink:href="#a"/>
+		<use id="q" transform="translate(8)" width="100%" height="100%" style="opacity:.55" xlink:href="#a"/>
+		<use id="p" transform="translate(9)" width="100%" height="100%" style="opacity:.5" xlink:href="#a"/>
+		<use id="e" transform="translate(10)" width="100%" height="100%" style="opacity:.45" xlink:href="#a"/>
+		<use id="t" transform="translate(11)" width="100%" height="100%" style="opacity:.4" xlink:href="#a"/>
+		<use id="j" transform="translate(12)" width="100%" height="100%" style="opacity:.35" xlink:href="#a"/>
+		<use id="i" transform="translate(13)" width="100%" height="100%" style="opacity:.3" xlink:href="#a"/>
+		<use id="c" transform="translate(14)" width="100%" height="100%" style="opacity:.25" xlink:href="#a"/>
+		<use id="u" transform="translate(15)" width="100%" height="100%" style="opacity:.2" xlink:href="#a"/>
+		<use id="m" transform="matrix(-1,0,0,1,22,0)" width="100%" height="100%" style="opacity:.15" xlink:href="#b"/>
+	</g>
+	<g id="ai" transform="matrix(-1,0,0,1,21,-1)">
+		<g id="ap">
+			<path id="af" class="ColorScheme-Background" d="m3 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1z" style="fill-opacity:.5;fill:currentColor"/>
+		</g>
+		<g id="am" style="opacity:.95">
+			<path id="an" class="ColorScheme-Background" d="m3 2h1v18h-1z" style="fill-opacity:.5;fill:currentColor"/>
+		</g>
+		<use id="aa" transform="translate(1)" width="100%" height="100%" style="opacity:.9" xlink:href="#an"/>
+		<use id="ac" transform="translate(2)" width="100%" height="100%" style="opacity:.85" xlink:href="#an"/>
+		<use id="ag" transform="translate(3)" width="100%" height="100%" style="opacity:.8" xlink:href="#an"/>
+		<use id="ao" transform="translate(4)" width="100%" height="100%" style="opacity:.75" xlink:href="#an"/>
+		<use id="ak" transform="translate(5)" width="100%" height="100%" style="opacity:.7" xlink:href="#an"/>
+		<use id="al" transform="translate(6)" width="100%" height="100%" style="opacity:.65" xlink:href="#an"/>
+		<use id="at" transform="translate(7)" width="100%" height="100%" style="opacity:.6" xlink:href="#an"/>
+		<use id="ad" transform="translate(8)" width="100%" height="100%" style="opacity:.55" xlink:href="#an"/>
+		<use id="ae" transform="translate(9)" width="100%" height="100%" style="opacity:.5" xlink:href="#an"/>
+		<use id="ab" transform="translate(10)" width="100%" height="100%" style="opacity:.45" xlink:href="#an"/>
+		<use id="aj" transform="translate(11)" width="100%" height="100%" style="opacity:.4" xlink:href="#an"/>
+		<use id="ah" transform="translate(12)" width="100%" height="100%" style="opacity:.35" xlink:href="#an"/>
+		<use id="au" transform="translate(13)" width="100%" height="100%" style="opacity:.3" xlink:href="#an"/>
+		<use id="ar" transform="translate(14)" width="100%" height="100%" style="opacity:.25" xlink:href="#an"/>
+		<use id="as" transform="translate(15)" width="100%" height="100%" style="opacity:.2" xlink:href="#an"/>
+		<use id="aq" transform="matrix(-1,0,0,1,22,0)" width="100%" height="100%" style="opacity:.15" xlink:href="#af"/>
+	</g>
+	<path id="w" class="ColorScheme-Text" d="m2 1c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-16c0-0.554-0.446-1-1-1zm0 1h16v16h-16z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="d" class="ColorScheme-Background" d="m1 0c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-18c0-0.554-0.446-1-1-1zm0 1h18v18h-18z" style="fill-opacity:.5;fill:currentColor"/>
+</svg>

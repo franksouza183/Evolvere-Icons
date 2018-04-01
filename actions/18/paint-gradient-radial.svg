@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="h" width="18" height="18" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="v">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="n">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<g id="l" transform="translate(-3,-3)">
+		<path id="f" class="ColorScheme-Text" d="m6 5c-0.554 0-1 0.446-1 1v6a7 7 0 0 1 7-7zm6 0a7 7 0 0 1 7 7v-6c0-0.554-0.446-1-1-1zm7 7a7 7 0 0 1-7 7h6c0.554 0 1-0.446 1-1zm-7 7a7 7 0 0 1-7-7v6c0 0.554 0.446 1 1 1z" style="fill-opacity:.75;fill:currentColor"/>
+		<circle id="d" class="ColorScheme-Text" cx="12" cy="12" r="6.5" style="fill:none;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="b" class="ColorScheme-Text" cx="12" cy="12" r="5.5" style="fill:none;opacity:.9;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="q" class="ColorScheme-Text" cx="12" cy="12" r="4.5" style="fill:none;opacity:.7;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="r" class="ColorScheme-Text" cx="12" cy="12" r="3.5" style="fill:none;opacity:.5;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="s" class="ColorScheme-Text" cx="12" cy="12" r="2.5" style="fill:none;opacity:.3;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="t" class="ColorScheme-Text" cx="12" cy="12" r="1.5" style="fill:none;opacity:.1;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="w" class="ColorScheme-Text" cx="12" cy="12" r=".5" style="fill:none;opacity:.01;stroke-opacity:.75;stroke:currentColor"/>
+	</g>
+	<g id="u" transform="translate(-3,-3)">
+		<circle id="c" class="ColorScheme-Background" cx="12" cy="12" r="5.5" style="fill:none;opacity:.1;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="e" class="ColorScheme-Background" cx="12" cy="12" r="4.5" style="fill:none;opacity:.3;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="g" class="ColorScheme-Background" cx="12" cy="12" r="3.5" style="fill:none;opacity:.5;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="k" class="ColorScheme-Background" cx="12" cy="12" r="2.5" style="fill:none;opacity:.7;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="a" class="ColorScheme-Background" cx="12" cy="12" r="1.5" style="fill:none;opacity:.9;stroke-opacity:.75;stroke:currentColor"/>
+		<circle id="i" class="ColorScheme-Background" cx="12" cy="12" r=".5" style="fill:none;stroke-opacity:.75;stroke:currentColor"/>
+		<rect id="o" class="ColorScheme-Background" x="4.5" y="4.5" width="15" height="15" rx="1.5" ry="1.5" style="fill:none;paint-order:normal;stroke-opacity:.5;stroke:currentColor"/>
+	</g>
+</svg>

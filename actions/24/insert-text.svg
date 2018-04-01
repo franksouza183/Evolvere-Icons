@@ -14,5 +14,5 @@
 	</defs>
 	<path id="f" class="ColorScheme-Text" d="m4 4v4h1v-1a1 1 0 0 1 1 -1h4v12a1 1 0 0 1 -1 1h-2v1h8v-1h-2a1 1 0 0 1 -1 -1v-12h4a1 1 0 0 1 1 1v1h1v-4h-13z" style="fill-opacity:.75;fill:currentColor"/>
 	<path id="h" class="ColorScheme-Background" d="m3 3v5h1v-4h14v4h1v-5h-15zm6 3 1e-4 13h1l-1e-4 -13zm3 0 1e-4 13h1l-1e-4 -13zm-4.9999 14v1h8v-1z" style="fill-opacity:.5;fill:currentColor"/>
-	<path id="i" class="ColorScheme-NeutralText" d="m15.248 16h7.5049l-1.8763 3.2498-1.8763 3.2498-1.8763-3.2498z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="i" class="ColorScheme-NeutralText" d="m15.248 16h7.5049l-1.8763 3.2498-1.8763 3.2498-1.8763-3.2498z" style="fill:currentColor"/>
 </svg>

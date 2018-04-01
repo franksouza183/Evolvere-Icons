@@ -20,5 +20,5 @@
 	<path id="b" class="ColorScheme-Background" d="m14.5 5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 	<path id="h" class="ColorScheme-Text" d="m2.5 9.5v-7h13v5.1259" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
 	<path id="d" class="ColorScheme-Text" d="m15.5 13.5v-2c-7.4382 0-8.5865-8.4857-13-2v4z" style="fill-opacity:.75;fill:currentColor;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
-	<path id="i" class="ColorScheme-NeutralText" d="m5.536 11h6.928l-1.7321 3-1.7321 3-1.7321-3z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="i" class="ColorScheme-NeutralText" d="m5.536 11h6.928l-1.7321 3-1.7321 3-1.7321-3z" style="fill:currentColor"/>
 </svg>
