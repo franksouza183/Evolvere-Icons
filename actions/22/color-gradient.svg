@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata>
+<svg id="h" width="22" height="22" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<metadata id="v">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -10,22 +9,57 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs>
-		<radialGradient id="b" cx="12" cy="4" r="8" gradientTransform="matrix(3.0529,0,0,1.5265,-25.635,-3.1059)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<linearGradient id="c" x1="27" x2="27" y1="20" y2="4" gradientTransform="matrix(2.5044,0,0,2.5044,-110.31,-7.2834)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".0042194" offset="1"/>
-		</linearGradient>
-		<radialGradient id="a" cx="48.405" cy="10.843" r="8.7344" gradientTransform="matrix(2.4613,0,0,2.4613,-108.22,-6.816)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60392" offset="1"/>
-		</radialGradient>
+	<defs id="n">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<rect x="3" y="3" width="16" height="16" rx="1" ry="1" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<rect x="3" y="3" width="16" height="16" rx="1" ry="1" fill="url(#c)" style="paint-order:normal"/>
-	<rect x="3" y="3" width="16" height="16" rx="1" ry="1" fill="url(#b)" fill-opacity=".75328" style="paint-order:normal"/>
-	<path d="m4 2c-1.09-0.03893-2 0.9093-2 2v14c0 1.091 0.91 2.039 2 2h14c1.09-0.03893 2-0.9093 2-2v-14c0-1.091-0.91-1.961-2-2zm0 1h14c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<g id="x">
+		<g id="y">
+			<path id="b" class="ColorScheme-Text" d="m3 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1z" style="fill-opacity:.75;fill:currentColor"/>
+		</g>
+		<g id="z" style="opacity:.95">
+			<path id="a" class="ColorScheme-Text" d="m3 2h1v18h-1z" style="fill-opacity:.75;fill:currentColor"/>
+		</g>
+		<use id="s" transform="translate(1)" width="100%" height="100%" style="opacity:.9" xlink:href="#a"/>
+		<use id="k" transform="translate(2)" width="100%" height="100%" style="opacity:.85" xlink:href="#a"/>
+		<use id="f" transform="translate(3)" width="100%" height="100%" style="opacity:.8" xlink:href="#a"/>
+		<use id="o" transform="translate(4)" width="100%" height="100%" style="opacity:.75" xlink:href="#a"/>
+		<use id="l" transform="translate(5)" width="100%" height="100%" style="opacity:.7" xlink:href="#a"/>
+		<use id="r" transform="translate(6)" width="100%" height="100%" style="opacity:.65" xlink:href="#a"/>
+		<use id="g" transform="translate(7)" width="100%" height="100%" style="opacity:.6" xlink:href="#a"/>
+		<use id="q" transform="translate(8)" width="100%" height="100%" style="opacity:.55" xlink:href="#a"/>
+		<use id="p" transform="translate(9)" width="100%" height="100%" style="opacity:.5" xlink:href="#a"/>
+		<use id="e" transform="translate(10)" width="100%" height="100%" style="opacity:.45" xlink:href="#a"/>
+		<use id="t" transform="translate(11)" width="100%" height="100%" style="opacity:.4" xlink:href="#a"/>
+		<use id="j" transform="translate(12)" width="100%" height="100%" style="opacity:.35" xlink:href="#a"/>
+		<use id="i" transform="translate(13)" width="100%" height="100%" style="opacity:.3" xlink:href="#a"/>
+		<use id="c" transform="translate(14)" width="100%" height="100%" style="opacity:.25" xlink:href="#a"/>
+		<use id="u" transform="translate(15)" width="100%" height="100%" style="opacity:.2" xlink:href="#a"/>
+		<use id="m" transform="matrix(-1,0,0,1,22,0)" width="100%" height="100%" style="opacity:.15" xlink:href="#b"/>
+	</g>
+	<g id="ai" transform="matrix(-1,0,0,1,22,0)">
+		<g id="ap">
+			<path id="af" class="ColorScheme-Background" d="m3 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1z" style="fill-opacity:.5;fill:currentColor"/>
+		</g>
+		<g id="am" style="opacity:.95">
+			<path id="an" class="ColorScheme-Background" d="m3 2h1v18h-1z" style="fill-opacity:.5;fill:currentColor"/>
+		</g>
+		<use id="aa" transform="translate(1)" width="100%" height="100%" style="opacity:.9" xlink:href="#an"/>
+		<use id="ac" transform="translate(2)" width="100%" height="100%" style="opacity:.85" xlink:href="#an"/>
+		<use id="ag" transform="translate(3)" width="100%" height="100%" style="opacity:.8" xlink:href="#an"/>
+		<use id="ao" transform="translate(4)" width="100%" height="100%" style="opacity:.75" xlink:href="#an"/>
+		<use id="ak" transform="translate(5)" width="100%" height="100%" style="opacity:.7" xlink:href="#an"/>
+		<use id="al" transform="translate(6)" width="100%" height="100%" style="opacity:.65" xlink:href="#an"/>
+		<use id="at" transform="translate(7)" width="100%" height="100%" style="opacity:.6" xlink:href="#an"/>
+		<use id="ad" transform="translate(8)" width="100%" height="100%" style="opacity:.55" xlink:href="#an"/>
+		<use id="ae" transform="translate(9)" width="100%" height="100%" style="opacity:.5" xlink:href="#an"/>
+		<use id="ab" transform="translate(10)" width="100%" height="100%" style="opacity:.45" xlink:href="#an"/>
+		<use id="aj" transform="translate(11)" width="100%" height="100%" style="opacity:.4" xlink:href="#an"/>
+		<use id="ah" transform="translate(12)" width="100%" height="100%" style="opacity:.35" xlink:href="#an"/>
+		<use id="au" transform="translate(13)" width="100%" height="100%" style="opacity:.3" xlink:href="#an"/>
+		<use id="ar" transform="translate(14)" width="100%" height="100%" style="opacity:.25" xlink:href="#an"/>
+		<use id="as" transform="translate(15)" width="100%" height="100%" style="opacity:.2" xlink:href="#an"/>
+		<use id="aq" transform="matrix(-1,0,0,1,22,0)" width="100%" height="100%" style="opacity:.15" xlink:href="#af"/>
+	</g>
+	<path id="w" class="ColorScheme-Text" d="m3 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-16c0-0.554-0.446-1-1-1zm0 1h16v16h-16z" style="color:#090d11;fill-opacity:.75;fill:currentColor"/>
+	<path id="d" class="ColorScheme-Background" d="m2 1c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-18c0-0.554-0.446-1-1-1zm0 1h18v18h-18z" style="color:#ffffff;fill-opacity:.5;fill:currentColor"/>
 </svg>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata>
+<svg id="b" width="22" height="22" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="d">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -11,16 +10,8 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<radialGradient id="a" cx="11" cy="15.772" r="8" gradientTransform="matrix(2.7012 0 0 2.7012 -18.713 -24.116)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="12" cy="12" r="9" gradientTransform="matrix(1.8,0,0,1.8,11.419,-12.524)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<rect x="3.5" y="3.5" width="15" height="15" rx="1" ry="1" fill="none" stroke="#090d11" stroke-opacity=".76471" style="paint-order:normal"/>
-	<rect x="3.5" y="3.5" width="15" height="15" rx="1" ry="1" fill="none" stroke="url(#a)" stroke-opacity=".76471" style="paint-order:normal"/>
-	<rect x="2.5" y="2.5" width="17" height="17" rx="2.0508" ry="2.0508" fill="none" stroke="url(#b)" style="paint-order:normal"/>
+	<path id="c" d="m3.5 2c-0.82235 0-1.5 0.67765-1.5 1.5v15c0 0.82235 0.67765 1.5 1.5 1.5h15c0.82235 0 1.5-0.67765 1.5-1.5v-15c0-0.82235-0.67765-1.5-1.5-1.5zm0 1h15c0.28565 0 0.5 0.21435 0.5 0.5v15c0 0.28565-0.21435 0.5-0.5 0.5h-15c-0.28565 0-0.5-0.21435-0.5-0.5v-15c0-0.28565 0.21435-0.5 0.5-0.5z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="a" d="m3.5508 1c-1.4045 0-2.5508 1.1463-2.5508 2.5508v14.898c0 1.4045 1.1463 2.5508 2.5508 2.5508h14.898c1.4045 0 2.5508-1.1463 2.5508-2.5508v-14.898c0-1.4045-1.1463-2.5508-2.5508-2.5508zm0 1h14.898c0.86779 0 1.5508 0.68299 1.5508 1.5508v14.898c0 0.86779-0.68299 1.5508-1.5508 1.5508h-14.898c-0.86779 0-1.5508-0.68299-1.5508-1.5508v-14.898c0-0.86779 0.68299-1.5508 1.5508-1.5508z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
 </svg>
