@@ -12,6 +12,6 @@
 	<defs id="b">
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="e" class="ColorScheme-Background" d="m4 4.5h13c1 0 3.5 1.5 3.5 5.5s-2.5 5.5-3.5 5.5h-14.5l5 5v-3.5" style="fill:none;stroke-opacity:.5;stroke:currentColor"/>
-	<path id="c" class="ColorScheme-Text" d="m3 14.5h14c1 0 2.5-1.5 2.5-4.5m-15.5-4.5h13c1 0 2.5 1.5 2.5 4.5s-1.5 3.5-2.5 3.5h-15l4.5 4.5v-2" style="fill:none;stroke-opacity:.75;stroke:currentColor"/>
+	<path id="e" class="ColorScheme-Background" d="m3.5 14v-9c0-1 1.5-3.5 5.5-3.5h2c4 0 5.5 2.5 5.5 3.5v12.5l5-5h-3.5" style="fill:none;stroke-opacity:.5;stroke:currentColor"/>
+	<path id="c" class="ColorScheme-Text" d="m4.5 14v-9c0-1 1.5-2.5 4.5-2.5h2c3 0 4.5 1.5 4.5 2.5v12m-4.5-14.5c3 0 3.4643 1.5006 3.5 2.5v13l4.5-4.5h-2" style="fill:none;stroke-opacity:.75;stroke:currentColor"/>
 </svg>
