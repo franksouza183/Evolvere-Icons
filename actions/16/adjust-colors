@@ -1,0 +1,122 @@
+#!/bin/bash
+
+
+
+replace_strings()
+{
+	find="$1"
+	replace="$2"
+	
+	count=`ls -1 "$1/"*.svg 2>/dev/null | wc -l`
+	if [ $count != 0 ]; then 
+		
+		for f in "$1/"*.svg; do \
+			
+			main_color_find="$find"
+			main_color_find_2='style="fill:none;paint-order:normal;stroke-opacity:.76471;stroke-width:1.1;stroke:#ffffff"'
+			
+			if [[ ! -L "$f" ]] ; then
+				
+				sed -i "s/$main_color_find/$main_color/g" $f; \
+				sed -i "s/$main_color_find_2/$main_color_2/g" $f; \
+				
+			fi
+
+		done
+
+	fi
+
+}
+
+replace_strings oi
+
+
+
+
+count=`ls -1 "$1/"*.svg 2>/dev/null | wc -l`
+if [ $count != 0 ]; then 
+	
+	for f in "$1/"*.svg; do \
+		
+# 		main_color_find='style="color:#000000;fill-opacity:.76621;fill:#090d11;paint-order:normal"'
+# 		main_color_find='style="fill-opacity:.75328;fill:#27303a"'
+# 		main_color_find='style="block-progression:tb;color:#000000;fill-opacity:.75328;fill:#27303a;text-indent:0;text-transform:none"'
+# 		main_color_find='style="color:#000000;fill-opacity:.90289;fill:#f1f3f5;text-decoration-line:none;text-indent:0;text-transform:none"'
+# 		main_color_find='style="color:#000000;fill-opacity:.75328;fill:#27303a"'
+		main_color_find='style="fill:none;paint-order:normal;stroke-opacity:.76471;stroke-width:1.1;stroke:#000000"'
+
+
+
+
+# 		main_color_find_2='style="color:#000000;fill-opacity:.90289;fill:#f1f3f5;text-indent:0;text-transform:none"'
+# 		main_color_find_2='style="color:#000000;fill-opacity:.99858;fill:url(#b);paint-order:normal;text-indent:0;text-transform:none"'
+# 		main_color_find_2='style="block-progression:tb;color:#000000;fill-opacity:.90289;fill:#f1f3f5;text-indent:0;text-transform:none"'
+		main_color_find_2='style="fill:none;paint-order:normal;stroke-opacity:.76471;stroke-width:1.1;stroke:#ffffff"'
+# 		main_opacity_find="0.6093"; # areas transparentes
+# 		main_opacity_find_2="0.6745"; # areas transparentes
+		
+# 		secondary_color_find=
+		
+# 		main_color_outlines_find="#f1f3f5";
+# 		main_opacity_outlines_find="0.9028"; # contornos
+		
+		
+		
+# 		main_color='style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"';
+		main_color='style="fill:none;stroke-opacity:.75;stroke:currentColor;stroke-width:1.1" class="ColorScheme-Text"';
+		
+		
+# 		main_color_2='style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"';
+		main_color_2='style="fill:none;stroke-opacity:.5;stroke:currentColor;stroke-width:1.1" class="ColorScheme-Background"';
+		
+		
+		
+		
+# 		main_color_2=$main_color;
+# 		main_opacity="0.3015";
+# 		main_opacity_2=$main_opacity;
+		
+		
+		
+# 		main_color_outlines="#ff0000";
+# 		main_opacity_outlines="0.49";
+		
+		if [[ ! -L "$f" ]] ; then
+			
+			if [[ $f == *"-symbolic".svg ]]
+			then
+				
+				main_color=$main_color_symbolic
+				main_opacity=$main_opacity_symbolic
+				
+			fi
+			
+			# orange color
+			sed -i "s/#d2a168/#f2a348/g" $f; \
+			if [[ $f != "emblem-"*.svg ]]
+			then
+				
+				sed -i "s/-opacity:0.23137255/-opacity:0.15/g" $f; \
+				sed -i "s/-opacity=\"0.23137255\"/-opacity=\"0.15\"/g" $f; \
+				
+			fi
+			
+			sed -i "s/$main_color_find/$main_color/g" $f; \
+			sed -i "s/$main_color_find_2/$main_color_2/g" $f; \
+# 			
+# 			sed -i "s/-opacity:$main_opacity_find/-opacity:$main_opacity/g" $f; \
+# 			sed -i "s/-opacity:$main_opacity_find_2/-opacity:$main_opacity_2/g" $f; \
+
+# 			sed -i "s/$main_color_outlines_find/$main_color_outlines/g" $f; \
+# 			sed -i "s/-opacity:$main_opacity_outlines_find/-opacity:$main_opacity_outlines/g" $f; \
+
+		fi
+
+	done
+
+fi
+
+
+exit
+
+

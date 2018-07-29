@@ -1,83 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg13094"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-copy.svg"
-   inkscape:export-filename="folder.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1032"
-     id="namedview6"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="0.0038248492"
-     inkscape:cy="6.9025281"
-     inkscape:window-x="-7"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2983" />
-  </sodipodi:namedview>
-  <defs
-     id="defs7" />
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     id="path2985"
-     d="m 7,1 0,1 -5,0 0,2 0,1 -1,0 0,7 2,0 0,-4 1,0 0,-4 6,0 0,-1 2,0 0,-2 z m 3,3 0,1 -5,0 0,2 4,0 0,1 5,0 0,6 -1,0 0,-5 -4,0 0,-1 -5,0 0,7 11,0 0,-11 z"
-     style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
-  <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 7,0 7,1 11.4375,1 12,1 13,1 13,0 12,0 z M 7,1 2,1 1,1 1,2 1,5 0,5 0,5 0,12 0,13 1,13 1,12 1,5 2,5 2,4 2,2 7,2 z m 3,2 0,1 5,0 0,11 L 4,15 4,8 9,8 9,7 5,7 5,5 10,5 10,4 4,4 4,8 3,8 l 0,4 0,1 0,2 0,1 1,0 11,0 1,0 0,-1 L 16,4 16,3 15,3 13.4375,3 13,3 12,3 11.4375,3 z m -1,5 0,1 4,0 0,5 1,0 0,-6 z"
-     id="path2999"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="d">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<g>
+		<path id="a" class="ColorScheme-Text" d="m8 1c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-4c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.016186 0.26675-0.078125 0.39062v1h1.2832c0.35035-0.59206 0.99007-1 1.7168-1h3.4199c0.3573-0.56123 0.8766-1 1.5801-1h3c-4.1e-5 -0.554-0.44604-1-1-1zm-6 4c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v6c0 0.554 0.446 1 1 1v-5z" style="fill-opacity:.75;fill:currentColor"/>
+		<path id="h" class="ColorScheme-Background" d="m8 0c-0.70348 0-1.2228 0.43877-1.5801 1h-3.4199c-1.0907 0-2 0.9093-2 2v1.4199c-0.56123 0.35725-1 0.87658-1 1.5801v6c0 1.0907 0.9093 2 2 2v-1c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1h1c0-0.36397 0.10774-0.70348 0.2832-1h-1.2832v-1c0-0.554 0.446-1 1-1h4c0-0.554 0.446-1 1-1h4c0.55396 0 0.99996 0.446 1 1h1c-8.1e-5 -1.0907-0.9093-2-2-2h-4zm-3.3516 4.0703c-0.032436 0.012195-0.061084 0.027608-0.091797 0.042969 0.030318-0.015098 0.059804-0.030948 0.091797-0.042969zm-0.30859 0.19141c-0.022826 0.020384-0.045548 0.038162-0.066406 0.060547 0.020545-0.021993 0.043956-0.040493 0.066406-0.060547zm-0.26172 0.34766c-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062 0.061939-0.12388 0.027656-0.2709 0.078125-0.39062z" style="fill-opacity:.5;fill:currentColor"/>
+		<path id="f" class="ColorScheme-Text" d="m10 3c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-4c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.016186 0.26674-0.078125 0.39062v1h9c0.554 0 1 0.446 1 1v7h-1v-6.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v6.5h-8v-7c-0.4155 0-0.77047 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v6c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-10c-4.1e-5 -0.554-0.44604-1-1-1z" style="fill-opacity:.75;fill:currentColor"/>
+		<path id="c" class="ColorScheme-Background" d="m10 2c-0.70348 0-1.2228 0.43877-1.5801 1h-3.4199c-1.0907 0-2 0.9093-2 2v1.4199c-0.56123 0.35725-1 0.8766-1 1.5801v6c0 1.0907 0.9093 2 2 2h10c1.0907 0 2-0.9093 2-2v-10c-8.1e-5 -1.0907-0.9093-2-2-2zm0 1h4c0.55396 0 0.99996 0.446 1 1v10c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1h9v7h1v-7c0-0.554-0.446-1-1-1h-9v-1c0-0.554 0.446-1 1-1h4c0-0.554 0.446-1 1-1z" style="fill-opacity:.5;fill:currentColor"/>
+	</g>
 </svg>
