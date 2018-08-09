@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="b" cx="18.161" cy="21.075" r="32" gradientTransform="matrix(1.8449,0,0,1.8449,-10.998,-11.484)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#294c79" offset="0"/>
-			<stop stop-color="#27456a" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="29.445" cy="61.742" r="26" gradientTransform="matrix(1.963,0,0,1.9945,-26.567,-68.247)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#37c198" stop-opacity=".7451" offset="0"/>
-			<stop stop-color="#4a6ad5" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="ah" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="an">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -20,13 +9,27 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 1 2-1h60l2 1v59s-16 4-32 4-32-4-32-4z" color="#000000" fill="url(#b)"/>
-	<path d="m0 1 2-1h60l2 1v1h-64z" color="#000000" fill="#9bb4d3"/>
-	<path d="m64 4-2-2 2-1z" fill="#607794"/>
-	<path d="m0 4 2-2-2-1z" fill="#c8d9ee"/>
-	<path d="m5 7h54v49h-54z" color="#000000" fill="#1d8ee8"/>
-	<path d="m5 7h54v49h-54z" color="#000000" fill="url(#a)"/>
-	<path d="m29.508 57.008v1.0678h1.0678v-1.0678zm3.5593 0v1.4237h1.4237v-1.4237zm-1.7797 0.35593v1.0678h1.4237v-1.0678zm-1.4237 1.4237v1.4237h1.0678v-1.4237zm1.4237 0v1.4237h1.4237v-1.4237zm1.7797 0v1.4237h1.0678v-1.4237zm-3.5593 1.7797v1.4237h1.4237v-1.4237zm1.7797 0v1.0678h1.4237v-1.0678zm2.1356 0.35593v1.0678h1.0678v-1.0678z" color="#000000" fill="#edeff3" fill-opacity=".23183"/>
-	<path d="m11 14v27h8v-2h-6v-19h30v3h2v-9zm3 2c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm4 0c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm4 0c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z" color="#000000" fill="#d4fbc1" fill-opacity=".97134"/>
-	<path d="m18 22v27h34v-27zm3 2c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm4 0c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm4 0c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm-9 4h30v19h-30z" color="#000000" fill="#d4fbc1"/>
+	<path id="q" d="m0 2v60l2 2h60l2-2v-60h-32z" style="color:#000000;fill:#aeb4c3"/>
+	<path id="r" d="m2 0-2 1v1h63.999v-1l-2-1h-42.437z" style="color:#000000;fill:#e7ecf0"/>
+	<path id="z" d="m64 4-2-2 2-1z" style="fill:#ccd1db"/>
+	<path id="b" d="m0 1v3l2-2z" style="fill:#f2f5f7"/>
+	<g id="c">
+		<rect id="m" x="4" y="15" width="56" height="45" style="color:#000000;fill-opacity:.53578;fill:#ffffff"/>
+		<g id="active-center" transform="matrix(.5625 0 0 .5625 1.7324 4)">
+			<rect id="v" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="s" d="m5.4688 4.0312-1.4375 1.4375 2.5312 2.5312-2.5312 2.5312 1.4375 1.4375 2.5312-2.5312 2.5312 2.5312 1.4375-1.4375-2.5312-2.5312 2.5312-2.5312-1.4375-1.4375-2.5312 2.5312z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="x" transform="matrix(.5625 0 0 .5625 19.732 4)">
+			<rect id="t" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="j" d="m5 5v6h6v-6zm2 2h2v2h-2z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="w" transform="matrix(.5625 0 0 .5625 10.732 4)">
+			<rect id="d" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="i" d="m4 6.9671v2.0329h8v-2.0329z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="h" transform="matrix(.5625 0 0 .5625 53 4)">
+			<rect id="u" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="k" d="M 6.5625,6.7344 4.0313,9.2656 5.4688,10.7031 8,8.1719 10.5312,10.7031 11.9687,9.2656 8,5.2969 Z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+	</g>
 </svg>
