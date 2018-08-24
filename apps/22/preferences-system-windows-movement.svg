@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="c">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="e" class="ColorScheme-Text" d="m3 3c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h7.9492a1.0001 1.0001 0 0 1-0.89844-0.68359l-0.10547-0.31641h-6.9453v-11h16v11h-6.9453l-0.10547 0.31641a1.0001 1.0001 0 0 1-0.89844 0.68359h7.9492c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-16zm1 1c0.5523 0 1 0.4477 1 1s-0.4477 1-1 1-1-0.4477-1-1 0.4477-1 1-1zm3 0c0.5523 0 1 0.4477 1 1s-0.4477 1-1 1-1-0.4477-1-1 0.4477-1 1-1zm3 0c0.5523 0 1 0.4477 1 1s-0.4477 1-1 1-1-0.4477-1-1 0.4477-1 1-1zm1 4-1 3 1 1 1-1zm-2 4-3 1 3 1 1-1zm4 0-1 1 1 1 3-1zm-2 2-1 1 1 3 1-3z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="b" class="ColorScheme-Background" d="m2 2c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-16c0-0.554-0.446-1-1-1zm0 1h18v16h-8.9512a1.0001 1.0001 0 0 0 0.90039-0.68359l1-3a1.0001 1.0001 0 0 0 0.050781-0.31641h-1l-1 3-1-3h-1a1.0001 1.0001 0 0 0 0.050781 0.31641l1 3a1.0001 1.0001 0 0 0 0.89844 0.68359h-8.9492v-16zm7 12v-1l-3-1 3-1v-1a1.0001 1.0001 0 0 0-0.31641 0.05078l-3 1a1.0001 1.0001 0 0 0 0 1.8984l3 1a1.0001 1.0001 0 0 0 0.31641 0.050782zm0-4h1l1-3 1 3h1a1.0001 1.0001 0 0 0-0.05078-0.31641l-1-3a1.0001 1.0001 0 0 0-1-0.68164 1.0001 1.0001 0 0 0-0.89844 0.68164l-1 3a1.0001 1.0001 0 0 0-0.050782 0.31641zm4 0v1l3 1-3 1v1a1.0001 1.0001 0 0 0 0.31641-0.05078l3-1a1.0001 1.0001 0 0 0 0-1.8984l-3-1a1.0001 1.0001 0 0 0-0.31641-0.050782zm-9-7c-0.5523 0-1 0.4477-1 1s0.4477 1 1 1 1-0.4477 1-1-0.4477-1-1-1zm3 0c-0.5523 0-1 0.4477-1 1s0.4477 1 1 1 1-0.4477 1-1-0.4477-1-1-1zm3 0c-0.5523 0-1 0.4477-1 1s0.4477 1 1 1 1-0.4477 1-1-0.4477-1-1-1z" style="fill-opacity:.5;fill:currentColor"/>
+</svg>

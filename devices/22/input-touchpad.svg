@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="g" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="b">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="f" d="m4 2c-1.108 0-2 0.892-2 2v9h18v-9c0-1.108-0.892-2-2-2zm-2 12v4c0 1.108 0.892 2 2 2h6v-6zm10 0v6h6c1.108 0 2-0.892 2-2v-4z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="h" d="m4 1c-1.6447 0-3 1.3553-3 3v14c0 1.6447 1.3553 3 3 3h14c1.6447 0 3-1.3553 3-3v-14c0-1.6447-1.3553-3-3-3zm0 1h14c1.108 0 2 0.892 2 2v9h-18v-9c0-1.108 0.892-2 2-2zm-2 12h8v6h-6c-1.108 0-2-0.892-2-2zm10 0h8v4c0 1.108-0.892 2-2 2h-6z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+</svg>
