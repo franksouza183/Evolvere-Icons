@@ -1,55 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
    id="svg3434"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="drive-removable-media.svg">
+   version="1.1">
   <defs
-     id="defs3436" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="8.35342"
-     inkscape:cy="11.394666"
-     inkscape:document-units="px"
-     inkscape:current-layer="g3026"
-     showgrid="true"
-     inkscape:snap-global="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-10"
-     inkscape:window-y="31"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3564"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-1px"
-       originy="-1.0000021px" />
-  </sodipodi:namedview>
+     id="b">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+  </defs>
   <metadata
      id="metadata3439">
     <rdf:RDF>
@@ -58,29 +23,40 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
      id="device-notifier"
-     transform="translate(-1,-1029.3622)">
+     transform="translate(-2,-1028.3622)">
     <g
-       id="g3026"
-       inkscape:label="#device">
-      <path
-         style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 4,1031.3622 0,18 16,0 0,-18 -16,0 z m 8,4 5,6 -10,0 5,-6 z m -4,8 8,0 0,2 -8,0 0,-2 z"
-         id="path2985"
-         inkscape:connector-curvature="0" />
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 3,1030.3622 0,1 0,18 0,1 1,0 16,0 1,0 0,-1 0,-18 0,-1 -1,0 -16,0 z m 1,1 16,0 0,18 -16,0 z m 8,4 -5,6 10,0 z m -4,8 0,1 8,0 0,-1 z"
-         id="rect2985"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+       id="g3026">
+      <g
+         id="g942">
+        <path
+           id="path870-7"
+           d="m 15.515625,1039.3622 h -5.03125 L 13,1035.8308 Z"
+           style="fill:currentColor;fill-opacity:0.5"
+           class="ColorScheme-Background" />
+        <path
+           d="m 7.5,1031.8622 v 15 m 11,-15 v 15 m -7,-5 h 3 m -8,-12.0048 c -1.0930715,0 -2.0039062,0.9109 -2.0039062,2.0039 v 15 c 0,1.0931 0.9108347,2.0039 2.0039062,2.0039 h 13 c 1.093071,0 2.003906,-0.9108 2.003906,-2.0039 v -15 c 0,-1.093 -0.910835,-2.0039 -2.003906,-2.0039 z"
+           style="fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+           id="path924"
+           class="ColorScheme-Background" />
+      </g>
+      <g
+         id="g877"
+         style="fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.75"
+         class="ColorScheme-Text">
+        <path
+           id="path866"
+           d="M 6.5000194,1030.8622 H 19.499981 c 0.55401,0 1.000019,0.446 1.000019,1 v 15 c 0,0.554 -0.446009,1 -1.000019,1 H 6.5000194 c -0.5540107,0 -1.0000194,-0.446 -1.0000194,-1 v -15 c 0,-0.554 0.4460087,-1 1.0000194,-1 z m 10.0156056,9 H 9.484375 L 13,1034.8308 Z" />
+        <path
+           id="path860"
+           style="stroke-width:2"
+           d="m 6,1033.3622 v 12 m 14,-12 v 12 m -9,-2 h 4" />
+      </g>
     </g>
   </g>
 </svg>
