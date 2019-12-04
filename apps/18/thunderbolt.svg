@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="a"
+   width="18"
+   height="18"
+   version="1.1">
+  <metadata
+     id="d">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     style="fill:currentColor;fill-opacity:0.75"
+     d="M 9,2 C 5.1340068,2 2,5.1340068 2,9 c 0.00366,2.709723 1.570895,5.173936 4.0234375,6.326172 L 6,11.621094 7.0820312,11.892578 8.6328125,9 H 6.3398438 L 9.9609375,2.0742188 C 9.6427106,2.0274312 9.3216372,2.0026328 9,2 Z M 12.716797,3.078125 10.140625,7 H 13 l -4.2832031,5.390625 1.6074221,0.724609 -3.6542971,2.476563 C 7.4178326,15.859067 8.2057739,15.997105 9,16 12.865993,16 16,12.865993 16,9 15.9966,6.592829 14.756613,4.3562619 12.716797,3.078125 Z"
+     id="c" />
+  <path
+     style="fill:currentColor;fill-opacity:0.5"
+     d="M 9,1 C 4.581722,1 1,4.581722 1,9 c 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 C 17,4.581722 13.418278,1 9,1 Z M 9,2 C 9.3216372,2.00263 9.6427106,2.027431 9.9609375,2.074219 L 6.3398438,9 H 8.6328125 L 7.0820312,11.892578 6,11.621094 6.0234375,15.326172 C 3.570895,14.173936 2.0036584,11.709723 2,9 2,5.1340068 5.1340068,2 9,2 Z m 3.716797,1.078125 C 14.756613,4.3562619 15.99661,6.592829 16,9 16,12.865993 12.865993,16 9,16 8.2057739,15.9971 7.4178326,15.859067 6.6699219,15.591797 L 10.324219,13.115234 8.7167969,12.390625 13,7 h -2.859375 z"
+     class="ColorScheme-Background"
+     id="e" />
+</svg>
