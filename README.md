@@ -12,8 +12,6 @@ The variants have been removed and will be replaced with a script that will gene
 
 Compatible with some windows (wine) applications.
 
-**Although I am looking for financial gains with this package of icons, I dedicate total artistic effort aiming at decent work and at no cost to the end user, and only when I have time, so do not press me, thank you.**
-
 ## Installing
 
 Put the content of this repo into **~/.icons/evolvere-icons-2**
