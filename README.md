@@ -6,7 +6,7 @@
 
 ### Flat with touches of realism.
 
-At the time, I intend icons with vibrant, but not so vivid colors, surrounded by ambient and directional lights. The base shape of the icons keep squared, so if you're already tired of this style, you're in the wrong place. Although the icons tend to be more flat, my main art line is realism, so do not expect a lot of outlines out there, but shadows (albeit subtle)!
+At the time, I intend icons with vibrant, but not so vivid colors, surrounded by ambient and directional lights. Although the icons tend to be more flat, my main art line is realism, so do not expect a lot of outlines out there, but shadows (albeit subtle)!
 
 The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors. You can download the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
 
@@ -30,7 +30,7 @@ And choose it via your theming tool.
 
 ## Contributions
 
-If you have some idea and want to propose, do so by opening an issue. Proposals are very welcome.
+If you have some idea and want to propose, do so by opening an issue.
 
 ## Donations
 
