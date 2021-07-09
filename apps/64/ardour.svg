@@ -12,8 +12,8 @@
     </radialGradient>
     <radialGradient id="radialGradient5870" cx="28.444" cy="-1.6668" r="31.76" gradientTransform="matrix(6.3999e-7 .99123 -5.0671 -.00044562 23.674 -26.198)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1023"/>
     <linearGradient id="linearGradient1023">
-      <stop stop-color="#ffc9f5" stop-opacity=".078431" offset="0"/>
-      <stop stop-color="#ff27dd" stop-opacity=".0039216" offset="1"/>
+      <stop stop-color="#e4aeff" stop-opacity=".040765" offset="0"/>
+      <stop stop-color="#ff16da" stop-opacity=".0039216" offset="1"/>
     </linearGradient>
     <radialGradient id="radialGradient5868" cx="28.444" cy="-1.6812" r="32" gradientTransform="matrix(0 .98378 -5.029 -.00044225 23.665 -25.986)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1023"/>
     <radialGradient id="radialGradient5902" cx="28.444" cy="-1.6779" r="31.971" gradientTransform="matrix(7.0483e-8 .98467 -5.0336 -.00044267 23.674 -26.011)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1023"/>
@@ -33,9 +33,14 @@
     <radialGradient id="radialGradient5874" cx="28.444" cy="-1.6671" r="31.762" gradientTransform="matrix(5.8289e-7 .99114 -5.0667 -.0004456 23.673 -26.196)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1023"/>
     <radialGradient id="radialGradient5872" cx="28.444" cy="-1.6669" r="31.76" gradientTransform="matrix(6.4121e-7 .99121 -5.067 -.00044563 23.674 -26.197)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1023"/>
     <radialGradient id="radialGradient1386" cx="31.744" cy="35.593" r="32" gradientTransform="matrix(1.1463 0 0 1.1463 -4.6455 -5.2087)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#d40aad" offset="0"/>
-      <stop stop-color="#b52188" offset="1"/>
+      <stop stop-color="#b8269c" offset="0"/>
+      <stop stop-color="#c02f94" offset="1"/>
     </radialGradient>
+    <radialGradient id="radialGradient1337" cx="31.744" cy="35.593" r="32" gradientTransform="matrix(1.1463,0,0,1.1463,-4.6455,-5.2087)" gradientUnits="userSpaceOnUse" xlink:href="#radialGradient1386"/>
+    <linearGradient id="linearGradient8592" x1="47.563" x2="47.563" y1=".19453" y2="3.7192" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffa7de"/>
+      <stop offset="1" stop-color="#e011ff" stop-opacity="0"/>
+    </linearGradient>
   </defs>
   <metadata>
     <rdf:RDF>
@@ -47,7 +52,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect width="64" height="64" rx="1" ry="1" fill="url(#radialGradient1386)" paint-order="fill markers stroke"/>
+  <rect width="64" height="64" rx="1" ry="1" fill="url(#radialGradient1337)" paint-order="fill markers stroke"/>
+  <rect width="64" height="64" rx="1" ry="1" fill="url(#linearGradient8592)" paint-order="fill markers stroke"/>
   <path d="m0.24221 0.23961c-0.001444 0-0.002607 0.57111-0.002607 1.6043v61.91c0 0.0024 0.51139 0.0037 1.4423 0.0037 0.44262 0.0014 0.98124 0.0026 1.6051 0.0026h60.463c0.0047 0 0.0074-1.0517 0.0074-2.8842 0.0014-0.48171 0.0026-1.0185 0.0026-1.6047v-59.018c0-0.006936-1.6139-0.011064-4.3265-0.011064-0.49778-0.001444-1.0337-0.002607-1.6038-0.002607h-57.573m0.028016 1.6031h63.43c0.0013 0 0.0024 0.96637 0.0024 2.6562v58.858c0 0.0013-0.5113 0.0023-1.44 0.0023h-2.5947c-11.631 0-55.638-2.3e-5 -59.168-6.8e-5 -0.15292-2.49e-4 -0.23246-0.0012-0.23246-0.0022v-1.3655c0-7.7588 0.00107-50.292 0.0024-58.703v-1.4456" fill="url(#radialGradient5872)" paint-order="fill markers stroke"/>
   <path d="m0.24872 0.23755c-0.006191 0-0.011174 0.57004-0.011174 1.5991v61.899c0 0.01021 0.50699 0.01581 1.4299 0.01581 0.43882 0.0062 0.97664 0.01117 1.5999 0.01117h60.452c0.02009 0 0.03163-1.0427 0.03163-2.8594 0.0062-0.47757 0.01117-1.0136 0.01117-1.5995v-59.007c0-0.029736-1.6-0.047432-4.2894-0.047432-0.4935-0.006191-1.0287-0.011174-1.5986-0.011174h-57.563m-0.008236 1.6209h63.393c0.0057 0 0.01028 0.96146 0.01028 2.641v58.847c0 0.0055-0.51043 0.0099-1.4355 0.0099h-3.0713c-11.532 0-55.17-1.01e-4 -58.67-2.91e-4 -0.15506-0.0011-0.23644-0.0049-0.23644-0.0096v-1.8485c0-7.6964 0.00458-49.867 0.010281-58.206v-1.4332" fill="url(#radialGradient5874)" paint-order="fill markers stroke"/>
   <path d="m0.26013 0.23394c-0.014505 0-0.026183 0.56815-0.026183 1.5901v61.879c0 0.02391 0.4993 0.03705 1.4082 0.03705 0.43216 0.01451 0.96859 0.02618 1.5908 0.02618h60.433c0.04708 0 0.0741-1.0269 0.0741-2.816 0.01451-0.47032 0.02618-1.005 0.02618-1.5904v-58.988c0-0.069674-1.5758-0.11114-4.2243-0.11114-0.48601-0.014505-1.0198-0.026183-1.5895-0.026183h-57.544m-0.071756 1.6521h63.327c0.01335 0 0.30797 0.97728 0.02409 2.6143v58.828c0 0.01284-0.50891 0.02316-1.4277 0.02316h-3.906c-11.358 0-54.35-2.36e-4 -57.798-6.82e-4 -0.15879-0.0025-0.24342-0.01159-0.24342-0.02248v-2.6945c0-7.587 0.010738-49.124 0.02409-57.336v-1.4114" fill="url(#radialGradient5876)" paint-order="fill markers stroke"/>
