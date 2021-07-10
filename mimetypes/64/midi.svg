@@ -29,16 +29,15 @@
       <stop stop-color="#ede9e9" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient18334" x1="49.95" x2="38.337" y1="44.786" y2="34.973" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38c299" offset="0"/>
-      <stop stop-color="#46caa3" offset=".23927"/>
-      <stop stop-color="#54ceaa" offset="1"/>
+      <stop stop-color="#29a983" offset="0"/>
+      <stop stop-color="#34b790" offset=".23927"/>
+      <stop stop-color="#46c59f" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient103171" x1="34.335" x2="9.0961" y1="62.962" y2="40.223" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#82edcd" offset="0"/>
-      <stop stop-color="#7ddec0" offset=".16693"/>
-      <stop stop-color="#74d7b9" offset="1"/>
+    <linearGradient id="linearGradient225445" x1="34.335" x2="9.0961" y1="62.962" y2="40.223" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5effce" offset="0"/>
+      <stop stop-color="#73e8c4" offset=".16693"/>
+      <stop stop-color="#6be0bd" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient225445" x1="34.335" x2="9.0961" y1="62.962" y2="40.223" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient103171"/>
   </defs>
   <metadata>
     <rdf:RDF>
@@ -50,7 +49,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path d="m4 0h60v62h-60z" fill="#3ac39a"/>
+  <path d="m4 0h60v62h-60z" fill="#21ab82"/>
   <path d="m60 2v31l-24.322 29h28.322v-56l-4-4z" fill-opacity=".1296"/>
   <path d="m0 2h60v31l-26 31h-34z" fill="url(#linearGradient4259-6)"/>
   <path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#linearGradient3830)" overflow="visible"/>
