@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="a" cx="46.306" cy="38.848" r="14.161" gradientTransform="matrix(2.3177 0 0 3.1347 -60.325 -73.277)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#450673" stop-opacity=".60924" offset="0"/>
-      <stop stop-color="#472253" stop-opacity=".14556" offset="1"/>
-    </radialGradient>
-    <linearGradient id="c" x1="48.704" x2="36" y1="46" y2="33.296" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#f037ff" stop-opacity=".35449" offset="0"/>
-      <stop stop-color="#e934ff" stop-opacity="0" offset="1"/>
-    </linearGradient>
-    <linearGradient id="d" x1="82.744" x2="71" y1="79.421" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6432eb" offset="0"/>
-      <stop stop-color="#752cf8" offset=".25231"/>
-      <stop stop-color="#7d35eb" offset="1"/>
-    </linearGradient>
-    <radialGradient id="b" cx="8.5693" cy="26.419" r="30" gradientTransform="matrix(2.4121 0 0 2.4925 -12.294 -54.03)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ea37ff" stop-opacity=".38458" offset="0"/>
-      <stop stop-color="#bf37ff" stop-opacity=".32768" offset="1"/>
-    </radialGradient>
-  </defs>
-  <path d="m4 0h60v62h-60z" fill="#644de0"/>
-  <path d="m60 2v31l-24.322 29h28.322v-56z" fill="url(#a)"/>
-  <path d="m0 2h60v31l-26 31h-34z" fill="#5c59e3"/>
-  <path d="m0 2h60v31l-26 31h-34z" fill="url(#b)"/>
-  <path d="m0 2h60v31l-26 31h-34z" fill="url(#c)"/>
-  <path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#d)"/>
-  <path transform="matrix(.83529 0 0 .83626 -1.7566 .78294)" d="m34.309 29.309-12.212 7.0507-12.212-7.0507v-14.101l12.212-7.0507 12.212 7.0507z" fill="none" stroke="#fce7fb" stroke-width="1.1965" style="-inkscape-stroke:none"/>
-  <path d="m21.205 22.009a5.0587 5.0646 0 0 1-5.6903 2.3597 5.0587 5.0646 0 0 1-3.7494-4.892 5.0587 5.0646 0 0 1 3.7494-4.892 5.0587 5.0646 0 0 1 5.6903 2.3597" fill="none" stroke="#fce7fb" stroke-width="4.786"/>
-  <path d="m21 18v1h-1v1h1v1h1v-1h1v1h1v-1h1v-1h-1v-1h-1v1h-1v-1h-1z" style="-inkscape-stroke:none" fill="#fce7fb" stop-color="#000"/>
+	<defs>
+		<radialGradient id="a" cx="46.306" cy="38.848" r="14.161" gradientTransform="matrix(2.3177 0 0 3.1347 -60.325 -73.277)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#450673" stop-opacity=".60924" offset="0"/>
+			<stop stop-color="#472253" stop-opacity=".14556" offset="1"/>
+		</radialGradient>
+		<linearGradient id="c" x1="48.704" x2="36" y1="46" y2="33.296" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#f037ff" stop-opacity=".35449" offset="0"/>
+			<stop stop-color="#e934ff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="d" x1="82.744" x2="71" y1="79.421" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#6432eb" offset="0"/>
+			<stop stop-color="#752cf8" offset=".25231"/>
+			<stop stop-color="#7d35eb" offset="1"/>
+		</linearGradient>
+		<radialGradient id="b" cx="8.5693" cy="26.419" r="30" gradientTransform="matrix(2.4121 0 0 2.4925 -12.294 -54.03)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ea37ff" stop-opacity=".38458" offset="0"/>
+			<stop stop-color="#bf37ff" stop-opacity=".32768" offset="1"/>
+		</radialGradient>
+	</defs>
+	<path d="m4 0h60v62h-60z" fill="#644de0"/>
+	<path d="m60 2v31l-24.322 29h28.322v-56z" fill="url(#a)"/>
+	<path d="m0 2h60v31l-26 31h-34z" fill="#5c59e3"/>
+	<path d="m0 2h60v31l-26 31h-34z" fill="url(#b)"/>
+	<path d="m0 2h60v31l-26 31h-34z" fill="url(#c)"/>
+	<path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#d)"/>
+	<path transform="matrix(.83529 0 0 .83626 -1.7566 .78294)" d="m34.309 29.309-12.212 7.0507-12.212-7.0507v-14.101l12.212-7.0507 12.212 7.0507z" fill="none" stroke="#fce7fb" stroke-width="1.1965" style="-inkscape-stroke:none"/>
+	<path d="m21.205 22.009a5.0587 5.0646 0 0 1-5.6903 2.3597 5.0587 5.0646 0 0 1-3.7494-4.892 5.0587 5.0646 0 0 1 3.7494-4.892 5.0587 5.0646 0 0 1 5.6903 2.3597" fill="none" stroke="#fce7fb" stroke-width="4.786"/>
+	<path d="m21 18v1h-1v1h1v1h1v-1h1v1h1v-1h1v-1h-1v-1h-1v1h-1v-1h-1z" fill="#fce7fb" style="-inkscape-stroke:none"/>
+	<rect x="51" y="2" width="4" height="19" color="#000000" fill="#e7f4fc" style="-inkscape-stroke:none;fill:#fce7fb;font-variation-settings:normal;stop-color:#000000"/>
 </svg>
