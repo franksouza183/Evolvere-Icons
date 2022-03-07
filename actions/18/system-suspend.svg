@@ -5,13 +5,12 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="e">
+	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="d" class="ColorScheme-Text" d="m9 2c-2.791 0-5.1883 1.637-6.3125 4h2.3438c0.91334-1.1995 2.3447-2 3.9688-2 1.6311 0 3.0873 0.79152 4 2h2.3125c-1.1242-2.363-3.5215-4-6.3125-4zm-7 6v2l14-3.8e-6v-2zm0.6875 4c1.1242 2.363 3.5215 4 6.3125 4s5.1883-1.637 6.3125-4h-2.3125c-0.91268 1.2085-2.3689 2-4 2-1.6375 0-3.088-0.78347-4-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="d" class="ColorScheme-Text" d="m9 2c-2.791 0-5.1883 1.637-6.3125 4h1.1172c1.0539-1.8239 3.0147-2.9925 5.1738-3 2.1729-0.00756 4.1528 1.1634 5.2148 3h1.1191c-1.1242-2.363-3.5215-4-6.3125-4zm-7 6v2h14v-2zm0.6875 4c1.1242 2.363 3.5215 4 6.3125 4s5.1883-1.637 6.3125-4h-1.1191c-0.97952 1.6926-2.7499 2.8395-4.7637 2.9844-2.3084 0.16607-4.4896-1.0145-5.627-2.9844z" style="fill-opacity:.75;fill:currentColor"/>
 	<path id="a" class="ColorScheme-Background" d="m9 1c-2.9248 0-5.4709 1.611-6.7949 4h1.0449c1.2655-1.8095 3.3744-3 5.75-3 2.371 0 4.4551 1.1957 5.7188 3h1.0762c-1.3214-2.3944-3.8648-4-6.7949-4zm-8 6v4h16v-4zm1 1h14v2h-14zm0.20508 5c1.3241 2.389 3.8701 4 6.7949 4 2.9301 0 5.4736-1.6056 6.7949-4h-1.0762c-1.2636 1.8043-3.3478 3-5.7188 3-2.3756 0-4.4845-1.1905-5.75-3h-1.0449z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>

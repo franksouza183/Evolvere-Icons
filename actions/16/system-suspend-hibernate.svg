@@ -5,13 +5,12 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="c" d="m8 1c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 2c2.7614 0 5 2.2386 5 5s-2.2386 5-5 5-5-2.2386-5-5 2.2386-5 5-5zm-2.6006 2.3993c-1.4286 1.4286-1.4286 3.7728 0 5.2013 1.4285 1.4286 3.7727 1.4286 5.2013 0l-1.3146-1.3146c-0.7144 0.7144-1.8578 0.7144-2.5721 0-0.7144-0.7143-0.7144-1.8577 0-2.5721z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
-	<path id="e" d="m8 0c-4.4065 0-8 3.5936-8 8s3.5935 8 8 8c4.4064 0 8-3.5936 8-8s-3.5936-8-8-8zm0 1c3.866 0 7 3.134 7 7s-3.134 7-7 7-7-3.134-7-7 3.134-7 7-7zm-3.5 3.5c-1.933 1.933-1.933 5.067 0 7s5.067 1.933 7 0l-0.90625-0.90625c-1.4391 1.4391-3.7484 1.4391-5.1875 0s-1.4391-3.7484 0-5.1875z" style="fill-opacity:.5;fill:currentColor"  class="ColorScheme-Background"/>
+	<path id="c" class="ColorScheme-Text" d="m8 1c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 1c3.3019 0 6 2.6981 6 6 0 3.3019-2.6981 6-6 6-3.3019 0-6-2.6981-6-6 0-3.3019 2.6981-6 6-6zm-2.6016 3.3984c-1.4286 1.4286-1.4286 3.7746 0 5.2031 1.4285 1.4286 3.7745 1.4286 5.2031 0l-1.3164-1.3164c-0.7144 0.7144-1.856 0.7144-2.5703 0-0.7144-0.7143-0.7144-1.8559 0-2.5703l-1.3164-1.3164z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="e" class="ColorScheme-Background" d="m8 0c-4.4065 0-8 3.5936-8 8s3.5935 8 8 8c4.4064 0 8-3.5936 8-8s-3.5936-8-8-8zm0 1c3.866 0 7 3.134 7 7s-3.134 7-7 7-7-3.134-7-7 3.134-7 7-7zm-3.5 3.5c-1.933 1.933-1.933 5.067 0 7s5.067 1.933 7 0l-0.90625-0.90625c-1.4391 1.4391-3.7484 1.4391-5.1875 0s-1.4391-3.7484 0-5.1875z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
