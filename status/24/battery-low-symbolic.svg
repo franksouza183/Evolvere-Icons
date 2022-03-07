@@ -13,5 +13,5 @@
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}
 			.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path class="ColorScheme-Text" d="m11 3c-0.554 0-1 0.446-1 1-1.6447 0-3 1.3553-3 3v10c0 1.6447 1.3553 3 3 3h4c1.6447 0 3-1.3553 3-3v-10c0-1.6447-1.3553-3-3-3 0-0.554-0.446-1-1-1zm-1 2h4c1.108 0 2 0.892 2 2v10c0 0.74278-0.40192 1.3874-1 1.7324v-5.7324h-6v5.7324c-0.59808-0.34498-1-0.98965-1-1.7324v-10c0-1.108 0.892-2 2-2z" fill="currentColor" fill-opacity=".75"/>
+	<path class="ColorScheme-Text" d="m11 3c-0.554 0-1 0.446-1 1-1.6447 0-3 1.3553-3 3v10c0 1.6447 1.3553 3 3 3h4c1.6447 0 3-1.3553 3-3v-10c0-1.6447-1.3553-3-3-3 0-0.554-0.446-1-1-1zm-1 2h4c1.108 0 2 0.892 2 2v6h-8v-6c0-1.108 0.892-2 2-2z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
