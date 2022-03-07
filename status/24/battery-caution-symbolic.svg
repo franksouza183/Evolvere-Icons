@@ -1,98 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   id="svg27665"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="battery-caution-symbolic.svg">
-  <defs
-     id="defs27667" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#cbcdd6"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="17.130258"
-     inkscape:cy="12.724891"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-5"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-global="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:showpageshadow="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3070"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-47.999653px"
-       originy="-0.00031276823px" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata27670">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(3316.4171,-2092.7186)">
-    <path
-       inkscape:connector-curvature="0"
-       d="m -3305.4171,2096.7186 c -0.554,0 -1,0.446 -1,1 -1.6447,0 -3,1.3553 -3,3 l 0,9 c 0,1.6447 1.3553,3 3,3 l 4,0 c 1.6447,0 3,-1.3553 3,-3 l 0,-9 c 0,-1.6447 -1.3553,-3 -3,-3 0,-0.554 -0.446,-1 -1,-1 z m -1,3 4,0 c 0.5713,0 1,0.4287 1,1 l 0,9 c 0,0.5713 -0.4287,1 -1,1 l -4,0 c -0.5713,0 -1,-0.4287 -1,-1 l 0,-9 c 0,-0.5713 0.4287,-1 1,-1 z"
-       id="path2997"
-       style="fill:#27303a;fill-opacity:0.91237116000000003;color:#000000;fill-rule:nonzero;stroke:none;stroke-width:1.20000005000000010;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       class="ColorScheme-Text" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m -3301.4171,2108.7186 0,1 c 0,0.554 -0.446,1 -1,1 l -4,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-1 z"
-       id="rect4094-8-8-3-5-9-7-4-7-2"
-       style="fill:#d95f43;display:inline"
-       class="error" />
-  </g>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="defs">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-NegativeText{color:#fa0473;}</style>
+	</defs>
+	<path class="ColorScheme-Text" d="m11 3c-0.554 0-1 0.446-1 1-1.6447 0-3 1.3553-3 3v10c0 1.6447 1.3553 3 3 3h4c1.6447 0 3-1.3553 3-3v-10c0-1.6447-1.3553-3-3-3 0-0.554-0.446-1-1-1h-2zm-1 2h4c1.108 0 2 0.892 2 2v10c0 0.15803-0.022237 0.30983-0.056641 0.45703-0.002422 0.010277-0.003298 0.021031-0.005859 0.03125-0.13309 0.53114-0.47555 0.97767-0.9375 1.2441-0.29408 0.16962-0.63478 0.26758-1 0.26758h-4c-0.36522 0-0.70592-0.097953-1-0.26758-0.46195-0.26646-0.80441-0.713-0.9375-1.2441-0.0025553-0.010236-0.0034371-0.020972-0.0058594-0.03125-0.0098965-0.041985-0.020212-0.083952-0.027344-0.12695-0.017859-0.10768-0.029297-0.21715-0.029297-0.33008v-10c0-1.108 0.892-2 2-2z" fill="currentColor" fill-opacity=".75"/>
+	<path class="ColorScheme-NegativeText error" d="m8 17c0 0.08215 0.00609 0.16269 0.015625 0.24219-0.0095742-0.079557-0.015625-0.15995-0.015625-0.24219zm1 0v1.7324c0.29408 0.16962 0.63478 0.26758 1 0.26758h4c0.36522 0 0.70592-0.09795 1-0.26758v-1.7324zm6 1.7324c0.07-0.04038 0.1369-0.08452 0.20117-0.13281-0.06421 0.04818-0.13128 0.0925-0.20117 0.13281zm-6 0c-0.069892-0.040314-0.13697-0.084635-0.20117-0.13281 0.064272 0.048291 0.13117 0.092435 0.20117 0.13281zm7-1.7324c0 0.08224-0.0061 0.16263-0.01563 0.24219 0.009537-0.079502 0.01563-0.16004 0.01563-0.24219zm-7.9707 0.33008c0.00885 0.05361 0.020208 0.10615 0.033203 0.1582-0.013022-0.05197-0.024326-0.10468-0.033203-0.1582zm7.9414 0c-0.0089 0.05353-0.02018 0.10623-0.0332 0.1582 0.013-0.05206 0.02435-0.10459 0.0332-0.1582zm-7.8906 0.22852c0.021799 0.0755 0.046036 0.14922 0.076172 0.2207-0.030147-0.07132-0.054346-0.14537-0.076172-0.2207zm7.8398 0c-0.02183 0.07533-0.04603 0.14938-0.07617 0.2207 0.03014-0.07149 0.05437-0.14521 0.07617-0.2207zm-7.7617 0.22461c0.031741 0.07484 0.069121 0.14701 0.10938 0.2168-0.040283-0.06968-0.077598-0.14207-0.10938-0.2168zm7.6836 0c-0.03178 0.07473-0.06909 0.14711-0.10938 0.2168 0.04025-0.06979 0.07763-0.14196 0.10938-0.2168zm-7.5508 0.25391c0.035189 0.058 0.07255 0.11406 0.11328 0.16797-0.040795-0.05388-0.078032-0.10999-0.11328-0.16797zm7.418 0c-0.03525 0.05798-0.07249 0.11409-0.11328 0.16797 0.04073-0.0539 0.07809-0.10997 0.11328-0.16797zm-7.2793 0.20117c0.10082 0.1278 0.21698 0.24406 0.3457 0.34375-0.12885-0.09966-0.24472-0.21603-0.3457-0.34375zm7.1406 0c-0.10098 0.12772-0.21686 0.24409-0.3457 0.34375 0.12872-0.0997 0.24488-0.21595 0.3457-0.34375z" fill="currentColor"/>
 </svg>
