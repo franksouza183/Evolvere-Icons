@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
@@ -18,15 +18,4 @@
 			}</style>
 	</defs>
 	<path class="ColorScheme-Text" d="m8.998 2c-0.52519 1.236e-4 -0.78795 0.037185-0.84766 0.060547-0.06 0.0234-0.051047 0.00803-0.18555 0.24023-0.4906 0.84972-0.8417 1.6234-1.625 2.0781v0.00195c0 2e-3 -0.00977 0.00291-0.00977 0.00391-0.7859 0.45153-1.6297 0.36914-2.6113 0.36914-0.2684 0-0.25253-6.374e-4 -0.30273 0.039063-0.05 0.0401-0.21316 0.24882-0.47656 0.70508-0.2634 0.45625-0.3654 0.70214-0.375 0.76562-0.01 0.0635-0.016912 0.050823 0.11719 0.2832 0.4919 0.85191 0.98553 1.5416 0.98633 2.4512-8e-4 0.90945-0.49443 1.5992-0.98633 2.4512-0.1341 0.2324-0.12689 0.21971-0.11719 0.2832 0.01 0.0635 0.1116 0.30741 0.375 0.76367 0.2634 0.45625 0.42636 0.6669 0.47656 0.70703 0.05 0.0401 0.034734 0.03906 0.30273 0.03906 0.9854 0 1.8313-0.08298 2.6211 0.37305 0.7832 0.45468 1.1344 1.2303 1.625 2.0801 0.1342 0.23239 0.12379 0.21684 0.18359 0.24024 0.06 0.0234 0.32281 0.06055 0.84961 0.06055 0.5269 0 0.78971-0.03715 0.84961-0.06055 0.06-0.0234 0.051047-8e-3 0.18555-0.24024 0.4906-0.84973 0.8417-1.6234 1.625-2.0781v-2e-3c0.7898-0.456 1.6358-0.37305 2.6211-0.37305 0.2683 0 0.25253 6.37e-4 0.30273-0.03906 0.05-0.0401 0.21316-0.24882 0.47656-0.70508 0.2634-0.45625 0.36335-0.70212 0.37305-0.76562 0.01-0.0635 0.01897-0.05082-0.11524-0.2832-0.296-0.51268-0.57975-0.97061-0.76953-1.4492h-2.7344c-0.4174 1.1574-1.5193 2-2.8125 2v-1c1.1046-1e-4 1.9999-0.8955 2-2-1e-4 -1.1046-0.8955-1.9999-2-2v-1c1.2932 0 2.3951 0.8426 2.8125 2h2.7324c0.1898-0.48045 0.47445-0.9386 0.77148-1.4531 0.1342-0.2324 0.12494-0.21971 0.11524-0.2832-0.01-0.0635-0.10965-0.30938-0.37305-0.76562s-0.42646-0.66495-0.47656-0.70508c-0.05-0.0401-0.03473-0.039063-0.30273-0.039063-0.9854 0-1.8313 0.082983-2.6211-0.37305v-0.00195c-0.7833-0.45467-1.1344-1.2284-1.625-2.0781-0.1342-0.2324-0.12575-0.21684-0.18555-0.24023-0.059902-0.023362-0.32247-0.060423-0.84766-0.060547h-0.00195zm0.00195 5.998c0.5482-4e-5 1 0.45186 1 1 1e-4 0.54816-0.4518 1-1 1-0.5481 4e-5 -1-0.45186-1-1 0-0.54816 0.4519-1 1-1z" style="fill-opacity:.75;fill:currentColor;shape-rendering:auto"/>
-	<path class="ColorScheme-Background" d="m9 8.5c-0.2747-1e-5 -0.5 0.22532-0.5 0.49998s0.2253 0.5 0.5 0.49998c0.2746 2e-5 0.5-0.22532 0.4999-0.49998 0-0.27466-0.2253-0.5-0.4999-0.49998z" style="fill:none;shape-rendering:auto;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
-	<g id="a" transform="translate(-3,-3)" style="shape-rendering:auto">
-		<path id="b" class="ColorScheme-Background" d="m9.0776 6.9334c0.64192-0.37061 1.1909-1.2131 1.6018-1.9247 0.25845-0.44764 0.39526-0.50861 1.3206-0.50861" style="fill:none;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
-		<use transform="matrix(-1,0,0,1,24,0)" width="100%" height="100%" xlink:href="#b"/>
-	</g>
-	<use transform="rotate(60 9 9)" width="100%" height="100%" style="shape-rendering:auto" xlink:href="#a"/>
-	<use transform="rotate(240 9 9)" width="100%" height="100%" style="shape-rendering:auto" xlink:href="#a"/>
-	<use transform="rotate(-60,9,9)" width="100%" height="100%" style="shape-rendering:auto" xlink:href="#a"/>
-	<use transform="rotate(120,9,9)" width="100%" height="100%" style="shape-rendering:auto" xlink:href="#a"/>
-	<use transform="rotate(180,9,9)" width="100%" height="100%" style="shape-rendering:auto" xlink:href="#a"/>
-	<path class="ColorScheme-Background" d="m9 6v1c1.1045 5.52e-5 1.9999 0.89545 2 2-5.5e-5 1.1045-0.89545 1.9999-2 2v1c1.2932 0 2.3951-0.84265 2.8125-2h5.1875v-2h-5.1875c-0.4174-1.1574-1.5193-2-2.8125-2z" style="fill-opacity:.5;fill:currentColor;shape-rendering:auto"/>
 </svg>
