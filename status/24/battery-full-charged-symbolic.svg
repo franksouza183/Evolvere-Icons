@@ -13,6 +13,5 @@
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}
 			.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path class="ColorScheme-Text" d="m11 3c-0.554 0-1 0.446-1 1-1.6447 0-3 1.3553-3 3v10c0 1.6447 1.3553 3 3 3h4c1.6447 0 3-1.3553 3-3v-10c0-1.6447-1.3553-3-3-3 0-0.554-0.446-1-1-1h-2zm-1 2h4c1.108 0 2 0.892 2 2v2.5059a0.5 0.5 0 0 1 0.35352 0.14062 0.5 0.5 0 0 1 0 0.70703l-0.35352 0.35352v6.293c0 0.74278-0.40192 1.3874-1 1.7324v-7.0254l-2.5 2.5-1.8535-1.8535a0.5 0.5 0 0 1 0-0.70703 0.5 0.5 0 0 1 0.70703 0l1.1465 1.1465 2.5-2.5v-4.293h-6v12.732c-0.59808-0.34498-1-0.98967-1-1.7324v-10c0-1.108 0.892-2 2-2z" fill="currentColor" fill-opacity=".75"/>
-	<path class="ColorScheme-Text" d="m11 13.5 1.5 1.5 3.5-3.5" stroke="currentColor" stroke-opacity=".75" style="fill:none;stroke-linecap:round;stroke-width:1px"/>
+	<path class="ColorScheme-Text" d="m11 3c-0.554 0-1 0.446-1 1-1.6447 0-3 1.3553-3 3v10c0 1.6447 1.3553 3 3 3h4c1.6447 0 3-1.3553 3-3v-10c0-1.6447-1.3553-3-3-3 0-0.554-0.446-1-1-1h-2zm3.9219 6.5059a0.5 0.5 0 0 1 0.43164 0.14062 0.5 0.5 0 0 1 0 0.70703l-3.8535 3.8535-1.8535-1.8535a0.5 0.5 0 0 1 0-0.70703 0.5 0.5 0 0 1 0.70703 0l1.1465 1.1465 3.1465-3.1465a0.5 0.5 0 0 1 0.27539-0.14062z" fill="currentColor" fill-opacity=".75"/>
 </svg>
