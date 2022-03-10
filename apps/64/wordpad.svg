@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
 		<radialGradient id="d" cx="50.259" cy="27.578" r="32" gradientTransform="matrix(3.0863 -.43137 .075874 .54285 -85.943 31.232)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#a16021" stop-opacity=".17402" offset="0"/>
@@ -32,7 +32,6 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
@@ -41,13 +40,15 @@
 	<path d="m4.8035e-7 5v57l2 2h60l2-2v-57h-5c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3c0-1.45 1.039-2.658 2.406-2.938 0.1953-0.03996 0.3866-0.0625 0.5938-0.0625h-9c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3c0-1.45 1.039-2.658 2.406-2.938 0.1953-0.03996 0.3866-0.0625 0.5938-0.0625h-9c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3c0-1.45 1.039-2.658 2.406-2.938 0.1953-0.03996 0.3866-0.0625 0.5938-0.0625h-9c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3c0-1.45 1.039-2.658 2.406-2.938 0.1953-0.03996 0.3866-0.0625 0.5938-0.0625h-9c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3c0-1.45 1.039-2.658 2.406-2.938 0.1953-0.03996 0.3866-0.0625 0.5938-0.0625h-9c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3 1.343-3 3-3h-9c1.657 0 3 1.343 3 3s-1.343 3-3 3-3-1.343-3-3 1.343-3 3-3z" color="#000000" fill="url(#a)"/>
 	<g>
 		<rect x="9" y="5" width="1" height="59" color="#000000" fill="#cb0000" fill-opacity=".2182"/>
-		<rect transform="rotate(-90)" x="-56.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
-		<rect transform="rotate(-90)" x="-38.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
-		<rect transform="rotate(-90)" x="-50.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
-		<rect transform="rotate(-90)" x="-32.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
-		<rect transform="rotate(-90)" x="-44.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
-		<rect transform="rotate(-90)" x="-26.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
-		<rect transform="rotate(-90)" x="-20.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000" fill="#0f7cf1" fill-opacity=".3715"/>
+		<g fill="#0f7cf1" fill-opacity=".3715">
+			<rect transform="rotate(-90)" x="-56.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+			<rect transform="rotate(-90)" x="-38.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+			<rect transform="rotate(-90)" x="-50.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+			<rect transform="rotate(-90)" x="-32.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+			<rect transform="rotate(-90)" x="-44.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+			<rect transform="rotate(-90)" x="-26.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+			<rect transform="rotate(-90)" x="-20.25" y="1.636e-8" width="1" height="64" rx="0" ry="0" color="#000000"/>
+		</g>
 	</g>
 	<path d="m0 2v11h64v-11z" color="#000000" fill="#9f254d"/>
 	<path d="m2 3.8697e-7 -2 1-2.5366e-7 1h64l-3e-6 -1-2-1-60-1.9349e-7z" color="#000000" fill="#ee719a"/>
