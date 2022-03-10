@@ -9,10 +9,14 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs>
+	<defs id="a">
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
 			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
 			}</style>
 	</defs>
+	<path class="ColorScheme-Background" d="m3 7v1h10v-1z" color="#090d11" style="fill-opacity:.5;fill:#ffffff"/>
 	<path class="ColorScheme-Text" d="m3 8v1h10v-1z" color="#090d11" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
