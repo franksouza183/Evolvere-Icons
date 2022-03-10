@@ -17,5 +17,5 @@
 			}
 		</style>
 	</defs>
-	<path d="m2 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1 2h10v8h-10z" color="#090d11" fill="currentColor" style="fill:currentColor;" class="ColorScheme-Text"/>
+	<path d="m2 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1 2h10v8h-10z" class="ColorScheme-Text" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
