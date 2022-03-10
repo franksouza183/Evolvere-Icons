@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="c" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata id="e">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}</style>
+	</defs>
+	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="d">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
-	</defs>
-	<path id="a" class="ColorScheme-Background" d="m8.9688 2.5254v4.4336h1v-2.2031l3.6367 3.2441h-4.5508c-1.2924 0-2.3474 0.025193-3.5527 0.58008-1.2054 0.55489-2.5222 1.5984-4.502 3.5781l0.70703 0.70703c1.9463-1.9463 3.193-2.9074 4.2129-3.377 1.0199-0.46951 1.8535-0.48828 3.1348-0.48828h7.1738z" style="fill-opacity:.5;fill:currentColor"/>
-	<path id="b" class="ColorScheme-Text" d="m10.003 4.793 6.207 6.207h-4.8549c-3.7592 0-5.6892-0.16096-9.1587 3.1953l-0.54242 7.88e-4c4.5767-5.191 6.3131-5.1961 9.2817-5.1961h1.8603l-1.793-1.793v0.75195h-1z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Background" d="m11.089 5.0039c0.18475 0.016572 0.36124 0.084195 0.50977 0.19531l4 3c0.53463 0.4 0.53463 1.2016 0 1.6016l-4 3c-0.65949 0.49391-1.5998 0.02316-1.5996-0.80078v-1h-4v3c-5.5e-5 0.55226-0.44774 0.99994-1 1v-5h6v2l4-3-4-3v2h-5c-0.58333 0-1.1107 0.15363-1.4785 0.52148-0.36785 0.36785-0.52148 0.89518-0.52148 1.4785v5c-0.55226-5.5e-5 -0.99994-0.44774-1-1v-4c0-0.75891 0.20716-1.5782 0.81445-2.1855 0.6073-0.6073 1.4266-0.81445 2.1855-0.81445h4v-1c-2.58e-5 -0.37879 0.21395-0.72509 0.55273-0.89453 0.16613-0.083075 0.35212-0.11824 0.53711-0.10156z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m11 6 4 3-4 3v-2h-6v4h-1v-4c0-0.58333 0.15363-1.1107 0.52148-1.4785 0.36785-0.36785 0.89518-0.52148 1.4785-0.52148h5z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>

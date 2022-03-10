@@ -2,24 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<style id="current-color-scheme" type="text/css">
-			.ColorScheme-Text {
-				color:#090d11;
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
 			}
 			.ColorScheme-Background{
-				color:#ffffff;
-			}
-		</style>
+			color:#ffffff;
+			}</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path class="ColorScheme-Background" d="m12.969 4.5254v4.4336h1v-2.2031l3.6367 3.2441h-8.5508c-1.2924 0-2.3474 0.02519-3.5527 0.58008-1.2054 0.55489-2.5222 1.5984-4.502 3.5781l0.70703 0.70703c1.9463-1.9463 3.193-2.9074 4.2129-3.377 1.0199-0.46951 1.8535-0.48828 3.1348-0.48828h11.174z" style="fill-opacity:.5;fill:currentColor"/>
-	<path class="ColorScheme-Text" d="m14.003 6.793 6.207 6.207h-8.8549c-3.7592 0-5.6892-0.16096-9.1587 3.1953l-0.54242 7.88e-4c4.5767-5.191 6.3131-5.1961 9.2817-5.1961h5.8603l-1.793-1.793v0.75195h-1z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Background" d="m14.951 7.002c0.04605-0.00225 0.09242-0.00222 0.13867 0.00195 0.18475 0.016572 0.36124 0.084198 0.50977 0.19531l4 3c0.53463 0.4 0.53463 1.2016 0 1.6016l-4 3c-0.65949 0.49391-1.5998 0.02316-1.5996-0.80078v-1h-8v4c-5.5e-5 0.55226-0.44774 0.99994-1 1v-6h10v2l4-3-4-3v2h-9c-0.58333 0-1.1107 0.15363-1.4785 0.52148-0.36785 0.36785-0.52148 0.8952-0.52148 1.4785v6c-0.55226-5.5e-5 -0.99994-0.44774-1-1v-5c0-0.75891 0.20716-1.5782 0.81445-2.1855 0.6073-0.6073 1.4266-0.81445 2.1855-0.81445h8v-1c-2.6e-5 -0.37879 0.21395-0.72509 0.55273-0.89453 0.1246-0.062306 0.2603-0.096768 0.39844-0.10352z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m14.999 8 4 3-4 3v-2h-10v5h-1v-5c0-0.58333 0.15363-1.1107 0.52148-1.4785 0.36785-0.36785 0.8952-0.52148 1.4785-0.52148h9z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
