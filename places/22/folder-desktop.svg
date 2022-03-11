@@ -1,34 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<radialGradient id="a" cx="-9416.6" cy="5035.4" r="9" gradientTransform="matrix(0,-1.3333,-1.1851,0,5981.7,-12539)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="c" cx=".76419" cy="12.636" r="9.3438" gradientTransform="matrix(0,-1.8883,-1.5567,0,30.671,19.443)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="10.189" cy="7.3768" r="8" gradientTransform="matrix(4.2676,0,0,2.6634,-35.156,-17.947)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".57917" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
-		</radialGradient>
-		<radialGradient id="d" cx="11.471" cy="-.99854" r="8" gradientTransform="matrix(5.2809,0,0,4.4419,-43.321,-16.766)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<radialGradient id="e" cx="-9416.6" cy="5035.4" r="9" gradientTransform="matrix(0,-1.3333,-1.1851,0,5981.7,-12539)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-	</defs>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m3 3c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1 2h14v12h-14z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m3 3c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1 2h14v12h-14z" fill="url(#e)" fill-opacity=".75328" style="paint-order:normal"/>
-	<path d="m2 2c-0.554 0-1 0.446-1 1v17c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-17c0-0.554-0.446-1-1-1zm0 1h18v16h-18z" fill="url(#c)" fill-opacity=".99858" style="paint-order:normal"/>
-	<path d="m4 5h14v12h-14z" fill="url(#b)" fill-opacity=".99858" style="paint-order:normal"/>
-	<path d="m18 6.5117c-2.0396 0.011672-4.1831 0.36279-6.2598 1.0254-3.0262 0.97251-5.7559 3.0574-7.7402 4.9941v4.4688h14z" fill="url(#d)" style="paint-order:normal"/>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path class="ColorScheme-Text" d="m3 3c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1 2h14v12h-14z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Background" d="m2 2c-0.554 0-1 0.446-1 1v17c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-17c0-0.554-0.446-1-1-1zm0 1h18v16h-18z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
