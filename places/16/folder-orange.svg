@@ -1,77 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg13094"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-orange.svg"
-   inkscape:export-filename="folder.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     id="namedview6"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="11.467731"
-     inkscape:cy="9.6388049"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2983" />
-  </sodipodi:namedview>
-  <defs
-     id="defs7" />
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     sodipodi:nodetypes="ccccccccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path2983"
-     d="m 9,1 0,1 -7,0 0,2 6,0 0,1 6,0 0,9 -1,0 0,-8 -5,0 0,-1 -7,0 0,10 12,0 1,0 1,0 0,-14 z"
-     style="fill:#ad8647;fill-opacity:1;fill-rule:nonzero;color:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}</style>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m10 1c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062h-6c-0.4155 0-0.77046 0.25022-0.92188 0.60938-0.050469 0.11972-0.078125 0.25212-0.078125 0.39062v1h11c0.554 0 1 0.446 1 1v9h-1v-8.5c0-0.277-0.223-0.5-0.5-0.5h-10.5c-0.046136 0-0.090323 0.00377-0.13477 0.00977-0.00974 0.0013-0.019648 0.00233-0.029297 0.00391-0.045376 0.00748-0.091702 0.017912-0.13477 0.03125-0.040471 0.012535-0.079125 0.027583-0.11719 0.044922-0.015404 0.00702-0.029953 0.015672-0.044922 0.023437-0.064153 0.03331-0.12468 0.073268-0.17969 0.11914-0.021717 0.018098-0.042412 0.036784-0.0625 0.056641-0.024033 0.023768-0.046835 0.048116-0.068359 0.074219-0.027502 0.033353-0.053128 0.068668-0.076172 0.10547-0.00712 0.011363-0.012865 0.023489-0.019531 0.035156-0.035701 0.062447-0.066193 0.12721-0.087891 0.19727-0.00969 0.031412-0.018779 0.063014-0.025391 0.095703-1.254e-4 6.104e-4 1.244e-4 0.00134 0 0.00195-0.00642 0.032082-0.010356 0.064546-0.013672 0.097656-0.0035318 0.034323-0.0058588 0.068219-0.0058588 0.10351v8c0 0.06925 0.00625 0.13596 0.019531 0.20117 0.013277 0.06522 0.033359 0.12959 0.058594 0.18945 0.025234 0.05986 0.055926 0.11674 0.091797 0.16992s0.077859 0.1013 0.12305 0.14648c0.045187 0.04519 0.093301 0.08718 0.14648 0.12305 0.053184 0.03587 0.11006 0.06656 0.16992 0.0918 0.059859 0.02523 0.12424 0.04532 0.18945 0.05859 0.032607 0.0066 0.063958 0.01027 0.097656 0.01367 0.034328 0.003535 0.068224 0.005862 0.10352 0.005862h12c0.554 0 1-0.446 1-1v-12c-4.1e-5 -0.554-0.44604-1-1-1z" style="fill:#f2712c"/>
 </svg>
