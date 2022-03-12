@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="g" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs id="f">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="b" class="ColorScheme-Text" d="m19.303 1.9648c-0.19899-0.01364-0.38705 0.092288-0.47852 0.26953l-5.0898 10.186c-0.0025 0.0039-0.0052 0.0078-0.0078 0.01172l-0.17383 0.3457c-0.12274 0.24703-0.02224 0.5468 0.22461 0.66992 0.24703 0.12274 0.5468 0.02224 0.66992-0.22461l3.6113-7.2227h0.94141v12h-13v-12h8.8242l0.5-1h-12.324c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1h-0.44141l1.1562-2.3145c0.12274-0.24703 0.02224-0.5468-0.22461-0.66992-0.05858-0.029022-0.12228-0.046275-0.1875-0.050781z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="c" class="ColorScheme-Background" d="m18.588 1.1602c-0.06549-0.00431-0.1312 0.00432-0.19336 0.025391-0.12566 0.041769-0.22961 0.13168-0.28906 0.25l-1.2812 2.5645h-13.824c-1.0907 0-2 0.9093-2 2v12c0 1.0907 0.9093 2 2 2h16c1.0907 0 2-0.9093 2-2v-12c0-1.0717-0.87808-1.9671-1.9434-1.998l-0.49805 0.99805h0.44141c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1h12.324l-0.5 1h-8.8242v12h13v-12h-0.94141l-0.5 1h0.44141v10h-11v-10h8.3242l-2.4844 4.9727c-0.12434 0.247-0.02459 0.54802 0.22266 0.67188 0.24752 0.12407 0.54873 0.02337 0.67188-0.22461l5.2656-10.537c0.12302-0.24651 0.02345-0.5461-0.22266-0.66992-0.05904-0.029946-0.12343-0.047871-0.18945-0.052734z" style="fill-opacity:.5;fill:currentColor"/>
+	<circle cx="4" cy="12" r="1" style="fill:#ffffff;paint-order:stroke fill markers;stop-color:#000000"/>
+	<circle cx="4" cy="15" r="1" style="fill:#ffffff;paint-order:stroke fill markers;stop-color:#000000"/>
+	<circle cx="4" cy="9" r="1" style="fill:#ffffff;paint-order:stroke fill markers;stop-color:#000000"/>
+</svg>
