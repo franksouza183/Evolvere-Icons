@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata id="e">
+<svg id="a" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="d">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="c">
+	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="d" class="ColorScheme-Text" d="m11 2c-3.866 0-7 3.134-7 7 0 1.933 0.7957 3.6707 2.0625 4.9375l-3.0625 5.0625h16l-3.0625-5.0625c1.2668-1.2668 2.0625-3.0045 2.0625-4.9375 0-3.866-3.134-7-7-7zm0 4c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4-4-1.7909-4-4 1.7909-4 4-4zm0 2c-1.1046 0-2 0.8954-2 2s0.8954 2 2 2 2-0.8954 2-2-0.8954-2-2-2z" style="fill-opacity:.75;fill:currentColor"/>
-	<path id="a" class="ColorScheme-Background" d="m9.2 1c-3.6643 0.8128-6.4062 4.0946-6.4062 8 0 1.8978 0.7593 3.5521 1.8437 4.9375l-2.6875 4.4375-0.9687 1.625h20l-0.9688-1.625-2.6875-4.4375c1.0845-1.3854 1.8438-3.0397 1.8438-4.9375 0-3.9054-2.7419-7.1872-6.4063-8zm1.7813 1c3.866 0 7 3.134 7 7 0 1.933-0.7957 3.6707-2.0625 4.9375l3.0625 5.0625h-16l3.0625-5.0625c-1.2668-1.2668-2.0625-3.0045-2.0625-4.9375 0-3.866 3.134-7 7-7zm0 4c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4-1.7909-4-4-4zm0 2c1.1046 0 2 0.8954 2 2s-0.8954 2-2 2-2-0.8954-2-2 0.8954-2 2-2z" style="fill-opacity:.5;fill:currentColor"/>
+	<path id="c" class="ColorScheme-Text" d="m11 2c-3.3078 0-6 2.6922-6 6s2.6922 6 6 6 6-2.6922 6-6-2.6922-6-6-6zm0 1c2.7673 0 5 2.2327 5 5s-2.2327 5-5 5-5-2.2327-5-5 2.2327-5 5-5zm0 3c-1.0986 0-2 0.90135-2 2 0 1.0986 0.90135 2 2 2s2-0.90135 2-2c0-1.0986-0.90135-2-2-2zm0 1c0.55821 0 1 0.44179 1 1s-0.44179 1-1 1-1-0.44179-1-1 0.44179-1 1-1zm-1 8v4h-2.5c-0.277 0-0.5 0.21738-0.5 0.48633v0.02734c0 0.26895 0.223 0.48633 0.5 0.48633h7c0.277 0 0.5-0.21738 0.5-0.48633v-0.02734c0-0.26895-0.223-0.48633-0.5-0.48633h-2.5v-4z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="e" class="ColorScheme-Background" d="m11 1c-3.8601 0-7 3.1399-7 7s3.1399 7 7 7 7-3.1399 7-7-3.1399-7-7-7zm0 1c3.3196 0 6 2.6804 6 6s-2.6804 6-6 6-6-2.6804-6-6 2.6804-6 6-6zm0 3c-1.6509 0-3 1.3491-3 3s1.3491 3 3 3 3-1.3491 3-3-1.3491-3-3-3zm0 1c1.1105 0 2 0.88951 2 2 0 1.1105-0.88951 2-2 2s-2-0.88951-2-2c0-1.1105 0.88951-2 2-2zm-1.5 9c-0.277 0-0.5 0.223-0.5 0.5v3c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-3c0-0.277-0.223-0.5-0.5-0.5zm3 0c-0.277 0-0.5 0.223-0.5 0.5v3c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-3c0-0.277-0.223-0.5-0.5-0.5zm-5 5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
