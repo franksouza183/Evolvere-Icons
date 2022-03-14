@@ -5,10 +5,12 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path id="g" d="m9 0.58594-7.7774 7.7774c-0.77115 0.77115-0.77115 2.057 0 2.8281l2.8066 2.8086h9.5235c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-4.2383l0.39258-0.39258 5.6562-5.6582-6.3633-6.3633zm0 1.4141 4.9492 4.9492-4.9492 4.9512-4.9492-4.9512zm-5.6562 5.6562 4.9492 4.9512-0.39258 0.39258h-3.457l-2.5137-2.5156c-0.39174-0.39174-0.39174-1.0223 0-1.4141l1.4141-1.4141zm7.1562 7.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" dominant-baseline="auto" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:url(#b);font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-	<path id="f" d="m9 2-4.9492 4.9492 4.9492 4.9512 4.9492-4.9512zm-5.6562 5.6562-1.4141 1.4141c-0.39174 0.39174-0.39174 1.0223 0 1.4141l2.5137 2.5156h9.0058c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-5.7637zm7.1562 6.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" style="fill-opacity:.76621;fill:#090d11;paint-order:normal"/>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="g" d="m9 0.58594-7.7774 7.7774c-0.77115 0.77115-0.77115 2.057 0 2.8281l2.8066 2.8086h9.5235c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-4.2383l0.39258-0.39258 5.6562-5.6582-6.3633-6.3633zm0 1.4141 4.9492 4.9492-4.9492 4.9512-4.9492-4.9512zm-5.6562 5.6562 4.9492 4.9512-0.39258 0.39258h-3.457l-2.5137-2.5156c-0.39174-0.39174-0.39174-1.0223 0-1.4141l1.4141-1.4141zm7.1562 7.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" dominant-baseline="auto" class="ColorScheme-Background" style="fill-opacity:.5;fill:currentColor;"/>
+	<path id="f" d="m9 2-4.9492 4.9492 4.9492 4.9512 4.9492-4.9512zm-5.6562 5.6562-1.4141 1.4141c-0.39174 0.39174-0.39174 1.0223 0 1.4141l2.5137 2.5156h9.0058c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-5.7637zm7.1562 6.3438c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" class="ColorScheme-Text" style="fill-opacity:.75;fill:currentColor;"/>
 </svg>
