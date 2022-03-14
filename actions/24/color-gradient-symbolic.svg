@@ -31,26 +31,5 @@
 		<use id="c" transform="matrix(1 0 0 .88889 14 1.2222)" width="100%" height="100%" style="opacity:.25;stroke-width:1.0607" xlink:href="#a"/>
 		<use id="u" transform="matrix(1 0 0 .88889 15 1.2222)" width="100%" height="100%" style="opacity:.2;stroke-width:1.0607" xlink:href="#a"/>
 	</g>
-	<g id="ai" transform="matrix(-1,0,0,1,23,1)">
-		<g id="am" transform="matrix(1 0 0 .88889 0 1.2222)" style="opacity:.95;stroke-width:1.0607">
-			<path id="an" class="ColorScheme-Background" d="m3 2h1v18h-1z" style="fill-opacity:.5;fill:currentColor;stroke-width:1.125"/>
-		</g>
-		<use id="aa" transform="matrix(1 0 0 .88889 1 1.2222)" width="100%" height="100%" style="opacity:.9;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ac" transform="matrix(1 0 0 .88889 2 1.2222)" width="100%" height="100%" style="opacity:.85;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ag" transform="matrix(1 0 0 .88889 3 1.2222)" width="100%" height="100%" style="opacity:.8;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ao" transform="matrix(1 0 0 .88889 4 1.2222)" width="100%" height="100%" style="opacity:.75;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ak" transform="matrix(1 0 0 .88889 5 1.2222)" width="100%" height="100%" style="opacity:.7;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="al" transform="matrix(1 0 0 .88889 6 1.2222)" width="100%" height="100%" style="opacity:.65;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="at" transform="matrix(1 0 0 .88889 7 1.2222)" width="100%" height="100%" style="opacity:.6;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ad" transform="matrix(1 0 0 .88889 8 1.2222)" width="100%" height="100%" style="opacity:.55;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ae" transform="matrix(1 0 0 .88889 9 1.2222)" width="100%" height="100%" style="opacity:.5;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ab" transform="matrix(1 0 0 .88889 10 1.2222)" width="100%" height="100%" style="opacity:.45;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="aj" transform="matrix(1 0 0 .88889 11 1.2222)" width="100%" height="100%" style="opacity:.4;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ah" transform="matrix(1 0 0 .88889 12 1.2222)" width="100%" height="100%" style="opacity:.35;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="au" transform="matrix(1 0 0 .88889 13 1.2222)" width="100%" height="100%" style="opacity:.3;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="ar" transform="matrix(1 0 0 .88889 14 1.2222)" width="100%" height="100%" style="opacity:.25;stroke-width:1.0607" xlink:href="#an"/>
-		<use id="as" transform="matrix(1 0 0 .88889 15 1.2222)" width="100%" height="100%" style="opacity:.2;stroke-width:1.0607" xlink:href="#an"/>
-	</g>
-	<path id="d" class="ColorScheme-Background" d="m3 2c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-18c0-0.554-0.446-1-1-1zm0 1h18v18h-18z" style="fill-opacity:.5;fill:currentColor"/>
 	<path id="w" class="ColorScheme-Text" d="m4 3c-0.554 0-1 0.446-1 1v16c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-16c0-0.554-0.446-1-1-1zm0 1h16v16h-16z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>

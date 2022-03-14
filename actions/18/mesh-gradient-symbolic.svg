@@ -29,26 +29,5 @@
 		<use id="z" transform="translate(14.398)" width="100%" height="100%" style="opacity:.01;stroke-width:1.4717" xlink:href="#b"/>
 		<path id="ak" class="ColorScheme-Text" d="m2.9095 4.8551v14.136c0 0.554 0.41737 1.5701 0.96262 1.5701 0.13631 0 0.22342 0.13383 0.40411 0.36039-0.081273-0.05602-0.14414-0.13486-0.18069-0.22656-1.0202-2.3122-1.2905-4.0672-1.1514-5.5176 0.13903-1.4504 0.67944-2.568 1.1822-3.5977 0.50274-1.0297 0.96484-1.9705 1.0765-3.1523 0.11163-1.1818-0.11591-2.6397-1.1015-4.707-0.10999-0.22415-0.037793-0.49508 0.16916-0.63477-0.11208-0.053845-0.2368 0.22102-0.37676 0.22102-0.41882 0-0.98424 1.1411-0.98424 1.5481z" style="fill-opacity:.75;fill:currentColor;stroke-width:1.4717"/>
 	</g>
-	<g id="p" transform="matrix(.68799 0 0 .68192 .93315 .81919)" style="stroke-width:1.4717">
-		<g id="ai" style="opacity:.01;stroke-width:1.4717">
-			<path id="a" class="ColorScheme-Background" d="m4.5195 3c-0.35694 0.021677-0.57642 0.40012-0.41797 0.7207 0.98554 2.0673 1.2132 3.5252 1.1016 4.707-0.11163 1.1818-0.57343 2.1227-1.0762 3.1523-0.50274 1.0297-1.0446 2.1473-1.1836 3.5977-0.13903 1.4504 0.13215 3.2054 1.1523 5.5176 0.25698 0.641 2.3446-1.2403 2.0432-1.8617-2.7849-3.6361-1.25-6.1515-1.144-7.7754 0.31711-4.8579 0.48562-5.8221-0.29615-7.5192-0.08592-0.18768 0.026834-0.55135-0.17922-0.53908z" style="fill-opacity:.5;fill:currentColor;stroke-width:1.4717"/>
-		</g>
-		<use id="l" transform="translate(1.0284)" width="100%" height="100%" style="opacity:.1;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="ag" transform="translate(2.0568)" width="100%" height="100%" style="opacity:.2;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="g" transform="translate(3.0852)" width="100%" height="100%" style="opacity:.3;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="q" transform="translate(4.1136)" width="100%" height="100%" style="opacity:.4;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="m" transform="translate(5.142)" width="100%" height="100%" style="opacity:.45;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="ae" transform="translate(6.1704)" width="100%" height="100%" style="opacity:.58;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="j" transform="translate(7.1988)" width="100%" height="100%" style="opacity:.65;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="i" transform="translate(8.2272)" width="100%" height="100%" style="opacity:.7;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="r" transform="translate(9.2556)" width="100%" height="100%" style="opacity:.75;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="af" transform="translate(10.284)" width="100%" height="100%" style="opacity:.8;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="ah" transform="translate(11.312)" width="100%" height="100%" style="opacity:.85;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="ab" transform="translate(12.341)" width="100%" height="100%" style="opacity:.9;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="aa" transform="translate(13.369)" width="100%" height="100%" style="opacity:.95;stroke-width:1.4717" xlink:href="#a"/>
-		<use id="h" transform="translate(14.398)" width="100%" height="100%" style="stroke-width:1.4717" xlink:href="#a"/>
-		<path id="an" class="ColorScheme-Background" d="m18.657 21c0.54524 0 0.9842-0.446 0.9842-1v-16c0-0.554-0.43895-1-0.9842-1-0.13631 0-0.26495 0.02766-0.38253 0.07813 0.08127 0.05602 0.14415 0.13486 0.18069 0.22656 1.0202 2.3122 1.2905 4.0672 1.1514 5.5176-0.13903 1.4504-0.67944 2.568-1.1822 3.5977s-0.96484 1.9705-1.0765 3.1523c-0.11163 1.1818 0.11591 2.6397 1.1015 4.707 0.11 0.22415 0.03779 0.49508-0.16916 0.63476 0.11208 0.05385 0.2368 0.08594 0.37676 0.08594z" style="fill-opacity:.5;fill:currentColor;stroke-width:1.4717"/>
-	</g>
-	<rect id="al" class="ColorScheme-Text" x="2.5" y="2.5" width="13" height="13" rx="1.5" ry="1.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
-	<rect id="am" class="ColorScheme-Background" x="1.5" y="1.5" width="15" height="15" rx="2.5" ry="2.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
+	<path id="al" class="ColorScheme-Text" d="m4 2c-1.0994 0-2 0.90065-2 2v10c0 1.0994 0.90065 2 2 2h10c1.0994 0 2-0.90065 2-2v-10c0-1.0994-0.90065-2-2-2zm0 1h10c0.56265 0 1 0.43735 1 1v10c0 0.56265-0.43735 1-1 1h-10c-0.56265 0-1-0.43735-1-1v-10c0-0.56265 0.43735-1 1-1z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
