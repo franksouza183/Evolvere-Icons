@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="a" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<metadata id="d">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="b" d="m1 1h14v2h-14zm3 7 4-4 4 4h-3v7h-2v-7z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
-	<path id="c" d="m0 0h16v1h-16zm0 3h7.25 1.5 7.25v1h-6.25l4 4h-1.75l-4-4-4 4h-1.75l4-4h-6.25zm6 5h1v7h-1zm3 0h1v7h-1z" style="fill-opacity:.5;fill:currentColor" class="ColorScheme-Background"/>
+	<path class="ColorScheme-Background" d="m9.5 7c0.277 0 0.5-0.223 0.5-0.5v-3.5h-1v3.5c0 0.277 0.223 0.5 0.5 0.5zm-3 0c0.277 0 0.5-0.223 0.5-0.5v-3.5h-1v3.5c0 0.277 0.223 0.5 0.5 0.5zm8.5-5v-0.5c-2.8e-5 -0.27613-0.22387-0.49997-0.5-0.5h-13c-0.27613 2.8e-5 -0.49997 0.22387-0.5 0.5v0.5h9.5z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m14 2.5c-2.8e-5 -0.27613-0.22387-0.49997-0.5-0.5h-11c-0.27613 2.8e-5 -0.49997 0.22387-0.5 0.5v0.5h12z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m7 6c0 0.554 0.41664 1 0.93359 1h0.13281c0.51695 0 0.93359-0.446 0.93359-1v-3h-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m14 3h-1v10h-10v-10h-1v10.5c2.8e-5 0.27613 0.22387 0.49997 0.5 0.5h11c0.27613-2.8e-5 0.49997-0.22387 0.5-0.5z" style="fill-opacity:.75;fill:currentColor;opacity:.5"/>
+	<path class="ColorScheme-Background" d="m15 2h-1v12h-12v-12h-1v12.5c2.8e-5 0.27613 0.22387 0.49997 0.5 0.5h13c0.27613-2.8e-5 0.49997-0.22387 0.5-0.5z" style="fill-opacity:.5;fill:currentColor;opacity:.5"/>
 </svg>
