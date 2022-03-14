@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="22" height="22" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
@@ -12,10 +12,8 @@
 	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<g transform="rotate(-90,12,12)">
-		<path class="ColorScheme-Background" d="m6.5 3c-0.27613 2.76e-5 -0.49997 0.22387-0.5 0.5v6.5h-4.4492c-0.3047 0-0.55078 0.223-0.55078 0.5s0.24608 0.5 0.55078 0.5h5.4492v-7h1v-1zm-4.9492 10c-0.3047 0-0.55078 0.223-0.55078 0.5s0.24608 0.5 0.55078 0.5h4.4492v6.5c2.76e-5 0.27613 0.22387 0.49997 0.5 0.5h1.5v-1h-1v-7h-4z" style="fill-opacity:.5;fill:currentColor"/>
+	<g transform="rotate(180,11.5,11.5)">
 		<path class="ColorScheme-Text" d="m8 4v1h11v14h-11v1h11.5c0.27613-2.8e-5 0.49997-0.22387 0.5-0.5v-15c-2.8e-5 -0.27613-0.22387-0.49997-0.5-0.5z" style="fill-opacity:.75;fill:currentColor;opacity:.5"/>
 		<path class="ColorScheme-Text" d="m7.5 4c-0.27613 2.76e-5 -0.49997 0.22387-0.5 0.5v6.5h-4c-0.554 0-1 0.41664-1 0.93359v0.13281c0 0.51695 0.446 0.93359 1 0.93359h4v6.5c2.76e-5 0.27613 0.22387 0.49997 0.5 0.5h0.5v-16z" style="fill-opacity:.75;fill:currentColor"/>
-		<path class="ColorScheme-Background" d="m8 3v1h12v16h-12v1h12.5c0.27613-2.8e-5 0.49997-0.22387 0.5-0.5v-17c-2.8e-5 -0.27613-0.22387-0.49997-0.5-0.5z" style="fill-opacity:.5;fill:currentColor;opacity:.5"/>
 	</g>
 </svg>
