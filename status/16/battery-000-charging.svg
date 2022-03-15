@@ -1,104 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   id="svg27665"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="battery-000-charging.svg">
-  <defs
-     id="defs27667" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#cbcdd6"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="32.000002"
-     inkscape:cx="3.9656345"
-     inkscape:cy="7.0247624"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-5"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-global="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:showpageshadow="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3070"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-47.999653px"
-       originy="-0.00031276823px" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata27670">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(3316.4171,-2100.7186)">
-    <path
-       style="color:#000000;fill:#27303a;fill-opacity:0.75328081999999996000000003;fill-rule:nonzero;stroke:none;stroke-width:1.20000005000000010;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 7 1 C 6.446 1 6 1.446 6 2 C 4.3553 2 3 3.3553 3 5 L 3 12 C 3 13.6447 4.3553 15 6 15 L 9 15 C 10.6447 15 12 13.6447 12 12 L 12 5 C 12 3.3553 10.6447 2 9 2 C 9 1.446 8.554 1 8 1 L 7 1 z M 6 4 L 9 4 C 9.5713 4 10 4.4287 10 5 L 10 12 C 10 12.5713 9.5713 13 9 13 L 6 13 C 5.4287 13 5 12.5713 5 12 L 5 5 C 5 4.4287 5.4287 4 6 4 z M 13 6 L 13 11 L 14 11 L 14 10 L 14 9 L 14 8 L 14 7 L 14 6 L 13 6 z M 15 7 L 15 8 L 16 8 L 16 7 L 15 7 z M 0 8 L 0 9 L 2 9 L 2 8 L 0 8 z M 15 9 L 15 10 L 16 10 L 16 9 L 15 9 z "
-       transform="translate(-3316.4171,2100.7186)"
-       id="path3075" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 7 0 C 6.2493 0 5.7165 0.5009 5.375 1.125 C 3.4829 1.4373 2 3.0253 2 5 L 2 7 L 0 7 L 0 8 L 2 8 L 2 12 C 2 14.194 3.8059 16 6 16 L 9 16 C 11.194 16 12.9999 14.194 13 12 L 13 5 C 13 3.0296 11.511 1.4424 9.625 1.125 C 9.2834 0.5009 8.7506 0 8 0 L 7 0 z M 7 1 L 8 1 C 8.554 1 9 1.446 9 2 C 10.6447 2 12 3.3553 12 5 L 12 12 C 12 13.6447 10.6447 15 9 15 L 6 15 C 4.3553 15 3 13.6447 3 12 L 3 5 C 3 3.3553 4.3553 2 6 2 C 6 1.446 6.446 1 7 1 z M 14 5 L 14 6 L 14 7 L 14 8 L 14 9 L 14 10 L 15 10 L 15 9 L 16 9 L 16 8 L 15 8 L 15 7 L 16 7 L 16 6 L 15 6 L 15 5 L 14 5 z M 5 12 C 5 12.554 5.446 13 6 13 L 9 13 C 9.554 13 10 12.554 10 12 L 5 12 z "
-       transform="translate(-3316.4171,2100.7186)"
-       id="path3077" />
-    <rect
-       transform="scale(-1,-1)"
-       width="16"
-       height="16"
-       x="1382.6936"
-       y="-5459.1357"
-       id="use6225"
-       style="opacity:0.00100002;fill:#43423e;fill-opacity:0.00392157;stroke:none" />
-  </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText { color:#fa0473; }
+			.ColorScheme-Text { color:#090d11; }
+			.ColorScheme-Background { color:#ffffff; }</style>
+	</defs>
+	<path class="ColorScheme-Background" d="m7 0c-0.7507 0-1.2835 0.5009-1.625 1.125-1.8921 0.3123-3.375 1.9003-3.375 3.875v7c0 2.194 1.8059 4 4 4h3c2.194 0 3.9999-1.806 4-4v-7c0-1.9704-1.489-3.5576-3.375-3.875-0.3416-0.6241-0.8744-1.125-1.625-1.125h-1zm0 1h1c0.554 0 1 0.446 1 1 1.6447 0 3 1.3553 3 3v7c0 1.6447-1.3553 3-3 3h-3c-1.6447 0-3-1.3553-3-3v-7c0-1.6447 1.3553-3 3-3 0-0.554 0.446-1 1-1zm0.64648 3.0059a1.5 1.5 0 0 0-1.5703 1.0195l-1 3a1.5002 1.5002 0 0 0 1.4238 1.9746h0.011719l-0.45312 1.5879a1.5 1.5 0 0 0 1.0293 1.8535 1.5 1.5 0 0 0 1.8535-1.0293l1-3.5a1.5002 1.5002 0 0 0-1.3672-1.8887l0.34961-1.0488a1.5 1.5 0 0 0-0.94922-1.8984 1.5 1.5 0 0 0-0.32812-0.070312zm-0.14258 0.84375a0.65 0.65 0 0 1 0.20117 0.033203 0.65 0.65 0 0 1 0.41211 0.82227l-0.71484 2.1445h1.0977a0.65006 0.65006 0 0 1 0.625 0.82812l-1 3.5a0.65 0.65 0 0 1-0.80273 0.44727 0.65 0.65 0 0 1-0.44727-0.80273l0.76367-2.6719h-1.1387a0.65006 0.65006 0 0 1-0.61719-0.85547l1-3a0.65 0.65 0 0 1 0.62109-0.44531z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m7 1c-0.554 0-1 0.446-1 1-1.6447 0-3 1.3553-3 3v7c0 1.6447 1.3553 3 3 3h3c1.6447 0 3-1.3553 3-3v-7c0-1.6447-1.3553-3-3-3 0-0.554-0.446-1-1-1h-1zm-1 2h3c1.108 0 2 0.892 2 2v7c0 0.36522-0.097949 0.70592-0.26758 1h-0.001953c-0.17488 0.30383-0.42668 0.55721-0.73047 0.73242-0.29408 0.16962-0.63478 0.26758-1 0.26758h-3c-0.36522 0-0.70592-0.097946-1-0.26758-0.30379-0.17521-0.55559-0.42859-0.73047-0.73242h-0.0019531c-0.16963-0.29408-0.26758-0.63478-0.26758-1v-7c0-1.108 0.892-2 2-2zm1.5039 1.8496a0.65 0.65 0 0 0-0.62109 0.44531l-1 3a0.65006 0.65006 0 0 0 0.61719 0.85547h1.1387l-0.76367 2.6719a0.65 0.65 0 0 0 0.44727 0.80273 0.65 0.65 0 0 0 0.80273-0.44727l1-3.5a0.65006 0.65006 0 0 0-0.625-0.82812h-1.0977l0.71484-2.1445a0.65 0.65 0 0 0-0.41211-0.82227 0.65 0.65 0 0 0-0.20117-0.033203z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
