@@ -1,40 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg13094"
-   height="22"
-   width="22"
-   version="1.1">
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}.ColorScheme-Highlight{color:#0079c1;}.ColorScheme-PositiveText {color:#31ad39;}</style>
-  </defs>
-  <path
-     id="path3000"
-     d="m 18.778176,18.778171 a 11.000001,11.000001 0 0 1 -15.5563501,0 11.000001,11.000001 0 0 1 0,-15.5563502 11.000001,11.000001 0 0 1 15.5563501,0 11.000001,11.000001 0 0 1 0,15.5563502 z"
-     class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1" />
-  <path
-     class="ColorScheme-PositiveText"
-     style="fill:currentColor;fill-opacity:1"
-     d="M 11.130859,2 C 8.6987857,1.96525 6.3561983,2.9163752 4.6367188,4.6367188 c -3.5138122,3.5145632 -3.5138122,9.2119992 0,12.7265622 3.5145631,3.513812 9.2119992,3.513812 12.7265622,0 3.513812,-3.514563 3.513812,-9.211999 0,-12.7265622 C 15.707927,2.9804978 13.47224,2.0346574 11.130859,2 Z m 4.310547,5.3613281 a 1.0001,1.0001 0 0 1 0.726563,1.7167969 l -6,6 A 1.0001,1.0001 0 0 1 8.75,15.074219 l -2.8496094,-2.88086 a 1.0001,1.0001 0 1 1 1.4199219,-1.40625 l 2.1445315,2.166016 5.289062,-5.2890625 a 1.0001,1.0001 0 0 1 0.6875,-0.3027344 z"
-     id="path3778" />
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-Highlight{color:#2598e4;}
+			.ColorScheme-NegativeText {color:#f03489;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+            .ColorScheme-NeutralText{color:#f2712c;}</style>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path class="ColorScheme-PositiveText" d="m3.7858 3.7858c-3.7144 3.7144-3.7144 9.714-3e-7 13.428 3.7144 3.7144 9.714 3.7144 13.428 0 3.7144-3.7144 3.7144-9.714 0-13.428-3.7144-3.7144-9.714-3.7144-13.428 2e-7z" style="fill:currentColor"/>
+	<g class="ColorScheme-Text" transform="rotate(45 12.561 9.6464)" style="fill:none;stroke-linecap:round;stroke-opacity:.04;stroke-width:6.7;stroke:currentColor">
+		<path d="m9.2324 14.182h3.5356l5e-5 -7.0711" style="stroke-linejoin:round;stroke-width:6.7"/>
+	</g>
+	<g class="ColorScheme-Background" transform="rotate(45 12.561 9.6464)" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.4;stroke:currentColor">
+		<path d="m9.2324 14.182h3.5356l5e-5 -7.0711" style="stroke-linejoin:round;stroke-width:1.4"/>
+	</g>
+	<path class="ColorScheme-Background" d="m10.501 0.0012076c-5.8012 0-10.499 4.6982-10.499 10.499 1.89e-6 5.8012 4.6982 10.499 10.499 10.499 5.8012-2e-6 10.499-4.6982 10.499-10.499 0.001047-5.7276-4.7719-10.501-10.499-10.499zm6.7391 3.7603c1.7211 1.7211 2.783 4.1018 2.783 6.7391 0 5.2746-4.2475 9.5221-9.5221 9.5221-5.2746 1e-6 -9.5221-4.2475-9.5221-9.5221-5.7e-7 -5.2746 4.2475-9.5221 9.5221-9.5221 2.6373 0 5.018 1.0619 6.7391 2.783z" style="fill-opacity:.95;fill:currentColor"/>
 </svg>

@@ -2,7 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-Highlight{color:#2598e4;}
+			.ColorScheme-NegativeText {color:#f03489;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+            .ColorScheme-NeutralText{color:#f2712c;}
+		</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -12,12 +19,13 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path class="ColorScheme-Text" d="m3.7858 3.7858c-3.7144 3.7144-3.7144 9.714-3e-7 13.428 3.7144 3.7144 9.714 3.7144 13.428 0 3.7144-3.7144 3.7144-9.714 0-13.428-3.7144-3.7144-9.714-3.7144-13.428 2e-7z" style="fill:currentColor"/>
-	<path class="ColorScheme-Background" d="m3.079 3.079c-4.1054 4.1054-4.1054 10.737-3e-7 14.842 4.1054 4.1054 10.737 4.1054 14.842 0 4.1054-4.1054 4.1054-10.737 0-14.842-4.1054-4.1054-10.737-4.1054-14.842 2e-7z" style="fill-opacity:.18;fill:currentColor"/>
+	<path id="c" class="ColorScheme-NegativeText" d="m10.5 1.0004a9.4998 9.4998 0 0 0-9.4998 9.4998 9.4998 9.4998 0 0 0 9.4998 9.4998 9.4998 9.4998 0 0 0 9.4998-9.4998 9.4998 9.4998 0 0 0-9.4998-9.4998z" style="fill:currentColor"/>
+	<path class="ColorScheme-Background" d="m3.079 3.079c-4.1054 4.1054-4.1054 10.737-3e-7 14.842 4.1054 4.1054 10.737 4.1054 14.842 0 4.1054-4.1054 4.1054-10.737 0-14.842-4.1054-4.1054-10.737-4.1054-14.842 2e-7z" style="fill-opacity:.02;fill:currentColor"/>
+	<g class="ColorScheme-Text" transform="rotate(45 12.561 9.6464)" style="fill:none;stroke-linecap:round;stroke-opacity:.05;stroke-width:3;stroke:currentColor">
+		<path d="m8.5252 14.889 6.3639-6.3639" style="stroke-width:3"/>
+	</g>
 	<g class="ColorScheme-Background" transform="rotate(45 12.561 9.6464)" style="fill:none;stroke-linecap:round;stroke-opacity:.85;stroke:currentColor">
-		<path d="m12.768 10.646 5.6569-5.6569"/>
-		<path d="m4.9896 18.425 5.6569-5.6569"/>
-		<rect transform="rotate(-45)" x="-4" y="14.556" width="8" height="4" rx="2" ry="2"/>
+		<path d="m8.5252 14.889 6.3639-6.3639"/>
 	</g>
 	<path class="ColorScheme-Background" d="m10.501 0.0012076c-5.8012 0-10.499 4.6982-10.499 10.499 1.89e-6 5.8012 4.6982 10.499 10.499 10.499 5.8012-2e-6 10.499-4.6982 10.499-10.499 0.001047-5.7276-4.7719-10.501-10.499-10.499zm6.7391 3.7603c1.7211 1.7211 2.783 4.1018 2.783 6.7391 0 5.2746-4.2475 9.5221-9.5221 9.5221-5.2746 1e-6 -9.5221-4.2475-9.5221-9.5221-5.7e-7 -5.2746 4.2475-9.5221 9.5221-9.5221 2.6373 0 5.018 1.0619 6.7391 2.783z" style="fill-opacity:.85;fill:currentColor"/>
 </svg>

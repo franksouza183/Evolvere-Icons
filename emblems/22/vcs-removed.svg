@@ -21,12 +21,16 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs4">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}.ColorScheme-NegativeText {color:#df0278;}</style>
-  </defs>
+	<defs>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-Highlight{color:#2598e4;}
+			.ColorScheme-NegativeText {color:#f03489;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+            .ColorScheme-NeutralText{color:#f2712c;}
+		</style>
+	</defs>
   <path
      id="path3000"
      d="m 18.778176,18.778171 c -4.295768,4.295767 -11.2605826,4.295767 -15.5563501,0 -4.2957673,-4.295768 -4.2957673,-11.2605826 0,-15.5563502 4.2957675,-4.2957673 11.2605821,-4.2957673 15.5563501,0 4.295767,4.2957676 4.295767,11.2605822 0,15.5563502 z"
