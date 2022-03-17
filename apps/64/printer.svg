@@ -20,10 +20,10 @@
 			<stop stop-color="#e2e7f1" stop-opacity=".83768" offset="0"/>
 			<stop stop-color="#e9edf4" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient182659" x1="33" x2="33" y1="40" y2="54" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#122444" stop-opacity=".43" offset="0"/>
-			<stop stop-color="#0e2341" stop-opacity=".26" offset=".35714"/>
-			<stop stop-color="#001d44" stop-opacity=".06" offset="1"/>
+		<linearGradient id="linearGradient182659" x1="33" x2="33" y1="40" y2="58.667" gradientTransform="matrix(1 0 0 .64286 0 14.286)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#122444" stop-opacity=".64805" offset="0"/>
+			<stop stop-color="#0e2341" stop-opacity=".40619" offset=".35714"/>
+			<stop stop-color="#001d44" stop-opacity=".081398" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient298607" x1="56" x2="58" y1="15" y2="15" gradientTransform="matrix(-1,0,0,1,64,0)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient298605"/>
 		<linearGradient id="linearGradient298899" x1="56" x2="58" y1="15" y2="15" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient298605"/>
@@ -83,7 +83,7 @@
 		<path d="m1.6362e-8 58 3 1h58l3-1v2l-3 1h-58l-3-1z" color="#000000" fill="#001d44" fill-opacity=".16547"/>
 	</g>
 	<g>
-		<path d="m14 40h36c3.324 0 6 2.676 6 6v13h-48v-13c0-3.324 2.676-6 6-6z" color="#000000" fill="#53627f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+		<path d="m14 40h36c3.324 0 6 2.676 6 6v13h-48v-13c0-3.324 2.676-6 6-6z" color="#000000" fill="#303a4a" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
 		<rect x="12" y="40" width="40" height="24" color="#000000" fill="#eceff4"/>
 		<g stroke-width=".99999">
 			<path d="m12 40v24h10v-24h-5z" fill="#f5b219" style="paint-order:fill markers stroke"/>
@@ -94,7 +94,7 @@
 		<g>
 			<rect x="11" width="42" height="11" color="#000000" fill="#53627f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
 			<rect x="12" width="40" height="11" color="#000000" fill="url(#linearGradient122191)"/>
-			<rect x="12" y="40" width="40" height="14" color="#000000" fill="url(#linearGradient182659)"/>
+			<rect x="12" y="40" width="40" height="12" color="#000000" fill="url(#linearGradient182659)"/>
 		</g>
 	</g>
 	<path d="m61 64 3-1v-38l-3 1z" color="#000000" fill="#001d44" fill-opacity=".16547"/>
