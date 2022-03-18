@@ -6,19 +6,16 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<style id="current-color-scheme" type="text/css">
-			.ColorScheme-Text {
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
 			color:#090d11;
 			}
 			.ColorScheme-Background{
 			color:#ffffff;
-			}
-		</style>
+			}</style>
 	</defs>
-	<path d="m2 2c-0.5541 0-1 0.4459-1 1v2h14v-2c0-0.5541-0.4459-1-1-1zm-1 4v5c0 0.554 0.446 1 1 1h1v1.5c0 0.8224 0.6776 1.5 1.5 1.5h7c0.8224 0 1.5-0.6776 1.5-1.5v-1.5h1c0.5541 0 1-0.4459 1-1v-5zm3 2h8v5.5c0 0.2857-0.2143 0.5-0.5 0.5h-7c-0.2857 0-0.5-0.2143-0.5-0.5z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text"/>
+	<path class="ColorScheme-Text" d="m2 2c-0.5541 0-1 0.4459-1 1v2h14v-2c0-0.5541-0.4459-1-1-1zm-1 4v5c0 0.554 0.446 1 1 1h1v1.5c0 0.8224 0.6776 1.5 1.5 1.5h7c0.8224 0 1.5-0.6776 1.5-1.5v-1.5h1c0.5541 0 1-0.4459 1-1v-5zm3 2h8v5.5c0 0.2857-0.2143 0.5-0.5 0.5h-7c-0.2857 0-0.5-0.2143-0.5-0.5z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>

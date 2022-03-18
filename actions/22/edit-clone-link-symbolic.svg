@@ -10,13 +10,11 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
-		<style type="text/css">.ColorScheme-Text {
-			color:#090d11;
-			}
-			.ColorScheme-Background{
-			color:#ffffff;
-			}.ColorScheme-PositiveText {color:#31ad39;}</style>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+		</style>
 	</defs>
 	<path class="ColorScheme-Text" d="m3.4336 2c-0.78542 0-1.4336 0.64818-1.4336 1.4336v12.133c0 0.78542 0.64818 1.4336 1.4336 1.4336h1.5664v1.5664c0 0.78542 0.64818 1.4336 1.4336 1.4336h12.133c0.78542 0 1.4336-0.64818 1.4336-1.4336v-12.133c0-0.78542-0.64818-1.4336-1.4336-1.4336h-1.5664v-1.5664c0-0.78542-0.64818-1.4336-1.4336-1.4336zm0 1h12.133c0.24872 0 0.43359 0.18488 0.43359 0.43359v12.133c0 0.24872-0.18488 0.43359-0.43359 0.43359h-12.133c-0.24872 0-0.43359-0.18488-0.43359-0.43359v-12.133c0-0.24872 0.18488-0.43359 0.43359-0.43359zm13.566 3h1.5664c0.24872 0 0.43359 0.18488 0.43359 0.43359v12.133c0 0.24872-0.18488 0.43359-0.43359 0.43359h-12.133c-0.24872 0-0.43359-0.18488-0.43359-0.43359v-1.5664h9.5664c0.78542 0 1.4336-0.64818 1.4336-1.4336z" style="fill-opacity:.75;fill:currentColor"/>
 	<path class="ColorScheme-PositiveText success" d="m9.5 5c-1.3764 0-2.5 1.1236-2.5 2.5v1.5c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1v-1.5c0-1.3764-1.1236-2.5-2.5-2.5zm0 1c0.83965 0 1.5 0.66035 1.5 1.5v1.5h-3v-1.5c0-0.83965 0.66035-1.5 1.5-1.5z" style="fill:currentColor"/>
