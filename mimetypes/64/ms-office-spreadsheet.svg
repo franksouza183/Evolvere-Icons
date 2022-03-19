@@ -3,7 +3,7 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
 		<linearGradient id="linearGradient82616" x1="53.055" x2="60.201" y1="35.97" y2="35.97" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#83ff4b" stop-opacity=".31373" offset="0"/>
+			<stop stop-color="#83ff4b" stop-opacity=".19094" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient70762" x1="82.744" x2="71" y1="79.421" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
@@ -45,8 +45,8 @@
 	<path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#linearGradient70762)"/>
 	<path d="m60 33c-2.3286 2.7764-4.3614 3-11 3h-11.5" fill="none" stroke="url(#linearGradient82616)" stroke-linecap="round" stroke-opacity=".9954"/>
 	<g stroke-linecap="round" stroke-linejoin="round">
-		<rect y="2" width="60" height="1" fill="#94ff4c" fill-opacity=".37675" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-		<rect x="4" width="60" height="1" fill="#94ff4c" fill-opacity=".24056" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+		<rect y="2" width="60" height="1" fill="#94ff4c" fill-opacity=".16745" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+		<rect x="4" width="60" height="1" fill="#94ff4c" fill-opacity=".14975" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 		<rect transform="rotate(90)" x="2" y="-1" width="62" height="1" fill="#000000" fill-opacity=".03" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 		<rect transform="rotate(90)" y="-5" width="2" height="1" fill="#000000" fill-opacity=".06" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 	</g>

@@ -24,7 +24,7 @@
 			<stop stop-color="#296bc7" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient82616" x1="53.055" x2="60.201" y1="35.97" y2="35.97" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#4bd8ff" stop-opacity=".31373" offset="0"/>
+			<stop stop-color="#4bd8ff" stop-opacity=".21712" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
 		</linearGradient>
 	</defs>
@@ -46,8 +46,8 @@
 		<path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#linearGradient70762)"/>
 		<path d="m60 33c-2.3286 2.7764-4.3614 3-11 3h-11.5" fill="none" stroke="url(#linearGradient82616)" stroke-linecap="round" stroke-opacity=".9954"/>
 		<g stroke-linecap="round" stroke-linejoin="round">
-			<rect y="2" width="60" height="1" fill="#4ce1ff" fill-opacity=".37675" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-			<rect x="4" width="60" height="1" fill="#4ce9ff" fill-opacity=".16374" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+			<rect y="2" width="60" height="1" fill="#4ce1ff" fill-opacity=".15091" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+			<rect x="4" width="60" height="1" fill="#4ce9ff" fill-opacity=".12995" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 			<rect transform="rotate(90)" x="2" y="-1" width="62" height="1" fill="#000000" fill-opacity=".03" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 			<rect transform="rotate(90)" y="-5" width="2" height="1" fill="#000000" fill-opacity=".06" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 		</g>

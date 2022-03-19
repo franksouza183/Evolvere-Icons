@@ -11,7 +11,7 @@
 			<stop stop-color="#3e91e5" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient82616" x1="53.055" x2="60.201" y1="35.97" y2="35.97" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#86f4ff" stop-opacity=".3927" offset="0"/>
+			<stop stop-color="#86f4ff" stop-opacity=".23451" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient48967" x1="62.456" x2="62.456" y1="10.772" y2=".52221" gradientUnits="userSpaceOnUse">
@@ -31,7 +31,7 @@
 	<path d="m60 2v31l-24.322 29h25.322v-59z" fill="url(#a-2)"/>
 	<path d="m0 2h60v31l-26 31h-34z" fill="url(#b-2)"/>
 	<path d="m0 2h60v31l-26 31h-34z" fill="url(#c)"/>
-	<rect y="2" width="60" height="1" fill="#63e5ff" fill-opacity=".56144" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+	<rect y="2" width="60" height="1" fill="#63e5ff" fill-opacity=".26293" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 	<rect x="4" width="60" height="1" fill="#4ce9ff" fill-opacity=".16374" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 	<rect transform="rotate(90)" x="2" y="-1" width="62" height="1" fill="#000000" fill-opacity=".03" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
 	<path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#d)"/>

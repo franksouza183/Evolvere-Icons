@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="b" cx="46.87" cy="36.89" r="14.16" gradientTransform="matrix(1.44,0,0,2.118,-19.19,-35.79)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#0e223d" stop-opacity=".31724" offset="0"/>
-			<stop stop-color="#0d2548" stop-opacity=".1428" offset="1"/>
-		</radialGradient>
-		<radialGradient id="c" cx="20.34" cy="28.54" r="30" gradientTransform="matrix(1.181,0,0,1.22,-5.424,-7.265)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#1b4757" stop-opacity=".06802" offset="0"/>
-			<stop stop-color="#0a4f68" stop-opacity=".01013" offset="1"/>
-		</radialGradient>
-		<linearGradient id="a" x1="37" x2="48.96" y1="36" y2="46.16" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#a3f83d" stop-opacity="0" offset="0"/>
-			<stop stop-color="#a3f83d" stop-opacity=".01894" offset=".5903"/>
-			<stop stop-color="#a3f83d" stop-opacity=".05317" offset=".7003"/>
-			<stop stop-color="#a3f83d" stop-opacity=".1777" offset=".8081"/>
-			<stop stop-color="#a3f83d" stop-opacity=".244" offset=".9019"/>
-			<stop stop-color="#a3f83d" stop-opacity=".4224" offset="1"/>
+		<linearGradient id="linearGradient82616" x1="53.055" x2="60.201" y1="35.97" y2="35.97" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#83ff4b" stop-opacity=".19094" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
 		</linearGradient>
-		<linearGradient id="d" x1="82.74" x2="71" y1="79.42" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#328520" offset="0"/>
-			<stop stop-color="#2b8019" offset=".2523"/>
-			<stop stop-color="#32941d" offset="1"/>
+		<linearGradient id="linearGradient70762" x1="82.744" x2="71" y1="79.421" y2="69" gradientTransform="translate(-34,-33)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#317235" offset="0"/>
+			<stop stop-color="#328c33" offset=".25231"/>
+			<stop stop-color="#41942c" offset="1"/>
+		</linearGradient>
+		<linearGradient id="c-7" x1="48.918" x2="33.898" y1="46.214" y2="31.194" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#adff86" stop-opacity=".25627" offset="0"/>
+			<stop stop-color="#26ff0d" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<radialGradient id="radialGradient83837" cx="29.526" cy="55.944" r="30" gradientTransform="matrix(1.8427,0,0,1.9042,-26.521,-39.268)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3b9a6b" offset="0"/>
+			<stop stop-color="#4eb737" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a-5" cx="46.762" cy="39.221" r="14.161" gradientTransform="matrix(.86297 .86297 -2.3655 2.3655 98.927 -83.343)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#111531" stop-opacity=".2792" offset="0"/>
+			<stop stop-color="#282253" stop-opacity=".0039216" offset="1"/>
+		</radialGradient>
+		<linearGradient id="linearGradient65720" x1="61.017" x2="61.017" y1="10" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#32762e" offset="0"/>
+			<stop stop-color="#419330" offset="1"/>
 		</linearGradient>
 	</defs>
 	<metadata>
@@ -29,15 +33,22 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4 0h60v62h-60z" fill="#32941d"/>
-	<path d="m60 2v31l-24.32 29h28.32v-56z" fill="url(#b)"/>
-	<path d="m0 2h60v31l-2.3811 2.839c-10.715 5.9236-16.516 17.836-23.619 28.161h-34z" color="#000000" fill="#5dc93f"/>
-	<path d="m0 2h60v31l-26 31h-34z" color="#000000" fill="url(#c)"/>
-	<path d="m0 2h60v31l-2.2394 2.6701c-11.319 6.6616-17.127 17.834-23.761 28.33h-34z" color="#000000" fill="url(#a)"/>
-	<path d="m34 64 26-31c-2.329 2.776-4.361 3-11 3h-12v15c0 6.644 0.04437 9.37-3 13z" fill="url(#d)"/>
-	<path d="m5 8v1.5 15.5 1.5 1.5 11.5 1.5h1.5 18 1.5v-1.5-5.5h13.5 1.5v-1.5-17-1.5h-1.5-5.5v-4.5-1.5h-1.5-26-1.5zm3 3h23v3h-17.5-1.5v1.5 9.5h-4v-14zm7 6h16v8h-5-1.5-9.5v-8zm19 0h4v14h-12v-3h6.5 1.5v-1.5-9.5zm-26 11h4v4.5 1.5h1.5 9.5v4h-15v-10zm7 0h8v3h-8v-3z" color="#000000" fill="#e0f5e5" style="block-progression:tb;font-variant-east_asian:normal;text-indent:0;text-transform:none"/>
+	<path d="m4 0h60v62h-60z" fill="url(#linearGradient65720)"/>
+	<path d="m60 2v31l-24.322 29h25.322v-59z" fill="url(#a-5)"/>
+	<path d="m0 2h60v31l-26 31h-34z" fill="url(#radialGradient83837)"/>
+	<g>
+		<path d="m0 2h60v31l-26 31h-34z" fill="url(#c-7)"/>
+	</g>
+	<path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#linearGradient70762)"/>
+	<path d="m60 33c-2.3286 2.7764-4.3614 3-11 3h-11.5" fill="none" stroke="url(#linearGradient82616)" stroke-linecap="round" stroke-opacity=".9954"/>
+	<g stroke-linecap="round" stroke-linejoin="round">
+		<rect y="2" width="60" height="1" fill="#94ff4c" fill-opacity=".16745" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+		<rect x="4" width="60" height="1" fill="#94ff4c" fill-opacity=".14975" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+		<rect transform="rotate(90)" x="2" y="-1" width="62" height="1" fill="#000000" fill-opacity=".03" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+		<rect transform="rotate(90)" y="-5" width="2" height="1" fill="#000000" fill-opacity=".06" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+	</g>
+	<path d="m5 8v33h21v-7h15v-20h-7v-6h-29zm3 3h23v3h-19v11h-4v-14zm7 6h16v8h-16v-8zm19 0h4v14h-12v-3h8v-11zm-26 11h4v6h11v4h-15v-10zm7 0h8v3h-8v-3z" color="#000000" fill="#ddf3e1" style="block-progression:tb;font-variant-east_asian:normal;text-indent:0;text-transform:none"/>
 </svg>
