@@ -11,21 +11,21 @@
 			<stop stop-color="#8e41b9" offset=".25231"/>
 			<stop stop-color="#a651d2" offset="1"/>
 		</linearGradient>
-		<radialGradient id="radialGradient83837" cx="29.526" cy="55.944" r="30" gradientTransform="matrix(1.8427,0,0,1.9042,-26.521,-39.268)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#905ac4" offset="0"/>
-			<stop stop-color="#905ac4" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a-5" cx="46.762" cy="39.221" r="14.161" gradientTransform="matrix(.86297 .86297 -2.3655 2.3655 98.927 -83.343)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#171131" stop-opacity=".28647" offset="0"/>
-			<stop stop-color="#282253" stop-opacity=".0039216" offset="1"/>
-		</radialGradient>
-		<linearGradient id="linearGradient65720" x1="61.017" x2="61.017" y1="10" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#8644a7" offset="0"/>
-			<stop stop-color="#8d52ba" offset="1"/>
-		</linearGradient>
 		<linearGradient id="linearGradient79106" x1="-38.723" x2="-23.435" y1="34.677" y2="49.965" gradientTransform="translate(68.672)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#e41bff" stop-opacity="0" offset="0"/>
 			<stop stop-color="#f0bdf7" stop-opacity=".22" offset="1"/>
+		</linearGradient>
+		<radialGradient id="radialGradient83837-2" cx="29.526" cy="55.944" r="30" gradientTransform="matrix(1.8427,0,0,1.9042,-26.521,-39.268)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#905ac4" offset="0"/>
+			<stop stop-color="#905ac4" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a-5-2" cx="46.762" cy="39.221" r="14.161" gradientTransform="matrix(.86297 .86297 -2.3655 2.3655 98.927 -83.343)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#171131" stop-opacity=".28647" offset="0"/>
+			<stop stop-color="#282253" stop-opacity=".0039216" offset="1"/>
+		</radialGradient>
+		<linearGradient id="linearGradient65720-9" x1="61.017" x2="61.017" y1="10" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#66438e" offset="0"/>
+			<stop stop-color="#8d52ba" offset="1"/>
 		</linearGradient>
 	</defs>
 	<metadata>
@@ -36,9 +36,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m4 0h60v62h-60z" fill="url(#linearGradient65720)"/>
-	<path d="m60 2v31l-24.322 29h25.322v-59z" fill="url(#a-5)"/>
-	<path d="m0 2h60v31l-26 31h-34z" fill="url(#radialGradient83837)"/>
+	<path d="m4 0h60v62h-60z" fill="url(#linearGradient65720-9)"/>
+	<path d="m60 2v31l-24.322 29h25.322v-59z" fill="url(#a-5-2)"/>
+	<path d="m0 2h60v31l-26 31h-34z" fill="url(#radialGradient83837-2)"/>
 	<g>
 		<path d="m0 2h60v31l-26 31h-34z" fill="url(#linearGradient79106)"/>
 	</g>
