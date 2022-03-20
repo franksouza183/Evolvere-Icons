@@ -38,8 +38,8 @@
 			<stop stop-color="#b7c4e3" offset="1"/>
 		</radialGradient>
 		<linearGradient id="linearGradient248808" x1="31.856" x2="31.856" y1="49.099" y2="16.189" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#df3783" offset="0"/>
-			<stop stop-color="#ed4f97" offset="1"/>
+			<stop stop-color="#e25e23" offset="0"/>
+			<stop stop-color="#e42f80" offset="1"/>
 		</linearGradient>
 	</defs>
 	<rect width="64" height="64" rx="1" ry="1" fill="url(#radialGradient242243)" paint-order="fill markers stroke"/>
