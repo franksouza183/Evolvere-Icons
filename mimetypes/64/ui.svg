@@ -44,11 +44,15 @@
 	</g>
 	<path d="m34 64 26-31c-2.3286 2.7764-4.3614 3-11 3h-12v15c0 6.6441 0.04437 9.3702-3 13z" fill="url(#linearGradient70762)"/>
 	<path d="m60 33c-2.3286 2.7764-4.3614 3-11 3h-11.5" fill="none" stroke="url(#linearGradient82616)" stroke-linecap="round" stroke-opacity=".9954"/>
-	<g stroke-linecap="round" stroke-linejoin="round">
-		<rect y="2" width="60" height="1" fill="#94ff4c" fill-opacity=".16745" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-		<rect x="4" width="60" height="1" fill="#94ff4c" fill-opacity=".14975" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-		<rect transform="rotate(90)" x="2" y="-1" width="62" height="1" fill="#000000" fill-opacity=".03" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-		<rect transform="rotate(90)" y="-5" width="2" height="1" fill="#000000" fill-opacity=".06" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+	<g stroke-linejoin="round">
+		<g stroke-linecap="round">
+			<rect y="2" width="60" height="1" fill="#94ff4c" fill-opacity=".16745" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+			<rect x="4" width="60" height="1" fill="#94ff4c" fill-opacity=".14975" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+			<rect transform="rotate(90)" x="2" y="-1" width="62" height="1" fill="#000000" fill-opacity=".03" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+			<rect transform="rotate(90)" y="-5" width="2" height="1" fill="#000000" fill-opacity=".06" stop-color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+		</g>
+		<path d="m5 8v21.577h13.731v-4.5769h9.8077v-13.077h-4.5769v-3.9231zm1.9615 1.9615h15.038v1.9615h-12.423v7.1923h-2.6154zm4.5769 3.9231h10.462v5.2308h-10.462zm12.423 0h2.6154v9.1538h-7.8462v-1.9615h5.2308zm-17 7.1923h2.6154v3.9231h7.1923v2.6154h-9.8077zm4.5769 0h5.2308v1.9615h-5.2308z" color="#000000" fill="none" stroke="#000000" stroke-opacity=".05" stroke-width="6" style="text-indent:0;text-transform:none"/>
+		<path d="m5 8v21.577h13.731v-4.5769h9.8077v-13.077h-4.5769v-3.9231zm1.9615 1.9615h15.038v1.9615h-12.423v7.1923h-2.6154zm4.5769 3.9231h10.462v5.2308h-10.462zm12.423 0h2.6154v9.1538h-7.8462v-1.9615h5.2308zm-17 7.1923h2.6154v3.9231h7.1923v2.6154h-9.8077zm4.5769 0h5.2308v1.9615h-5.2308z" color="#000000" fill="none" stroke="#000000" stroke-opacity=".05" stroke-width="3" style="text-indent:0;text-transform:none"/>
 	</g>
-	<path d="m5 8v33h21v-7h15v-20h-7v-6h-29zm3 3h23v3h-19v11h-4v-14zm7 6h16v8h-16v-8zm19 0h4v14h-12v-3h8v-11zm-26 11h4v6h11v4h-15v-10zm7 0h8v3h-8v-3z" color="#000000" fill="#ddf3e1" style="block-progression:tb;font-variant-east_asian:normal;text-indent:0;text-transform:none"/>
+	<path d="m5 8v21.577h13.731v-4.5769h9.8077v-13.077h-4.5769v-3.9231zm1.9615 1.9615h15.038v1.9615h-12.423v7.1923h-2.6154zm4.5769 3.9231h10.462v5.2308h-10.462zm12.423 0h2.6154v9.1538h-7.8462v-1.9615h5.2308zm-17 7.1923h2.6154v3.9231h7.1923v2.6154h-9.8077zm4.5769 0h5.2308v1.9615h-5.2308z" color="#000000" fill="#cdedd3" style="text-indent:0;text-transform:none"/>
 </svg>
