@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
+		<linearGradient id="linearGradient251715">
+			<stop stop-color="#342d27" stop-opacity=".21124" offset="0"/>
+			<stop stop-color="#342d27" stop-opacity="0" offset="1"/>
+		</linearGradient>
 		<radialGradient id="b" cx="23.137" cy="54.02" r="32" gradientTransform="matrix(1.3446 0 0 1.0085 -11.582 .8623)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#87716a" stop-opacity=".76034" offset="0"/>
-			<stop stop-color="#89746c" stop-opacity="0" offset="1"/>
+			<stop stop-color="#8d5f3b" offset="0"/>
+			<stop stop-color="#9d6d45" offset="1"/>
 		</radialGradient>
 		<radialGradient id="a" cx="32.542" cy="-22.639" r="32" gradientTransform="matrix(0 .48729 -1.791 0 -8.0044 -15.629)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#d4bf91" offset="0"/>
-			<stop stop-color="#e6be7c" offset="1"/>
+			<stop stop-color="#e6b990" offset="0"/>
+			<stop stop-color="#eabd94" offset="1"/>
 		</radialGradient>
+		<linearGradient id="linearGradient201824" x1="54" x2="54" y1="16" y2="17" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".43483" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient251717" x1="30" x2="26" y1="16" y2="10" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
+		<linearGradient id="linearGradient251789" x1="11" x2="1" y1="7" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
+		<radialGradient id="radialGradient251991" cx="44.705" cy="18.677" r="7.75" gradientTransform="matrix(1.4194 1.0043e-7 -2.3226e-7 3.4839 -18.452 -41.067)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
+		<linearGradient id="linearGradient252365" x1="65" x2="60" y1="12" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
+		<linearGradient id="linearGradient332481" x1="32" x2="32" y1="40" y2="35" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".37159" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient332669" x1="34" x2="34" y1="39" y2="26" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#33251b" stop-opacity=".55435" offset="0"/>
+			<stop stop-color="#33251b" stop-opacity="0" offset="1"/>
+		</linearGradient>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -19,14 +39,27 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 1 2-1h60l2 1v16h-64z" fill="url(#a)"/>
+	<path d="m0 1 1-1h62l1 1v16h-64z" fill="url(#a)"/>
 	<path d="m0 16h64v46l-2 2h-60l-2-2z" color="#000000" fill="#ae7f45"/>
 	<path d="m0 16h64v46l-2 2h-60l-2-2z" fill="url(#b)"/>
-	<path d="m64 18-2-2 2-1z" fill="#be9156"/>
-	<path d="m0 18 2-2-2-1z" fill="#eecc80"/>
-	<path d="m39 56.2v-2.8h5.6v5.6h-5.6zm4.8 0v-2h-4v4h4zm-3.2 0v-1.2h2.4v2.4h-2.4zm4.8 1.2v-1.6h0.79999v-0.8h0.8v-1.6h-1.6v-2.4h0.79999v-0.8h-1.6v0.8h-0.8v0.8h0.8v0.8h-2.4v-0.8h-0.8v0.8h-0.8v-1.6h-0.79998v0.8h-0.8v-0.8h0.8v-2.4h-0.8v-1.6h0.8v-0.8h-0.8v-0.80001h3.2v0.80001h1.6v-0.80001h0.8v0.80001h-0.8v0.8h0.8v0.8h-0.8v0.8h0.8v0.8h0.8v-0.8h0.79999v-0.8h-0.79999v-2.4h0.79999v1.6h0.8v-4h0.79998v2.4h1.6v0.80001h-0.8v0.8h1.6v-5.6h-0.8v1.6h-0.8v-1.6h0.8v-0.8h-1.6v1.6h-1.6v0.8h-0.79999v-2.4h0.79999v-0.8h-0.79999v-0.8h0.79999v0.8h2.4v-0.8h0.8v1.6h0.8v-0.8h0.79999v0.8h-0.79999v0.8h0.79999v0.8h0.8v-2.4h0.79998v4.8h-0.79998v0.8h1.6v0.80001h-0.8v0.8h1.6v-0.8h0.80002v-0.80001h2.4v2.4h1.6v2.4h-0.8v0.8h0.8v1.6h-1.6v0.8h1.6v0.8h-2.4v-1.6h-0.80003v3.2h0.80003v0.8h-0.80003v0.8h1.6v-2.4h1.6v1.6h-0.8v0.8h-0.80006v0.79999h1.6v0.8h-3.2v-1.6h-0.79997v1.6h-0.80003v-0.8h-1.6v-2.4h-0.79999v-0.80001h-0.80001v0.80001h-0.79999v0.8h1.6v0.8h-0.8v0.79999h-0.79999v0.8h-1.6v-0.8h0.80001v-2.4h-0.8v-0.80001h0.80001v0.80001h0.8v-1.6h-0.8v-0.8h-1.6v1.6h-0.79999v1.6h1.6v0.8h-0.80001v0.79999h-0.79999v0.8h-1.6v-1.6zm9.6-1.2v-0.40001h-0.80003v0.80001h0.80003zm0-2.4v-1.2h-2.4v2.4h2.4v-1.2zm-1.6 0v-0.4h0.79999v0.8h-0.79999zm-1.6-0.8v-1.2h-1.6v-0.8h1.6v-0.8h0.79998v-1.6h-0.79998v-0.8h0.79998v-0.8h-0.79998v-1.6h-0.8v2.4h-0.79999v0.8h1.6v1.6h-1.6v-0.80002h-0.8v-0.79998h-0.8v-0.8h-0.8v1.6h-0.79998v1.6h1.6v0.79998h-0.8v0.80001h-0.79998v-0.80001h-0.8v0.80001h0.8v0.8h0.79998v-0.8h1.6v0.8h1.6v0.8h0.8zm-2.4-0.8v-0.39999h0.8v0.8h-0.8zm-0.80001-2v-0.8h0.8v0.8h0.8v0.8h-1.6zm5.6 1.2v-0.39999h0.80002v0.8h2.4v-1.6h-4v1.6h0.79999zm-12.8-0.8v-0.39999h3.2v-0.8h-0.8v-0.8h-0.8v-0.8h0.8v-0.8h-1.6v-0.8h-0.8v0.8h-1.6v0.8h1.6v1.6h-0.8v1.6h0.8zm0-3.2v-0.39999h0.8v0.8h-0.8zm16.8 1.6v-0.39999h-0.79999v0.8h0.79999zm-4-0.8v-0.39999h-0.79999v0.8h0.79999zm1.6-0.39999v-0.8h0.80003v-0.8h-1.6v2.4h0.79997zm-4-4v-0.8h-0.80001v1.6h0.80001v-0.8zm6.4 2v-0.4h0.8v0.80001h-0.8zm-19.2-4v-2.8h5.6v5.6h-5.6zm4.8 0v-2h-4v4h4zm-3.2 0v-1.2h2.4v2.4h-2.4zm4.8 2.4v-0.4h0.79999v0.8h-0.79999zm3.2 0v-0.4h0.8v0.8h-0.8zm4.8-2.4v-2.8h5.6v5.6h-5.6v-2.8zm4.8 0v-2h-4v4h4zm-3.2 0v-1.2h2.4v2.4h-2.4z" fill="#240d00" fill-opacity=".23879"/>
-	<path d="m5.207 48c-0.043718 2.6e-5 -0.083556 0.03659-0.087891 0.08008 0 0-0.15311 1.5182-0.11328 2.1387 0.019953 0.31329 0.14832 1.0821 0.39258 1.9043 0.24429 0.82221 0.60105 1.6929 1.1035 2.1953-3.87e-5 2.4e-5 0.00391 2e-3 0.00391 2e-3 0.226 0.20709 0.32735 0.36805 0.38281 0.64648 0.055427 0.27845 0.056641 0.67724 0.056641 1.3223-3.87e-5 0.74151 0.00793 0.62075-0.019531 1.1445-0.013741 0.26184-0.03774 0.47771-0.072266 0.62695-0.017224 0.07462-0.037327 0.13316-0.056641 0.16797-0.019721 0.03478-0.033916 0.04203-0.037109 0.04297-0.26763 0.07173-0.57819 0.19791-0.8457 0.33008-0.26752 0.13214-0.48432 0.25653-0.58594 0.375-0.020804 0.02672-0.027993 0.06482-0.013672 0.0957 0.013934 0.03073 0.048222 0.05072 0.082031 0.05078h3.8672c0.034119 8.4e-5 0.067768-0.02009 0.082031-0.05078 0.013934-0.03069 0.00839-0.06998-0.013672-0.0957-0.10156-0.11849-0.31645-0.24283-0.58398-0.375-0.26752-0.13213-0.57999-0.25835-0.84766-0.33008-0.00387-0.0015-0.017814-0.0081-0.037109-0.04297-0.01974-0.0349-0.039204-0.09336-0.056641-0.16797-0.034506-0.14924-0.056747-0.36506-0.070312-0.62695-0.027288-0.52376-0.019531-0.403-0.019531-1.1445 0-0.6448 1.36e-5 -1.0439 0.056641-1.3223 0.055388-0.27834 0.15499-0.43924 0.38086-0.64648 0-5.79e-4 3.62e-5 -0.0011 0.00391-2e-3 0.51296-0.51299 0.86964-1.3834 1.1113-2.2031 0.24162-0.81973 0.36468-1.5841 0.38477-1.8965 0.039732-0.62062-0.11133-2.1289-0.11133-2.1289 7.74e-5 -0.04661-0.043165-0.089844-0.089844-0.089844h-4.2441zm8.8496 0-2.748 3.8223h1.832v6.8359h-2.5176v0.46484h6.8672v-0.46484h-2.5176v-6.8359h1.834zm10.916 0c-0.09365 7.74e-4 -0.1754 0.1178-0.19531 0.28516-3.0094 0.07063-5.6748 1.9386-6.3242 4.623 0.20177-0.42697 0.69748-0.71025 1.2461-0.71289 0.08974-3.87e-4 0.18198 0.0064 0.27344 0.02148 0.49807 0.08244 0.89367 0.38903 1.0332 0.78906l0.04883 2e-3c0.22896-0.5057 0.8683-0.8158 1.5254-0.70703 0.47233 0.07818 0.85461 0.35863 1.0117 0.72852h0.0098c0.16419-0.46376 0.66521-0.78232 1.2305-0.80469-0.0021 1.0723-0.0038 2.5725-2e-3 3.6406l-0.17969 0.02148c0.037 0.31468-0.09538 1.0811 0.0332 1.791 0.06431 0.35496 0.20651 0.71522 0.50195 0.98828 0.29548 0.27306 0.72706 0.43779 1.2969 0.45703h0.01953l0.01953-2e-3c0.77-0.07269 1.2332-0.43251 1.4277-0.87109s0.16016-0.89936 0.16016-1.2324h-0.59375c0 0.35639 0.0057 0.73232-0.10938 0.99219-0.11403 0.25713-0.30829 0.4557-0.92383 0.51758-0.4577-0.01866-0.72101-0.14026-0.89258-0.29883-0.17412-0.16091-0.27038-0.38264-0.32031-0.6582-0.09978-0.55112 0.03362-1.2352-0.02734-1.7539l-0.13672 0.01563c-0.0025-1.062-1.47e-4 -2.5316 2e-3 -3.5938 0.01742 0.0023 0.03524 3e-3 0.05273 0.0059 0.50573 0.08371 0.90549 0.39954 1.0391 0.80859h0.04492c0.19746-0.54938 0.86599-0.89329 1.5547-0.7793 0.50399 0.08342 0.90408 0.39572 1.0391 0.80273h0.01758c0.19953-0.5468 0.8659-0.88909 1.5527-0.77539 0.50176 0.08305 0.90036 0.39443 1.0371 0.79883h0.06641c-0.47912-2.3685-2.5666-4.2365-5.2559-4.7051-0.36314-0.06328-0.72379-0.09888-1.082-0.10938-0.01626-0.1406-0.07798-0.25122-0.1582-0.2793-0.01374-0.0048-0.02757-6e-3 -0.04102-0.0059z" color="#000000" fill="#240d00" fill-opacity=".23879"/>
-	<path d="m32 0 0.5 16h-1z" style="fill-opacity:.33673;fill:#773400;paint-order:stroke fill markers;stop-color:#000000"/>
-	<path d="m62 16h-30.5z" style="fill:#6c4425;paint-order:stroke fill markers;stop-color:#000000"/>
-	<path d="m29 0h6v23l-6-1z" style="fill-opacity:.26676;fill:#f4edcc;paint-order:stroke fill markers;stop-color:#000000"/>
+	<path d="m64 17-1-1 1-0.5z" fill="#be9156"/>
+	<path d="m0 17 1-1h-1z" fill="#be9156"/>
+	<g fill="#4f3522" fill-opacity=".74824">
+		<path d="m32 0h1v16h-1z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<path d="m62 15 1 1h-28l17-1z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<path d="m12 15-11 1h29l-11-1z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+	</g>
+	<path d="m62 16h-30.5z" fill="#6c4425" stop-color="#000000" style="paint-order:stroke fill markers"/>
+	<g>
+		<path d="m0 8 12 7-12 1z" fill="url(#linearGradient251789)"/>
+		<path d="m32 7-13 8 10 1h3z" fill="url(#linearGradient251717)"/>
+		<path d="m39 0h8l5 15-15.5 1 3.5-8z" fill="url(#radialGradient251991)"/>
+		<path d="m63 0-1 15 1 1 1-0.5v-14.5z" fill="url(#linearGradient252365)"/>
+		<path d="m64 16h-64v4h64z" fill="url(#linearGradient201824)"/>
+		<path d="m29 14.266 6-1v9.734l-6-1z" fill="#f8e8d8" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<path d="m29 16h6v7l-6-1z" fill="#c0a997" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<path d="m29 0h6v1.4904h-6z" fill="#f8e8d8" stop-color="#000000" style="paint-order:stroke fill markers"/>
+	</g>
+	<rect x="20.5" y="28.5" width="23" height="10" rx="5" ry="5" fill="none" stop-color="#000000" stroke="url(#linearGradient332669)" stroke-linejoin="round" stroke-opacity=".98379" style="paint-order:stroke fill markers"/>
+	<path d="m43.5 34.5c0 2.77-2.23 5-5 5h-13c-2.77 0-5-2.23-5-5" fill="none" stop-color="#000000" stroke="url(#linearGradient332481)" stroke-linejoin="round" stroke-opacity=".36685" style="paint-order:stroke fill markers"/>
 </svg>
