@@ -12,7 +12,7 @@
 		</radialGradient>
 		<radialGradient id="radialGradient2160632-5-6" cx="35.574" cy="1.019" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,37.271,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-40"/>
 		<linearGradient id="a-40">
-			<stop stop-color="#7e9abb" stop-opacity=".16" offset="0"/>
+			<stop stop-color="#a2ccff" stop-opacity=".09593" offset="0"/>
 			<stop stop-color="#7e9abb" stop-opacity=".050242" offset="1"/>
 		</linearGradient>
 		<radialGradient id="radialGradient2160634-2-4" cx="35.574" cy="1.036" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,37.363,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-40"/>
@@ -44,7 +44,7 @@
 		</rdf:RDF>
 	</metadata>
 	<g transform="translate(346.38,-971.27)">
-		<rect transform="scale(-1,1)" x="282.38" y="971.27" width="64" height="64" rx="1" ry="1" fill="url(#b-05)" paint-order="fill markers stroke"/>
+		<rect transform="scale(-1,1)" x="282.38" y="971.27" width="64" height="64" rx="2.4901" ry="2.4901" fill="url(#b-05)" paint-order="fill markers stroke"/>
 		<g transform="translate(-346.38,971.27)">
 			<path d="m1 0c-0.554 0-1 0.446-1 1v62-0.224 0.224-61h1.752c19.15 2e-3 39.445 0 60.213 0h2.035v61-0.334 0.334-62a0.998 0.998 0 0 0-1-1z" fill="url(#radialGradient2160632-5-6)"/>
 			<path d="m1 0a0.998 0.998 0 0 0-1 1.006v61.98-0.197c0-0.277 4e-3 -0.184 0.01 0.246 0.012 0.016 0.03-0.297 0.052-0.897v-60c0.072-9e-3 0.133-0.013 0.185-0.013 0.29-0.016 0.357-0.032 0.774-0.044 0.246-0.011 0.496-0.019 0.747-0.019 19.183 2e-3 39.392 0 60.2 0 0.346 0 0.689 0.012 1.023 0.03 0.268 0.01 0.389 0.02 0.52 0.033 0.106 0 0.22 0.01 0.427 0.028v59.744c0.027 0.754 0.05 1.148 0.059 1.123l3e-3 -0.334v0.286-61.762c0-0.143 0-0.22-2e-3 -0.224a0.996 0.996 0 0 0-1.012-0.986h-61.986" fill="url(#radialGradient2160634-2-4)"/>
