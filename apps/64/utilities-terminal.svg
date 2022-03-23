@@ -95,6 +95,6 @@
 		<path d="m3 5v56h58v-56zm2.5 2.8965h53v50.707h-53z"/>
 		<path d="m3 5v56h58v-56zm4.5 4.8965h49v46.707h-49z"/>
 	</g>
-	<path d="m0 2v2l2-2z" fill="#fffeff" fill-opacity=".4499"/>
-	<path d="m64 4-2-2h2z" fill="#fffeff" fill-opacity=".4499"/>
+	<path d="m0 2v2.5l2-2z" fill="#fffeff" fill-opacity=".4499"/>
+	<path d="m64 4.5-2-2 2-0.5z" fill="#fffeff" fill-opacity=".4499"/>
 </svg>
