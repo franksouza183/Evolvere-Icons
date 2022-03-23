@@ -55,8 +55,12 @@
 		<radialGradient id="s-8-7" cx="35.574" cy="1.393" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,39.208,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-40"/>
 		<radialGradient id="t-7-6" cx="35.574" cy="1.439" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,39.446,-39.027)" gradientUnits="userSpaceOnUse" xlink:href="#a-40"/>
 		<radialGradient id="radialGradient869-5" cx="32" cy="15.077" r="32" gradientTransform="matrix(2.0435 0 0 .014897 -33.393 1.2172)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".12606" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".53239" offset="0"/>
 			<stop stop-color="#fff" stop-opacity=".001" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b-3-2" cx="32" cy="20.434" r="32" gradientTransform="matrix(0 2.1972 -1.5272 0 -283.17 918.22)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#604e65" offset="0"/>
+			<stop stop-color="#373a3f" offset="1"/>
 		</radialGradient>
 	</defs>
 	<metadata>
@@ -95,6 +99,14 @@
 	</g>
 	<g transform="translate(346.38,-971.27)">
 		<rect transform="scale(-1,1)" x="282.38" y="971.27" width="64" height="64" rx="1" ry="1" fill="url(#b-05)" paint-order="fill markers stroke"/>
+		<g transform="matrix(.96552 0 0 .96552 -10.841 34.613)" stroke-width="1.0357">
+			<rect x="-343.38" y="975.27" width="58" height="57" color="#000000" fill="url(#b-3-2)"/>
+			<g transform="translate(-346.38,971.27)" fill="#080038" fill-opacity=".04">
+				<path d="m3 4v57h58v-57zm1.5 1.8965h55v53.707h-55z"/>
+				<path d="m3 4v57h58v-57zm2.5 2.8965h53v51.707h-53z"/>
+				<path d="m3 4v57h58v-57zm4.5 4.8965h49v47.707h-49z"/>
+			</g>
+		</g>
 		<g transform="translate(-346.38,971.27)">
 			<g transform="translate(8.0016e-5 .057009)">
 				<path transform="translate(0 .002)" d="m1 0c-0.554 0-1 0.446-1 1v62-0.224 0.224-62h1.752c19.15 2e-3 39.445 0 60.213 0h2.035v62-0.334 0.334-62c0.0011-0.55274-0.44726-1.0011-1-1z" fill="url(#e-5-6-4)"/>
@@ -119,12 +131,16 @@
 			<path d="m64 3.5-2-2 2-0.5z" fill="#ccfbff" fill-opacity=".4499"/>
 		</g>
 	</g>
-	<g transform="matrix(.94681 0 0 .94681 2.1977 1.2565)" stroke-width="1.0562">
-		<path d="m17.333 15.526c-6.847 7.4408-5.1876 21.307 3.7044 30.97 8.892 9.6631 21.65 11.464 28.497 4.0234 6.847-7.4408 5.1923-21.308-3.6997-30.971-8.892-9.6631-21.655-11.464-28.502-4.0228zm6.2087 3.0909c5.3799-5.8465 15.272-4.5747 22.096 2.8411s7.9943 18.166 2.6144 24.012c-5.3799 5.8465-15.274 4.5776-22.098-2.8383-6.824-7.4158-7.9917-18.168-2.6118-24.015z" fill="#399cea"/>
-		<g fill="#ee683b">
-			<rect x="42.304" y="18.168" width="5.7322" height="5.7322" rx="1.0142" ry="1.0142"/>
-			<rect x="10.078" y="25.72" width="13.501" height="13.501" rx="2.3887" ry="2.3887"/>
-			<rect x="44.97" y="43.395" width="8.1568" height="8.1568" rx="1.4431" ry="1.4431"/>
-		</g>
+	<rect x="4.5" y="5.4667" width="55" height="54.067" color="#000000" fill="none" stroke="#bac2ca" stroke-opacity=".35"/>
+	<g opacity=".8057" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".10148" stroke-width="2">
+		<circle cx="33.32" cy="17.425" r="3.69" fill="#d54a4a" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="40.29" cy="25.215" r="3.69" fill="#f3728b" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="47.67" cy="30.955" r="3.69" fill="#ffb8bf" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="49.31" cy="40.795" r="3.69" fill="#ffdfee" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="40.29" cy="36.695" r="3.69" fill="#ff9ca6" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="32.91" cy="30.955" r="3.69" fill="#f3728b" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="23.89" cy="25.215" r="3.69" fill="#d54a4a" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="15.69" cy="38.335" r="3.69" fill="#e23e20" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<circle cx="23.07" cy="44.075" r="3.69" fill="#e23e20" stop-color="#000000" style="paint-order:stroke fill markers"/>
 	</g>
 </svg>
