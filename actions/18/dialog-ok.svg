@@ -5,13 +5,12 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
 	<defs id="e">
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="b" class="ColorScheme-Text" d="m3.6969 9.0716 4.1101 4.1131 8.0123-8.018" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
-	<path id="c" class="ColorScheme-Background" d="m3.1728 10.505 4.6413 4.5967 7.676-7.6022" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
+	<path id="b" d="m15.465 4.8125-7.6582 7.666-3.7559-3.7598a0.5 0.5 0 0 0-0.70703 0 0.5 0.5 0 0 0 0 0.70703l4.1094 4.1133a0.50005 0.50005 0 0 0 0.70703 0l8.0137-8.0195a0.5 0.5 0 0 0-2e-3 -0.70703 0.5 0.5 0 0 0-0.70703 0z" style="-inkscape-stroke:none;color:#090d11;fill-opacity:.75;fill:currentColor;stroke-linecap:round;stroke-linejoin:round"/>
+	<path id="c" d="m15.139 7.1445-7.3242 7.2539-4.2891-4.248a0.5 0.5 0 0 0-0.70703 2e-3 0.5 0.5 0 0 0 0.00195 0.70703l4.6426 4.5977a0.50005 0.50005 0 0 0 0.70312 0l7.6758-7.6016a0.5 0.5 0 0 0 0.0039-0.70703 0.5 0.5 0 0 0-0.70703-0.00391z" style="-inkscape-stroke:none;color:#ffffff;fill-opacity:.5;fill:currentColor;stroke-linecap:round;stroke-linejoin:round"/>
 </svg>
