@@ -1,34 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   height="16"
-   width="16"
-   id="a">
-  <metadata
-     id="d">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="e">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
-  </defs>
-  <path
-     id="b"
-     d="M 14.808594,3.6621094 A 0.50005,0.50005 0 0 0 14.464844,3.8125 L 6.8066406,11.478516 3.0507812,7.71875 A 0.50005,0.50005 0 1 0 2.34375,8.4257812 l 4.109375,4.1132808 a 0.50005,0.50005 0 0 0 0.7070312,0 L 15.173828,4.5195312 A 0.50005,0.50005 0 0 0 14.808594,3.6621094 Z"
-     style="fill:currentColor;fill-opacity:0.75" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="d">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path d="m14.809 3.6621a0.50005 0.50005 0 0 0-0.34375 0.15039l-7.6582 7.666-3.7559-3.7598a0.50005 0.50005 0 1 0-0.70703 0.70703l4.1094 4.1133a0.50005 0.50005 0 0 0 0.70703 0l8.0137-8.0195a0.50005 0.50005 0 0 0-0.36523-0.85742z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
