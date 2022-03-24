@@ -6,10 +6,6 @@
 			<stop stop-color="#fff" stop-opacity=".07" offset="0"/>
 			<stop stop-color="#fff" stop-opacity=".001" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient154914" x1="15.584" x2="11.042" y1="45.467" y2="40.926" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#5188bf" offset="0"/>
-			<stop stop-color="#4a83d2" offset="1"/>
-		</linearGradient>
 		<radialGradient id="e-5-6" cx="35.574" cy="1.019" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,37.271,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-6"/>
 		<radialGradient id="f-6-9" cx="35.574" cy="1.036" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,37.363,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-6"/>
 		<radialGradient id="g-2-1" cx="35.574" cy="1.055" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,37.458,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-6"/>
@@ -77,8 +73,8 @@
 			<rect x="10" y="40" width="6" height="6" fill="#3e5a89" stop-color="#000000" style="paint-order:stroke fill markers"/>
 		</g>
 		<g transform="matrix(-.64716 .37364 .64717 .37364 -.94399 10.205)">
-			<rect x="9" y="39" width="8" height="8" fill="#dce2f2" stop-color="#000000" style="paint-order:stroke fill markers"/>
-			<rect x="10" y="40" width="6" height="6" fill="url(#linearGradient154914)" stop-color="#000000" style="paint-order:stroke fill markers"/>
+			<rect x="9" y="39" width="8" height="8" fill="#e6eaf5" stop-color="#000000" style="paint-order:stroke fill markers"/>
+			<rect x="10" y="40" width="6" height="6" fill="#4587d9" stop-color="#000000" style="paint-order:stroke fill markers"/>
 		</g>
 	</g>
 </svg>
