@@ -13,13 +13,13 @@
 		</radialGradient>
 		<radialGradient id="radialGradient1093-3" cx="23.341" cy="8.1888" r="32" gradientTransform="matrix(1.1999e-8 3.2648 -.99969 0 40.236 -73.423)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#28495a" offset="0"/>
-			<stop stop-color="#1e3857" offset="1"/>
+			<stop stop-color="#3e4456" offset="1"/>
 		</radialGradient>
 		<radialGradient id="radialGradient1126-3" cx="32" cy="77.978" r="30.457" gradientTransform="matrix(.57502 0 0 .1388 13.599 49.506)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1104"/>
 		<linearGradient id="linearGradient1104">
-			<stop stop-color="#aeeeff" offset="0"/>
-			<stop stop-color="#34a3ff" stop-opacity=".9292" offset=".21737"/>
-			<stop stop-color="#3d5fff" stop-opacity=".6902" offset=".50562"/>
+			<stop stop-color="#ffffff" offset="0"/>
+			<stop stop-color="#34a3ff" stop-opacity=".44906" offset=".21737"/>
+			<stop stop-color="#0c36ff" stop-opacity=".13924" offset=".50562"/>
 			<stop stop-color="#153b5a" stop-opacity="0" offset="1"/>
 		</linearGradient>
 		<radialGradient id="radialGradient1142-0" cx="32" cy="77.978" r="30.457" gradientTransform="matrix(.80325 0 0 .1388 6.2961 49.506)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1104"/>
@@ -51,7 +51,7 @@
 	</metadata>
 	<g>
 		<path d="m32 0c-16.635 0-30.818 1.1016-30.818 1.1016-0.86988 0.069882-1.1816 0.31295-1.1816 0.83008v56.701c0 0.84292 0.57606 1.4786 1.3047 1.6738 4.1264 0.93596 17.411 3.6934 30.695 3.6934s26.569-2.7574 30.695-3.6934c0.72863-0.19524 1.3047-0.8309 1.3047-1.6738v-56.701c0-0.51713-0.31176-0.7602-1.1816-0.83008 0 0-14.183-1.1016-30.818-1.1016z" color="#000000" fill="url(#radialGradient1093-3)"/>
-		<g>
+		<g opacity=".23362">
 			<g fill="url(#radialGradient1126-3)">
 				<path d="m1.543 55.727a1.243 1.243 0 0 0-1.2422 1.2422v1.6641c0 0.21733 0.080686 0.70921 0.43164 1.0371 0.35095 0.3279 0.58642 0.32471 0.64258 0.33984a1.243 1.243 0 0 0 0.048828 0.01367c4.1483 0.93971 17.362 3.6758 30.576 3.6758s26.428-2.7361 30.576-3.6758a1.243 1.243 0 0 0 0.04883-0.01367c0.05618-0.01514 0.29163-0.01194 0.64258-0.33984 0.35094-0.3279 0.43164-0.81978 0.43164-1.0371v-1.6641a1.243 1.243 0 0 0-1.2422-1.2422z" color="#000000" opacity=".13841"/>
 				<path d="m1.543 56.021a0.94822 0.94822 0 0 0-0.94727 0.94727v1.6641c0 0.18179 0.064095 0.56645 0.33789 0.82227 0.2738 0.25581 0.46395 0.25651 0.51953 0.27148a0.94822 0.94822 0 0 0 0.037109 0.0078c4.1366 0.93707 17.336 3.6699 30.51 3.6699s26.373-2.7329 30.51-3.6699a0.94822 0.94822 0 0 0 0.03711-0.0078c0.05559-0.01498 0.24574-0.01567 0.51953-0.27148s0.33789-0.64048 0.33789-0.82227v-1.6641a0.94822 0.94822 0 0 0-0.94727-0.94727z" color="#000000" opacity=".13841"/>
