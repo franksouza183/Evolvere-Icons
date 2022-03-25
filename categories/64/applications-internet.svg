@@ -63,11 +63,12 @@
 		</g>
 		<path d="m0 1v2.5l2-2z" fill="#fffeff" fill-opacity=".4499"/>
 		<path d="m64 3.5-2-2 2-0.5z" fill="#fffeff" fill-opacity=".4499"/>
-		<g transform="matrix(.89218 0 0 -.89595 3.4501 61.84)" fill="none" stroke="#bdf1e9" stroke-linecap="round">
-			<ellipse cx="32.047" cy="32.05" rx="19.953" ry="19.952" stop-color="#000000" stroke-width="2.237" style="paint-order:stroke fill markers"/>
-			<ellipse cx="32.047" cy="32.05" rx="12.284" ry="19.952" stop-color="#000000" stroke-width="2.237" style="paint-order:stroke fill markers"/>
-			<path d="m32 52.28v-40.181" stop-color="#000000" stroke-width="2.237" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-			<path d="m52 32.05h-40" stop-color="#000000" stroke-width="2.237" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
+		<g transform="matrix(.89218 0 0 -.89595 3.4501 61.84)" fill="none" stroke="#cbe9e5" stroke-linecap="round" stroke-width="2.237">
+			<ellipse cx="32.047" cy="32.05" rx="19.953" ry="19.952" stop-color="#000000" style="paint-order:stroke fill markers"/>
+			<ellipse cx="32.047" cy="32.05" rx="12.284" ry="19.952" stop-color="#000000" style="paint-order:stroke fill markers"/>
+			<path d="m32 51.722v-39.623" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
+			<path d="m50.353 24.237h-36.707" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
+			<path d="m50.353 39.863h-36.707" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
 		</g>
 	</g>
 </svg>
