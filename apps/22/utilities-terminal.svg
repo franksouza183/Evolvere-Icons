@@ -2,26 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<style
-			id="current-color-scheme"
-			type="text/css">
-			.ColorScheme-Text {
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
 				color:#090d11;
 			}
 			.ColorScheme-Background{
 				color:#ffffff;
-			}
-		</style>
+			}</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m3 3c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1.5 13h3c0.67616-0.0096 0.67616 1.0096 0 1h-3c-0.67616 0.0096-0.67616-1.0096 0-1z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
-	<path d="m3 2c-1.0907 0-2 0.9093-2 2v14c0 1.0907 0.9093 2 2 2h16c1.0907 0 2-0.9093 2-2v-14c0-1.0907-0.9093-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1zm1.4648 13c-0.66667 0.02344-0.63151 1.0234 0.035156 1h3c0.67616 0.0096 0.67616-1.0096 0-1h-3c-0.011715-4.12e-4 -0.023441-4.12e-4 -0.035156 0z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
+	<path class="ColorScheme-Text" d="m3 3c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1zm1.5 13h3c0.67616-0.0096 0.67616 1.0096 0 1h-3c-0.67616 0.0096-0.67616-1.0096 0-1z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Background" d="m3 2c-1.0907 0-2 0.9093-2 2v14c0 1.0907 0.9093 2 2 2h16c1.0907 0 2-0.9093 2-2v-14c0-1.0907-0.9093-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1zm1.4648 13c-0.66667 0.02344-0.63151 1.0234 0.035156 1h3c0.67616 0.0096 0.67616-1.0096 0-1h-3c-0.011715-4.12e-4 -0.023441-4.12e-4 -0.035156 0z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>

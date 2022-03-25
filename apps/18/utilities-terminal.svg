@@ -14,10 +14,9 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m3 2c-1.0907 0-2 0.9093-2 2v10c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-10c0-1.0907-0.9093-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1zm1.4648 9a0.50031 0.50031 0 0 0 0.035156 1h3a0.50005 0.50005 0 1 0 0-1h-3a0.50005 0.50005 0 0 0-0.035156 0z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
-	<path d="m3 3c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1.5 9h3a0.50005 0.50005 0 1 1 0 1h-3a0.50005 0.50005 0 1 1 0-1z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
+	<path class="ColorScheme-Background" d="m3 2c-1.0907 0-2 0.9093-2 2v10c0 1.0907 0.9093 2 2 2h12c1.0907 0 2-0.9093 2-2v-10c0-1.0907-0.9093-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1zm1.4648 9a0.50031 0.50031 0 0 0 0.035156 1h3a0.50005 0.50005 0 1 0 0-1h-3a0.50005 0.50005 0 0 0-0.035156 0z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m3 3c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1.5 9h3a0.50005 0.50005 0 1 1 0 1h-3a0.50005 0.50005 0 1 1 0-1z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
