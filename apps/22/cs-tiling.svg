@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="c">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="e" class="ColorScheme-Text" d="m3 2c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-8zm11 0c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-5zm-11 2h8v5h-8v-5zm11 0h5v5h-5v-5zm-11 7c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-7c0-0.554-0.446-1-1-1h-16zm0 2h16v6h-16v-6z" style="fill:currentColor;opacity:.75"/>
+	<path id="b" class="ColorScheme-Background" d="m2 1c-0.554 0-1 0.446-1 1v8c0 0.18375 0.050924 0.3543 0.13672 0.50195-0.084608 0.14691-0.13672 0.31567-0.13672 0.49805v9c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-9c0-0.18237-0.052111-0.35114-0.13672-0.49805 0.085795-0.14765 0.13672-0.3182 0.13672-0.50195v-8c0-0.554-0.446-1-1-1h-7c-0.1828 0-0.35286 0.049794-0.5 0.13477-0.14714-0.084971-0.3172-0.13477-0.5-0.13477h-10zm0 1h10v8h-10v-8zm11 0h7v8h-7v-8zm-11 9h10 1 7v9h-18v-9z" style="fill:currentColor;opacity:.5"/>
+</svg>
