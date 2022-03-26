@@ -2,25 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<radialGradient id="b" cx="-9.5" cy="11.9" r="6.5" gradientTransform="matrix(1.2 0 0 1.2308 22.4 -.6461)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="a" cx="322.89" cy="-96.626" r="7.254" gradientTransform="matrix(1.179,0,0,1.141,-369.69,125.25)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#090d11;
+			}
+			.ColorScheme-Background{
+			color:#ffffff;
+			}</style>
 	</defs>
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m5 3c-0.554 0-1 0.446-1 1v12h14v-12c0-0.554-0.446-1-1-1zm0 1h12v11h-12zm-3 13v1.5176c0 0.26686 0.892 0.48242 2 0.48242h14c1.108 0 2-0.23948 2-0.48242v-1.5176h-16v1h-1v-1z" fill="#090d11" fill-opacity=".76621" style="paint-order:normal"/>
-	<path d="m5 3c-0.554 0-1 0.446-1 1v12h14v-12c0-0.554-0.446-1-1-1zm0 1h12v11h-12zm-3 13v1.5176c0 0.26686 0.892 0.48242 2 0.48242h14c1.108 0 2-0.23948 2-0.48242v-1.5176h-16v1h-1v-1z" fill="url(#a)" style="paint-order:normal"/>
-	<path d="m5 2c-1.0907 0-2 0.9093-2 2v12h-2v2.5176c0 0.62381 0.42263 0.92081 0.66016 1.0566s0.45214 0.19858 0.68945 0.25586c0.47463 0.11455 1.0315 0.16992 1.6504 0.16992h14c0.62605 0 1.1873-0.06215 1.6582-0.17969 0.23544-0.05877 0.44472-0.12345 0.67383-0.25195 0.11455-0.06425 0.23996-0.14339 0.375-0.29492s0.29297-0.41952 0.29297-0.75586v-2.5176h-2v-12c0-1.0907-0.91025-2.0454-2-2h-12zm0 1h12c0.554 0 1 0.446 1 1v12h-14v-12c0-0.554 0.446-1 1-1zm0 1v11h12v-11zm1 1h10v9h-10zm-4 12h1v1h1v-1h16v1.5176c0 0.24294-0.892 0.48242-2 0.48242h-14c-1.108 0-2-0.21556-2-0.48242z" fill="url(#b)" fill-opacity=".99858" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	<path class="ColorScheme-Background" d="m3.5 2c-1.0907 0-1.5 0.4093-1.5 1.5v12.5h-2v2.5176c0 0.62381 0.42263 0.92085 0.66016 1.0566 0.23753 0.13579 0.45214 0.19858 0.68945 0.25586 0.47463 0.11455 1.0315 0.16992 1.6504 0.16992h16c0.62605 0 1.1873-0.06215 1.6582-0.17969 0.23544-0.05877 0.44472-0.12345 0.67383-0.25195 0.11455-0.06425 0.23996-0.14339 0.375-0.29492s0.29297-0.41952 0.29297-0.75586v-2.5176h-2v-12.5c0-1.0907-0.41025-1.5454-1.5-1.5zm-0.3125 1c0.072844-0.00359 0.174 0 0.3125 0h15c0.554 0 0.5-0.054 0.5 0.5v12.5h-16v-12.5c0-0.4155-0.031031-0.48922 0.1875-0.5zm-2.1875 14h1v1h1v-1h18v1.5176c0 0.24294-0.892 0.48242-2 0.48242h-16c-1.108 0-2-0.21556-2-0.48242z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m4 3c-0.554 0-1 0.446-1 1v12h16v-12c0-0.554-0.446-1-1-1zm0 1h14v11h-14zm-3 13v1.5176c0 0.26686 0.892 0.48242 2 0.48242h16c1.108 0 2-0.23948 2-0.48242v-1.5176h-18v1h-1v-1z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
