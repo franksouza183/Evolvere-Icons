@@ -70,36 +70,6 @@
 			<path d="m64 3.5-2-2 2-0.5z" fill="#fffeff" fill-opacity=".4499"/>
 		</g>
 	</g>
-	<g transform="translate(61.501 1.1242)" fill="none" stroke="#000000" stroke-opacity=".99945" stroke-width="2">
-		<g stroke-linejoin="round">
-			<circle cx="19" cy="30" r="7" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
-			<path d="m40.494 36.062a7 7 0 0 1-8.8623-1.5627 7 7 0 0 1 0-8.999 7 7 0 0 1 8.8623-1.5627" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
-			<path transform="scale(-1,1)" d="m-45.149 34.264a5.8674 5.8674 0 0 1-6.8109-2.1868 5.8674 5.8674 0 0 1 0.36433-7.1441 5.8674 5.8674 0 0 1 6.9981-1.4826" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
-		</g>
-		<path d="m45 38v-16"/>
-		<path d="m53.075 37.544-8.225-4.6945"/>
-	</g>
-	<g transform="matrix(0 .74857 -.74857 0 -22.172 23.585)" stroke-width="1.3359">
-		<g fill="#1d273e" fill-opacity=".81932">
-			<path d="m51.336 36.008c-1.97e-4 7.7381-4.1346 14.899-10.836 18.768-6.7015 3.8691-14.97 3.8691-21.672 0-6.7014-3.869-10.836-11.029-10.836-18.768h5.3438c1.48e-4 5.8377 3.1085 11.222 8.1641 14.141 5.0557 2.9189 11.272 2.9189 16.328 0 5.0556-2.9188 8.1639-8.303 8.1641-14.141z" color="#000000" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-			<g transform="translate(-2.3359 3.0076)" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal">
-				<g id="g75819-5" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal">
-					<rect x="16" y="16" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".86286" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-					<rect x="24" y="8" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".57484" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-					<rect x="24" y="16" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".1854" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-					<rect x="16" y="8" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".13718" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-					<rect x="8" y="16" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".17891" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-					<rect x="16" y="24" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".29146" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-					<rect x="8" y="24" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".75383" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-				</g>
-				<use transform="matrix(-1,0,0,1,64,0)" width="100%" height="100%" fill="#1d273e" fill-opacity=".81932" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal" xlink:href="#g75819-5"/>
-			</g>
-			<rect transform="rotate(-90)" x="-37.725" y="-1.0914" width="4.0076" height="61.45" rx="0" ry="0" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-		</g>
-		<rect transform="rotate(-90)" x="-41.733" y="-1.0914" width="4.0076" height="61.45" rx="0" ry="0" fill="#b0bede" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-		<rect transform="rotate(-90)" x="-45.741" y="-5.0991" width="20.038" height="4.0076" fill="#1d273e" fill-opacity=".81932" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-		<rect transform="rotate(-90)" x="-45.741" y="60.359" width="20.038" height="4.0076" fill="#1d273e" fill-opacity=".81932" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-	</g>
 	<g transform="matrix(0 .74857 -.74857 0 59.24 10.817)" stroke-width="1.3359">
 		<path d="m51.336 36.008c-1.97e-4 7.7381-4.1346 14.899-10.836 18.768-6.7015 3.8691-14.97 3.8691-21.672 0-6.7014-3.869-10.836-11.029-10.836-18.768h5.3438c1.48e-4 5.8377 3.1085 11.222 8.1641 14.141 5.0557 2.9189 11.272 2.9189 16.328 0 5.0556-2.9188 8.1639-8.303 8.1641-14.141z" color="#000000" fill="#1d273e" fill-opacity=".81932" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
 		<rect transform="scale(-1)" x="-71.046" y="-67.114" width="82.824" height="32.061" fill="url(#linearGradient194260)" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
@@ -114,42 +84,6 @@
 				<rect x="8" y="24" width="8" height="8" rx="0" ry="0" fill="#1d273e" fill-opacity=".81932" opacity=".75383" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
 			</g>
 			<use transform="matrix(-1,0,0,1,64,0)" width="100%" height="100%" fill="#1d273e" fill-opacity=".81932" stop-color="#000000" stroke-width="1.3359" style="-inkscape-stroke:none;font-variation-settings:normal" xlink:href="#g75819"/>
-		</g>
-	</g>
-	<g transform="translate(-80.938 -39)">
-		<path d="m10.025 34c-0.01037 0.16613-0.02539 0.33133-0.02539 0.5 0 4.4064 3.5936 8 8 8s8-3.5936 8-8c0-0.16867-0.01502-0.33387-0.02539-0.5h-2c0.01354 0.16529 0.02539 0.33108 0.02539 0.5 0 3.3256-2.6744 6-6 6s-6-2.6744-6-6c0-0.16892 0.01186-0.33471 0.02539-0.5zm17.992 0c-0.12392 1.9927 0.48847 4.0228 1.8477 5.6426 2.4913 2.969 6.7724 3.723 10.129 1.7852l-1-1.7324c-2.5274 1.4592-5.7217 0.89773-7.5977-1.3379-1.0521-1.2538-1.5128-2.8251-1.3848-4.3574zm14.982 0v8.5h2v-2.4863c0.54401 0.09071 1.0912 0.11612 1.6309 0.07617l4.9492 2.8223 0.99023-1.7363-3.25-1.8555c0.96284-0.50383 1.8149-1.2379 2.4629-2.1758 0.66225-0.95855 1.0522-2.0413 1.1738-3.1445h-2.0195c-0.1113 0.7037-0.37438 1.3906-0.80078 2.0078-0.74785 1.0825-1.87 1.7805-3.0938 2.0137l-2.043-1.166v-2.8555z" color="#000000" fill="#412674" fill-opacity=".99972" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-		<path d="m0 34v2h64v-2z" color="#000000" fill="#412674" fill-opacity=".99972" style="-inkscape-stroke:none"/>
-		<g transform="translate(-2)" fill="#494059">
-			<g transform="translate(0,3)" opacity=".060596">
-				<g id="g95495" transform="translate(-3,-3)" fill="#494059">
-					<rect x="15" y="26" width="3" height="3" rx="0" ry="0" fill="#494059" opacity="1" stop-color="#000000" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
-				</g>
-			</g>
-			<use transform="translate(3,3)" width="100%" height="100%" opacity=".4148" xlink:href="#g95495"/>
-			<use transform="translate(0,6)" width="100%" height="100%" opacity=".74718" xlink:href="#g95495"/>
-			<use transform="translate(3,6)" width="100%" height="100%" opacity=".33363" xlink:href="#g95495"/>
-			<use transform="translate(18,6)" width="100%" height="100%" opacity=".59832" xlink:href="#g95495"/>
-			<use transform="translate(6,6)" width="100%" height="100%" opacity=".12144" xlink:href="#g95495"/>
-			<use transform="translate(21,6)" width="100%" height="100%" opacity=".45129" xlink:href="#g95495"/>
-			<use transform="translate(24,6)" width="100%" height="100%" opacity=".14143" xlink:href="#g95495"/>
-			<use transform="translate(27,6)" width="100%" height="100%" opacity=".20214" xlink:href="#g95495"/>
-			<use transform="translate(27,3)" width="100%" height="100%" opacity=".33313" xlink:href="#g95495"/>
-			<use transform="translate(33,3)" width="100%" height="100%" opacity=".514" xlink:href="#g95495"/>
-			<use transform="translate(36,3)" width="100%" height="100%" opacity=".536" xlink:href="#g95495"/>
-			<use transform="translate(39,3)" width="100%" height="100%" opacity=".121" xlink:href="#g95495"/>
-			<use transform="translate(42,6)" width="100%" height="100%" opacity=".091" xlink:href="#g95495"/>
-			<use transform="translate(39,6)" width="100%" height="100%" opacity=".73" xlink:href="#g95495"/>
-			<use transform="translate(36,6)" width="100%" height="100%" opacity=".121" xlink:href="#g95495"/>
-			<use transform="translate(33,6)" width="100%" height="100%" opacity=".681" xlink:href="#g95495"/>
-			<use transform="translate(24,3)" width="100%" height="100%" opacity=".48141" xlink:href="#g95495"/>
-			<use transform="translate(21,3)" width="100%" height="100%" opacity=".36518" xlink:href="#g95495"/>
-			<use transform="translate(18,6)" width="100%" height="100%" opacity=".834" xlink:href="#g95495"/>
-			<use transform="translate(21,6)" width="100%" height="100%" opacity=".688" xlink:href="#g95495"/>
-			<use transform="translate(24,6)" width="100%" height="100%" opacity=".263" xlink:href="#g95495"/>
-			<use transform="translate(27,6)" width="100%" height="100%" opacity=".346" xlink:href="#g95495"/>
-			<use transform="translate(6,3)" width="100%" height="100%" opacity=".51446" xlink:href="#g95495"/>
-			<use transform="translate(9,3)" width="100%" height="100%" opacity=".31795" xlink:href="#g95495"/>
-			<use transform="translate(12,6)" width="100%" height="100%" opacity=".53991" xlink:href="#g95495"/>
 		</g>
 	</g>
 </svg>
