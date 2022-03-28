@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<linearGradient id="a">
-			<stop stop-color="#b232c1" offset="0"/>
-			<stop stop-color="#e46e55" offset="1"/>
-		</linearGradient>
-		<linearGradient id="W" x1="91.548" x2="71.081" y1="43.314" y2="43.314" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<linearGradient id="X" x1="91.548" x2="71.081" y1="43.314" y2="43.314" gradientTransform="matrix(-1,0,0,1,162.63,0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<linearGradient id="V" x1="38.599" x2="38.599" y1="53.801" y2="56.601" gradientTransform="translate(0,1.4)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#000689" stop-opacity=".148" offset="0"/>
-			<stop stop-opacity="0" offset="1"/>
-		</linearGradient>
 		<radialGradient id="b-3" cx="32" cy="33" r="32" gradientTransform="matrix(1.2294,0,0,1.191,-7.3406,-6.3023)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#3b7eed" offset="0"/>
 			<stop stop-color="#2992db" offset="1"/>
@@ -207,28 +197,21 @@
 		<path d="m32 25a9 9 0 1 0 0 18 9 9 0 0 0 0-18zm0 6.031c1.648 0 2.969 1.32 2.969 2.969s-1.32 2.969-2.969 2.969-3-1.32-3-2.969 1.352-2.969 3-2.969z" fill="#dfe3e9"/>
 		<path d="m32 31.84a2.16 2.16 0 1 0 0 4.32 2.16 2.16 0 0 0 0-4.32z" fill="#2776d2"/>
 	</g>
-	<g transform="translate(0,-1)" stroke-width="1.4">
-		<path transform="matrix(.71424 0 0 .71424 19.431 21.573)" d="m18.762 43.992c-3.936 0-7.104 3.168-7.104 7.104s3.168 7.105 7.104 7.105h23.238v-1.001h12.997v-13h-12.997v-0.208z" fill="url(#V)"/>
-		<g transform="matrix(0 .62817 -.62817 0 65.924 4.063)">
-			<rect transform="scale(1,-1)" x="73.355" y="-26.259" width="14.781" height="14.781" rx="0" ry="0" fill="#c7d1e2"/>
-			<rect transform="scale(1,-1)" x="73.355" y="-26.259" width="14.781" height="1.137" rx="0" ry="0" fill="#6b7b93" fill-opacity=".193"/>
-			<rect transform="scale(1,-1)" x="73.355" y="-25.122" width="1.137" height="13.644" rx="0" ry="0" fill="#f5f7fa"/>
-			<g color="#000000" stroke-width="2.1">
-				<path d="m89.274 26.259v26.421c0 4.476-3.603 8.079-8.079 8.079s-8.078-3.604-8.078-8.079v-26.421z" fill="url(#W)"/>
-				<path d="m88.404 56.27c-1.321 2.653-4.033 4.488-7.209 4.488s-5.888-1.835-7.209-4.488c1.325-2.652 4.043-4.488 7.209-4.488s5.885 1.836 7.209 4.488z" fill="url(#X)"/>
-				<path d="m72.219 52.68a8.06 8.06 0 0 0 8.079 8.079c2.466 0 4.663-1.101 6.143-2.834a8.041 8.041 0 0 1-5.246 1.936 8.06 8.06 0 0 1-8.078-8.079v-25.522h-0.898z" fill="#f1c86e"/>
+	<g transform="translate(-1 -3)" stroke-width="1.4">
+		<g transform="matrix(0 .87951 -.87951 0 65.095 -15.516)" stroke-width=".99992">
+			<g stroke-width=".86653">
+				<path d="m75.629 26.259h10.233v-12.507h-10.233z" fill="#abcadd"/>
+				<path d="m75.629 25.122h10.233v-1.137h-10.233z" fill="#6b7b93" fill-opacity=".193"/>
+				<path d="m75.629 26.259h1.137v-12.507h-1.137z" fill="#f5f7fa" fill-opacity=".64709"/>
 			</g>
 			<g stroke-width="0">
-				<path d="m76.767 20.574h3.411v-3.411h-3.411z" fill="#192334" fill-opacity=".756"/>
-				<path d="m76.767 11.478h3.411v5.685h-3.411z" fill-opacity=".147"/>
-				<path d="m76.767 20.574h2.274v-3.411h-2.274z" fill="#a88307"/>
+				<path d="m79.041 13.752h1.137v5.685h-1.137z" fill-opacity=".147"/>
+				<path d="m79.041 21.711h1.137v-3.411h-1.137z" fill="#a88307"/>
+				<path d="m83.589 13.752h-1.137v5.685h1.137z" fill-opacity=".147"/>
+				<path d="m83.589 21.711h-1.137v-3.411h1.137z" fill="#a88307"/>
 			</g>
-			<g stroke-width="0">
-				<path d="m85.863 20.574h-3.411v-3.411h3.411z" fill="#192334" fill-opacity=".756"/>
-				<path d="m85.863 11.478h-3.411v5.685h3.411z" fill-opacity=".147"/>
-				<path d="m85.863 20.574h-2.274v-3.411h2.274z" fill="#a88307"/>
-			</g>
-			<rect transform="rotate(-90)" x="-27.397" y="72.217" width="1.137" height="17.057" rx=".027" ry=".341" color="#000000" fill-opacity=".081"/>
+			<rect transform="rotate(-90)" x="-58.095" y="72.218" width="32.973" height="17.055" rx="1.137" ry="1.137" fill="#607089" stop-color="#000000" style="paint-order:stroke fill markers"/>
+			<rect transform="rotate(-90)" x="-58.095" y="73.355" width="32.973" height="15.918" rx="1.137" ry="1.137" fill="#3b4969" stop-color="#000000" style="paint-order:stroke fill markers"/>
 		</g>
 	</g>
 </svg>
