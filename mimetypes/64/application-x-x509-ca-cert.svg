@@ -9,20 +9,6 @@
 			<stop stop-color="#f1d180" offset=".70209"/>
 			<stop stop-color="#f6d98f" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient53653" x1="14.476" x2="14.476" y1="18.493" y2="29.388" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#a93447" offset="0"/>
-			<stop stop-color="#d73f57" stop-opacity=".99916" offset="1"/>
-		</linearGradient>
-		<radialGradient id="radialGradient921" cx="13.039" cy="24.15" r="8.3894" fx="922.13" fy="1492.6" gradientTransform="matrix(2.2618,0,0,2.2618,-19.637,-31.561)" gradientUnits="userSpaceOnUse" xlink:href="#radialGradient9143"/>
-		<radialGradient id="radialGradient9143" cx="14.43" cy="23.309" r="8.3894" gradientTransform="matrix(1.3488,0,0,1.3488,-6.4634,-10.107)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#d8964a" offset="0"/>
-			<stop stop-color="#d3ba71" offset=".3231"/>
-			<stop stop-color="#e3b360" offset=".34498"/>
-			<stop stop-color="#c78b49" offset=".68162"/>
-			<stop stop-color="#dcd39e" offset=".76566"/>
-			<stop stop-color="#f0d783" offset="1"/>
-		</radialGradient>
-		<radialGradient id="radialGradient923" cx="13.035" cy="14.976" r="4.2713" gradientTransform="matrix(3.2343,0,0,3.2343,-29.045,-33.514)" gradientUnits="userSpaceOnUse" xlink:href="#radialGradient9143"/>
 		<linearGradient id="linearGradient82616" x1="53.055" x2="60.201" y1="35.97" y2="35.97" gradientTransform="translate(0 -.5)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#ffffff" stop-opacity=".21183" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
@@ -102,14 +88,5 @@
 			<path transform="translate(-2)" d="m15 4.3691-1.5723 2.7227-2.4961-1.9121-0.41016 3.1172-3.0391-0.81445 0.28906 1.0781 2.75 0.73633 0.41016-3.1172 2.4961 1.9121 1.5723-2.7227 1.5723 2.7227 2.4961-1.9121 0.41016 3.1172 2.75-0.73633 0.28906-1.0781-3.0391 0.81445-0.41016-3.1172-2.4961 1.9121-1.5723-2.7227zm-6.9629 6.1855-2.8574 0.37695 0.69531 0.9082 2.4219-0.31836-0.25977-0.9668zm13.926 0-0.25977 0.9668 2.4219 0.31836 0.69531-0.9082-2.8574-0.37695zm-15.402 3.1797-2.1914 1.2656 0.86523 0.5 1.8574-1.0723-0.53125-0.69336zm16.879 0-0.53125 0.69336 1.8574 1.0723 0.86523-0.5-2.1914-1.2656zm-16.879 3.5312-1.3809 1.8027 0.69531 0.091797 1.2168-1.5879-0.53125-0.30664zm16.879 0-0.53125 0.30664 1.2168 1.5879 0.69531-0.091797-1.3809-1.8027zm-15.402 3.1797-0.55469 2.0723 0.28906-0.078125 0.52539-1.9609-0.25977-0.033204zm13.926 0-0.25977 0.033204 0.52539 1.9609 0.28906 0.078125-0.55469-2.0723z" color="#000000" fill="url(#linearGradient161283)"/>
 			<circle transform="matrix(.71519 0 0 .71519 2.68 2.588)" cx="14.43" cy="17.355" r="8.3894" color="#000000" fill="url(#radialGradient88550)"/>
 		</g>
-	</g>
-	<g transform="translate(-23.163 2.9977)">
-		<g>
-			<path d="m9 19h8v15l-4-3-4 3z" color="#000000" fill="url(#linearGradient53653)"/>
-			<path transform="matrix(1.0894,0,0,1.0894,-1.3926,-1.0763)" d="m17.491 22.17c-0.25056 0.14466-3.0254-0.10118-3.3122-0.06342-0.28685 0.03776-2.9035 0.99341-3.183 0.91853-0.27946-0.07488-2.0677-2.2108-2.2973-2.387-0.22953-0.17613-2.7555-1.3506-2.9002-1.6012-0.14466-0.25056 0.10118-3.0254 0.063418-3.3122-0.037764-0.28685-0.99341-2.9035-0.91853-3.183s2.2108-2.0677 2.387-2.2973c0.17613-0.22953 1.3506-2.7555 1.6012-2.9002 0.25056-0.14466 3.0254 0.10118 3.3122 0.063418 0.28685-0.037764 2.9035-0.99341 3.183-0.91853s2.0677 2.2108 2.2973 2.387c0.22953 0.17613 2.7555 1.3506 2.9002 1.6012s-0.10118 3.0254-0.06342 3.3122c0.03776 0.28685 0.99341 2.9035 0.91853 3.183-0.07488 0.27946-2.2108 2.0677-2.387 2.2973-0.17613 0.22954-1.3506 2.7555-1.6012 2.9002z" fill="#d73f57" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
-			<circle cx="13" cy="15" r="5.8346" color="#000000" fill="url(#radialGradient921)"/>
-			<circle cx="13" cy="15" r="4.2713" color="#000000" fill="url(#radialGradient923)"/>
-		</g>
-		<path d="m17.126 10.874c-2.2785-2.2785-5.9728-2.2785-8.2514 0-1.3138 1.3138-1.8773 3.1009-1.6761 4.8133 0.14778-1.2575 0.7113-2.4733 1.6761-3.438 2.2785-2.2785 5.9728-2.2785 8.2514 0 0.96476 0.96476 1.5283 2.1806 1.6761 3.438 0.20124-1.7124-0.36227-3.4995-1.6761-4.8133z" color="#000000" fill="#c05d3e" fill-opacity=".27262"/>
 	</g>
 </svg>
