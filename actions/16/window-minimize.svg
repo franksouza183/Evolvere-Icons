@@ -17,6 +17,6 @@
 			color:#ffffff;
 			}</style>
 	</defs>
-	<path class="ColorScheme-Background" d="m3 7v1h10v-1z" color="#090d11" style="fill-opacity:.5;fill:#ffffff"/>
-	<path class="ColorScheme-Text" d="m3 8v1h10v-1z" color="#090d11" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-Background" d="m3 7v1h10v-1z"  style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m3 8v1h10v-1z"  style="fill-opacity:.75;fill:currentColor"/>
 </svg>
