@@ -60,7 +60,7 @@
 		<path transform="matrix(0,-1,-1,0,0,0)" d="m-35-61h19v12h-19z" fill="#cc4a84" stop-color="#000000" stroke-linecap="round" stroke-opacity=".07248"/>
 	</g>
 	<path d="m55 2v14" fill="none" stroke="#f1f2fc" stroke-width="2"/>
-	<path d="m58 27-3 2-3-2m3 2v-13" fill="none" stroke="#b6b7e7" stroke-linejoin="round" stroke-width="2"/>
+	<path d="m58 27-3 2-3-2m3 2v-13" fill="none" stroke="#b6b7e7" stroke-linejoin="round" stroke-width="2" style="stroke:#aaabe4"/>
 	<g transform="rotate(-67.007 19.426 56.904)">
 		<path d="m31.423 49.774a8.4461 8.4461 0 0 1-8.446 8.4461 8.4461 8.4461 0 0 1-8.4461-8.446 8.4461 8.4461 0 0 1 8.446-8.4461 8.4461 8.4461 0 0 1 8.4461 8.446z" fill="#cc4a84" stop-color="#000000" stroke-opacity=".05" stroke-width="4" style="paint-order:stroke fill markers"/>
 		<g transform="matrix(.17774 .41886 -.41886 .17774 27.076 23.258)" fill="#7d385f" stroke-width="2.1978">
