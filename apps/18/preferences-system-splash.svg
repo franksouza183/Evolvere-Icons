@@ -9,8 +9,10 @@
 		</rdf:RDF>
 	</metadata>
 	<defs id="c">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#090d11; }
-.ColorScheme-Background { color:#ffffff; }</style>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text {color:#090d11;}
+			.ColorScheme-Background{color:#ffffff;}
+		</style>
 	</defs>
 	<g class="ColorScheme-Background" transform="translate(1,1)" style="fill:currentColor">
 		<path d="m8 0c-1.4042 2.367e-5 -2.784 0.37016-4 1.0723a0.5 0.5 0 0 0-0.18359 0.68164 0.5 0.5 0 0 0 0.68359 0.18359c1.0641-0.61436 2.2713-0.93748 3.5-0.9375a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5z" style="fill-opacity:.09;opacity:.356"/>

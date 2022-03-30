@@ -10,11 +10,9 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="defs3051">
-		<style type="text/css" id="current-color-scheme">
-			.ColorScheme-Text {
-			color:#090d11;
-			}
+	<defs>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text {color:#090d11;}
 		</style>
 	</defs>
 	<path d="m3.5957 8a0.50005 0.50005 0 0 0-0.33398 0.88281l6.6152 5.7012c0.64329 0.55453 1.6058 0.55389 2.248-2e-3v2e-3l6.6133-5.7012a0.50005 0.50005 0 1 0-0.65234-0.75586l-6.6133 5.6992a0.50005 0.50005 0 0 0-2e-3 0c-0.26532 0.22962-0.67586 0.23086-0.94141 2e-3l-6.6152-5.7012a0.50005 0.50005 0 0 0-0.31836-0.12695z" color="#090d11" fill="currentColor" style="fill:currentColor;" class="ColorScheme-Text"/>
