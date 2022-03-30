@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.svg" alt="Evolvere icons live preview"/>
   <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.png" alt="Evolvere icons"/>
 </p>
 
@@ -27,6 +28,8 @@ And choose it via your theming tool.
 2 - The package is in the process of migrating to the new style, so expect icons with the old one. I am currently focusing on the most popular.
 
 3 - When using dark themes, the small icons will be visible by bright outlines.
+
+4 - When using dark themes, the small icons will be visible by bright outlines.
 
 ## Contributions
 
