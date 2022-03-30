@@ -96,8 +96,6 @@
 		<use transform="translate(0,48)" width="100%" height="100%" xlink:href="#g9273"/>
 		<use transform="translate(0,56)" width="100%" height="100%" xlink:href="#g9273"/>
 	</g>
-	<g transform="translate(2.379 -2.976)" fill="none" stop-color="#000000" stroke="#cce5ea" stroke-width="2" style="-inkscape-stroke:none;font-variation-settings:normal">
-		<circle transform="rotate(15)" cx="34.267" cy="33.24" r="5.875" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
-		<path d="m30.171 42.496 5.678-21.19 3.834 14.31" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
-	</g>
+	<path d="m35 25v15.201m0-0.20106a6.5 6.5 0 0 1-6.5 6.5 6.5 6.5 0 0 1-6.5-6.5 6.5 6.5 0 0 1 6.5-6.5 6.5 6.5 0 0 1 6.5 6.5zm0-20 9 9" fill="none" stroke="#000080" stroke-linecap="round" stroke-opacity=".10354" stroke-width="6"/>
+	<path d="m35 25v15.201m0-0.20106a6.5 6.5 0 0 1-6.5 6.5 6.5 6.5 0 0 1-6.5-6.5 6.5 6.5 0 0 1 6.5-6.5 6.5 6.5 0 0 1 6.5 6.5zm0-20 9 9" fill="none" stroke="#bbeaff" stroke-linecap="round" stroke-width="2"/>
 </svg>
