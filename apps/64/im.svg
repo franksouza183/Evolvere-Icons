@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<radialGradient id="a" cx="55.693" cy="44.918" r="32" fx="55.339" fy="13.579" gradientTransform="matrix(.90625 -.90625 1.8438 1.8437 -79.288 35.655)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="a" cx="23.371" cy="36.964" r="32" gradientTransform="matrix(1.0938 0 0 2.8532 -10.562 -55.464)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#2c00c8" stop-opacity=".38987" offset="0"/>
 			<stop stop-color="#2c00c8" stop-opacity=".18565" offset=".28152"/>
 			<stop stop-color="#2c00c8" stop-opacity=".093671" offset=".43777"/>
@@ -11,8 +11,8 @@
 			<stop stop-color="#2c00c8" stop-opacity="0" offset="1"/>
 		</radialGradient>
 		<linearGradient id="b" x1="3" x2="5.5511e-17" y1="32" y2="32" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#70e7ff" offset="0"/>
-			<stop stop-color="#abfbff" offset="1"/>
+			<stop stop-color="#5dceff" offset="0"/>
+			<stop stop-color="#c1fcff" offset="1"/>
 		</linearGradient>
 	</defs>
 	<metadata>
@@ -20,14 +20,14 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m64 2v50h-64v-50z" color="#000000" fill="#1fbcff"/>
-	<path d="m27 24c-1.6569 0-3 1.3431-3 3s1.3431 3 3 3 3-1.3431 3-3-1.3431-3-3-3zm10 0c-1.6569 0-3 1.3431-3 3s1.3431 3 3 3 3-1.3431 3-3-1.3431-3-3-3zm10 0c-1.6569 0-3 1.3431-3 3s1.3431 3 3 3 3-1.3431 3-3-1.3431-3-3-3z" fill="#f6f6f6" style="paint-order:normal"/>
+	<path d="m64 2v50h-64v-50z" color="#000000" fill="#11b0f2"/>
+	<path d="m26 13h4m7 28h-4m-24-28h10m35 28h-10" fill="none" stroke="#e2eaec" stroke-linecap="round" stroke-width="4"/>
 	<path d="m64 2v50h-64v-50z" color="#000000" fill="url(#a)"/>
-	<path d="m62 0 2 1v1h-32-30l17 9h-6l-13-9v-1l2-1z" color="#000000" fill="#b7fffb"/>
+	<path d="m62 0 2 1v1h-62l17 9h-6l-13-9v-1l2-1z" color="#000000" fill="#8af5fd"/>
+	<path d="m64 3.5-2-1.5 2-1z" fill="#92fffa"/>
 	<path d="m2 52 15 12h2v-53h-10l1 18z" fill="#00aef8" style="paint-order:normal"/>
 	<path d="m0 52 17 12v-53l-17-9z" fill="url(#b)" style="paint-order:normal"/>
 </svg>
