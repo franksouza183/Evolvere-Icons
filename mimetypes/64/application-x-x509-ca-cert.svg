@@ -2,13 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<linearGradient id="linearGradient88548">
-			<stop stop-color="#edc66b" offset="0"/>
-			<stop stop-color="#e9bb50" offset=".39196"/>
-			<stop stop-color="#e4ac5b" offset=".67776"/>
-			<stop stop-color="#f1d180" offset=".70209"/>
-			<stop stop-color="#f6d98f" offset="1"/>
-		</linearGradient>
 		<linearGradient id="linearGradient82616" x1="53.055" x2="60.201" y1="35.97" y2="35.97" gradientTransform="translate(0 -.5)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#ffffff" stop-opacity=".21183" offset="0"/>
 			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
@@ -34,14 +27,26 @@
 			<stop stop-color="#cdb174" offset="0"/>
 			<stop stop-color="#d8c48d" offset="1"/>
 		</linearGradient>
-		<radialGradient id="radialGradient88550" cx="14.43" cy="11.501" r="8.3894" gradientTransform="matrix(2.22 0 0 2.22 -17.605 -15.315)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient88548"/>
+		<radialGradient id="radialGradient88550" cx="14.43" cy="11.501" r="8.3894" gradientTransform="matrix(2.22 0 0 2.22 -17.605 -15.315)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#edc66b" offset="0"/>
+			<stop stop-color="#e9bb50" offset=".39196"/>
+			<stop stop-color="#e4ac5b" offset=".67776"/>
+			<stop stop-color="#f1d180" offset=".70209"/>
+			<stop stop-color="#f6d98f" offset="1"/>
+		</radialGradient>
 		<radialGradient id="radialGradient159020" cx="15" cy="16.753" r="12.965" gradientTransform="matrix(1.157 0 0 .9246 -4.3546 3.5098)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#d22f48" offset="0"/>
 			<stop stop-color="#da5569" offset="1"/>
 		</radialGradient>
-		<radialGradient id="radialGradient160504" cx="13" cy="27.131" r="10.63" gradientTransform="matrix(3.6578 0 0 2.2053 -34.552 -29.831)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient88548"/>
+		<radialGradient id="radialGradient160504" cx="13" cy="27.131" r="10.63" gradientTransform="matrix(3.6578 0 0 2.2053 -34.552 -29.831)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#edc66b" offset="0"/>
+			<stop stop-color="#e9bb50" offset=".39196"/>
+			<stop stop-color="#e4ac5b" offset=".67776"/>
+			<stop stop-color="#eccb74" offset=".70209"/>
+			<stop stop-color="#e7c576" offset="1"/>
+		</radialGradient>
 		<linearGradient id="linearGradient161283" x1="14.837" x2="14.837" y1="8.5422" y2="15.832" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#fffada" offset="0"/>
+			<stop stop-color="#fffada" stop-opacity=".83865" offset="0"/>
 			<stop stop-color="#fffada" stop-opacity="0" offset="1"/>
 		</linearGradient>
 	</defs>

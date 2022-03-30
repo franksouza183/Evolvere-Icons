@@ -16,12 +16,12 @@
 			<stop stop-color="#4d00b0" stop-opacity="0" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient251717" x1="30" x2="26" y1="16" y2="10" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
+		<radialGradient id="radialGradient251991" cx="44.705" cy="18.677" r="7.75" gradientTransform="matrix(1.4194,1.0043e-7,-2.3226e-7,3.4839,-18.452,-41.067)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
+		<linearGradient id="linearGradient252365" x1="65" x2="60" y1="12" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
 		<linearGradient id="linearGradient201824" x1="54" x2="54" y1="16" y2="17" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#f1f2fc" offset="0"/>
 			<stop stop-color="#f1f2fc" stop-opacity=".0010996" offset="1"/>
 		</linearGradient>
-		<radialGradient id="radialGradient251991-3" cx="44.705" cy="18.677" r="7.75" gradientTransform="matrix(1.4194,1.0043e-7,-2.3226e-7,3.4839,-18.452,-41.067)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
-		<linearGradient id="linearGradient252365-9" x1="65" x2="60" y1="12" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient251715"/>
 	</defs>
 	<metadata>
 		<rdf:RDF>
@@ -31,24 +31,36 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m0 1 1-1h62l1 1v16h-64z" fill="#eff0fb"/>
-	<path d="m0 16h64v46l-2 2h-60l-2-2z" fill="#aaabe4" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+	<g>
+		<path d="m0 1 1-1h62l1 1v16h-64z" fill="#eff0fb"/>
+		<path d="m0 16h64v46l-2 2h-60l-2-2z" fill="#aaabe4"/>
+	</g>
+	<path d="m64 17-1-1 1-0.5z" fill="#be9156"/>
+	<path d="m0 17 1-1h-1z" fill="#be9156"/>
 	<g fill="#4c3174" fill-opacity=".81202">
 		<path d="m32 0h1v16h-1z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+		<path d="m62 15 1 1h-28l12.242-0.72011 4.7581 0.72011h8z" stop-color="#000000" style="paint-order:stroke fill markers"/>
 		<path d="m12 15-11 1h29l-11-1z" stop-color="#000000" style="paint-order:stroke fill markers"/>
-		<path d="m62 15 1 1h-28l17-1z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
 	</g>
 	<path d="m62 16h-30.5z" fill="#6c4425" stop-color="#000000" style="paint-order:stroke fill markers"/>
 	<g>
 		<path d="m0 8 12 7-12 1z" fill="url(#linearGradient251789)"/>
 		<path d="m32 7-13 8 10 1h3z" fill="url(#linearGradient251717)"/>
+		<path d="m39 0h8l0.2419 15.28-10.742 0.72011 3.5-8z" fill="url(#radialGradient251991)"/>
+		<path d="m63 0-1 15 1 1 1-0.5v-14.5z" fill="url(#linearGradient252365)"/>
 		<path d="m64 16h-64v4h64z" fill="url(#linearGradient201824)"/>
 		<path d="m29 14.266 6-1v9.734l-6-1z" fill="#f8e8d8" stop-color="#000000" style="paint-order:stroke fill markers"/>
 		<path d="m29 16h6v7l-6-1z" fill="#c0a997" stop-color="#000000" style="paint-order:stroke fill markers"/>
 		<path d="m29 0h6v1.4904h-6z" fill="#f8e8d8" stop-color="#000000" style="paint-order:stroke fill markers"/>
 	</g>
 	<rect x="20.5" y="28.5" width="23" height="10" rx="5" ry="5" fill="#240055" fill-opacity=".08" stop-color="#000000" stroke="url(#linearGradient332669)" stroke-linejoin="round" stroke-opacity=".98379" style="paint-order:normal"/>
-	<path d="m43.5 34.5c0 2.77-2.23 5-5 5h-13c-2.77 0-5-2.23-5-5" fill="none" stroke="url(#linearGradient332481)" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+	<g stroke-linejoin="round">
+		<path d="m43.5 34.5c0 2.77-2.23 5-5 5h-13c-2.77 0-5-2.23-5-5" fill="none" stroke="url(#linearGradient332481)" style="paint-order:stroke fill markers"/>
+		<path transform="rotate(90)" d="m0-61h16v12h-16z" fill="#ff8ee6" stop-color="#000000" stroke-linecap="round" stroke-opacity=".07248"/>
+		<path transform="matrix(0,-1,-1,0,0,0)" d="m-35-61h19v12h-19z" fill="#cc4a84" stop-color="#000000" stroke-linecap="round" stroke-opacity=".07248"/>
+	</g>
+	<path d="m55 2v14" fill="none" stroke="#f1f2fc" stroke-width="2"/>
+	<path d="m58 27-3 2-3-2m3 2v-13" fill="none" stroke="#b6b7e7" stroke-linejoin="round" stroke-width="2"/>
 	<g transform="rotate(-67.007 19.426 56.904)">
 		<path d="m31.423 49.774a8.4461 8.4461 0 0 1-8.446 8.4461 8.4461 8.4461 0 0 1-8.4461-8.446 8.4461 8.4461 0 0 1 8.446-8.4461 8.4461 8.4461 0 0 1 8.4461 8.446z" fill="#cc4a84" stop-color="#000000" stroke-opacity=".05" stroke-width="4" style="paint-order:stroke fill markers"/>
 		<g transform="matrix(.17774 .41886 -.41886 .17774 27.076 23.258)" fill="#7d385f" stroke-width="2.1978">
@@ -58,8 +70,4 @@
 		<path d="m29.134 51.823 3.1767-1.6331 1.9053 3.7062-3.4489 1.1037z" fill="#e0d4cb" fill-opacity=".62131" stop-color="#000000" stroke-width="1.0806" style="paint-order:stroke fill markers"/>
 		<path d="m12.439 42.924 4.7772 1.5764-1.2465 3.9766-4.5991-2.1445z" fill="#e0d4cb" fill-opacity=".62131" stop-color="#000000" stroke-width="1.0806" style="paint-order:stroke fill markers"/>
 	</g>
-	<path d="m39 0h8l5 15-15.5 1 3.5-8z" fill="url(#radialGradient251991-3)"/>
-	<path d="m63 0-1 15 1 1 1-0.5v-14.5z" fill="url(#linearGradient252365-9)"/>
-	<path d="m64 17-1-1 1-0.5z" fill="#eff0fb" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/>
-	<path d="m0 17 1-1h-1z" fill="#eff0fb"/>
 </svg>
