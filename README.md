@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.svg" alt="Evolvere icons live preview"/>
   <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.png" alt="Evolvere icons"/>
 </p>
 
@@ -30,6 +29,8 @@ And choose it via your theming tool.
 3 - When using dark themes, the small icons will be visible by bright outlines.
 
 4 - When using dark themes, the small icons will be visible by bright outlines.
+
+5 - Open "preview.svg" in inkscape to see a live preview
 
 ## Contributions
 
