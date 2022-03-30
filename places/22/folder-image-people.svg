@@ -1,82 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg13094"
-   height="22"
-   width="22"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-image-people.svg">
-  <defs
-     id="defs2989" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     id="namedview2987"
-     showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="1.9651252"
-     inkscape:cy="10.628168"
-     inkscape:window-x="-10"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13094"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3750"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata13099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 4,2 0,2 1,0 0,-1 15,0 0,13 -1,0 0,1 2,0 L 21,2 4,2 z M 1,5 1,20 18,20 18,18.5 18,17 18,16 18,15.65625 18,5 5,5 4,5 1,5 z M 2,6 17,6 17,19 2,19 2,6 z m 2,2 0,9 11,0 0,-9 -11,0 z m 5.5,2 C 10.328427,10 11,10.671573 11,11.5 11,12.328427 10.328427,13 9.5,13 8.6715729,13 8,12.328427 8,11.5 8,10.671573 8.6715729,10 9.5,10 z m -2.5,4 5,0 2,2 -9,0 2,-2 z"
-     id="rect2987"
-     inkscape:connector-curvature="0" />
-  <path
-     id="path2987"
-     d="m 5,3 0,2 13,0 0,11 2,0 L 20,3 5,3 z M 2,6 2,19 17,19 17,6 2,6 z m 2,2 11,0 0,9 -11,0 0,-9 z m 5.5,2 C 8.6715729,10 8,10.671573 8,11.5 8,12.328427 8.6715729,13 9.5,13 10.328427,13 11,12.328427 11,11.5 11,10.671573 10.328427,10 9.5,10 z m -2.5,4 -2,2 9,0 -2,-2 -5,0 z"
-     style="fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero"
-     inkscape:connector-curvature="0" />
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+				color:#090d11;
+			}
+			.ColorScheme-Background{
+				color:#ffffff;
+			}</style>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path class="ColorScheme-Background" d="m1.5 1c-0.27613 2.76e-5 -0.49997 0.22387-0.5 0.5v17c2.76e-5 0.27613 0.22387 0.49997 0.5 0.5h6c0.25875 1.2e-5 0.47478-0.19737 0.49805-0.45508 0.23367-2.5704 1.659-3.6699 3.002-3.6699s2.7683 1.0995 3.002 3.6699c0.02327 0.2577 0.2393 0.45509 0.49805 0.45508h4c0.27614 0 0.5-0.22386 0.5-0.5s-0.22386-0.5-0.5-0.5h-3.6113c-0.4172-2.6171-2.0928-4.125-3.8887-4.125s-3.4715 1.5079-3.8887 4.125h-5.1113v-16h18v18h-18.5c-0.27614 0-0.5 0.22386-0.5 0.5s0.22386 0.5 0.5 0.5h19c0.27613-2.8e-5 0.49997-0.22387 0.5-0.5v-19c-2.8e-5 -0.27613-0.22387-0.49997-0.5-0.5zm9.5 5c-1.6468 0-3 1.3532-3 3s1.3532 3 3 3 3-1.3532 3-3-1.3532-3-3-3zm0 1c1.0998 0 2 0.90017 2 2 0 1.0998-0.90017 2-2 2-1.0998 0-2-0.90017-2-2 0-1.0998 0.90017-2 2-2z" style="fill-opacity:.5;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m2.5 2c-0.27613 2.76e-5 -0.49997 0.22387-0.5 0.5v15c2.76e-5 0.27613 0.22387 0.49997 0.5 0.5h4c0.25875 1.2e-5 0.47478-0.19737 0.49805-0.45508 0.22823-2.5105 2.0926-3.6699 4.002-3.6699s3.7737 1.1594 4.002 3.6699c0.02327 0.2577 0.2393 0.45509 0.49805 0.45508h2c0.27614 0 0.5-0.22386 0.5-0.5s-0.22386-0.5-0.5-0.5h-1.6328c-0.42575-2.3699-2.1999-3.7836-4.1387-4.0684 1.8572-0.34426 3.2715-1.9772 3.2715-3.9316 0-2.2032-1.7968-4-4-4s-4 1.7968-4 4c0 1.9544 1.4142 3.5874 3.2715 3.9316-1.9388 0.28472-3.7129 1.6985-4.1387 4.0684h-3.1328v-14h16v16h-16.5c-0.27614 0-0.5 0.22386-0.5 0.5s0.22386 0.5 0.5 0.5h17c0.27613-2.8e-5 0.49997-0.22387 0.5-0.5v-17c-2.8e-5 -0.27613-0.22387-0.49997-0.5-0.5zm8.5 4c1.6628 0 3 1.3372 3 3s-1.3372 3-3 3-3-1.3372-3-3 1.3372-3 3-3z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
