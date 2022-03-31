@@ -1,1 +1,16 @@
-drive-harddisk-usb-symbolic.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="b">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}
+			.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="a" class="ColorScheme-Text" d="m3.5 2c-0.82236 0-1.5 0.67764-1.5 1.5v11c0 0.82236 0.67764 1.5 1.5 1.5h11c0.82236 0 1.5-0.67764 1.5-1.5v-11c0-0.82236-0.67764-1.5-1.5-1.5zm0 1h11c0.28566 0 0.5 0.21436 0.5 0.5v1c-0.55228 0-1 0.44772-1 1v7c0 0.55228 0.44772 1 1 1v1c0 0.28564-0.21434 0.5-0.5 0.5h-11c-0.28566 0-0.5-0.21436-0.5-0.5v-1c0.55228 0 1-0.44772 1-1v-7c0-0.55228-0.44772-1-1-1v-1c0-0.28564 0.21434-0.5 0.5-0.5zm5.5 2.9688-3.0156 4.0312h6.0312zm-2.5 5.0312c-0.27614 0-0.5 0.22386-0.5 0.5s0.22386 0.5 0.5 0.5h5c0.27614 0 0.5-0.22386 0.5-0.5s-0.22386-0.5-0.5-0.5z" style="fill-opacity:.75;fill:currentColor"/>
+</svg>
