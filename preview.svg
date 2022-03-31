@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.62092132"
-     inkscape:cx="678.82996"
-     inkscape:cy="450.13754"
+     inkscape:zoom="0.68301345"
+     inkscape:cx="1709.3368"
+     inkscape:cy="571.73105"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -396,6 +396,104 @@
          offset="1"
          id="stop23663" />
     </radialGradient>
+    <linearGradient
+       id="linearGradient332481"
+       x1="32"
+       x2="32"
+       y1="40"
+       y2="35"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f1f2fc"
+         stop-opacity=".64577"
+         offset="0"
+         id="stop29907" />
+      <stop
+         stop-color="#f1f2fc"
+         stop-opacity=".0013202"
+         offset="1"
+         id="stop29909" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient332669"
+       x1="34"
+       x2="34"
+       y1="39"
+       y2="26"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3e1872"
+         stop-opacity=".35685"
+         offset="0"
+         id="stop29912" />
+      <stop
+         stop-color="#250065"
+         stop-opacity=".028366"
+         offset="1"
+         id="stop29914" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient251789"
+       x1="11"
+       x2="1"
+       y1="7"
+       y2="14"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient251715" />
+    <linearGradient
+       id="linearGradient251715">
+      <stop
+         stop-color="#370089"
+         stop-opacity=".2297"
+         offset="0"
+         id="stop29918" />
+      <stop
+         stop-color="#4d00b0"
+         stop-opacity="0"
+         offset="1"
+         id="stop29920" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient251717"
+       x1="30"
+       x2="26"
+       y1="16"
+       y2="10"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient251715" />
+    <radialGradient
+       id="radialGradient251991"
+       cx="44.705"
+       cy="18.677"
+       r="7.75"
+       gradientTransform="matrix(1.4194,1.0043e-7,-2.3226e-7,3.4839,-18.452,-41.067)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient251715" />
+    <linearGradient
+       id="linearGradient252365"
+       x1="65"
+       x2="60"
+       y1="12"
+       y2="12"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient251715" />
+    <linearGradient
+       id="linearGradient201824"
+       x1="54"
+       x2="54"
+       y1="16"
+       y2="17"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f1f2fc"
+         offset="0"
+         id="stop29926" />
+      <stop
+         stop-color="#f1f2fc"
+         stop-opacity=".0010996"
+         offset="1"
+         id="stop29928" />
+    </linearGradient>
   </defs>
   <image
      preserveAspectRatio="none"
@@ -515,7 +613,7 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="apps/64/preferences-desktop-activities.svg"
      id="image7801"
-     x="0"
+     x="128"
      y="271.71765" />
   <image
      preserveAspectRatio="none"
@@ -595,8 +693,8 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="apps/64/xscreensaver.svg"
      id="image13328"
-     x="64"
-     y="271.71765" />
+     x="448"
+     y="335.71765" />
   <image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
@@ -605,7 +703,7 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="apps/64/unity-display-panel.svg"
      id="image14119"
-     x="128"
+     x="64"
      y="271.71765" />
   <image
      preserveAspectRatio="none"
@@ -1225,8 +1323,8 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="apps/64/hardware.svg"
      id="image56546"
-     x="960.00012"
-     y="0" />
+     x="704.00012"
+     y="128" />
   <image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
@@ -1375,8 +1473,8 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="apps/64/applications-other.svg"
      id="image65697"
-     x="0"
-     y="0" />
+     x="192"
+     y="128" />
   <image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
@@ -1584,8 +1682,8 @@
      style="image-rendering:optimizeQuality"
      xlink:href="apps/64/xorg.svg"
      id="image76814"
-     x="896.00012"
-     y="64" />
+     x="448.00003"
+     y="128" />
   <image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
@@ -2225,8 +2323,8 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="apps/64/x-system-software-sources.svg"
      id="image33741"
-     x="1905.4601"
-     y="440.18597" />
+     x="64"
+     y="128" />
   <image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
@@ -2846,5 +2944,205 @@
      xlink:href="apps/64/steam_icon_49520.svg"
      id="image62038"
      x="2033.4601"
+     y="824.18597" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/deb-installer.svg"
+     id="image30242"
+     x="256.00003"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/google.svg"
+     id="image30782"
+     x="0"
+     y="957.53308" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/nextcloud.svg"
+     id="image31454"
+     x="1088.0369"
+     y="619.10693" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/owncloud.svg"
+     id="image32076"
+     x="1152.0369"
+     y="619.10693" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/microsoft.svg"
+     id="image32812"
+     x="64"
+     y="957.53308" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/credentials-preferences.svg"
+     id="image33523"
+     x="320.00003"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/foursquare.svg"
+     id="image34535"
+     x="128"
+     y="957.53308" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/system-software-installer.svg"
+     id="image35326"
+     x="128"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/drive-harddisk-usb.svg"
+     id="image36707"
+     x="384.00003"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/input-mouse.svg"
+     id="image37734"
+     x="896.00012"
+     y="64" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/computer.svg"
+     id="image39343"
+     x="0"
+     y="0" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/battery.svg"
+     id="image40461"
+     x="512"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/audio-card.svg"
+     id="image41498"
+     x="768.00012"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/input-tablet.svg"
+     id="image42563"
+     x="896.00012"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/video-display.svg"
+     id="image43348"
+     x="0"
+     y="271.71765" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/tablet.svg"
+     id="image44267"
+     x="1713.4601"
+     y="824.18597" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="devices/64/smartphone.svg"
+     id="image44734"
+     x="1777.4601"
+     y="824.18597" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/kdeconnect.svg"
+     id="image45290"
+     x="640.03687"
+     y="683.10693" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/kdevelop.svg"
+     id="image46412"
+     x="1457.46"
+     y="760.18597" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/kdenlive.svg"
+     id="image47018"
+     x="1841.4601"
      y="824.18597" />
 </svg>
