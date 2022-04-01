@@ -9,8 +9,11 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="c">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText {color:#df0278;}</style>
+	<defs id="defs">
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text {color:#090d11;}
+			.ColorScheme-NegativeText{color:#fa0473;}
+		</style>
 	</defs>
-	<path id="b" class="ColorScheme-NegativeText" d="m4 2c-0.554 0-1 0.446-1 1 0 7 5 13 6 13s6-6 6-13c0-0.554-0.446-1-1-1z" style="fill:currentColor"/>
+	<path id="b" class="ColorScheme-NegativeText error" d="m4 2c-0.554 0-1 0.446-1 1 0 7 5 13 6 13s6-6 6-13c0-0.554-0.446-1-1-1z" style="fill:currentColor"/>
 </svg>
