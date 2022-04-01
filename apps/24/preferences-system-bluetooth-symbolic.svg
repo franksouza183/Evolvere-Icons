@@ -12,6 +12,5 @@
 	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path class="ColorScheme-Background" d="m4.5 15.5 11.5-7-5.5-5.5v18.5l5.5-6-11.5-8m0 8 13.5-7-7.5-5.5v18.5l7.5-6-13.5-8" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
-	<path class="ColorScheme-Text" d="m6.5 15.5 10.5-6.5-5.5-5v16l5.5-5-10.5-7.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
+	<path class="ColorScheme-Text" d="m11.297 3.543a0.50005 0.50005 0 0 0-0.29688 0.45703v6.0996l-4.209-3.0059a0.5 0.5 0 0 0-0.69727 0.11523 0.5 0.5 0 0 0 0.11523 0.69727l4.791 3.4219v0.79688l-4.7637 2.9492a0.5 0.5 0 0 0-0.16211 0.68945 0.5 0.5 0 0 0 0.68945 0.16211l4.2363-2.623v6.6973a0.50005 0.50005 0 0 0 0.83594 0.36914l5.5-5a0.50005 0.50005 0 0 0-0.04492-0.77539l-3.8887-2.7773 3.8613-2.3906a0.50005 0.50005 0 0 0 0.07227-0.79492l-5.5-5a0.50005 0.50005 0 0 0-0.53907-0.087891zm0.70312 1.5859 4.1738 3.7949-3.6543 2.2617-0.51953-0.37109zm0.48047 7.2578 3.7266 2.6602-4.207 3.8242v-6.1875z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
