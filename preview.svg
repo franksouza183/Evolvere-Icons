@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.7513148"
-     inkscape:cx="628.8975"
-     inkscape:cy="434.5715"
+     inkscape:cx="611.5945"
+     inkscape:cy="443.8885"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -2636,8 +2636,8 @@
      style="image-rendering:optimizeSpeed"
      xlink:href="devices/64/input-tablet.svg"
      id="image42563"
-     x="896.00012"
-     y="128" />
+     x="960.00012"
+     y="0" />
   <image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
@@ -2717,4 +2717,54 @@
      id="image34510"
      x="576"
      y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/carla.svg"
+     id="image33436"
+     x="896.00012"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/cadence.svg"
+     id="image34888"
+     x="832.00012"
+     y="128" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/librecad.svg"
+     id="image35668"
+     x="1969.4601"
+     y="888.18597" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/kicad.svg"
+     id="image36163"
+     x="1969.4601"
+     y="824.18597" />
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="64"
+     height="64"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="apps/64/freecad.svg"
+     id="image36481"
+     x="1905.4601"
+     y="824.18597" />
 </svg>
