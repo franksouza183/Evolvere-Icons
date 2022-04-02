@@ -18,5 +18,5 @@
             .ColorScheme-NeutralText{color:#f2712c;}
 		</style>
 	</defs>
-	<path id="b" class="ColorScheme-NeutralText" d="m8 1c-2.216 0-4 1.784-4 4v4c0 1.1046-0.89543 2-2 2v1h12v-1c-1.1046 0-2-0.89543-2-2v-4c0-2.216-1.784-4-4-4zm-2 12c0 1.1046 0.89543 2 2 2s2-0.89543 2-2z" style="fill:currentColor"/>
+	<path id="b" class="ColorScheme-PositiveText success" d="m8 1c-2.216 0-4 1.784-4 4v4c0 1.1046-0.89543 2-2 2v1h12v-1c-1.1046 0-2-0.89543-2-2v-4c0-2.216-1.784-4-4-4zm-2 12c0 1.1046 0.89543 2 2 2s2-0.89543 2-2z" style="fill:currentColor"/>
 </svg>
