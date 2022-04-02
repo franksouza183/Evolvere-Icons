@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<defs>
-		<radialGradient id="a" cx="7.5229" cy="8.2544" r="5.8618" gradientTransform="matrix(1.7118 0 0 2.3362 -3365.8 2085.4)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
-			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
-		</radialGradient>
-		<radialGradient id="b" cx="-3352.4" cy="2104.7" r="9" gradientTransform="matrix(1.7778 0 0 1.7778 2607.4 -1637)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
-			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
-		</radialGradient>
-	</defs>
-	<metadata>
+<svg id="d" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="b">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g transform="translate(3364.4 -2092.7)">
-		<path d="m-3352.4 2095.7c-4.9572 0-9 4.0428-9 9s4.0428 9 9 9 9-4.0428 9-9-4.0428-9-9-9zm-3 5h6l1 1v6l-1 1h-6l-1-1v-3l1-1h5v-1h-5zm1 5v1h4v-1z" color="#000000" fill="#000000" fill-opacity=".76471" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
-		<path d="m-3352.4 2095.7c-4.9572 0-9 4.0428-9 9s4.0428 9 9 9 9-4.0428 9-9-4.0428-9-9-9zm-3 5h6l1 1v6l-1 1h-6l-1-1v-3l1-1h5v-1h-5v-2zm1 5v1h4v-1h-4z" color="#000000" fill="url(#b)" fill-opacity=".76471" style="block-progression:tb;font-variant-east_asian:normal;paint-order:normal;text-indent:0;text-transform:none"/>
-		<path d="m-3352.4 2094.7c-5.5064 0-10 4.4936-10 10s4.4936 10 10 10 10-4.4936 10-10-4.4936-10-10-10zm0 1c4.9572 0 9 4.0428 9 9s-4.0428 9-9 9-9-4.0428-9-9 4.0428-9 9-9zm-3 5v2h5v1h-5l-1 1v3l1 1h6l1-1v-6l-1-1zm1 5h4v1h-4z" color="#000000" fill="url(#a)" style="paint-order:normal;text-decoration-line:none;text-indent:0;text-transform:none"/>
-	</g>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="c" class="ColorScheme-Text" d="m12 3c-4.9572 0-9 4.0428-9 9 0 4.9572 4.0428 9 9 9s9-4.0428 9-9c0-4.9572-4.0428-9-9-9zm-2.5469 5h5.5938c0.54708 0 0.95312 0.47949 0.95312 1v6c0 0.29279-0.12811 0.57293-0.33789 0.76172-0.02331 0.02098-0.04897 0.03997-0.07422 0.05859-0.15128 0.11117-0.33644 0.17969-0.54102 0.17969h-6.0938c-0.54708 0-0.95312-0.47949-0.95312-1v-3c0-0.52051 0.40604-1 0.95312-1h6.0469v-2h-5.5469c-0.27614 0-0.5-0.22386-0.5-0.5s0.22386-0.5 0.5-0.5zm-0.45312 4v3h6v-3z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="a" class="ColorScheme-Background" d="m12 1.9224c-5.557 0-10.078 4.5206-10.078 10.078s4.5206 10.078 10.078 10.078 10.078-4.5206 10.078-10.078-4.5206-10.078-10.078-10.078zm0 1.1429c4.9434 3e-7 8.9347 3.9912 8.9347 8.9347s-3.9912 8.9347-8.9347 8.9347c-4.9434 0-8.9347-3.9912-8.9347-8.9347 1e-7 -4.9434 3.9912-8.9347 8.9347-8.9347zm-2.5469 4.9347c-0.27614 0-0.5 0.22386-0.5 0.5s0.22498 0.47521 0.5 0.5h5.5469v2h-6.0469c-0.54708 0-0.95312 0.47949-0.95312 1v3c0 0.52051 0.40604 1 0.95312 1h6.0938c0.20458 0 0.38974-0.06852 0.54102-0.17969 0.02525-0.01862 0.05091-0.03762 0.07422-0.05859 0.20978-0.18879 0.33789-0.46893 0.33789-0.76172v-6c0-0.52051-0.40821-1.0487-0.95312-1h-5.5938zm-0.45312 4h6v3h-6z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
