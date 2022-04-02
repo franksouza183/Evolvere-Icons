@@ -13,8 +13,6 @@
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#ffffff;}
 			.ColorScheme-Text{color:#090d11;}</style>
 	</defs>
-	<path class="ColorScheme-Background" d="m7 6v6h0.70703l5.293-5.293v-0.70703z" style="fill-opacity:.5;fill:currentColor"/>
 	<path class="ColorScheme-Text" d="m2 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm1 2h10v8h-10z" style="fill-opacity:.75;fill:currentColor"/>
 	<path class="ColorScheme-Text" d="m7 6v6h0.70703l5.293-5.293v-0.70703z" style="fill-opacity:.5;fill:currentColor"/>
-	<path class="ColorScheme-Background" d="m1 1c-0.554 0-1 0.446-1 1v13c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13c0-0.554-0.446-1-1-1h-14zm0 1h14v12h-14v-12zm11.922 5.0059a0.5 0.5 0 0 0-0.27539 0.14062l-4.5 4.5a0.5 0.5 0 0 0-0.14062 0.35352h1.2012l3.793-3.793v-1.2012a0.5 0.5 0 0 0-0.078125 0z" style="fill-opacity:.5;fill:currentColor"/>
 </svg>
