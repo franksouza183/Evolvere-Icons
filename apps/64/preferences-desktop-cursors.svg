@@ -25,17 +25,16 @@
 		<radialGradient id="radialGradient1130-9-9" cx="32" cy="77.978" r="30.457" gradientTransform="matrix(.82637 0 0 .1388 5.5563 49.506)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1104-3"/>
 		<radialGradient id="radialGradient1122-3-1" cx="32" cy="77.978" r="30.457" gradientTransform="matrix(.91605 0 0 .1388 2.6863 49.506)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1104-3"/>
 		<radialGradient id="radialGradient1112-6-2" cx="32" cy="77.978" r="30.457" gradientTransform="matrix(1.0446 0 0 .1388 -1.4271 49.506)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1104-3"/>
-		<radialGradient id="radialGradient1190-0-7" cx="32" cy="60.947" r="2.3271" gradientTransform="matrix(1.8012,0,0,1.8012,-25.638,-48.375)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ebffff" stop-opacity=".757" offset="0"/>
-			<stop stop-color="#a0ebff" stop-opacity=".10619" offset=".5908"/>
-			<stop stop-color="#b197ff" stop-opacity="0" offset="1"/>
-		</radialGradient>
 		<radialGradient id="radialGradient2296-0-0" cx="32" cy="-1.79" r="31.746" gradientTransform="matrix(0 .088915 -2.797 0 26.993 -2.4976)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient930-3-2"/>
 		<radialGradient id="radialGradient2294-7-9" cx="32" cy="-1.79" r="31.746" gradientTransform="matrix(0 .084298 -2.797 0 26.993 -2.3499)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient930-3-2"/>
 		<radialGradient id="radialGradient848-5-3" cx="32.513" cy="-1.79" r="31.746" gradientTransform="matrix(0 .68806 -2.797 0 26.993 -21.67)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient930-3-2"/>
 		<radialGradient id="radialGradient4987-2-9-6" cx="32" cy="-1.79" r="31.746" gradientTransform="matrix(0 .68806 -2.797 0 26.993 -21.67)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient930-3-2"/>
 		<radialGradient id="radialGradient2292-8-0" cx="32" cy="-1.79" r="31.746" gradientTransform="matrix(0 .090085 -2.797 0 26.993 -2.5351)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient930-3-2"/>
-		<radialGradient id="radialGradient6475" cx="32" cy="60.947" r="2.3271" gradientTransform="matrix(1.8012,0,0,1.8012,-25.638,-48.375)" gradientUnits="userSpaceOnUse" xlink:href="#radialGradient1190-0-7"/>
+		<radialGradient id="radialGradient6475" cx="32" cy="60.947" r="2.3271" gradientTransform="matrix(1.8012,0,0,1.8012,-25.638,-48.375)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ebffff" stop-opacity=".757" offset="0"/>
+			<stop stop-color="#a0ebff" stop-opacity=".10619" offset=".5908"/>
+			<stop stop-color="#b197ff" stop-opacity="0" offset="1"/>
+		</radialGradient>
 	</defs>
 	<metadata>
 		<rdf:RDF>
