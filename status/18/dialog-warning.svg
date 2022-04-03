@@ -9,8 +9,14 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="c">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-NeutralText{color:#feab00;}</style>
+	<defs>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-Highlight{color:#2598e4;}
+			.ColorScheme-NegativeText {color:#f03489;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+            .ColorScheme-NeutralText{color:#f2712c;}</style>
 	</defs>
-	<path id="b" class="ColorScheme-NeutralText" d="m8.998 2c-0.23962 6.858e-4 -4.0385 6.6108-4.1582 6.8184-0.1194 0.20681-3.9304 6.782-3.8105 6.9883 0.12041 0.20719 7.7425 0.19336 7.9824 0.19336 0.2388 0 7.8402 0.01383 7.959-0.19336 0.11924-0.20787-3.7043-6.8058-3.8242-7.0137-0.1194-0.20681-3.9096-6.7937-4.1484-6.793zm0.00195 5c0.554 0 1 0.446 1 1v2c0 0.554-0.446 1-1 1s-1-0.446-1-1v-2c0-0.554 0.446-1 1-1zm0 5c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1z" style="fill:currentColor"/>
+	<path id="b" class="ColorScheme-NeutralText warning" d="m8.998 2c-0.23962 6.858e-4 -4.0385 6.6108-4.1582 6.8184-0.1194 0.20681-3.9304 6.782-3.8105 6.9883 0.12041 0.20719 7.7425 0.19336 7.9824 0.19336 0.2388 0 7.8402 0.01383 7.959-0.19336 0.11924-0.20787-3.7043-6.8058-3.8242-7.0137-0.1194-0.20681-3.9096-6.7937-4.1484-6.793zm0.00195 5c0.554 0 1 0.446 1 1v2c0 0.554-0.446 1-1 1s-1-0.446-1-1v-2c0-0.554 0.446-1 1-1zm0 5c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1z" style="fill:currentColor"/>
 </svg>

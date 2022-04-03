@@ -10,9 +10,15 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}.ColorScheme-NeutralText {color:#feab00;}</style>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-Highlight{color:#2598e4;}
+			.ColorScheme-NegativeText {color:#f03489;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+            .ColorScheme-NeutralText{color:#f2712c;}</style>
 	</defs>
 	<path id="c" class="ColorScheme-Text" d="m2 3c-0.55407 0-1 0.44593-1 1v8c0 0.55407 0.44593 1 1 1h12c0.55407 0 1-0.44593 1-1v-8c0-0.55407-0.44593-1-1-1zm0.49609 1.9961a0.50005 0.50005 0 0 1 0.32227 0.11719l5.1816 4.2402 5.1836-4.2402a0.50032 0.50032 0 1 1 0.63476 0.77344l-5.5 4.5a0.50005 0.50005 0 0 1 -0.63477 0l-5.5-4.5a0.50005 0.50005 0 0 1 0.3125 -0.89062z" style="fill-opacity:.75;fill:currentColor"/>
 	<path id="e" class="ColorScheme-Background" d="m2.002 2c-1.0994 0-2.002 0.9005-2.002 2v8c0 1.0994 0.90255 2 2.002 2h11.998c1.0994 0 2-0.9006 2-2v-8c0-1.0995-0.9006-2-2-2zm0 1h11.998c0.5627 0 1 0.4372 1 1v8c0 0.5627-0.4373 1-1 1h-11.998c-0.5627 0-1.002-0.4373-1.002-1v-8c0-0.5628 0.43925-1 1.002-1zm0.49414 1.9961a0.50005 0.50005 0 0 0 -0.3125 0.89062l5.5 4.5a0.50005 0.50005 0 0 0 0.63477 0l5.5-4.5a0.50032 0.50032 0 1 0 -0.63476 -0.77344l-5.1836 4.2402-5.1816-4.2402a0.50005 0.50005 0 0 0 -0.32227 -0.11719z" style="fill-opacity:.5;fill:currentColor"/>
-	<circle id="b"  cx="3.5001" cy="2.5001" r="2.4999" style="fill:currentColor" class="ColorScheme-NeutralText"/>
+	<circle id="b"  cx="3.5001" cy="2.5001" r="2.4999" style="fill:currentColor" class="ColorScheme-NeutralText warning"/>
 </svg>

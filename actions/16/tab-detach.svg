@@ -9,10 +9,16 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs id="g">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}.ColorScheme-NeutralText {color:#feab00;}</style>
+	<defs>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background{color:#ffffff;}
+			.ColorScheme-Text{color:#090d11;}
+			.ColorScheme-Highlight{color:#2598e4;}
+			.ColorScheme-NegativeText {color:#f03489;}
+			.ColorScheme-PositiveText {color:#42a53b;}
+            .ColorScheme-NeutralText{color:#f2712c;}</style>
 	</defs>
-	<path id="h" class="ColorScheme-NeutralText" d="m1 13h14" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:currentColor"/>
+	<path id="h" class="ColorScheme-NeutralText warning" d="m1 13h14" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:currentColor"/>
 	<path id="e" class="ColorScheme-Text" d="m2.5 11v-4.5c0-1.662 1.338-3 3-3h5c1.662 0 3 1.338 3 3v4.5" style="fill:none;stroke-linejoin:round;stroke-opacity:.75;stroke:currentColor"/>
 	<path id="b" class="ColorScheme-Background" d="m1.5 9.5v-2.9476c0-2.2451 1.8074-4.0524 4.0524-4.0524h4.8951c2.245 0 4.0524 1.8074 4.0524 4.0524v2.9476" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stroke:currentColor"/>
 </svg>
