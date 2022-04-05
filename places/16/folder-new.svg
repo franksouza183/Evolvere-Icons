@@ -9,8 +9,7 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<style id="current-color-scheme" type="text/css">
-			.ColorScheme-Background{color:#ffffff;}
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Background{color:#ffffff;}
 			.ColorScheme-Text{color:#090d11;}
 			.ColorScheme-Highlight{color:#2598e4;}
 			.ColorScheme-NegativeText {color:#f03489;}
