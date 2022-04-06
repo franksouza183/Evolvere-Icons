@@ -12,8 +12,7 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path class="ColorScheme-Text" d="m2.8893 2.8893c-2.5508 2.5508-2.5508 6.6709-2e-7 9.2215 2.5508 2.5508 6.6709 2.5508 9.2215 0 2.5508-2.5508 2.5508-6.6709 0-9.2215-2.5508-2.5508-6.6709-2.5508-9.2215 0z" style="fill-opacity:.82;fill:currentColor"/>
-	<path class="ColorScheme-Background" d="m2.1993 2.1993c-2.9324 2.9324-2.9324 7.6692-3e-7 10.601 2.9324 2.9324 7.6692 2.9324 10.601 0 2.9324-2.9324 2.9324-7.6692 0-10.601-2.9324-2.9324-7.6692-2.9324-10.601 0z" style="fill-opacity:.02;fill:currentColor"/>
+	<path class="ColorScheme-Text" d="m2.8893 2.8893c-2.5508 2.5508-2.5508 6.6709-2e-7 9.2215 2.5508 2.5508 6.6709 2.5508 9.2215 0 2.5508-2.5508 2.5508-6.6709 0-9.2215-2.5508-2.5508-6.6709-2.5508-9.2215 0z" style="fill-opacity:.5;fill:currentColor"/>
 	<g class="ColorScheme-Background" transform="rotate(45 14.682 4.5251)" style="fill:none;stroke-linecap:round;stroke-opacity:.85;stroke:currentColor">
 		<path d="m12.768 10.646 3.8891-3.8891"/>
 		<path d="m6.7574 16.657 3.8891-3.8891"/>
