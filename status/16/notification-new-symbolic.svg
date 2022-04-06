@@ -8,15 +8,15 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs>
-		<style id="current-color-scheme" type="text/css">
-			.ColorScheme-Background{color:#ffffff;}
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+		<style type="text/css">.ColorScheme-Background{color:#ffffff;}
 			.ColorScheme-Text{color:#090d11;}
 			.ColorScheme-Highlight{color:#2598e4;}
 			.ColorScheme-NegativeText {color:#f03489;}
 			.ColorScheme-PositiveText {color:#42a53b;}
-            .ColorScheme-NeutralText{color:#f2712c;}
-		</style>
+            .ColorScheme-NeutralText{color:#f2712c;}</style>
 	</defs>
-	<path id="b" class="ColorScheme-PositiveText success" d="m8 1c-2.216 0-4 1.784-4 4v4c0 1.1046-0.89543 2-2 2v1h12v-1c-1.1046 0-2-0.89543-2-2v-4c0-2.216-1.784-4-4-4zm-2 12c0 1.1046 0.89543 2 2 2s2-0.89543 2-2z" style="fill:currentColor"/>
+	<path id="b" class="ColorScheme-Text" d="m8 1c-2.216 0-4 1.784-4 4v4c0 1.1046-0.89543 2-2 2v1h12v-1c-1.1046 0-2-0.89543-2-2v-4c0-2.216-1.784-4-4-4zm0 1c1.6793 0 3 1.3207 3 3v4c0 0.35428 0.07331 0.68883 0.19727 1h-6.3945c0.12396-0.31117 0.19727-0.64572 0.19727-1v-4c0-1.6793 1.3207-3 3-3zm-2 11c0 1.1046 0.89543 2 2 2s2-0.89543 2-2z" style="fill-opacity:.75;fill:currentColor"/>
+	<path class="ColorScheme-NeutralText warning" d="m5.9999 2.5a2.4999 2.4999 0 0 1-2.4999 2.4999 2.4999 2.4999 0 0 1-2.4999-2.4999 2.4999 2.4999 0 0 1 2.4999-2.4999 2.4999 2.4999 0 0 1 2.4999 2.4999z" style="fill:currentColor"/>
 </svg>

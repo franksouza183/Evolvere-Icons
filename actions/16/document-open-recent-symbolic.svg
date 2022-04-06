@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="c" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata id="a">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -8,8 +12,5 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<defs>
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
-	</defs>
-	<path id="b" class="ColorScheme-Text" d="m8 1c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 1c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6zm0.5 1.5c-0.27614 0-0.5 0.22386-0.5 0.5v4.5c0 0.27614 0.22386 0.5 0.5 0.5 0.071714-0.0012384 0.14232-0.017891 0.20703-0.048828 0.094681 0.030769 0.19343 0.047226 0.29297 0.048828h2.5c0.55228 0 1-0.44772 1-1s-0.44772-1-1-1h-2.5v-3c0-0.27614-0.22386-0.5-0.5-0.5z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="d" class="ColorScheme-Text" d="m8.002 1c-3.8601 0-7 3.1399-7 7 0 3.86 3.1399 7 7 7 3.86 0 7-3.14 7-7 0-3.8601-3.14-7-7-7zm0 1c3.3196 0 6 2.6803 6 6 0 3.3196-2.6804 6-6 6s-6-2.6804-6-6c0-3.3197 2.6804-6 6-6zm0.55469 1.002c-0.27455-0.030844-0.52208 0.16683-0.55273 0.44141l-0.4043 3.6406c-0.36405 0.15914-0.5994 0.51868-0.59961 0.91602 1.538e-4 0.55224 0.44779 0.99987 1 1 0.55221-1.321e-4 0.99985-0.44776 1-1 5.844e-4 -0.31819-0.15025-0.61768-0.40625-0.80664l0.4043-3.6387c0.030844-0.27455-0.16683-0.52208-0.44141-0.55273zm-0.55664 4.6426c0.19652-5.084e-4 0.35597 0.15894 0.35547 0.35547-5.796e-4 0.19577-0.15971 0.35402-0.35547 0.35352-0.195-5.696e-4 -0.35294-0.15851-0.35352-0.35352-4.989e-4 -0.19577 0.15775-0.3549 0.35352-0.35547zm1.1875 0.83398c-0.13044 0.32155-0.38549 0.5766-0.70703 0.70703l1.7031 1.7031c0.19525 0.19521 0.51178 0.19521 0.70703 0 0.19521-0.19525 0.19521-0.51178 0-0.70703z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>
