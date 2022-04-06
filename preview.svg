@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="844.5"
-     inkscape:cy="105.5"
+     inkscape:cx="501.5"
+     inkscape:cy="140.5"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -1138,8 +1138,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/video-player.svg"
        id="image71539"
-       x="1649.46"
-       y="376.18597" />
+       x="1152.0369"
+       y="0" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -1367,8 +1367,8 @@
        style="image-rendering:optimizeQuality"
        xlink:href="apps/64/xfce4-clipman-plugin.svg"
        id="image81414"
-       x="1152.0002"
-       y="0" />
+       x="640.00012"
+       y="128" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -1427,8 +1427,8 @@
        style="image-rendering:optimizeQuality"
        xlink:href="apps/64/x-office-mail.svg"
        id="image86219"
-       x="1585.46"
-       y="184.186" />
+       x="960.00012"
+       y="128" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -1918,8 +1918,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/youtube.svg"
        id="image36120"
-       x="1457.46"
-       y="312.18597" />
+       x="192.03687"
+       y="683.10693" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -2076,16 +2076,6 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/video-player.svg"
-       id="image45365"
-       x="1521.46"
-       y="568.18597" />
-    <image
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="64"
-       height="64"
-       style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/video-editor.svg"
        id="image45564"
        x="2033.4601"
@@ -2179,16 +2169,6 @@
        xlink:href="apps/64/unity-sound-panel.svg"
        id="image50011"
        x="1457.46"
-       y="632.18597" />
-    <image
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="64"
-       height="64"
-       style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/unity-power-panel.svg"
-       id="image50295"
-       x="1521.46"
        y="632.18597" />
     <image
        preserveAspectRatio="none"
@@ -2459,16 +2439,6 @@
        xlink:href="apps/64/supercollider.svg"
        id="image56512"
        x="1969.4601"
-       y="760.18597" />
-    <image
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="64"
-       height="64"
-       style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/sun-java7.svg"
-       id="image56661"
-       x="2033.4601"
        y="760.18597" />
     <image
        preserveAspectRatio="none"
