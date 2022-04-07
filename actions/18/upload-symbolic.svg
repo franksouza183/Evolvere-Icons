@@ -11,5 +11,5 @@
 	<defs>
 		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
 	</defs>
-	<path id="e" class="ColorScheme-Text" d="m9 16-4.25-5h3.25v-9h2v9h3.25z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="e" class="ColorScheme-Text" d="m9 2-4.25 5h3.25v9h2v-9h3.25z" style="fill-opacity:.75;fill:currentColor"/>
 </svg>

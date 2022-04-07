@@ -1,1 +1,16 @@
-../../places/16/folder-downloads.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="g" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="a">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<path id="e" class="ColorScheme-Text" d="m9 16-4.25-5h3.25v-9h2v9h3.25z" style="fill-opacity:.75;fill:currentColor"/>
+	<path id="h" class="ColorScheme-Background" d="m9 17.25c-0.14858 2.42e-4 -0.28958-0.0656-0.38477-0.17969l-5-6c-0.17727-0.21239-0.14839-0.52835 0.064453-0.70508 0.21239-0.17727 0.52835-0.14839 0.70508 0.06445l4.6152 5.5391 4.6152-5.5391c0.17672-0.21284 0.49269-0.24173 0.70508-0.06445 0.21284 0.17672 0.24173 0.49269 0.06445 0.70508l-5 6c-0.095186 0.11408-0.23618 0.17993-0.38476 0.17969zm-1.5-6.25c-0.27614 0-0.5-0.22386-0.5-0.5v-8c0-0.27614 0.22386-0.5 0.5-0.5s0.5 0.22386 0.5 0.5v8c0 0.27614-0.22386 0.5-0.5 0.5zm3 0c-0.27614 0-0.5-0.22386-0.5-0.5v-8c0-0.27614 0.22386-0.5 0.5-0.5s0.5 0.22386 0.5 0.5v8c0 0.27614-0.22386 0.5-0.5 0.5z" style="fill-opacity:.5;fill:currentColor"/>
+</svg>
