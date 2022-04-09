@@ -2,40 +2,40 @@
   <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.png" alt="Evolvere icons"/>
 </p>
 
-# Evolvere Icons 2 for GNU/Linux
+# Evolvere Icons
 
 ### Flat with touches of realism.
 
-At the time, I intend icons with vibrant, but not so vivid colors, surrounded by ambient and directional lights. Although the icons tend to be more flat, my main art line is realism, so do not expect a lot of outlines out there, but shadows (albeit subtle)!
+Square, realistic shading (as far I can do), smooth colors and minimalist/monochromatic small icons.
 
-The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors. You can download the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
+The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors (I promise xD). You can play with the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
 
 Compatible with some windows (wine) applications.
 
 ## Installing
 
-Put the content of this repo into **~/.icons/evolvere-icons-2**
+Put the content of this repo into **~/.icons/evolvere-icons**
 
-System-wide: **/usr/share/icons/evolvere-icons-2**
+System wide: **/usr/share/icons/evolvere-icons**
 
 And choose it via your theming tool.
 
+## Missing icons
+
+Open an issue
+
 ## Notes
 
-1 - All icons with sizes smaller or equal to 24px are monochromatic, with very few exceptions such as emblems and some actions icons, thus preventing the break in consistency. So, if you see small colorful icons, it is because they haven't been adjusted yet or maybe it's hardcoded.
+1 - All icons with sizes smaller or equal to 24px are monochromatic, with very few exceptions, preventing consistency break. So, if you see small colorful icons, it is because they haven't been covered yet or maybe it's hardcoded.
 
 2 - The package is in the process of migrating to the new style, so expect icons with the old one. I am currently focusing on the most popular.
 
 3 - When using dark themes, the small icons will be visible by bright outlines.
 
-4 - When using dark themes, the small icons will be visible by bright outlines.
-
-5 - Open "preview.svg" in inkscape to see a live preview
+4 - Open "preview.svg" in inkscape for a "live" preview.
 
 ## Contributions
 
-If you have some idea and want to propose, do so by opening an issue.
-
-## Donations
+Open an issue, make a pull request or buy coffee.
 
 Paypal: franksouza183@gmail.com
