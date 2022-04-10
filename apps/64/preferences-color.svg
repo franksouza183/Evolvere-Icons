@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
-		<linearGradient id="e" x1="26.37" x2="28.117" y1="63.316" y2="54.565" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#ed2c48" offset="0"/>
+		<linearGradient id="e" x1="25.702" x2="29.801" y1="76.304" y2="28.605" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#df3a52" offset="0"/>
 			<stop stop-color="#ac0d2f" offset="1"/>
 		</linearGradient>
-		<linearGradient id="d" x1="26.273" x2="32.894" y1="49.757" y2="32.016" gradientUnits="userSpaceOnUse">
+		<linearGradient id="d" x1="17.275" x2="36.073" y1="65.998" y2="33.207" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#f69422" offset="0"/>
-			<stop stop-color="#f62248" offset="1"/>
+			<stop stop-color="#f67e1c" offset="1"/>
 		</linearGradient>
-		<linearGradient id="b" x1="36.869" x2="55.574" y1="30.503" y2="18.886" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#70cc21" offset="0"/>
-			<stop stop-color="#70cc21" stop-opacity="0" offset="1"/>
+		<linearGradient id="b" x1="37.642" x2="57.443" y1="29.865" y2="20.673" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#69bf1f" offset="0"/>
+			<stop stop-color="#179244" offset="1"/>
 		</linearGradient>
-		<linearGradient id="a" x1="45.779" x2="62.454" y1="21.618" y2="17.4" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#21de94" offset="0"/>
-			<stop stop-color="#21de94" stop-opacity="0" offset="1"/>
+		<linearGradient id="a" x1="42.64" x2="49.617" y1="23.595" y2="21.114" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#21de9e" offset="0"/>
+			<stop stop-color="#29cac3" offset="1"/>
 		</linearGradient>
-		<linearGradient id="c" x1="21.082" x2="32.251" y1="34.259" y2="21.71" gradientUnits="userSpaceOnUse">
+		<linearGradient id="c" x1="27.275" x2="41.196" y1="38.043" y2="26.311" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#e9c332" offset="0"/>
-			<stop stop-color="#ef5a84" offset="1"/>
+			<stop stop-color="#ef8812" offset="1"/>
 		</linearGradient>
 	</defs>
 	<metadata>
@@ -28,7 +28,6 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
@@ -41,13 +40,11 @@
 	<path d="m0 2v26.25l53.594 30.938c3.3242 1.9192 7.2193 1.9229 10.406 0.34375v-19.781l-61.906-37.75z" color="#000000" fill="url(#c)"/>
 	<path d="m1.9062 2 51.156 53.156c2.9161 3.0301 7.1866 3.9063 10.938 2.7812v-23l-30.938-32.938h-1.0625z" color="#000000" fill="url(#b)"/>
 	<path d="m26.406 2 27.188 49.125c2.1985 3.8079 6.3102 5.7912 10.406 5.4688v-31.5l-12.188-23.094h-19.812z" color="#000000" fill="url(#a)"/>
-	<path d="m43.531 2 11.625 45.375c1.1583 4.3228 4.7108 7.3196 8.8438 8v-53.375z" color="#000000" fill="#2484e8"/>
-	<path d="m57.625 2v42.125c0 4.4428 2.6037 8.2553 6.375 10v-52.125z" color="#000000" fill="#8344e3"/>
+	<path d="m43.531 2 11.625 45.375c1.1583 4.3228 4.7108 7.3196 8.8438 8v-53.375z" color="#000000" fill="#3a8bdf"/>
+	<path d="m57.625 2v42.125c0 4.4428 2.6037 8.2553 6.375 10v-52.125z" color="#000000" fill="#8e61d2"/>
 	<path d="m57.625 0v2h6.375v-1l-2-1z" color="#000000" fill="#d4baff"/>
-	<path transform="scale(-1,1)" d="m-57.625 0h5.8125v2h-5.8125z" color="#000000" fill="#8bd2ff"/>
-	<path d="m43.531 0h8.2812v2h-8.2812z" color="#000000" fill="#96e0ff"/>
-	<path transform="scale(-1,1)" d="m-43.531 0h10.469v2h-10.469z" color="#000000" fill="#90f9e4"/>
-	<path d="m26.406 0h6.6562v2h-6.6562z" color="#000000" fill="#9dffba"/>
+	<path d="m43.531 0v2h8.2812 5.8125v-2h-5.8125-8.2812z" fill="#8ed8ff"/>
+	<path d="m26.406 0v2h6.6562 10.469v-2h-10.469-6.6562z" fill="#90f9e4" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
 	<path transform="scale(-1,1)" d="m-26.406 0h24.406v2h-24.406z" color="#000000" fill="#b0ff8a"/>
 	<path d="m2 0-2 1v1h2z" color="#000000" fill="#fcf29a"/>
 	<path d="m0 1v3l2-2z" fill="#f8ee9a"/>
