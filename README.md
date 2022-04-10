@@ -36,6 +36,6 @@ Open an issue
 
 ## Contributions
 
-Open an issue, make a pull request or buy coffee.
+Open an issue, make a pull request or buy me coffee.
 
 Paypal: franksouza183@gmail.com
