@@ -22,7 +22,7 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="499.5"
-     inkscape:cy="118.5"
+     inkscape:cy="145.5"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -223,8 +223,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/gcr-key.svg"
        id="image8415"
-       x="704.00012"
-       y="0" />
+       x="128"
+       y="192" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -513,8 +513,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/pass.svg"
        id="image28203"
-       x="640.00012"
-       y="0" />
+       x="64"
+       y="192" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -583,7 +583,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/preferences-system.svg"
        id="image32547"
-       x="192"
+       x="256.00003"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -733,7 +733,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/utilities-terminal.svg"
        id="image42712"
-       x="384.00003"
+       x="448.00006"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -803,7 +803,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/kwrite.svg"
        id="image47091"
-       x="576.00012"
+       x="640.00012"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -883,7 +883,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/iso-mount.svg"
        id="image52478"
-       x="320.00003"
+       x="384.00006"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -943,7 +943,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/partition-manager.svg"
        id="image58170"
-       x="256.00003"
+       x="320.00006"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -1133,7 +1133,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/text-editor.svg"
        id="image22860"
-       x="512.00012"
+       x="576.00012"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -1143,7 +1143,7 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="mimetypes/64/executable.svg"
        id="image68349"
-       x="448.00003"
+       x="512.00006"
        y="0" />
     <image
        preserveAspectRatio="none"
@@ -1193,8 +1193,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/org.videolan.VLC.svg"
        id="image71677"
-       x="832.03687"
-       y="641.10693" />
+       x="768.03687"
+       y="769.10693" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -1673,8 +1673,8 @@
        style="image-rendering:optimizeQuality"
        xlink:href="apps/64/vmware-player.svg"
        id="image97834"
-       x="1521.46"
-       y="312.18597" />
+       x="832.03687"
+       y="641.10693" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -2114,8 +2114,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/web-google-drive.svg"
        id="image40451"
-       x="1585.4601"
-       y="504.18597" />
+       x="576.0368"
+       y="769.10693" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -2334,8 +2334,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/twitter.svg"
        id="image51270"
-       x="1969.4601"
-       y="632.18597" />
+       x="384"
+       y="1043.5331" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -3321,8 +3321,8 @@
        style="image-rendering:optimizeSpeed"
        xlink:href="apps/64/abiword.svg"
        id="image58860"
-       x="1905.4601"
-       y="440.18597" />
+       x="512.0368"
+       y="769.10693" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -4212,6 +4212,86 @@
        xlink:href="apps/64/audacious.svg"
        id="image46796"
        x="320.03687"
+       y="769.10693" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="mimetypes/64/chm.svg"
+       id="image47536"
+       x="832.03687"
+       y="769.10693" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="mimetypes/64/chm.svg"
+       id="image47216"
+       x="137.56581"
+       y="2054.6423" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="apps/64/plugins-general.svg"
+       id="image48218"
+       x="192.00003"
+       y="0" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="apps/64/catalyst-control-center.svg"
+       id="image47582"
+       x="896.03687"
+       y="769.10693" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="apps/64/lbry.svg"
+       id="image48169"
+       x="960.03687"
+       y="769.10693" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="apps/64/wine-browser.svg"
+       id="image48662"
+       x="1024.0369"
+       y="769.10693" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="apps/64/gcompris.svg"
+       id="image49433"
+       x="1088.0369"
+       y="769.10693" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="64"
+       height="64"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="apps/64/python.svg"
+       id="image50266"
+       x="1152.0369"
        y="769.10693" />
   </g>
 </svg>
