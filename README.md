@@ -12,6 +12,17 @@
 
 ---
 
+## Design
+
+- Minimalist / Monochromatic
+- Realistic Shading
+
+  *As far as I'm able to~*
+  
+- Smooth Colors
+- Square
+- Small
+
 Square, realistic shading (as far I can do), smooth colors and minimalist/monochromatic small icons.
 
 The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors (I promise xD). You can play with the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
