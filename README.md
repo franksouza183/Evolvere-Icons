@@ -18,16 +18,21 @@
 
 ---
 
+<br>
+
 ## Design
 
-- Minimalist / Monochromatic
-- Realistic Shading
+- **Minimalist / Monochromatic**
+
+- **Realistic Shading**
 
   *As far as I'm able to~*
   
-- Smooth Colors
-- Square
-- Small
+- **Smooth Colors**
+
+- **Square**
+
+- **Small**
 
 <br>
 
