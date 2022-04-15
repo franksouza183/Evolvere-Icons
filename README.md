@@ -1,3 +1,5 @@
+[![Badge License]][License]
+
 <div align = center>
 
 # Evolvere Icons
@@ -6,7 +8,7 @@
 
 <br>
 
-[![Badge License]][License]
+[![Badge Donate]][PayPal]
 
 <br>
 
@@ -111,16 +113,17 @@ in **[Inkscape]** for a *'live'* preview.
 
 Open an issue, make a pull request or buy me coffee.
 
-Paypal: franksouza183@gmail.com
 
 
 <!----------------------------------------------------------------------------->
 
+[Badge Donate]: https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white
 [Badge License]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 
 [Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
 
 [Inkscape]: https://inkscape.org/
+[PayPal]: https://www.paypal.com/paypalme/franksouza
 
 
 [Release]: https://github.com/franksouza183/Evolvere-Icons/releases
