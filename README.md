@@ -40,18 +40,6 @@
 
 <br>
 
-## Variants
-
-The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors (I promise xD). You can play with the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
-
-Compatible with some windows (wine) applications.
-
-<br>
-
----
-
-<br>
-
 ## Installation
 
 1. Download the latest **[Release]** .
@@ -77,6 +65,21 @@ Open an issue
 <br>
 
 ## Notes
+
+#### Variants
+
+The variants have been removed and will be replaced <br>
+with a script that will generate a custom theme with <br>
+the desired colors.
+
+> I promise xD
+
+
+You can still play with the **[Old Variants]**.
+
+*Compatible with some windows ( wine ) applications.*
+
+<br>
 
 #### Small Icons
 
@@ -130,6 +133,6 @@ Open an issue, make a pull request or buy me coffee.
 [Inkscape]: https://inkscape.org/
 [PayPal]: https://www.paypal.com/paypalme/franksouza
 
-
+[Old Variants]: https://github.com/franksouza183/EvolvereSuit
 [Release]: https://github.com/franksouza183/Evolvere-Icons/releases
 [License]: LICENSE
