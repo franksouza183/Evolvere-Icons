@@ -91,7 +91,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/system-file-manager.svg"
+       xlink:href="../apps/64/system-file-manager.svg"
        id="image244"
        x="64"
        y="0" />
@@ -101,7 +101,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/system-file-manager.svg"
+       xlink:href="../apps/64/system-file-manager.svg"
        id="image244-3"
        x="9.5658083"
        y="1990.6423" />
@@ -111,7 +111,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/org.xfce.thunar.svg"
+       xlink:href="../apps/64/org.xfce.thunar.svg"
        id="image1338"
        x="128"
        y="0" />
@@ -121,7 +121,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/vpaint.svg"
+       xlink:href="../apps/64/vpaint.svg"
        id="image1925"
        x="1152.0369"
        y="641.10693" />
@@ -131,7 +131,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/grisbi.svg"
+       xlink:href="../apps/64/grisbi.svg"
        id="image2530"
        x="192.03687"
        y="577.10693" />
@@ -141,7 +141,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/fs-uae-launcher.svg"
+       xlink:href="../apps/64/fs-uae-launcher.svg"
        id="image3012"
        x="64.036865"
        y="641.10693" />
@@ -151,7 +151,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/fs-uae.svg"
+       xlink:href="../apps/64/fs-uae.svg"
        id="image3674"
        x="0.036865234"
        y="641.10693" />
@@ -161,7 +161,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/vivaldi.svg"
+       xlink:href="../apps/64/vivaldi.svg"
        id="image4329"
        x="192"
        y="846.30719" />
@@ -171,7 +171,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/mendeleydesktop.svg"
+       xlink:href="../apps/64/mendeleydesktop.svg"
        id="image4976"
        x="320.03687"
        y="641.10693" />
@@ -181,7 +181,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/unity-webapps-telegram.svg"
+       xlink:href="../apps/64/unity-webapps-telegram.svg"
        id="image5648"
        x="64"
        y="1171.5331" />
@@ -191,7 +191,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/virtualbox.svg"
+       xlink:href="../apps/64/virtualbox.svg"
        id="image6650"
        x="704.03687"
        y="641.10693" />
@@ -201,7 +201,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/riseup-vpn.svg"
+       xlink:href="../apps/64/riseup-vpn.svg"
        id="image7194"
        x="0.036865234"
        y="705.10693" />
@@ -211,7 +211,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-activities.svg"
+       xlink:href="../apps/64/preferences-desktop-activities.svg"
        id="image7801"
        x="128"
        y="357.71765" />
@@ -221,7 +221,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/gcr-key.svg"
+       xlink:href="../apps/64/gcr-key.svg"
        id="image8415"
        x="128"
        y="192" />
@@ -231,7 +231,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/mpv.svg"
+       xlink:href="../apps/64/mpv.svg"
        id="image9084"
        x="448.0369"
        y="577.10693" />
@@ -241,7 +241,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/gloobus-preview.svg"
+       xlink:href="../apps/64/gloobus-preview.svg"
        id="image9537"
        x="384.03687"
        y="641.10693" />
@@ -251,7 +251,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kvantum.svg"
+       xlink:href="../apps/64/kvantum.svg"
        id="image10103"
        x="320.0369"
        y="577.10693" />
@@ -261,7 +261,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-notification.svg"
+       xlink:href="../apps/64/preferences-desktop-notification.svg"
        id="image11561"
        x="64"
        y="64" />
@@ -271,7 +271,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/qbittorrent.svg"
+       xlink:href="../apps/64/qbittorrent.svg"
        id="image12030"
        x="512.03687"
        y="577.10693" />
@@ -281,7 +281,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/qalculate.svg"
+       xlink:href="../apps/64/qalculate.svg"
        id="image12665"
        x="448.03683"
        y="641.10693" />
@@ -291,7 +291,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/xscreensaver.svg"
+       xlink:href="../apps/64/xscreensaver.svg"
        id="image13328"
        x="448"
        y="421.71765" />
@@ -301,7 +301,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/unity-display-panel.svg"
+       xlink:href="../apps/64/unity-display-panel.svg"
        id="image14119"
        x="64"
        y="357.71765" />
@@ -311,7 +311,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/virtual-keyboard.svg"
+       xlink:href="../apps/64/virtual-keyboard.svg"
        id="image14810"
        x="192"
        y="357.71765" />
@@ -321,7 +321,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/xfce4-appfinder.svg"
+       xlink:href="../apps/64/xfce4-appfinder.svg"
        id="image15365"
        x="256"
        y="357.71765" />
@@ -331,7 +331,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kruler.svg"
+       xlink:href="../apps/64/kruler.svg"
        id="image15980"
        x="320"
        y="357.71765" />
@@ -341,7 +341,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/xfce4-panel.svg"
+       xlink:href="../apps/64/xfce4-panel.svg"
        id="image16678"
        x="384"
        y="357.71765" />
@@ -351,7 +351,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/screenshot.svg"
+       xlink:href="../apps/64/screenshot.svg"
        id="image17276"
        x="448"
        y="357.71765" />
@@ -361,7 +361,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system-login.svg"
+       xlink:href="../apps/64/preferences-system-login.svg"
        id="image17930"
        x="512"
        y="357.71765" />
@@ -371,7 +371,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-theme-global.svg"
+       xlink:href="../apps/64/preferences-desktop-theme-global.svg"
        id="image18583"
        x="640"
        y="357.71765" />
@@ -381,7 +381,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-plasma.svg"
+       xlink:href="../apps/64/preferences-desktop-plasma.svg"
        id="image19322"
        x="576"
        y="357.71765" />
@@ -391,7 +391,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-plasma-theme.svg"
+       xlink:href="../apps/64/preferences-desktop-plasma-theme.svg"
        id="image19930"
        x="704"
        y="357.71765" />
@@ -401,7 +401,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-notification-bell.svg"
+       xlink:href="../apps/64/preferences-desktop-notification-bell.svg"
        id="image20596"
        x="1152.0001"
        y="357.71765" />
@@ -411,7 +411,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-gestures-touch.svg"
+       xlink:href="../apps/64/preferences-desktop-gestures-touch.svg"
        id="image21171"
        x="1088.0001"
        y="357.71765" />
@@ -421,7 +421,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-gestures-screenedges.svg"
+       xlink:href="../apps/64/preferences-desktop-gestures-screenedges.svg"
        id="image21812"
        x="1024"
        y="357.71765" />
@@ -431,7 +431,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-wallpaper.svg"
+       xlink:href="../apps/64/preferences-desktop-wallpaper.svg"
        id="image22512"
        x="0"
        y="421.71765" />
@@ -441,7 +441,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/cs-desktop.svg"
+       xlink:href="../apps/64/cs-desktop.svg"
        id="image23279"
        x="64"
        y="421.71765" />
@@ -451,7 +451,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-effetcs.svg"
+       xlink:href="../apps/64/preferences-desktop-effetcs.svg"
        id="image24240"
        x="192"
        y="421.71765" />
@@ -461,7 +461,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/krdc.svg"
+       xlink:href="../apps/64/krdc.svg"
        id="image25062"
        x="128"
        y="421.71765" />
@@ -471,7 +471,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/system-session.svg"
+       xlink:href="../apps/64/system-session.svg"
        id="image25736"
        x="832"
        y="357.71765" />
@@ -481,7 +481,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/screen_magnifier.svg"
+       xlink:href="../apps/64/screen_magnifier.svg"
        id="image26379"
        x="768"
        y="357.71765" />
@@ -491,7 +491,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-cursors.svg"
+       xlink:href="../apps/64/preferences-desktop-cursors.svg"
        id="image27009"
        x="256"
        y="421.71765" />
@@ -501,7 +501,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/user.svg"
+       xlink:href="../apps/64/user.svg"
        id="image27574"
        x="896"
        y="357.71765" />
@@ -511,7 +511,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/pass.svg"
+       xlink:href="../apps/64/pass.svg"
        id="image28203"
        x="64"
        y="192" />
@@ -521,7 +521,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/blender.svg"
+       xlink:href="../apps/64/blender.svg"
        id="image29014"
        x="64.036865"
        y="577.10693" />
@@ -531,7 +531,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/multimidia.svg"
+       xlink:href="../apps/64/multimidia.svg"
        id="image29718"
        x="1088.0002"
        y="0" />
@@ -541,7 +541,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/tor-browser.svg"
+       xlink:href="../apps/64/tor-browser.svg"
        id="image30395"
        x="64"
        y="846.30719" />
@@ -551,7 +551,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/brave.svg"
+       xlink:href="../apps/64/brave.svg"
        id="image30978"
        x="384"
        y="846.30719" />
@@ -561,7 +561,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/address-book.svg"
+       xlink:href="../apps/64/address-book.svg"
        id="image31411"
        x="256.00003"
        y="64" />
@@ -571,7 +571,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/fontforge.svg"
+       xlink:href="../apps/64/fontforge.svg"
        id="image31794"
        x="192.03687"
        y="705.10693" />
@@ -581,7 +581,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system.svg"
+       xlink:href="../apps/64/preferences-system.svg"
        id="image32547"
        x="256.00003"
        y="0" />
@@ -591,7 +591,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system.svg"
+       xlink:href="../apps/64/preferences-system.svg"
        id="image32547-5"
        x="201.56581"
        y="1990.6423" />
@@ -601,7 +601,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/music-player.svg"
+       xlink:href="../apps/64/music-player.svg"
        id="image34354"
        x="1024.0002"
        y="0" />
@@ -611,7 +611,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-desktop-filetype-association.svg"
+       xlink:href="../apps/64/preferences-desktop-filetype-association.svg"
        id="image34808"
        x="512.00012"
        y="64" />
@@ -621,7 +621,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/librewolf.svg"
+       xlink:href="../apps/64/librewolf.svg"
        id="image35152"
        x="128"
        y="846.30719" />
@@ -631,7 +631,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/converseen.svg"
+       xlink:href="../apps/64/converseen.svg"
        id="image35584"
        x="192.03687"
        y="641.10693" />
@@ -641,7 +641,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/pdfarranger.svg"
+       xlink:href="../apps/64/pdfarranger.svg"
        id="image36197"
        x="256.0369"
        y="577.10693" />
@@ -651,7 +651,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/balena-etcher-electron.svg"
+       xlink:href="../apps/64/balena-etcher-electron.svg"
        id="image37390"
        x="512.03687"
        y="641.10693" />
@@ -661,7 +661,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/mupdf.svg"
+       xlink:href="../apps/64/mupdf.svg"
        id="image38047"
        x="256.03687"
        y="705.10693" />
@@ -671,7 +671,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/rkward.svg"
+       xlink:href="../apps/64/rkward.svg"
        id="image38790"
        x="256.03687"
        y="641.10693" />
@@ -681,7 +681,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/octave.svg"
+       xlink:href="../apps/64/octave.svg"
        id="image39308"
        x="512.0368"
        y="705.10693" />
@@ -691,7 +691,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/scilab.svg"
+       xlink:href="../apps/64/scilab.svg"
        id="image40137"
        x="576.0368"
        y="705.10693" />
@@ -701,7 +701,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/timeshift.svg"
+       xlink:href="../apps/64/timeshift.svg"
        id="image40966"
        x="320.03687"
        y="705.10693" />
@@ -711,7 +711,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/keybase.svg"
+       xlink:href="../apps/64/keybase.svg"
        id="image41392"
        x="384.03687"
        y="705.10693" />
@@ -721,7 +721,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/visual-studio-code.svg"
+       xlink:href="../apps/64/visual-studio-code.svg"
        id="image41974"
        x="448.03687"
        y="705.10693" />
@@ -731,7 +731,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/utilities-terminal.svg"
+       xlink:href="../apps/64/utilities-terminal.svg"
        id="image42712"
        x="448.00006"
        y="0" />
@@ -741,7 +741,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/openbox.svg"
+       xlink:href="../apps/64/openbox.svg"
        id="image43479"
        x="640.03687"
        y="577.10693" />
@@ -751,7 +751,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/keepassxc.svg"
+       xlink:href="../apps/64/keepassxc.svg"
        id="image44027"
        x="832.00012"
        y="0" />
@@ -761,7 +761,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/filezilla.svg"
+       xlink:href="../apps/64/filezilla.svg"
        id="image44780"
        x="832.03687"
        y="705.10693" />
@@ -771,7 +771,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/deepin-voice-note.svg"
+       xlink:href="../apps/64/deepin-voice-note.svg"
        id="image45285"
        x="384.0369"
        y="577.10693" />
@@ -781,7 +781,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/briar-desktop.svg"
+       xlink:href="../apps/64/briar-desktop.svg"
        id="image46174"
        x="0"
        y="1107.5331" />
@@ -791,7 +791,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/session-desktop.svg"
+       xlink:href="../apps/64/session-desktop.svg"
        id="image46625"
        x="127.99994"
        y="1107.5331" />
@@ -801,7 +801,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kwrite.svg"
+       xlink:href="../apps/64/kwrite.svg"
        id="image47091"
        x="640.00012"
        y="0" />
@@ -811,7 +811,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/simplenote.svg"
+       xlink:href="../apps/64/simplenote.svg"
        id="image47718"
        x="640.03687"
        y="641.10693" />
@@ -821,7 +821,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/featherpad.svg"
+       xlink:href="../apps/64/featherpad.svg"
        id="image48419"
        x="896.03687"
        y="641.10693" />
@@ -831,7 +831,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/lutris.svg"
+       xlink:href="../apps/64/lutris.svg"
        id="image49303"
        x="0.036865234"
        y="577.10693" />
@@ -841,7 +841,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/cockos-reaper.svg"
+       xlink:href="../apps/64/cockos-reaper.svg"
        id="image50045"
        x="128.03687"
        y="705.10693" />
@@ -851,7 +851,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/mark-location.svg"
+       xlink:href="../apps/64/mark-location.svg"
        id="image50719"
        x="128.03687"
        y="641.10693" />
@@ -861,7 +861,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/webstorm.svg"
+       xlink:href="../apps/64/webstorm.svg"
        id="image51260"
        x="704.03687"
        y="705.10693" />
@@ -871,7 +871,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/clion.svg"
+       xlink:href="../apps/64/clion.svg"
        id="image51745"
        x="640.03687"
        y="705.10693" />
@@ -881,7 +881,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/iso-mount.svg"
+       xlink:href="../apps/64/iso-mount.svg"
        id="image52478"
        x="384.00006"
        y="0" />
@@ -891,7 +891,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/maps.svg"
+       xlink:href="../apps/64/maps.svg"
        id="image53658"
        x="128"
        y="64" />
@@ -901,7 +901,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ktorrent.svg"
+       xlink:href="../apps/64/ktorrent.svg"
        id="image54397"
        x="576.03687"
        y="577.10693" />
@@ -911,7 +911,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/digikam.svg"
+       xlink:href="../apps/64/digikam.svg"
        id="image55017"
        x="768.00012"
        y="0" />
@@ -921,7 +921,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/obs.svg"
+       xlink:href="../apps/64/obs.svg"
        id="image55890"
        x="576.03687"
        y="641.10693" />
@@ -931,7 +931,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/hardware.svg"
+       xlink:href="../apps/64/hardware.svg"
        id="image56546"
        x="704.00012"
        y="128" />
@@ -941,7 +941,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/partition-manager.svg"
+       xlink:href="../apps/64/partition-manager.svg"
        id="image58170"
        x="320.00006"
        y="0" />
@@ -951,7 +951,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-plugin.svg"
+       xlink:href="../apps/64/preferences-plugin.svg"
        id="image59369"
        x="448.00003"
        y="64" />
@@ -961,7 +961,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/exfalso.svg"
+       xlink:href="../apps/64/exfalso.svg"
        id="image59940"
        x="128.03687"
        y="577.10693" />
@@ -971,7 +971,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/printer.svg"
+       xlink:href="../apps/64/printer.svg"
        id="image60487"
        x="896.00012"
        y="0" />
@@ -981,7 +981,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/charmap.svg"
+       xlink:href="../apps/64/charmap.svg"
        id="image61104"
        x="384.00003"
        y="64" />
@@ -991,7 +991,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/knotes.svg"
+       xlink:href="../apps/64/knotes.svg"
        id="image61385"
        x="0"
        y="64" />
@@ -1001,7 +1001,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/zeal.svg"
+       xlink:href="../apps/64/zeal.svg"
        id="image61753"
        x="1024.0369"
        y="641.10693" />
@@ -1011,7 +1011,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/nheko.svg"
+       xlink:href="../apps/64/nheko.svg"
        id="image62104"
        x="64"
        y="1107.5331" />
@@ -1021,7 +1021,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/stoken-gui.svg"
+       xlink:href="../apps/64/stoken-gui.svg"
        id="image62671"
        x="960.03687"
        y="641.10693" />
@@ -1031,7 +1031,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ubuntu-mate.svg"
+       xlink:href="../apps/64/ubuntu-mate.svg"
        id="image63677"
        x="0"
        y="910.30719" />
@@ -1041,7 +1041,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/mate-desktop.svg"
+       xlink:href="../apps/64/mate-desktop.svg"
        id="image64200"
        x="64"
        y="910.30719" />
@@ -1051,7 +1051,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/qt.svg"
+       xlink:href="../apps/64/qt.svg"
        id="image64678"
        x="1585.46"
        y="248.18599" />
@@ -1061,7 +1061,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/designer-qt4.svg"
+       xlink:href="../apps/64/designer-qt4.svg"
        id="image64984"
        x="1457.46"
        y="248.18599" />
@@ -1071,7 +1071,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/qdbusviewer-qt4.svg"
+       xlink:href="../apps/64/qdbusviewer-qt4.svg"
        id="image65369"
        x="1521.46"
        y="248.18599" />
@@ -1081,7 +1081,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/applications-other.svg"
+       xlink:href="../apps/64/applications-other.svg"
        id="image65697"
        x="192"
        y="128" />
@@ -1091,7 +1091,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/zotero.svg"
+       xlink:href="../apps/64/zotero.svg"
        id="image66020"
        x="1713.4601"
        y="248.18599" />
@@ -1101,7 +1101,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/zeronet.svg"
+       xlink:href="../apps/64/zeronet.svg"
        id="image66244"
        x="1841.4601"
        y="184.186" />
@@ -1111,7 +1111,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/yandex-browser.svg"
+       xlink:href="../apps/64/yandex-browser.svg"
        id="image66867"
        x="256"
        y="846.30719" />
@@ -1121,7 +1121,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/xreader.svg"
+       xlink:href="../apps/64/xreader.svg"
        id="image67540"
        x="192"
        y="64" />
@@ -1131,7 +1131,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/text-editor.svg"
+       xlink:href="../apps/64/text-editor.svg"
        id="image22860"
        x="576.00012"
        y="0" />
@@ -1141,7 +1141,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/executable.svg"
+       xlink:href="../mimetypes/64/executable.svg"
        id="image68349"
        x="512.00006"
        y="0" />
@@ -1151,7 +1151,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/firefox.svg"
+       xlink:href="../apps/64/firefox.svg"
        id="image69766"
        x="320"
        y="846.30719" />
@@ -1161,7 +1161,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/firefox.svg"
+       xlink:href="../apps/64/firefox.svg"
        id="image69766-7"
        x="777.5658"
        y="1990.6423" />
@@ -1171,7 +1171,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/web-browser.svg"
+       xlink:href="../apps/64/web-browser.svg"
        id="image70637"
        x="0"
        y="846.30719" />
@@ -1181,7 +1181,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/video-player.svg"
+       xlink:href="../apps/64/video-player.svg"
        id="image71539"
        x="1152.0369"
        y="0" />
@@ -1191,7 +1191,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/org.videolan.VLC.svg"
+       xlink:href="../apps/64/org.videolan.VLC.svg"
        id="image71677"
        x="768.03687"
        y="769.10693" />
@@ -1201,7 +1201,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/keyboard.svg"
+       xlink:href="../apps/64/keyboard.svg"
        id="image72147"
        x="320.00003"
        y="64" />
@@ -1211,7 +1211,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/zen-icon.svg"
+       xlink:href="../apps/64/zen-icon.svg"
        id="image72594"
        x="1457.46"
        y="376.18597" />
@@ -1221,7 +1221,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/yast.svg"
+       xlink:href="../apps/64/yast.svg"
        id="image72695"
        x="768.03687"
        y="705.10693" />
@@ -1231,7 +1231,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xubuntu-logo.svg"
+       xlink:href="../apps/64/xubuntu-logo.svg"
        id="image72897"
        x="128"
        y="910.30719" />
@@ -1241,7 +1241,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/yakuake.svg"
+       xlink:href="../apps/64/yakuake.svg"
        id="image73290"
        x="2033.4601"
        y="248.18599" />
@@ -1251,7 +1251,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/yast-firewall.svg"
+       xlink:href="../apps/64/yast-firewall.svg"
        id="image73562"
        x="640.00012"
        y="64" />
@@ -1261,7 +1261,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/yast-firewall.svg"
+       xlink:href="../apps/64/yast-firewall.svg"
        id="image73562-3"
        x="329.81818"
        y="1990.6423" />
@@ -1271,7 +1271,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xviewer.svg"
+       xlink:href="../apps/64/xviewer.svg"
        id="image74758"
        x="1905.4601"
        y="184.186" />
@@ -1281,7 +1281,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xsane.svg"
+       xlink:href="../apps/64/xsane.svg"
        id="image76204"
        x="1713.4601"
        y="376.18597" />
@@ -1291,7 +1291,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xojo.svg"
+       xlink:href="../apps/64/xojo.svg"
        id="image76589"
        x="1905.4601"
        y="312.18597" />
@@ -1301,7 +1301,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xorg.svg"
+       xlink:href="../apps/64/xorg.svg"
        id="image76814"
        x="448.00003"
        y="128" />
@@ -1311,7 +1311,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xonotic.svg"
+       xlink:href="../apps/64/xonotic.svg"
        id="image77052"
        x="2033.4601"
        y="184.186" />
@@ -1321,7 +1321,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xnoise.svg"
+       xlink:href="../apps/64/xnoise.svg"
        id="image77764"
        x="1969.4601"
        y="248.18599" />
@@ -1331,7 +1331,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xn-lastfm.svg"
+       xlink:href="../apps/64/xn-lastfm.svg"
        id="image77869"
        x="192"
        y="1043.5331" />
@@ -1341,7 +1341,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xmind.svg"
+       xlink:href="../apps/64/xmind.svg"
        id="image77945"
        x="1649.46"
        y="248.18599" />
@@ -1351,7 +1351,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce4-mixer.svg"
+       xlink:href="../apps/64/xfce4-mixer.svg"
        id="image78111"
        x="768.00012"
        y="64" />
@@ -1361,7 +1361,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce4-dict.svg"
+       xlink:href="../apps/64/xfce4-dict.svg"
        id="image78752"
        x="1152.0369"
        y="577.10693" />
@@ -1371,7 +1371,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce4-dict.svg"
+       xlink:href="../apps/64/xfce4-dict.svg"
        id="image78752-1"
        x="585.5658"
        y="1990.6423" />
@@ -1381,7 +1381,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce-schedule.svg"
+       xlink:href="../apps/64/xfce-schedule.svg"
        id="image79061"
        x="1649.46"
        y="184.186" />
@@ -1391,7 +1391,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce4-color-settings.svg"
+       xlink:href="../apps/64/xfce4-color-settings.svg"
        id="image79502"
        x="0"
        y="192" />
@@ -1401,7 +1401,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce-sensors.svg"
+       xlink:href="../apps/64/xfce-sensors.svg"
        id="image79855"
        x="1777.4601"
        y="184.186" />
@@ -1411,7 +1411,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfcalendar.svg"
+       xlink:href="../apps/64/xfcalendar.svg"
        id="image80309"
        x="1969.4601"
        y="184.186" />
@@ -1421,7 +1421,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xfce4-clipman-plugin.svg"
+       xlink:href="../apps/64/xfce4-clipman-plugin.svg"
        id="image81414"
        x="640.00012"
        y="128" />
@@ -1431,7 +1431,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xbmc.svg"
+       xlink:href="../apps/64/xbmc.svg"
        id="image84417"
        x="1777.4601"
        y="248.18599" />
@@ -1441,7 +1441,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xchat.svg"
+       xlink:href="../apps/64/xchat.svg"
        id="image84613"
        x="1024.0369"
        y="577.10693" />
@@ -1451,7 +1451,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xchat-gnome.svg"
+       xlink:href="../apps/64/xchat-gnome.svg"
        id="image84685"
        x="1969.4601"
        y="312.18597" />
@@ -1461,7 +1461,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wxmaxima.svg"
+       xlink:href="../apps/64/wxmaxima.svg"
        id="image84778"
        x="2033.4601"
        y="312.18597" />
@@ -1471,7 +1471,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/xcfa.svg"
+       xlink:href="../apps/64/xcfa.svg"
        id="image85556"
        x="896.03687"
        y="577.10693" />
@@ -1481,7 +1481,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/x-office-mail.svg"
+       xlink:href="../apps/64/x-office-mail.svg"
        id="image86219"
        x="960.00012"
        y="128" />
@@ -1491,7 +1491,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wuala.svg"
+       xlink:href="../apps/64/wuala.svg"
        id="image86917"
        x="1649.46"
        y="312.18597" />
@@ -1501,7 +1501,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wps-office-wpsmain.svg"
+       xlink:href="../apps/64/wps-office-wpsmain.svg"
        id="image88496"
        x="1777.4601"
        y="312.18597" />
@@ -1511,7 +1511,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wps-office-wppmain.svg"
+       xlink:href="../apps/64/wps-office-wppmain.svg"
        id="image88623"
        x="1713.4601"
        y="312.18597" />
@@ -1521,7 +1521,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wps-office-etmain.svg"
+       xlink:href="../apps/64/wps-office-etmain.svg"
        id="image88750"
        x="1841.4601"
        y="312.18597" />
@@ -1531,7 +1531,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/WorldOfGoo.svg"
+       xlink:href="../apps/64/WorldOfGoo.svg"
        id="image88875"
        x="1777.4601"
        y="376.18597" />
@@ -1541,7 +1541,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/workspace-switcher-top-left.svg"
+       xlink:href="../apps/64/workspace-switcher-top-left.svg"
        id="image89002"
        x="1905.4601"
        y="376.18597" />
@@ -1551,7 +1551,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/workspace-switcher-right-top.svg"
+       xlink:href="../apps/64/workspace-switcher-right-top.svg"
        id="image89177"
        x="1969.4601"
        y="376.18597" />
@@ -1561,7 +1561,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/workspace-switcher-right-bottom.svg"
+       xlink:href="../apps/64/workspace-switcher-right-bottom.svg"
        id="image89361"
        x="2033.4601"
        y="440.18597" />
@@ -1571,7 +1571,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/workspace-switcher-left-bottom.svg"
+       xlink:href="../apps/64/workspace-switcher-left-bottom.svg"
        id="image89468"
        x="2033.4601"
        y="376.18597" />
@@ -1581,7 +1581,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wordpad.svg"
+       xlink:href="../apps/64/wordpad.svg"
        id="image89704"
        x="1969.4601"
        y="440.18597" />
@@ -1591,7 +1591,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wolfram-mathematica.svg"
+       xlink:href="../apps/64/wolfram-mathematica.svg"
        id="image90148"
        x="1841.4601"
        y="376.18597" />
@@ -1601,7 +1601,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wine.svg"
+       xlink:href="../apps/64/wine.svg"
        id="image90343"
        x="1713.4601"
        y="440.18597" />
@@ -1611,7 +1611,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wine-java1.svg"
+       xlink:href="../apps/64/wine-java1.svg"
        id="image90656"
        x="1088.0369"
        y="641.10693" />
@@ -1621,7 +1621,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/whiskermenu-manjaro.svg"
+       xlink:href="../apps/64/whiskermenu-manjaro.svg"
        id="image91078"
        x="1585.46"
        y="376.18597" />
@@ -1631,7 +1631,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/web-browser-cache.svg"
+       xlink:href="../apps/64/web-browser-cache.svg"
        id="image91450"
        x="1024.0001"
        y="128" />
@@ -1641,7 +1641,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/wallet.svg"
+       xlink:href="../apps/64/wallet.svg"
        id="image91808"
        x="576.00012"
        y="64" />
@@ -1651,7 +1651,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/warzone2100.svg"
+       xlink:href="../apps/64/warzone2100.svg"
        id="image96115"
        x="1585.46"
        y="312.18597" />
@@ -1661,7 +1661,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/vokoscreen.svg"
+       xlink:href="../apps/64/vokoscreen.svg"
        id="image97555"
        x="1713.4601"
        y="184.186" />
@@ -1671,7 +1671,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/vmware-player.svg"
+       xlink:href="../apps/64/vmware-player.svg"
        id="image97834"
        x="832.03687"
        y="641.10693" />
@@ -1681,7 +1681,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/viewnior.svg"
+       xlink:href="../apps/64/viewnior.svg"
        id="image98004"
        x="704.03687"
        y="577.10693" />
@@ -1691,7 +1691,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeQuality"
-       xlink:href="apps/64/vmware-workstation.svg"
+       xlink:href="../apps/64/vmware-workstation.svg"
        id="image98454"
        x="768.03687"
        y="641.10693" />
@@ -1701,7 +1701,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/io.github.celluloid_player.Celluloid.svg"
+       xlink:href="../apps/64/io.github.celluloid_player.Celluloid.svg"
        id="image20019"
        x="768.03687"
        y="577.10693" />
@@ -1711,7 +1711,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/google-chrome.svg"
+       xlink:href="../apps/64/google-chrome.svg"
        id="image20854"
        x="448.00003"
        y="846.30719" />
@@ -1721,7 +1721,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/google-chrome.svg"
+       xlink:href="../apps/64/google-chrome.svg"
        id="image20854-0"
        x="905.5658"
        y="1990.6423" />
@@ -1731,7 +1731,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/neochat.svg"
+       xlink:href="../apps/64/neochat.svg"
        id="image21803"
        x="191.99994"
        y="1107.5331" />
@@ -1741,7 +1741,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ocr.svg"
+       xlink:href="../apps/64/ocr.svg"
        id="image22316"
        x="704.00012"
        y="64" />
@@ -1751,7 +1751,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/microphone.svg"
+       xlink:href="../apps/64/microphone.svg"
        id="image44651"
        x="832.00012"
        y="64" />
@@ -1761,7 +1761,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kscd.svg"
+       xlink:href="../apps/64/kscd.svg"
        id="image60647"
        x="832.03687"
        y="577.10693" />
@@ -1771,7 +1771,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/brasero.svg"
+       xlink:href="../apps/64/brasero.svg"
        id="image62438"
        x="960.00012"
        y="64" />
@@ -1781,7 +1781,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/hexchat.svg"
+       xlink:href="../apps/64/hexchat.svg"
        id="image65623"
        x="960.03687"
        y="577.10693" />
@@ -1791,7 +1791,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/git-annex.svg"
+       xlink:href="../apps/64/git-annex.svg"
        id="image23277"
        x="1088.0369"
        y="577.10693" />
@@ -1812,7 +1812,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/git.svg"
+       xlink:href="../apps/64/git.svg"
        id="image23157"
        x="896.03687"
        y="705.10693" />
@@ -1822,7 +1822,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/gitg.svg"
+       xlink:href="../apps/64/gitg.svg"
        id="image23223"
        x="1457.46"
        y="184.186" />
@@ -1832,7 +1832,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/opentoonz.svg"
+       xlink:href="../apps/64/opentoonz.svg"
        id="image23806"
        x="1521.46"
        y="184.186" />
@@ -1842,7 +1842,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/scribus.svg"
+       xlink:href="../apps/64/scribus.svg"
        id="image23441"
        x="960.03687"
        y="705.10693" />
@@ -1852,7 +1852,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/users.svg"
+       xlink:href="../apps/64/users.svg"
        id="image24331"
        x="960"
        y="357.71765" />
@@ -1862,7 +1862,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/start-button.svg"
+       xlink:href="../apps/64/start-button.svg"
        id="image25163"
        x="1024.0002"
        y="64" />
@@ -1872,7 +1872,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/start-button.svg"
+       xlink:href="../apps/64/start-button.svg"
        id="image25163-6"
        x="73.565811"
        y="1990.6423" />
@@ -1882,7 +1882,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/usb-creator.svg"
+       xlink:href="../apps/64/usb-creator.svg"
        id="image26279"
        x="1088.0002"
        y="64" />
@@ -1892,7 +1892,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system-splash.svg"
+       xlink:href="../apps/64/preferences-system-splash.svg"
        id="image28064"
        x="320"
        y="421.71765" />
@@ -1902,7 +1902,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system-applets.svg"
+       xlink:href="../apps/64/preferences-system-applets.svg"
        id="image29040"
        x="384"
        y="421.71765" />
@@ -1912,7 +1912,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/cs-tiling.svg"
+       xlink:href="../apps/64/cs-tiling.svg"
        id="image31849"
        x="128.03687"
        y="769.10693" />
@@ -1922,7 +1922,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="actions/64/download.svg"
+       xlink:href="../actions/64/download.svg"
        id="image29936"
        x="64.036865"
        y="705.10693" />
@@ -1932,7 +1932,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/help-contents.svg"
+       xlink:href="../apps/64/help-contents.svg"
        id="image30833"
        x="1152.0002"
        y="64" />
@@ -1942,7 +1942,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/emacs.svg"
+       xlink:href="../apps/64/emacs.svg"
        id="image31270"
        x="1024.0369"
        y="705.10693" />
@@ -1952,7 +1952,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system-windows-actions.svg"
+       xlink:href="../apps/64/preferences-system-windows-actions.svg"
        id="image32644"
        x="64.036865"
        y="769.10693" />
@@ -1962,7 +1962,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system-windows-actions.svg"
+       xlink:href="../apps/64/preferences-system-windows-actions.svg"
        id="image32644-5"
        x="393.81818"
        y="1990.6423" />
@@ -1972,7 +1972,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences-system-windows-movement.svg"
+       xlink:href="../apps/64/preferences-system-windows-movement.svg"
        id="image33151"
        x="0.036865234"
        y="769.10693" />
@@ -1982,7 +1982,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/x-system-software-sources.svg"
+       xlink:href="../apps/64/x-system-software-sources.svg"
        id="image33741"
        x="64"
        y="128" />
@@ -1992,7 +1992,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/xarchiver.svg"
+       xlink:href="../apps/64/xarchiver.svg"
        id="image34597"
        x="1841.4601"
        y="440.18597" />
@@ -2002,7 +2002,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/xarchiver.svg"
+       xlink:href="../apps/64/xarchiver.svg"
        id="image34597-2"
        x="521.5658"
        y="1990.6423" />
@@ -2012,7 +2012,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/youtube.svg"
+       xlink:href="../apps/64/youtube.svg"
        id="image36120"
        x="192.03687"
        y="769.10693" />
@@ -2022,7 +2022,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/wmplayer.svg"
+       xlink:href="../apps/64/wmplayer.svg"
        id="image36306"
        x="1713.4601"
        y="504.18597" />
@@ -2032,7 +2032,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/wmeditor.svg"
+       xlink:href="../apps/64/wmeditor.svg"
        id="image36728"
        x="1649.4601"
        y="504.18597" />
@@ -2042,7 +2042,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/wlm_protocol.svg"
+       xlink:href="../apps/64/wlm_protocol.svg"
        id="image37090"
        x="1457.46"
        y="504.18597" />
@@ -2052,7 +2052,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/wings3d.svg"
+       xlink:href="../apps/64/wings3d.svg"
        id="image37339"
        x="1521.46"
        y="504.18597" />
@@ -2062,7 +2062,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/winetricks.svg"
+       xlink:href="../apps/64/winetricks.svg"
        id="image38011"
        x="1585.46"
        y="440.18597" />
@@ -2072,7 +2072,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/wine-uninstall.svg"
+       xlink:href="../apps/64/wine-uninstall.svg"
        id="image38349"
        x="1649.4601"
        y="440.18597" />
@@ -2082,7 +2082,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/webcam-capture.svg"
+       xlink:href="../apps/64/webcam-capture.svg"
        id="image38908"
        x="1521.46"
        y="440.18597" />
@@ -2092,7 +2092,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/web-google-keep.svg"
+       xlink:href="../apps/64/web-google-keep.svg"
        id="image40022"
        x="1777.4601"
        y="440.18597" />
@@ -2102,7 +2102,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/web-google-gmail.svg"
+       xlink:href="../apps/64/web-google-gmail.svg"
        id="image40214"
        x="1457.46"
        y="440.18597" />
@@ -2112,7 +2112,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/web-google-drive.svg"
+       xlink:href="../apps/64/web-google-drive.svg"
        id="image40451"
        x="576.0368"
        y="769.10693" />
@@ -2122,7 +2122,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/voxelshop.svg"
+       xlink:href="../apps/64/voxelshop.svg"
        id="image41502"
        x="1777.4601"
        y="504.18597" />
@@ -2132,7 +2132,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/vim.svg"
+       xlink:href="../apps/64/vim.svg"
        id="image44580"
        x="1841.4601"
        y="504.18597" />
@@ -2142,7 +2142,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/viewnior.svg"
+       xlink:href="../apps/64/viewnior.svg"
        id="image44846"
        x="2033.4601"
        y="568.18597" />
@@ -2152,7 +2152,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/view-statistics.svg"
+       xlink:href="../apps/64/view-statistics.svg"
        id="image45097"
        x="1969.4601"
        y="568.18597" />
@@ -2162,7 +2162,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/view-services-lastfm-amarok.svg"
+       xlink:href="../apps/64/view-services-lastfm-amarok.svg"
        id="image45278"
        x="320"
        y="1043.5331" />
@@ -2172,7 +2172,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/video-editor.svg"
+       xlink:href="../apps/64/video-editor.svg"
        id="image45564"
        x="2033.4601"
        y="504.18597" />
@@ -2182,7 +2182,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/viber.svg"
+       xlink:href="../apps/64/viber.svg"
        id="image45968"
        x="1969.4601"
        y="504.18597" />
@@ -2192,7 +2192,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/v4l2ucp.svg"
+       xlink:href="../apps/64/v4l2ucp.svg"
        id="image46416"
        x="1905.4601"
        y="504.18597" />
@@ -2202,7 +2202,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/utilities-terminal-root.svg"
+       xlink:href="../apps/64/utilities-terminal-root.svg"
        id="image48050"
        x="1457.46"
        y="568.18597" />
@@ -2212,7 +2212,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/utilities-log-viewer.svg"
+       xlink:href="../apps/64/utilities-log-viewer.svg"
        id="image48554"
        x="1649.4601"
        y="568.18597" />
@@ -2222,7 +2222,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/user_icon.svg"
+       xlink:href="../apps/64/user_icon.svg"
        id="image49472"
        x="1713.4601"
        y="568.18597" />
@@ -2232,7 +2232,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/urserver.svg"
+       xlink:href="../apps/64/urserver.svg"
        id="image49731"
        x="1777.4601"
        y="568.18597" />
@@ -2242,7 +2242,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/unity-webapps-google-plus.svg"
+       xlink:href="../apps/64/unity-webapps-google-plus.svg"
        id="image49815"
        x="1841.4601"
        y="568.18597" />
@@ -2252,7 +2252,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/unity-webapps-facebook.svg"
+       xlink:href="../apps/64/unity-webapps-facebook.svg"
        id="image49887"
        x="256"
        y="1043.5331" />
@@ -2262,7 +2262,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/unity-sound-panel.svg"
+       xlink:href="../apps/64/unity-sound-panel.svg"
        id="image50011"
        x="1457.46"
        y="632.18597" />
@@ -2272,7 +2272,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/uget-icon.svg"
+       xlink:href="../apps/64/uget-icon.svg"
        id="image50385"
        x="1585.46"
        y="632.18597" />
@@ -2282,7 +2282,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ubuntustudio-logo.svg"
+       xlink:href="../apps/64/ubuntustudio-logo.svg"
        id="image50486"
        x="1649.46"
        y="632.18597" />
@@ -2292,7 +2292,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ubuntu-tweak.svg"
+       xlink:href="../apps/64/ubuntu-tweak.svg"
        id="image50646"
        x="1713.4601"
        y="632.18597" />
@@ -2302,7 +2302,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ubuntu-screensaver.svg"
+       xlink:href="../apps/64/ubuntu-screensaver.svg"
        id="image50745"
        x="1777.4601"
        y="632.18597" />
@@ -2312,7 +2312,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ubuntu-qtcreator.svg"
+       xlink:href="../apps/64/ubuntu-qtcreator.svg"
        id="image50909"
        x="1841.4601"
        y="632.18597" />
@@ -2322,7 +2322,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/typecatcher.svg"
+       xlink:href="../apps/64/typecatcher.svg"
        id="image51178"
        x="1905.4601"
        y="632.18597" />
@@ -2332,7 +2332,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/twitter.svg"
+       xlink:href="../apps/64/twitter.svg"
        id="image51270"
        x="384"
        y="1043.5331" />
@@ -2342,7 +2342,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/tvtime.svg"
+       xlink:href="../apps/64/tvtime.svg"
        id="image51460"
        x="2033.4601"
        y="632.18597" />
@@ -2352,7 +2352,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/turpial.svg"
+       xlink:href="../apps/64/turpial.svg"
        id="image52010"
        x="1457.46"
        y="696.18597" />
@@ -2362,7 +2362,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/truecrypt.svg"
+       xlink:href="../apps/64/truecrypt.svg"
        id="image52109"
        x="1521.46"
        y="696.18597" />
@@ -2372,7 +2372,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/trillian.svg"
+       xlink:href="../apps/64/trillian.svg"
        id="image52194"
        x="1585.46"
        y="696.18597" />
@@ -2382,7 +2382,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/tremulous.svg"
+       xlink:href="../apps/64/tremulous.svg"
        id="image52282"
        x="1649.46"
        y="696.18597" />
@@ -2392,7 +2392,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/transmission.svg"
+       xlink:href="../apps/64/transmission.svg"
        id="image52481"
        x="1713.4601"
        y="696.18597" />
@@ -2402,7 +2402,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/thunderbird.svg"
+       xlink:href="../apps/64/thunderbird.svg"
        id="image52942"
        x="1777.4601"
        y="696.18597" />
@@ -2412,7 +2412,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/texstudio.svg"
+       xlink:href="../apps/64/texstudio.svg"
        id="image53308"
        x="1841.4601"
        y="696.18597" />
@@ -2422,7 +2422,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/texmaker.svg"
+       xlink:href="../apps/64/texmaker.svg"
        id="image53390"
        x="1905.4601"
        y="696.18597" />
@@ -2432,7 +2432,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/terminator.svg"
+       xlink:href="../apps/64/terminator.svg"
        id="image53491"
        x="1969.4601"
        y="696.18597" />
@@ -2442,7 +2442,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/tellico.svg"
+       xlink:href="../apps/64/tellico.svg"
        id="image53808"
        x="2033.4601"
        y="696.18597" />
@@ -2452,7 +2452,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/telepathy-kde.svg"
+       xlink:href="../apps/64/telepathy-kde.svg"
        id="image54550"
        x="0"
        y="128" />
@@ -2462,7 +2462,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/team-viewer.svg"
+       xlink:href="../apps/64/team-viewer.svg"
        id="image54727"
        x="1585.46"
        y="760.18597" />
@@ -2472,7 +2472,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/tasks.svg"
+       xlink:href="../apps/64/tasks.svg"
        id="image54885"
        x="1521.46"
        y="760.18597" />
@@ -2482,7 +2482,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/synfigstudio.svg"
+       xlink:href="../apps/64/synfigstudio.svg"
        id="image55408"
        x="1649.46"
        y="760.18597" />
@@ -2492,7 +2492,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/syncthing.svg"
+       xlink:href="../apps/64/syncthing.svg"
        id="image55972"
        x="1777.4601"
        y="760.18597" />
@@ -2502,7 +2502,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/sweep.svg"
+       xlink:href="../apps/64/sweep.svg"
        id="image56087"
        x="1713.4601"
        y="760.18597" />
@@ -2512,7 +2512,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/SUSEgreeter.svg"
+       xlink:href="../apps/64/SUSEgreeter.svg"
        id="image56333"
        x="1841.4601"
        y="760.18597" />
@@ -2522,7 +2522,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/superkaramba.svg"
+       xlink:href="../apps/64/superkaramba.svg"
        id="image56418"
        x="1905.4601"
        y="760.18597" />
@@ -2532,7 +2532,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/supercollider.svg"
+       xlink:href="../apps/64/supercollider.svg"
        id="image56512"
        x="1969.4601"
        y="760.18597" />
@@ -2542,7 +2542,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/subtitles.svg"
+       xlink:href="../apps/64/subtitles.svg"
        id="image57024"
        x="1457.46"
        y="824.18597" />
@@ -2552,7 +2552,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/sublime-text.svg"
+       xlink:href="../apps/64/sublime-text.svg"
        id="image57246"
        x="448.03687"
        y="769.10693" />
@@ -2562,7 +2562,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/subdownloader.svg"
+       xlink:href="../apps/64/subdownloader.svg"
        id="image57690"
        x="1649.46"
        y="824.18597" />
@@ -2572,7 +2572,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/stellarium.svg"
+       xlink:href="../apps/64/stellarium.svg"
        id="image58641"
        x="1585.46"
        y="824.18597" />
@@ -2582,7 +2582,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/steam_icon_49520.svg"
+       xlink:href="../apps/64/steam_icon_49520.svg"
        id="image62038"
        x="2033.4601"
        y="824.18597" />
@@ -2592,7 +2592,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/deb-installer.svg"
+       xlink:href="../apps/64/deb-installer.svg"
        id="image30242"
        x="256.00003"
        y="128" />
@@ -2602,7 +2602,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/google.svg"
+       xlink:href="../apps/64/google.svg"
        id="image30782"
        x="0"
        y="1043.5331" />
@@ -2612,7 +2612,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/nextcloud.svg"
+       xlink:href="../apps/64/nextcloud.svg"
        id="image31454"
        x="1088.0369"
        y="705.10693" />
@@ -2622,7 +2622,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/owncloud.svg"
+       xlink:href="../apps/64/owncloud.svg"
        id="image32076"
        x="1152.0369"
        y="705.10693" />
@@ -2632,7 +2632,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/microsoft.svg"
+       xlink:href="../apps/64/microsoft.svg"
        id="image32812"
        x="64"
        y="1043.5331" />
@@ -2642,7 +2642,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/credentials-preferences.svg"
+       xlink:href="../apps/64/credentials-preferences.svg"
        id="image33523"
        x="320.00003"
        y="128" />
@@ -2652,7 +2652,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/foursquare.svg"
+       xlink:href="../apps/64/foursquare.svg"
        id="image34535"
        x="128"
        y="1043.5331" />
@@ -2662,7 +2662,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/system-software-installer.svg"
+       xlink:href="../apps/64/system-software-installer.svg"
        id="image35326"
        x="128"
        y="128" />
@@ -2672,7 +2672,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/drive-harddisk-usb.svg"
+       xlink:href="../devices/64/drive-harddisk-usb.svg"
        id="image36707"
        x="384.00003"
        y="128" />
@@ -2682,7 +2682,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/input-mouse.svg"
+       xlink:href="../devices/64/input-mouse.svg"
        id="image37734"
        x="896.00012"
        y="64" />
@@ -2692,7 +2692,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/computer.svg"
+       xlink:href="../devices/64/computer.svg"
        id="image39343"
        x="0"
        y="0" />
@@ -2702,7 +2702,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/battery.svg"
+       xlink:href="../devices/64/battery.svg"
        id="image40461"
        x="512"
        y="128" />
@@ -2712,7 +2712,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/audio-card.svg"
+       xlink:href="../devices/64/audio-card.svg"
        id="image41498"
        x="768.00012"
        y="128" />
@@ -2722,7 +2722,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/input-tablet.svg"
+       xlink:href="../devices/64/input-tablet.svg"
        id="image42563"
        x="960.00012"
        y="0" />
@@ -2732,7 +2732,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/video-display.svg"
+       xlink:href="../devices/64/video-display.svg"
        id="image43348"
        x="0"
        y="357.71765" />
@@ -2742,7 +2742,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/tablet.svg"
+       xlink:href="../devices/64/tablet.svg"
        id="image44267"
        x="1713.4601"
        y="824.18597" />
@@ -2752,7 +2752,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="devices/64/smartphone.svg"
+       xlink:href="../devices/64/smartphone.svg"
        id="image44734"
        x="1777.4601"
        y="824.18597" />
@@ -2762,7 +2762,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kdeconnect.svg"
+       xlink:href="../apps/64/kdeconnect.svg"
        id="image45290"
        x="640.03687"
        y="769.10693" />
@@ -2772,7 +2772,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kdevelop.svg"
+       xlink:href="../apps/64/kdevelop.svg"
        id="image46412"
        x="1457.46"
        y="760.18597" />
@@ -2782,7 +2782,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kdenlive.svg"
+       xlink:href="../apps/64/kdenlive.svg"
        id="image47018"
        x="1841.4601"
        y="824.18597" />
@@ -2801,7 +2801,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/power-management.svg"
+       xlink:href="../apps/64/power-management.svg"
        id="image34510"
        x="576"
        y="128" />
@@ -2811,7 +2811,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/carla.svg"
+       xlink:href="../apps/64/carla.svg"
        id="image33436"
        x="896.00012"
        y="128" />
@@ -2821,7 +2821,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/cadence.svg"
+       xlink:href="../apps/64/cadence.svg"
        id="image34888"
        x="832.00012"
        y="128" />
@@ -2831,7 +2831,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/librecad.svg"
+       xlink:href="../apps/64/librecad.svg"
        id="image35668"
        x="1969.4601"
        y="888.18597" />
@@ -2841,7 +2841,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/kicad.svg"
+       xlink:href="../apps/64/kicad.svg"
        id="image36163"
        x="1969.4601"
        y="824.18597" />
@@ -2851,7 +2851,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/freecad.svg"
+       xlink:href="../apps/64/freecad.svg"
        id="image36481"
        x="1905.4601"
        y="824.18597" />
@@ -2885,7 +2885,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/user-desktop.svg"
+           xlink:href="../places/24/user-desktop.svg"
            id="image39242"
            x="65.936577"
            y="-101.01157" />
@@ -2895,7 +2895,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="devices/24/computer.svg"
+           xlink:href="../devices/24/computer.svg"
            id="image39311"
            x="41.936581"
            y="-101.01157" />
@@ -2905,7 +2905,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/folder.svg"
+           xlink:href="../places/24/folder.svg"
            id="image39418"
            x="89.936584"
            y="-101.01157" />
@@ -2915,7 +2915,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/folder-musics.svg"
+           xlink:href="../places/24/folder-musics.svg"
            id="image39470"
            x="113.93658"
            y="-101.01157" />
@@ -2925,7 +2925,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/folder-download.svg"
+           xlink:href="../places/24/folder-download.svg"
            id="image39521"
            x="137.93657"
            y="-101.01157" />
@@ -2935,7 +2935,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/folder-videos.svg"
+           xlink:href="../places/24/folder-videos.svg"
            id="image39599"
            x="161.93658"
            y="-101.01157" />
@@ -2945,7 +2945,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/user-home.svg"
+           xlink:href="../places/24/user-home.svg"
            id="image39651"
            x="17.936581"
            y="-101.01157" />
@@ -2955,7 +2955,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/user-trash.svg"
+           xlink:href="../places/24/user-trash.svg"
            id="image39990"
            x="185.93658"
            y="-101.01157" />
@@ -2965,7 +2965,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/user-trash-full.svg"
+           xlink:href="../places/24/user-trash-full.svg"
            id="image40052"
            x="209.93658"
            y="-101.01157" />
@@ -2975,7 +2975,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/folder-publicshare.svg"
+           xlink:href="../places/24/folder-publicshare.svg"
            id="image40111"
            x="235.93658"
            y="-103.01157" />
@@ -2985,7 +2985,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="status/24/kdeconnect-tray.svg"
+           xlink:href="../status/24/kdeconnect-tray.svg"
            id="image40273"
            x="329.93658"
            y="-101.01157" />
@@ -2995,7 +2995,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="status/24/audio-volume-medium-panel.svg"
+           xlink:href="../status/24/audio-volume-medium-panel.svg"
            id="image40330"
            x="377.93658"
            y="-101.01157" />
@@ -3005,7 +3005,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="places/24/folder-network.svg"
+           xlink:href="../places/24/folder-network.svg"
            id="image40483"
            x="353.93658"
            y="-101.01157" />
@@ -3015,7 +3015,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="status/24/nm-signal-100.svg"
+           xlink:href="../status/24/nm-signal-100.svg"
            id="image40625"
            x="425.93658"
            y="-101.01157" />
@@ -3025,7 +3025,7 @@
            width="24"
            height="24"
            style="image-rendering:optimizeSpeed"
-           xlink:href="status/24/battery-070.svg"
+           xlink:href="../status/24/battery-070.svg"
            id="image40705"
            x="401.93658"
            y="-101.01157" />
@@ -3099,7 +3099,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences.svg"
+       xlink:href="../apps/64/preferences.svg"
        id="image35924"
        x="1585.46"
        y="184.186" />
@@ -3109,7 +3109,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/preferences.svg"
+       xlink:href="../apps/64/preferences.svg"
        id="image35924-7"
        x="137.56581"
        y="1990.6423" />
@@ -3119,7 +3119,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/color-pick.svg"
+       xlink:href="../apps/64/color-pick.svg"
        id="image39215"
        x="457.81818"
        y="1990.6423" />
@@ -3129,7 +3129,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/color-pick.svg"
+       xlink:href="../apps/64/color-pick.svg"
        id="image39215-6"
        x="1457.46"
        y="312.18597" />
@@ -3139,7 +3139,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/calculator.svg"
+       xlink:href="../apps/64/calculator.svg"
        id="image42252"
        x="265.81818"
        y="1990.6423" />
@@ -3149,7 +3149,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/calculator.svg"
+       xlink:href="../apps/64/calculator.svg"
        id="image42252-9"
        x="1521.46"
        y="376.18597" />
@@ -3159,7 +3159,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/jovie.svg"
+       xlink:href="../apps/64/jovie.svg"
        id="image43389"
        x="1088.0002"
        y="128" />
@@ -3169,7 +3169,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/clementine.svg"
+       xlink:href="../apps/64/clementine.svg"
        id="image45633"
        x="649.5658"
        y="1990.6423" />
@@ -3179,7 +3179,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/web-browser.svg"
+       xlink:href="../apps/64/web-browser.svg"
        id="image46070"
        x="1152.0002"
        y="128" />
@@ -3189,7 +3189,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/web-browser.svg"
+       xlink:href="../apps/64/web-browser.svg"
        id="image46070-2"
        x="713.5658"
        y="1990.6423" />
@@ -3199,7 +3199,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/chromium.svg"
+       xlink:href="../apps/64/chromium.svg"
        id="image48726"
        x="841.5658"
        y="1990.6423" />
@@ -3209,7 +3209,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/whatsapp.svg"
+       xlink:href="../apps/64/whatsapp.svg"
        id="image49163"
        x="969.5658"
        y="1990.6423" />
@@ -3219,7 +3219,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/whatsapp.svg"
+       xlink:href="../apps/64/whatsapp.svg"
        id="image49163-9"
        x="0"
        y="1171.5331" />
@@ -3229,7 +3229,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/flickr.svg"
+       xlink:href="../apps/64/flickr.svg"
        id="image50887"
        x="1521.46"
        y="568.18597" />
@@ -3239,7 +3239,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/flickr.svg"
+       xlink:href="../apps/64/flickr.svg"
        id="image50887-3"
        x="1033.5658"
        y="1990.6423" />
@@ -3249,7 +3249,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/caffeine.svg"
+       xlink:href="../apps/64/caffeine.svg"
        id="image51656"
        x="9.5658083"
        y="2054.6423" />
@@ -3259,7 +3259,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/caffeine.svg"
+       xlink:href="../apps/64/caffeine.svg"
        id="image51656-6"
        x="1649.4601"
        y="376.18597" />
@@ -3269,7 +3269,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ventoy.svg"
+       xlink:href="../apps/64/ventoy.svg"
        id="image53132"
        x="384.03687"
        y="769.10693" />
@@ -3279,7 +3279,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/ardour.svg"
+       xlink:href="../apps/64/ardour.svg"
        id="image54163"
        x="704.03687"
        y="769.10693" />
@@ -3289,7 +3289,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/audacity.svg"
+       xlink:href="../apps/64/audacity.svg"
        id="image55036"
        x="1585.4601"
        y="568.18597" />
@@ -3299,7 +3299,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/choqok.svg"
+       xlink:href="../apps/64/choqok.svg"
        id="image57678"
        x="73.565811"
        y="2054.6423" />
@@ -3309,7 +3309,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/choqok.svg"
+       xlink:href="../apps/64/choqok.svg"
        id="image57678-6"
        x="1841.4601"
        y="248.18599" />
@@ -3319,7 +3319,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/abiword.svg"
+       xlink:href="../apps/64/abiword.svg"
        id="image58860"
        x="512.0368"
        y="769.10693" />
@@ -3329,7 +3329,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/amarok.svg"
+       xlink:href="../apps/64/amarok.svg"
        id="image59379"
        x="1905.4601"
        y="568.18597" />
@@ -3339,7 +3339,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/android.svg"
+       xlink:href="../apps/64/android.svg"
        id="image59873"
        x="1521.46"
        y="632.18597" />
@@ -3349,7 +3349,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/android-studio.svg"
+       xlink:href="../apps/64/android-studio.svg"
        id="image60286"
        x="2033.4601"
        y="760.18597" />
@@ -3359,7 +3359,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/AppImageLauncher.svg"
+       xlink:href="../apps/64/AppImageLauncher.svg"
        id="image60609"
        x="256.03687"
        y="769.10693" />
@@ -3369,7 +3369,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/appgrid.svg"
+       xlink:href="../apps/64/appgrid.svg"
        id="image61015"
        x="1457.46"
        y="888.18597" />
@@ -3379,7 +3379,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/anjuta.svg"
+       xlink:href="../apps/64/anjuta.svg"
        id="image61326"
        x="1521.46"
        y="888.18597" />
@@ -3389,7 +3389,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/anki.svg"
+       xlink:href="../apps/64/anki.svg"
        id="image61658"
        x="1585.46"
        y="888.18597" />
@@ -3399,7 +3399,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/aqualung.svg"
+       xlink:href="../apps/64/aqualung.svg"
        id="image62276"
        x="1649.46"
        y="888.18597" />
@@ -3409,7 +3409,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/aptana.svg"
+       xlink:href="../apps/64/aptana.svg"
        id="image62870"
        x="1713.46"
        y="888.18597" />
@@ -3419,7 +3419,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/apport.svg"
+       xlink:href="../apps/64/apport.svg"
        id="image62951"
        x="1777.46"
        y="888.18597" />
@@ -3429,7 +3429,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/arduino.svg"
+       xlink:href="../apps/64/arduino.svg"
        id="image63029"
        x="1841.46"
        y="888.18597" />
@@ -3439,7 +3439,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/arista.svg"
+       xlink:href="../apps/64/arista.svg"
        id="image63142"
        x="1905.46"
        y="888.18597" />
@@ -3449,7 +3449,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/executable-windows.svg"
+       xlink:href="../mimetypes/64/executable-windows.svg"
        id="image63598"
        x="64"
        y="1361.5536" />
@@ -3459,7 +3459,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-zip.svg"
+       xlink:href="../mimetypes/64/package-zip.svg"
        id="image64761"
        x="192"
        y="1361.5536" />
@@ -3469,7 +3469,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-rar.svg"
+       xlink:href="../mimetypes/64/package-rar.svg"
        id="image65315"
        x="256"
        y="1361.5536" />
@@ -3479,7 +3479,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-readme.svg"
+       xlink:href="../mimetypes/64/text-readme.svg"
        id="image66041"
        x="64"
        y="1617.5536" />
@@ -3489,7 +3489,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/midi.svg"
+       xlink:href="../mimetypes/64/midi.svg"
        id="image66410"
        x="128"
        y="1425.5536" />
@@ -3499,7 +3499,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/audio-x-generic.svg"
+       xlink:href="../mimetypes/64/audio-x-generic.svg"
        id="image66879"
        x="64"
        y="1425.5536" />
@@ -3509,7 +3509,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/audio-pls.svg"
+       xlink:href="../mimetypes/64/audio-pls.svg"
        id="image67321"
        x="192"
        y="1425.5536" />
@@ -3519,7 +3519,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/deb.svg"
+       xlink:href="../mimetypes/64/deb.svg"
        id="image68385"
        x="320"
        y="1361.5536" />
@@ -3529,7 +3529,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-x-x509-ca-cert.svg"
+       xlink:href="../mimetypes/64/application-x-x509-ca-cert.svg"
        id="image68871"
        x="256"
        y="1425.5536" />
@@ -3539,7 +3539,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/keepass-database.svg"
+       xlink:href="../mimetypes/64/keepass-database.svg"
        id="image69565"
        x="0"
        y="1681.5536" />
@@ -3549,7 +3549,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-license.svg"
+       xlink:href="../mimetypes/64/text-license.svg"
        id="image70348"
        x="320"
        y="1425.5536" />
@@ -3559,7 +3559,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/executable.svg"
+       xlink:href="../mimetypes/64/executable.svg"
        id="image70997"
        x="0"
        y="1361.5536" />
@@ -3569,7 +3569,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/iso.svg"
+       xlink:href="../mimetypes/64/iso.svg"
        id="image71910"
        x="0"
        y="1745.5536" />
@@ -3579,7 +3579,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-epub+zip.svg"
+       xlink:href="../mimetypes/64/application-epub+zip.svg"
        id="image73278"
        x="512"
        y="1553.5536" />
@@ -3589,7 +3589,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-x-visual-studio-code-workspace.svg"
+       xlink:href="../mimetypes/64/application-x-visual-studio-code-workspace.svg"
        id="image73654"
        x="448"
        y="1425.5536" />
@@ -3599,7 +3599,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.lz4.svg"
+       xlink:href="../mimetypes/64/package-tar.lz4.svg"
        id="image74090"
        x="448"
        y="1361.5536" />
@@ -3609,7 +3609,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.lrz.svg"
+       xlink:href="../mimetypes/64/package-tar.lrz.svg"
        id="image74692"
        x="512"
        y="1361.5536" />
@@ -3619,7 +3619,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.lzm.svg"
+       xlink:href="../mimetypes/64/package-tar.lzm.svg"
        id="image75258"
        x="576"
        y="1361.5536" />
@@ -3629,7 +3629,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.bz.svg"
+       xlink:href="../mimetypes/64/package-tar.bz.svg"
        id="image75828"
        x="640"
        y="1361.5536" />
@@ -3639,7 +3639,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.z.svg"
+       xlink:href="../mimetypes/64/package-tar.z.svg"
        id="image76392"
        x="704"
        y="1361.5536" />
@@ -3649,7 +3649,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.gz.svg"
+       xlink:href="../mimetypes/64/package-tar.gz.svg"
        id="image76966"
        x="768"
        y="1361.5536" />
@@ -3659,7 +3659,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.xz.svg"
+       xlink:href="../mimetypes/64/package-tar.xz.svg"
        id="image77542"
        x="832"
        y="1361.5536" />
@@ -3669,7 +3669,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-tar.svg"
+       xlink:href="../mimetypes/64/package-tar.svg"
        id="image78084"
        x="384"
        y="1361.5536" />
@@ -3679,7 +3679,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/package-generic.svg"
+       xlink:href="../mimetypes/64/package-generic.svg"
        id="image78572"
        x="128"
        y="1361.5536" />
@@ -3689,7 +3689,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/cockos-reaper-backup.svg"
+       xlink:href="../mimetypes/64/cockos-reaper-backup.svg"
        id="image79008"
        x="512"
        y="1425.5536" />
@@ -3699,7 +3699,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/cockos-reaper-template.svg"
+       xlink:href="../mimetypes/64/cockos-reaper-template.svg"
        id="image79440"
        x="576"
        y="1425.5536" />
@@ -3709,7 +3709,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/cockos-reaper-template2.svg"
+       xlink:href="../mimetypes/64/cockos-reaper-template2.svg"
        id="image79792"
        x="640"
        y="1425.5536" />
@@ -3719,7 +3719,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/cockos-reaper-peak.svg"
+       xlink:href="../mimetypes/64/cockos-reaper-peak.svg"
        id="image80158"
        x="704"
        y="1425.5536" />
@@ -3729,7 +3729,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/cockos-reaper-document.svg"
+       xlink:href="../mimetypes/64/cockos-reaper-document.svg"
        id="image80576"
        x="768"
        y="1425.5536" />
@@ -3739,7 +3739,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/font-otf.svg"
+       xlink:href="../mimetypes/64/font-otf.svg"
        id="image80966"
        x="1024"
        y="1425.5536" />
@@ -3749,7 +3749,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/font-bdf.svg"
+       xlink:href="../mimetypes/64/font-bdf.svg"
        id="image81308"
        x="960"
        y="1425.5536" />
@@ -3759,7 +3759,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/font-ttf.svg"
+       xlink:href="../mimetypes/64/font-ttf.svg"
        id="image81650"
        x="896"
        y="1425.5536" />
@@ -3769,7 +3769,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/font-afm.svg"
+       xlink:href="../mimetypes/64/font-afm.svg"
        id="image81998"
        x="832"
        y="1425.5536" />
@@ -3779,7 +3779,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-x-subrip.svg"
+       xlink:href="../mimetypes/64/application-x-subrip.svg"
        id="image82364"
        x="1088"
        y="1425.5536" />
@@ -3789,7 +3789,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/image-xcf.svg"
+       xlink:href="../mimetypes/64/image-xcf.svg"
        id="image82746"
        x="1152"
        y="1425.5536" />
@@ -3799,7 +3799,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-plain.svg"
+       xlink:href="../mimetypes/64/text-plain.svg"
        id="image83256"
        x="0"
        y="1489.5536" />
@@ -3809,7 +3809,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-preview.svg"
+       xlink:href="../mimetypes/64/text-x-preview.svg"
        id="image83626"
        x="64"
        y="1489.5536" />
@@ -3819,7 +3819,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-python.svg"
+       xlink:href="../mimetypes/64/text-python.svg"
        id="image83952"
        x="128"
        y="1489.5536" />
@@ -3829,7 +3829,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-markdown.svg"
+       xlink:href="../mimetypes/64/text-markdown.svg"
        id="image84292"
        x="192"
        y="1489.5536" />
@@ -3839,7 +3839,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/link.svg"
+       xlink:href="../mimetypes/64/link.svg"
        id="image84624"
        x="256"
        y="1489.5536" />
@@ -3849,7 +3849,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-x-theme.svg"
+       xlink:href="../mimetypes/64/application-x-theme.svg"
        id="image84971"
        x="320"
        y="1489.5536" />
@@ -3859,7 +3859,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-java.svg"
+       xlink:href="../mimetypes/64/text-java.svg"
        id="image85367"
        x="384"
        y="1489.5536" />
@@ -3869,7 +3869,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/unknown.svg"
+       xlink:href="../mimetypes/64/unknown.svg"
        id="image85715"
        x="448"
        y="1489.5536" />
@@ -3879,7 +3879,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-cmake.svg"
+       xlink:href="../mimetypes/64/text-x-cmake.svg"
        id="image86053"
        x="512"
        y="1489.5536" />
@@ -3889,7 +3889,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-generic-template.svg"
+       xlink:href="../mimetypes/64/text-x-generic-template.svg"
        id="image86411"
        x="576"
        y="1489.5536" />
@@ -3899,7 +3899,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-troff.svg"
+       xlink:href="../mimetypes/64/text-troff.svg"
        id="image86757"
        x="640"
        y="1489.5536" />
@@ -3909,7 +3909,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-backup.svg"
+       xlink:href="../mimetypes/64/text-x-backup.svg"
        id="image87123"
        x="704"
        y="1489.5536" />
@@ -3919,7 +3919,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/svg.svg"
+       xlink:href="../mimetypes/64/svg.svg"
        id="image87499"
        x="128"
        y="1617.5536" />
@@ -3929,7 +3929,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-perl.svg"
+       xlink:href="../mimetypes/64/text-x-perl.svg"
        id="image87861"
        x="768"
        y="1489.5536" />
@@ -3939,7 +3939,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/ui.svg"
+       xlink:href="../mimetypes/64/ui.svg"
        id="image88257"
        x="832"
        y="1489.5536" />
@@ -3949,7 +3949,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-c++src.svg"
+       xlink:href="../mimetypes/64/text-x-c++src.svg"
        id="image88623-2"
        x="896"
        y="1489.5536" />
@@ -3959,7 +3959,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-javascript.svg"
+       xlink:href="../mimetypes/64/text-javascript.svg"
        id="image88965"
        x="0"
        y="1553.5536" />
@@ -3969,7 +3969,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-log.svg"
+       xlink:href="../mimetypes/64/text-x-log.svg"
        id="image89311"
        x="384"
        y="1425.5536" />
@@ -3979,7 +3979,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-vnd.scribus.svg"
+       xlink:href="../mimetypes/64/application-vnd.scribus.svg"
        id="image89663"
        x="576"
        y="1553.5536" />
@@ -3989,7 +3989,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/pdf.svg"
+       xlink:href="../mimetypes/64/pdf.svg"
        id="image89979"
        x="640"
        y="1553.5536" />
@@ -3999,7 +3999,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/torrent.svg"
+       xlink:href="../mimetypes/64/torrent.svg"
        id="image90312"
        x="704"
        y="1553.5536" />
@@ -4009,7 +4009,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/html.svg"
+       xlink:href="../mimetypes/64/html.svg"
        id="image90646"
        x="896"
        y="1553.5536" />
@@ -4019,7 +4019,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/application-x-flash-video.svg"
+       xlink:href="../mimetypes/64/application-x-flash-video.svg"
        id="image90970"
        x="448"
        y="1617.5536" />
@@ -4029,7 +4029,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/office-presentation.svg"
+       xlink:href="../mimetypes/64/office-presentation.svg"
        id="image91302"
        x="320"
        y="1553.5536" />
@@ -4039,7 +4039,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/ms-office-presentation.svg"
+       xlink:href="../mimetypes/64/ms-office-presentation.svg"
        id="image91636"
        x="383.99994"
        y="1553.5536" />
@@ -4049,7 +4049,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/ai.svg"
+       xlink:href="../mimetypes/64/ai.svg"
        id="image91984"
        x="320"
        y="1617.5536" />
@@ -4059,7 +4059,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-c++hdr.svg"
+       xlink:href="../mimetypes/64/text-x-c++hdr.svg"
        id="image92348"
        x="960"
        y="1489.5536" />
@@ -4069,7 +4069,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/ms-office-spreadsheet.svg"
+       xlink:href="../mimetypes/64/ms-office-spreadsheet.svg"
        id="image93024"
        x="256"
        y="1553.5536" />
@@ -4079,7 +4079,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/office-document.svg"
+       xlink:href="../mimetypes/64/office-document.svg"
        id="image93516"
        x="64"
        y="1553.5536" />
@@ -4089,7 +4089,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/ms-office-document.svg"
+       xlink:href="../mimetypes/64/ms-office-document.svg"
        id="image93870"
        x="128"
        y="1553.5536" />
@@ -4099,7 +4099,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-c.svg"
+       xlink:href="../mimetypes/64/text-x-c.svg"
        id="image94220"
        x="1024"
        y="1489.5536" />
@@ -4109,7 +4109,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/xml.svg"
+       xlink:href="../mimetypes/64/xml.svg"
        id="image94530"
        x="960"
        y="1553.5536" />
@@ -4119,7 +4119,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/wmf.svg"
+       xlink:href="../mimetypes/64/wmf.svg"
        id="image94880"
        x="192"
        y="1617.5536" />
@@ -4129,7 +4129,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/office-draw.svg"
+       xlink:href="../mimetypes/64/office-draw.svg"
        id="image95260"
        x="256"
        y="1617.5536" />
@@ -4139,7 +4139,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/extension.svg"
+       xlink:href="../mimetypes/64/extension.svg"
        id="image95675"
        x="0"
        y="1617.5536" />
@@ -4149,7 +4149,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/video.svg"
+       xlink:href="../mimetypes/64/video.svg"
        id="image96221"
        x="0"
        y="1425.5536" />
@@ -4159,7 +4159,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/office-spreadsheet.svg"
+       xlink:href="../mimetypes/64/office-spreadsheet.svg"
        id="image97019"
        x="192"
        y="1553.5536" />
@@ -4169,7 +4169,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-script.svg"
+       xlink:href="../mimetypes/64/text-x-script.svg"
        id="image97343"
        x="768"
        y="1553.5536" />
@@ -4179,7 +4179,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-csharpsrc.svg"
+       xlink:href="../mimetypes/64/text-x-csharpsrc.svg"
        id="image97591"
        x="1088"
        y="1489.5536" />
@@ -4189,7 +4189,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/text-x-chdr.svg"
+       xlink:href="../mimetypes/64/text-x-chdr.svg"
        id="image97825"
        x="1152"
        y="1489.5536" />
@@ -4199,7 +4199,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/eps.svg"
+       xlink:href="../mimetypes/64/eps.svg"
        id="image98043"
        x="384"
        y="1617.5536" />
@@ -4209,7 +4209,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/audacious.svg"
+       xlink:href="../apps/64/audacious.svg"
        id="image46796"
        x="320.03687"
        y="769.10693" />
@@ -4219,7 +4219,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/chm.svg"
+       xlink:href="../mimetypes/64/chm.svg"
        id="image47536"
        x="832.03687"
        y="769.10693" />
@@ -4229,7 +4229,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="mimetypes/64/chm.svg"
+       xlink:href="../mimetypes/64/chm.svg"
        id="image47216"
        x="137.56581"
        y="2054.6423" />
@@ -4239,7 +4239,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/plugins-general.svg"
+       xlink:href="../apps/64/plugins-general.svg"
        id="image48218"
        x="192.00003"
        y="0" />
@@ -4249,7 +4249,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/catalyst-control-center.svg"
+       xlink:href="../apps/64/catalyst-control-center.svg"
        id="image47582"
        x="896.03687"
        y="769.10693" />
@@ -4259,7 +4259,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/lbry.svg"
+       xlink:href="../apps/64/lbry.svg"
        id="image48169"
        x="960.03687"
        y="769.10693" />
@@ -4269,7 +4269,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/wine-browser.svg"
+       xlink:href="../apps/64/wine-browser.svg"
        id="image48662"
        x="1024.0369"
        y="769.10693" />
@@ -4279,7 +4279,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/gcompris.svg"
+       xlink:href="../apps/64/gcompris.svg"
        id="image49433"
        x="1088.0369"
        y="769.10693" />
@@ -4289,7 +4289,7 @@
        width="64"
        height="64"
        style="image-rendering:optimizeSpeed"
-       xlink:href="apps/64/python.svg"
+       xlink:href="../apps/64/python.svg"
        id="image50266"
        x="1152.0369"
        y="769.10693" />
