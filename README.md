@@ -49,13 +49,29 @@ Open an issue
 
 ## Notes
 
-1 - All icons with sizes smaller or equal to 24px are monochromatic, with very few exceptions, preventing consistency break. So, if you see small colorful icons, it is because they haven't been covered yet or maybe it's hardcoded.
+#### Small Icons
 
-2 - The package is in the process of migrating to the new style, so expect icons with the old one. I am currently focusing on the most popular.
+All icons smaller or equal to `24px` are monochromatic, <br>with very few exceptions, preventing consistency break.
 
-3 - When using dark themes, the small icons will be visible by bright outlines.
+So, if you see small colorful icons, it is because they <br>
+haven't been covered yet or maybe it's hard-coded.
 
-4 - Open "preview.svg" in inkscape for a "live" preview.
+#### Transitioning
+
+The package is in the process of migrating to <br>
+the new style, so expect icons with the old one.
+
+*I am currently focusing on the most popular.*
+
+#### Dark Themes
+
+When using dark themes, the small <br>
+icons will be visible by bright outlines.
+
+#### Live Preview
+
+Open `Resources/preview.svg` <br>
+in **[Inkscape]** for a *'live'* preview.
 
 ## Contributions
 
@@ -69,4 +85,6 @@ Paypal: franksouza183@gmail.com
 [Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
 
 [Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+
+[Inkscape]: https://inkscape.org/
 
