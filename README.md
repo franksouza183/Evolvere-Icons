@@ -6,6 +6,10 @@
 
 <br>
 
+[![Badge License]][License]
+
+<br>
+
 ![Preview]
 
 </div>
@@ -82,9 +86,12 @@ Paypal: franksouza183@gmail.com
 
 <!----------------------------------------------------------------------------->
 
-[Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
+[Badge License]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 
-[Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+[Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
 
 [Inkscape]: https://inkscape.org/
 
+
+[Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+[License]: LICENSE
