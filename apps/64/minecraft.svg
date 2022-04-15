@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<defs>
 		<radialGradient id="a" cx="32" cy="21.2" r="32" gradientTransform="matrix(1.2812 0 0 1.2012 -9 -3.4648)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#5ebb32" offset="0"/>
@@ -12,15 +12,14 @@
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
 				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<path d="m2 0-2 1v3h19.562 19.562 24.875v-3l-2-1h-22.875-19.562-17.562z" color="#000000" fill="#8def60"/>
-	<path d="m2 0-2 1v3h19.562 19.562 24.875v-3l-2-1h-22.875-19.562-17.562z" color="#000000" fill="#8def60"/>
-	<path d="m0 4v30 28l2 2h30 30l2-2v-28-30h-32-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v3h63.999v-3l-2-1h-59.999z" color="#000000" fill="#8def60"/>
+	<path d="m2 0-2 1v3h63.999v-3l-2-1h-59.999z" color="#000000" fill="#8def60"/>
+	<path d="m0 4v58l2 2h60l2-2v-58h-64z" color="#000000" fill="url(#a)"/>
 	<g transform="matrix(3.5,0,0,3.5,-3,-347.5)">
-		<path d="m4 105v2 2h2 2v-2-2h-2zm4 4v2h-2v2 2 2h2v-2h2 2v2h2v-2-2-2h-2v-2h-2zm4 0h2 2v-2-2h-2-2v2z" color="#000000" fill="#0e1f0c"/>
+		<path d="m4 105v4h4v-4h-2zm4 4v2h-2v6h2v-2h4v2h2v-6h-2v-2h-2zm4 0h4v-4h-4v2z" color="#000000" fill="#0e1f0c"/>
 		<rect x="2" y="101" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#a7cca0"/>
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m53 0v2h7v-2z" color="#000000" fill="#ddf8d7"/>
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m53 2v4h7v-4z" color="#000000" fill="#a7cca0"/>
@@ -44,11 +43,11 @@
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m60 0v2h4v-1l-2-1z" color="#000000" fill="#adfb9f"/>
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m60 2v4h4v-4z" color="#000000" fill="#69d756"/>
 		<rect x="6" y="101" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#4cb341"/>
-		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m39 0v2h0.125 6.875v-2h-6.875z" color="#000000" fill="#aff0a6"/>
+		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m39 0v2h7v-2h-6.875z" color="#000000" fill="#aff0a6"/>
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m39 2v4h7v-4z" color="#000000" fill="#4cb341"/>
 		<rect x="6" y="103" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#40b834"/>
 		<rect x="6" y="105" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#3a5735"/>
-		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m18 27v7h7v-7zm21 0v7h7v-7zm-14 14v7h-7v7h7 7 7 7v-7h-7v-7h-7z" color="#000000" fill="#224715"/>
+		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m18 27v7h7v-7zm21 0v7h7v-7zm-14 14v7h-7v7h28v-7h-7v-7h-7z" color="#000000" fill="#2b3527"/>
 		<rect x="6" y="109" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#93d98c"/>
 		<rect x="6" y="111" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#395735"/>
 		<rect x="6" y="115" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#163b13"/>
@@ -94,7 +93,7 @@
 		<rect transform="scale(-1,1)" x="-10" y="115" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#93d282"/>
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m32 62v2h7v-2z" color="#000000" fill="#93d282"/>
 		<rect transform="scale(-1,1)" x="-14" y="101" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#86dd75"/>
-		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m18 0v2h1.5625 5.4375v-2h-5.4375z" color="#000000" fill="#d9ffd1"/>
+		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m18 0v2h7v-2h-5.4375z" color="#000000" fill="#d9ffd1"/>
 		<path transform="matrix(.28571 0 0 .28571 .85714 99.286)" d="m18 2v4h7v-4z" color="#000000" fill="#86dd75"/>
 		<rect transform="scale(-1,1)" x="-14" y="103" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#70db5b"/>
 		<rect transform="scale(-1,1)" x="-14" y="105" width="2" height="2" rx="1.6422e-9" ry="1.6422e-9" color="#000000" fill="#1e4e19"/>
