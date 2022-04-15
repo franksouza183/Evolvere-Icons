@@ -23,19 +23,25 @@
 - Square
 - Small
 
-Square, realistic shading (as far I can do), smooth colors and minimalist/monochromatic small icons.
+## Variants
 
 The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors (I promise xD). You can play with the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
 
 Compatible with some windows (wine) applications.
 
-## Installing
+## Installation
 
-Put the content of this repo into **~/.icons/evolvere-icons**
+1. Download the latest **[Release]** .
 
-System wide: **/usr/share/icons/evolvere-icons**
+2. Extract the archive.
 
-And choose it via your theming tool.
+3. Place them in corresponding directory:
+
+  **System:** `/usr/share/icons/evolvere-icons`
+
+  **User:** `~/.icons/evolvere-icons`
+  
+4. Use your theming tool to select it.
 
 ## Missing icons
 
@@ -61,3 +67,6 @@ Paypal: franksouza183@gmail.com
 <!----------------------------------------------------------------------------->
 
 [Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
+
+[Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+
