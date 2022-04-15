@@ -1,10 +1,16 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.png" alt="Evolvere icons"/>
-</p>
+<div align = center>
 
 # Evolvere Icons
 
-### Flat with touches of realism.
+***Flat with Touches of Realism***
+
+<br>
+
+![Preview]
+
+</div>
+
+---
 
 Square, realistic shading (as far I can do), smooth colors and minimalist/monochromatic small icons.
 
@@ -39,3 +45,8 @@ Open an issue
 Open an issue, make a pull request or buy me coffee.
 
 Paypal: franksouza183@gmail.com
+
+
+<!----------------------------------------------------------------------------->
+
+[Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
