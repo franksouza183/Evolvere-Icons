@@ -54,10 +54,6 @@
   
 4. Use your theming tool to select it.
 
-## Missing icons
-
-Open an issue
-
 <br>
 
 ---
@@ -119,8 +115,11 @@ in **[Inkscape]** for a *'live'* preview.
 
 ## Contributions
 
-Open an issue, make a pull request or buy me coffee.
+Simply open an issue / pull request.
 
+*For missing icons for example.*
+
+Or buy me a coffee~
 
 
 <!----------------------------------------------------------------------------->
