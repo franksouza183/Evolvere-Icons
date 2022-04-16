@@ -1,41 +1,137 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/franksouza183/Evolvere-Icons/master/preview.png" alt="Evolvere icons"/>
-</p>
+[![Badge License]][License]
+
+<div align = center>
 
 # Evolvere Icons
 
-### Flat with touches of realism.
+***Flat with Touches of Realism***
 
-Square, realistic shading (as far I can do), smooth colors and minimalist/monochromatic small icons.
+<br>
 
-The variants have been removed and will be replaced with a script that will generate a custom theme with the desired colors (I promise xD). You can play with the old variants in the [old repository](https://github.com/franksouza183/EvolvereSuit).
+[![Badge Donate]][PayPal]
 
-Compatible with some windows (wine) applications.
+<br>
 
-## Installing
+![Preview]
 
-Put the content of this repo into **~/.icons/evolvere-icons**
+</div>
 
-System wide: **/usr/share/icons/evolvere-icons**
+---
 
-And choose it via your theming tool.
+<br>
 
-## Missing icons
+## Design
 
-Open an issue
+- **Minimalist / Monochromatic**
+
+- **Realistic Shading**
+
+  *As far as I'm able to~*
+  
+- **Smooth Colors**
+
+- **Square**
+
+- **Small**
+
+<br>
+
+---
+
+<br>
+
+## Installation
+
+1. Download the latest **[Release]** .
+
+2. Extract the archive.
+
+3. Place them in corresponding directory:
+
+  **System:** `/usr/share/icons/evolvere-icons`
+
+  **User:** `~/.icons/evolvere-icons`
+  
+4. Use your theming tool to select it.
+
+<br>
+
+---
+
+<br>
 
 ## Notes
 
-1 - All icons with sizes smaller or equal to 24px are monochromatic, with very few exceptions, preventing consistency break. So, if you see small colorful icons, it is because they haven't been covered yet or maybe it's hardcoded.
+#### Variants
 
-2 - The package is in the process of migrating to the new style, so expect icons with the old one. I am currently focusing on the most popular.
+The variants have been removed and will be replaced <br>
+with a script that will generate a custom theme with <br>
+the desired colors.
 
-3 - When using dark themes, the small icons will be visible by bright outlines.
+> I promise xD
 
-4 - Open "preview.svg" in inkscape for a "live" preview.
+
+You can still play with the **[Old Variants]**.
+
+*Compatible with some windows ( wine ) applications.*
+
+<br>
+
+#### Small Icons
+
+All icons smaller or equal to `24px` are monochromatic, <br>with very few exceptions, preventing consistency break.
+
+So, if you see small colorful icons, it is because they <br>
+haven't been covered yet or maybe it's hard-coded.
+
+<br>
+
+#### Transitioning
+
+The package is in the process of migrating to <br>
+the new style, so expect icons with the old one.
+
+*I am currently focusing on the most popular.*
+
+<br>
+
+#### Dark Themes
+
+When using dark themes, the small <br>
+icons will be visible by bright outlines.
+
+<br>
+
+#### Live Preview
+
+Open `Resources/preview.svg` <br>
+in **[Inkscape]** for a *'live'* preview.
+
+<br>
+
+---
+
+<br>
 
 ## Contributions
 
-Open an issue, make a pull request or buy me coffee.
+Simply open an issue / pull request.
 
-Paypal: franksouza183@gmail.com
+*For missing icons for example.*
+
+Or buy me a coffee~
+
+
+<!----------------------------------------------------------------------------->
+
+[Badge Donate]: https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white
+[Badge License]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
+
+[Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
+
+[Inkscape]: https://inkscape.org/
+[PayPal]: https://www.paypal.com/paypalme/franksouza
+
+[Old Variants]: https://github.com/franksouza183/EvolvereSuit
+[Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+[License]: LICENSE
