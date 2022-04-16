@@ -8,10 +8,6 @@
 
 <br>
 
-[![Badge Donate]][PayPal]
-
-<br>
-
 ![Preview]
 
 </div>
@@ -121,16 +117,15 @@ Simply open an issue / pull request.
 
 Or buy me a coffee~
 
+Paypal: franksouza183@gmail.com
 
 <!----------------------------------------------------------------------------->
 
-[Badge Donate]: https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white
 [Badge License]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 
 [Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
 
 [Inkscape]: https://inkscape.org/
-[PayPal]: https://www.paypal.com/paypalme/franksouza
 
 [Old Variants]: https://github.com/franksouza183/EvolvereSuit
 [Release]: https://github.com/franksouza183/Evolvere-Icons/releases
