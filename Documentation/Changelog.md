@@ -1,8 +1,8 @@
 
-# Changelog
+# Changelog - main changes
 
-- Lots of `64px` icons added / redesigned.
-- Lots of `symbolic` icons added / redesign.
+- virt manager
+- 
 
 <br>
 
