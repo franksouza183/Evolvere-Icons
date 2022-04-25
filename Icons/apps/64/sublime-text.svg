@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<linearGradient id="b" x1="35" x2="33.647" y1="39" y2="41.344" gradientUnits="userSpaceOnUse">
+		<linearGradient id="b" x1="35" x2="33.647" y1="39" y2="41.344" gradientTransform="matrix(1.2174 0 0 1.2174 -6.9565 -7.0653)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#e38111" offset="0"/>
 			<stop stop-color="#fd9621" offset="1"/>
 		</linearGradient>
 		<radialGradient id="b-05" cx="31.744" cy="30.855" r="32" gradientTransform="matrix(1.1553,0,0,1.1553,277.45,965.74)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#564848" style="stop-color:#593d3d" offset="0"/>
-			<stop stop-color="#464040" style="stop-color:#524b4b" offset="1"/>
+			<stop stop-color="#593d3d" offset="0"/>
+			<stop stop-color="#524b4b" offset="1"/>
 		</radialGradient>
 		<radialGradient id="e-5-6" cx="35.574" cy="1.019" r="32" gradientTransform="matrix(0,1.1252,-5.1753,0,37.271,-39.029)" gradientUnits="userSpaceOnUse" xlink:href="#a-40"/>
 		<linearGradient id="a-40">
@@ -69,7 +69,7 @@
 			<path d="m64 3.5-2-2 2-0.5z" fill="#fffeff" fill-opacity=".4499"/>
 		</g>
 	</g>
-	<path d="m43.5 16.688-23 7.1875v8.625l23-7.1875z" fill="#fd971f"/>
-	<path d="m43.5 32.5-23 7.1875v8.625l23-7.1875z" fill="url(#b)"/>
-	<path d="m20.5 23.875 23 8.625v8.625l-23-8.625z" fill="#fd971f"/>
+	<path d="m46 13.251-28 8.75v10.5l28-8.75z" fill="#fd971f"/>
+	<path d="m46 32.5-28 8.75v10.5l28-8.75z" fill="url(#b)"/>
+	<path d="m18 22 28 10.5v10.5l-28-10.5z" fill="#fd971f"/>
 </svg>
