@@ -10,7 +10,7 @@
 
 <div align = center>
 
-[<kbd> <br> For Implementation Details Click Here <br> </kbd>][Implementation]
+[<kbd> <br> Ｉｍｐｌｅｍｅｎｔａｔｉｏｎ　Ｄｅｔａｉｌｓ <br> </kbd>][Implementation]
 
 </div>
 
