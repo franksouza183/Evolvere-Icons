@@ -1,9 +1,9 @@
 #!/usr/bin/env -S deno run --allow-read=../ --allow-write=../ --unstable
 
 
-import { fromFileUrl , dirname , join , normalize } from 'https://deno.land/std/path/mod.ts';
+import { fromFileUrl , dirname , join , normalize , relative } from 'https://deno.land/std/path/mod.ts';
 import { parse , stringify } from 'https://deno.land/x/xml/mod.ts';
-import { walk , emptyDir } from 'https://deno.land/std/fs/mod.ts';
+import { walk , emptyDir , ensureFile , copy } from 'https://deno.land/std/fs/mod.ts';
 import * as YAML from 'https://deno.land/std/encoding/yaml.ts';
 import * as Flags from 'https://deno.land/std/flags/mod.ts';
 import * as Colors from 'https://deno.land/std/fmt/colors.ts';
@@ -16,11 +16,12 @@ const templatePath = args._[0];
 
 
 
-const { consoleSize , stdout , readTextFile } = Deno;
+const { consoleSize , stdout , readTextFile , writeTextFile } = Deno;
 const { log , clear } = console;
 
 const
     yellow = { r : 183 , g : 136 , b :  49 },
+    green  = { r :  83 , g : 163 , b :  69 },
     cyan   = { r : 124 , g : 180 , b : 207 },
     blue   = { r :  70 , g : 114 , b : 203 },
     red    = { r : 197 , g :  23 , b :  75 };
@@ -33,6 +34,12 @@ const { columns } = consoleSize(stdout.rid);
 
 let printTask = () => {};
 let count = 0;
+
+
+await emptyDir(path_build);
+await copy(join(path_icons,'index.theme'),join(path_build,'index.theme'));
+await copy(join(path_icons,'.directory'),join(path_build,'.directory'));
+
 
 
 function printHeadline(){
@@ -178,32 +185,12 @@ printTask = () => {
 const paths = new Set;
 
 for await (const entry of walk(path_icons,{ followSymlinks : false }))
-    if(entry.isFile){
+    if(entry.isFile && entry.path.endsWith('.svg')){
         count++;
         paths.add(entry.path);
     }
 
 const found = count;
-count = 0;
-
-printTask = () => {
-    log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
-    log('\n');
-    log(rgb('① ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
-    log(rgb('② ',blue),rgb('Checking Monochromaticity:',cyan),rgb((count + '').padStart((found + '').length,' '),yellow),rgb('of',cyan),rgb(found + '',yellow));
-}
-
-for(const path of paths){
-    
-}
-
-await emptyDir(path_build);
-
-
-setTimeout(() => {
-    clearInterval(printer);    
-},100);
-
 
 
 const components = {
@@ -239,37 +226,92 @@ const classes = {
     'ColorScheme-Text' : 'Foreground'
 };
 
+
+let colorized = 0;
+
+
+printTask = () => {
+    log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
+    log('\n');
+    log(rgb('① ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
+    log(
+        rgb('② ',blue),
+        rgb('Colorized',cyan),
+        rgb('' + colorized,yellow),
+    );
+}
+
+
+
+for(const path of paths){
+
+
+    const rel = relative(path_icons,path);
+    const iconpath = join(path_build,rel);
+
+    const raw = await readTextFile(path);
+    const xml = parse(raw);
+    const converted = colorize(xml);
+    const svg = stringify(converted);
+    await ensureFile(iconpath);
+    await writeTextFile(iconpath,svg);
+    
+    colorized++;
+}
+
+
+
+
+setTimeout(() => {
+    clearInterval(printer);    
+},100);
+
+
+
+
+
 function colorize(svgData){
     
-    svgData.svg.defs = styleTemplate;
+    try {
+        
+        svgData.svg.defs = styleTemplate;
 
-    for(const path of svgData.svg.path){
+        const { path : paths } = svgData.svg;
         
-        const classname = path['@class'];
-        
-        if(classname in classes){
-            
-            const style = path['@style'];
-            
-            const component = classes[classname];
-            
-            const { Color , Alpha } = template[component];
-            
-            path['@style'] = style
-                .split(';')
-                .filter((data) => {
-                    return !data.startsWith('fill-opacity')
-                        && !data.startsWith('opacity');
+        if(paths && Array.isArray(paths))
+            for(const path of paths){
+                
+                const classname = path['@class'];
+                
+                if(classname in classes){
                     
-                })
-                .concat([
-                    `fill-opacity:${ Alpha }`,
-                    (Color === 'None') && 'opacity:0'
-                ])
-                .filter(a => a)
-                .join(';');
-        }
+                    const style = path['@style'] ?? '';
+                    
+                    const component = classes[classname];
+                    
+                    const { Color , Alpha } = template[component];
+                    
+                    path['@style'] = style
+                        .split(';')
+                        .filter((data) => {
+                            return !data.startsWith('fill-opacity')
+                                && !data.startsWith('opacity');
+                            
+                        })
+                        .concat([
+                            `fill-opacity:${ Alpha }`,
+                            (Color === 'None') && 'opacity:0'
+                        ])
+                        .filter(a => a)
+                        .join(';');
+                }
+            }
+    } catch (error) {
+        log(svgData);
+        throw error;
     }
+    
+    return svgData;
 }
 
 
