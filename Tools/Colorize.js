@@ -80,7 +80,81 @@ try {
     
     const yaml = await readTextFile(templatePath);
     
-    const template = YAML.parse(yaml);
+    const raw = YAML.parse(yaml);
+    
+    for(const key in raw)
+        log(key,raw[key]);
+    
+    const template = {
+
+        Foreground : {
+            Color : '090d11' ,
+            Alpha : .75
+        },
+
+        Background : {
+            Color : 'ffffff' ,
+            Alpha : .5
+        },
+
+        Accent : {
+            Color : '2598e4' ,
+            Alpha : 1
+        },
+        
+        Success : {
+            Color : '42a53b' ,
+            Alpha : 1
+        },
+
+        Warning : {
+            Color : 'f2712c' ,
+            Alpha : 1
+        },
+            
+        Error : {
+            Color : 'f03489' ,
+            Alpha : 1
+        }
+    };
+    
+    for(const component in template){
+        
+        const attributes = template[component];
+        
+        if(component in raw){
+
+            const data = raw[component];
+            
+            if(data)
+                for(const attribute in attributes)
+                    if(attribute in data){
+                        
+                        const value = data[attribute];
+                        
+                        switch(attribute){
+                        case 'Color':
+                            
+                            if(/^([0-9a-f]{3}){1,2}$/i.test(value))
+                                break;
+                                
+                            throw `「 ${ component } » ${ attribute } 」 '${ value }' is not a hex color string\n`;
+                        case 'Alpha':
+                            
+                            if(typeof value !== 'number')
+                                throw `「 ${ component } » ${ attribute } 」 '${ value }' is not a float value\n`
+                        
+                            if(value > 1 || value < 0)
+                                throw `「 ${ component } » ${ attribute } 」 '${ value }' does not fulfill 0 ≤ Alpha ≤ 1\n`
+                        
+                            break;
+                        }
+                        
+                        
+                        attributes[attribute] = data[attribute];
+                    }
+        }
+    }
     
     log(template);
     
@@ -89,7 +163,7 @@ try {
 } catch (error) {
     
     printTask = () => {
-        log(rgb(center(`Couldn't Parse Template`),red),'\n');
+        log(rgb(center(`Couldn't Parse Template`),red),'\n\n');
         log(error);
     }
     
