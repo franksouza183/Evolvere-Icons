@@ -1,7 +1,7 @@
-#!/usr/bin/env -S deno run --allow-read=../ --allow-write=../ --unstable
+#!/usr/bin/env -S deno run --allow-read --allow-write --allow-run --unstable
 
 
-import { fromFileUrl , dirname , join , normalize , relative } from 'https://deno.land/std/path/mod.ts';
+import { fromFileUrl , dirname , join , normalize , relative , resolve } from 'https://deno.land/std/path/mod.ts';
 import { parse , stringify } from 'https://deno.land/x/xml/mod.ts';
 import { walk , emptyDir , ensureFile , copy } from 'https://deno.land/std/fs/mod.ts';
 import * as YAML from 'https://deno.land/std/encoding/yaml.ts';
@@ -16,8 +16,10 @@ const templatePath = args._[0];
 
 
 
-const { consoleSize , stdout , readTextFile , writeTextFile } = Deno;
+const { consoleSize , stdout , readTextFile , writeTextFile , symlink } = Deno;
 const { log , clear } = console;
+
+clear();
 
 const
     yellow = { r : 183 , g : 136 , b :  49 },
@@ -27,8 +29,10 @@ const
     red    = { r : 197 , g :  23 , b :  75 };
 
 const path_root = normalize(join(dirname(fromFileUrl(import.meta.url)),'..'));
-const path_icons = join(path_root,'Icons');
-const path_build = join(path_root,'Build');
+const path_icons = resolve(join(path_root,'Icons'));
+const path_build = resolve(join(path_root,'Build'));
+
+log(path_icons,path_build);
 
 const { columns } = consoleSize(stdout.rid);
 
@@ -36,9 +40,11 @@ let printTask = () => {};
 let count = 0;
 
 
-await emptyDir(path_build);
-await copy(join(path_icons,'index.theme'),join(path_build,'index.theme'));
-await copy(join(path_icons,'.directory'),join(path_build,'.directory'));
+
+
+// Deno.exit();
+// await copy(join(path_icons,'index.theme'),join(path_build,'index.theme'));
+// await copy(join(path_icons,'.directory'),join(path_build,'.directory'));
 
 
 
@@ -179,16 +185,45 @@ try {
 printTask = () => {
     log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
     log('\n');
-    log(rgb('① ',blue),rgb('Found Icons:',cyan),rgb(count + '',yellow));
+    log(
+        rgb('① ',blue),
+        rgb('Copying Theme',cyan)
+    );
+}
+
+await emptyDir(path_build);
+await copy(path_icons,path_build,{ overwrite : true });
+
+printTask = () => {
+    log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
+    log('\n');
+    log(
+        rgb('① ',blue),
+        rgb('Copied Theme',cyan)
+    );
+    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(count + '',yellow));
 }
 
 const paths = new Set;
 
-for await (const entry of walk(path_icons,{ followSymlinks : false }))
-    if(entry.isFile && entry.path.endsWith('.svg')){
-        count++;
-        paths.add(entry.path);
-    }
+for await (const entry of walk(path_build,{ followSymlinks : false })){
+
+    const { isFile , path } = entry;
+    
+    if(isFile)
+        switch(true){
+            case path.endsWith('.svg'):
+                count++;
+                paths.add(path);
+                continue;
+            case path.endsWith('.directory'):
+            case path.endsWith('index.theme'):
+                continue;
+            default:
+                await Deno.remove(path);
+        }
+}
+
 
 const found = count;
 
@@ -233,9 +268,13 @@ let colorized = 0;
 printTask = () => {
     log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
     log('\n');
-    log(rgb('① ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
     log(
-        rgb('② ',blue),
+        rgb('① ',blue),
+        rgb('Copied Theme',cyan)
+    );
+    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
+    log(
+        rgb('③ ',blue),
         rgb('Colorized',cyan),
         rgb('' + colorized,yellow),
     );
@@ -243,23 +282,67 @@ printTask = () => {
 
 
 
-for(const path of paths){
+// for(const path of paths){
+// 
+// 
+//     // const rel = relative(path_icons,path);
+//     // const iconpath = join(path_build,rel);
+// 
+//     const raw = await readTextFile(path);
+//     const xml = parse(raw);
+//     const converted = colorize(xml);
+//     const svg = stringify(converted);
+//     // await ensureFile(iconpath);
+//     await writeTextFile(path,svg);
+// 
+//     colorized++;
+// }
+// 
 
 
-    const rel = relative(path_icons,path);
-    const iconpath = join(path_build,rel);
-
-    const raw = await readTextFile(path);
-    const xml = parse(raw);
-    const converted = colorize(xml);
-    const svg = stringify(converted);
-    await ensureFile(iconpath);
-    await writeTextFile(iconpath,svg);
-    
-    colorized++;
+printTask = () => {
+    log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
+    log('\n');
+    log(
+        rgb('① ',blue),
+        rgb('Copied Theme',cyan)
+    );
+    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
+    log(
+        rgb('③ ',blue),
+        rgb('Colorized',cyan),
+        rgb('' + colorized,yellow),
+    );
+    log(
+        rgb('④ ',blue),
+        rgb('Generating Cache...',cyan)
+    );
 }
 
+const process = Deno.run({ cmd : [ 'gtk-update-icon-cache' , path_build ] });
+await process.status();
 
+printTask = () => {
+    log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
+    log('\n');
+    log(
+        rgb('① ',blue),
+        rgb('Copied Theme',cyan)
+    );
+    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
+    log(
+        rgb('③ ',blue),
+        rgb('Colorized',cyan),
+        rgb('' + colorized,yellow),
+    );
+    log(
+        rgb('④ ',blue),
+        rgb('Generated Cache',cyan)
+    );
+    log('\n\n');
+    log(rgb(center('Finished Colorization'),green));
+    log('\n');
+}
 
 
 setTimeout(() => {
