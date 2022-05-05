@@ -76,6 +76,39 @@ if(!templatePath){
     Deno.exit();
 }
 
+const template = {
+
+    Foreground : {
+        Color : '090d11' ,
+        Alpha : .75
+    },
+
+    Background : {
+        Color : 'ffffff' ,
+        Alpha : .5
+    },
+
+    Accent : {
+        Color : '2598e4' ,
+        Alpha : 1
+    },
+    
+    Success : {
+        Color : '42a53b' ,
+        Alpha : 1
+    },
+
+    Warning : {
+        Color : 'f2712c' ,
+        Alpha : 1
+    },
+        
+    Error : {
+        Color : 'f03489' ,
+        Alpha : 1
+    }
+};
+
 try {
     
     const yaml = await readTextFile(templatePath);
@@ -84,39 +117,6 @@ try {
     
     for(const key in raw)
         log(key,raw[key]);
-    
-    const template = {
-
-        Foreground : {
-            Color : '090d11' ,
-            Alpha : .75
-        },
-
-        Background : {
-            Color : 'ffffff' ,
-            Alpha : .5
-        },
-
-        Accent : {
-            Color : '2598e4' ,
-            Alpha : 1
-        },
-        
-        Success : {
-            Color : '42a53b' ,
-            Alpha : 1
-        },
-
-        Warning : {
-            Color : 'f2712c' ,
-            Alpha : 1
-        },
-            
-        Error : {
-            Color : 'f03489' ,
-            Alpha : 1
-        }
-    };
     
     for(const component in template){
         
@@ -150,15 +150,10 @@ try {
                             break;
                         }
                         
-                        
                         attributes[attribute] = data[attribute];
                     }
         }
     }
-    
-    log(template);
-    
-    Deno.exit();
     
 } catch (error) {
     
@@ -170,6 +165,8 @@ try {
     printScreen();
     Deno.exit();
 }
+
+
     
 
 printTask = () => {
@@ -206,6 +203,74 @@ await emptyDir(path_build);
 setTimeout(() => {
     clearInterval(printer);    
 },100);
+
+
+
+const components = {
+    Background : 'Background' ,
+    Foreground : 'Text' ,
+    Success : 'PositiveText' ,
+    Warning : 'NeutralText' ,
+    Accent : 'Highlight' ,
+    Error : 'NegativeText'
+};
+
+const style = Object
+    .entries(components)
+    .map(([ component , name ]) => [ `ColorScheme-${ name }` , `#${ template[component].Color }` ])
+    .map(([ classname , color ]) => `.${ classname } { color : ${ color } }`)
+    .join('');
+
+
+const styleTemplate = {
+    style : {
+        '@id' : 'current-color-scheme' ,
+        '@type' : 'text/css' ,
+        '#text' : style
+    }
+};
+
+const classes = {
+    'ColorScheme-NegativeText' : 'Error' ,
+    'ColorScheme-PositiveText' : 'Success' ,
+    'ColorScheme-NeutralText' : 'Warning' ,
+    'ColorScheme-Background' : 'Background' ,
+    'ColorScheme-Highlight' : 'Accent' ,
+    'ColorScheme-Text' : 'Foreground'
+};
+
+function colorize(svgData){
+    
+    svgData.svg.defs = styleTemplate;
+
+    for(const path of svgData.svg.path){
+        
+        const classname = path['@class'];
+        
+        if(classname in classes){
+            
+            const style = path['@style'];
+            
+            const component = classes[classname];
+            
+            const { Color , Alpha } = template[component];
+            
+            path['@style'] = style
+                .split(';')
+                .filter((data) => {
+                    return !data.startsWith('fill-opacity')
+                        && !data.startsWith('opacity');
+                    
+                })
+                .concat([
+                    `fill-opacity:${ Alpha }`,
+                    (Color === 'None') && 'opacity:0'
+                ])
+                .filter(a => a)
+                .join(';');
+        }
+    }
+}
 
 
 function center(...args){
