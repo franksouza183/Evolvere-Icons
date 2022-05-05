@@ -80,7 +80,11 @@ try {
     
     const yaml = await readTextFile(templatePath);
     
+    const template = YAML.parse(yaml);
     
+    log(template);
+    
+    Deno.exit();
     
 } catch (error) {
     
@@ -115,7 +119,7 @@ printTask = () => {
     log(rgb('Project Folder:',cyan),rgb(path_root,yellow));
     log('\n');
     log(rgb('① ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
-    log(rgb('② ',blue),rgb('Checking Monochromaticity:',cyan),rgb((count + '').padStart((found + '').length,' '),yellow),rgb('/',cyan),rgb(found + '',yellow));
+    log(rgb('② ',blue),rgb('Checking Monochromaticity:',cyan),rgb((count + '').padStart((found + '').length,' '),yellow),rgb('of',cyan),rgb(found + '',yellow));
 }
 
 for(const path of paths){

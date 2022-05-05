@@ -14,6 +14,15 @@
 
 ---
 
+<div align = center>
+
+[<kbd> <br> Colorize <br> </kbd>][Colorize] 
+[<kbd> <br> Changelog <br> </kbd>][Changelog]
+
+</div>
+
+---
+
 <br>
 
 ## Design
@@ -129,4 +138,7 @@ Paypal: franksouza183@gmail.com
 
 [Old Variants]: https://github.com/franksouza183/EvolvereSuit
 [Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+
+[Changelog]: Documentation/Changelog.md
+[Colorize]: Documentation/Colorize/Usage.md
 [License]: LICENSE
