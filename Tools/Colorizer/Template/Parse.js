@@ -2,6 +2,7 @@
 import { parse } from 'https://deno.land/std/encoding/yaml.ts'
 
 import { newline , center , red, blue } from '../Pretty.js'
+import * as Print from '../Print.js'
 import template from './Defaults.js'
 
 const { exit , readTextFile } = Deno;
@@ -86,7 +87,7 @@ function printParseError(error){
     
     clear();
     
-    printHeadline();
+    Print.header();
     
     log(red(center(`Couldn't Parse Template`)));
     
@@ -96,12 +97,6 @@ function printParseError(error){
     log(error);
 }
 
-function printHeadline(){
-    log('');
-    log(blue(center('Evolvere Icons Colorizer')));
-    log(blue(center('………………………………………………………………')));
-    log('\n');
-}
 
 function first(string){
     return string.at(0) ?? '';
