@@ -33,10 +33,24 @@ export function init(template){
     
     colors = template;
     
+    const hasColor = ([ color ]) => 
+        color;
+        
+    const toColor = ([ component , name ]) => 
+        [ template[component].Color , name ];
+        
+    const toProperties = ([ color , name ]) => 
+        [ `ColorScheme-${ name }` , `#${ color }` ];
+    
+    const toStyle = ([ classname , color ]) => 
+        `.${ classname } { color : ${ color } }`;
+    
     const style = Object
         .entries(components)
-        .map(([ component , name ]) => [ `ColorScheme-${ name }` , `#${ template[component].Color }` ])
-        .map(([ classname , color ]) => `.${ classname } { color : ${ color } }`)
+        .map(toColor)
+        .filter(hasColor)
+        .map(toProperties)
+        .map(toStyle)
         .join('');
     
     styleClasses = {
