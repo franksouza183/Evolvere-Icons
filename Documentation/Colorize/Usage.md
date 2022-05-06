@@ -20,7 +20,7 @@
 
 ## Command
 
-The tool can be found in **[`/Tools/`][Tools]**.
+The tool can be found in [`/Tools/`][Tools] .
 
 <br>
 
@@ -66,7 +66,7 @@ Tools/Colorize.js Resources/Examples/Template.yaml
 
 <br>
 
-You **can** specify the `Color` & `Alpha` for:
+You **can** specify the `Color` & `Alpha` for:
 
 - `Foreground`
 - `Background`
@@ -75,11 +75,14 @@ You **can** specify the `Color` & `Alpha` for:
 - `Accent`
 - `Error`
 
-*Everything is optional.*
+➜ *Everything is optional.* <br>
+➜ *If not specified, default values are used.*
 
 <br>
 
 ### Example
+
+*Setting the **RGBA** of a component.*
 
 ```yaml
 Foreground:
@@ -89,7 +92,16 @@ Foreground:
 
 <br>
 
-Check out the **[`Examples/Template.yaml`][Example]** for a full example.
+*Deactivating a component.*
+
+```yaml
+Foreground:
+    Color : None
+```
+
+<br>
+
+**Check out the [`Examples/Template.yaml`][Example] for a full example.**
 
 <br>
 

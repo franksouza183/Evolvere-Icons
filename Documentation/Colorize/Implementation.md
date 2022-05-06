@@ -30,7 +30,26 @@ A specified `Color` overrides the style declaration of a component:
 | Accent     | `ColorScheme-Highlight`
 | Error      | `ColorScheme-NegativeText`
 
+<br>
+<br>
 
+## Process
+
+1. Copies `/Icons/` directory to `/Build/`
+
+2. Loads template
+
+3. Removes all files except:
+
+    - **SVG**s
+    
+    - `.directory`
+    
+    - `index.theme`
+    
+4. Colorizes all **SVG**s
+
+5. Generates icon cache
 
 <!----------------------------------------------------------------------------->
 
