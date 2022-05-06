@@ -18,6 +18,15 @@
 
 <br>
 
+## Requirements
+
+*What you need to run this tool.*
+
+<kbd> <br> You only need [Ｄｅｎｏ][Deno] <br> </kbd>
+
+<br>
+<br>
+
 ## Command
 
 The tool can be found in [`/Tools/`][Tools] .
@@ -111,5 +120,7 @@ Foreground:
 [Implementation]: Implementation.md
 [Example]: ../../Resources/Examples/Template.yaml
 [Tools]: ../../Tools
+
+[Deno]: https://deno.land/
 
 
