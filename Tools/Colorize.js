@@ -6,27 +6,19 @@ import { parse , stringify } from 'https://deno.land/x/xml/mod.ts'
 import { walk , emptyDir , ensureFile , copy } from 'https://deno.land/std/fs/mod.ts'
 import * as YAML from 'https://deno.land/std/encoding/yaml.ts'
 import * as Flags from 'https://deno.land/std/flags/mod.ts'
-import * as Colors from 'https://deno.land/std/fmt/colors.ts'
 
 import * as Path from './Colorizer/Paths.js'
 import * as Colorize from './Colorizer/ModifySVG.js'
 import generateCache from './Colorizer/Cache.js'
+import { newline , center , yellow , blue , cyan , green , red } from './Colorizer/Pretty.js'
 
-const { rgb24 : rgb } = Colors;
 
 
-    
-const
-    yellow = { r : 183 , g : 136 , b :  49 },
-    green  = { r :  83 , g : 163 , b :  69 },
-    cyan   = { r : 124 , g : 180 , b : 207 },
-    blue   = { r :  70 , g : 114 , b : 203 },
-    red    = { r : 197 , g :  23 , b :  75 };
 
 const
-    task1 = rgb('① ',blue) ,
-    task2 = rgb('② ',blue) ,
-    task3 = rgb('③ ',blue) ;
+    task1 = blue('① '),
+    task2 = blue('② '),
+    task3 = blue('③ ');
 
 
 const args = Flags.parse(Deno.args);
@@ -35,25 +27,19 @@ const templatePath = args._[0];
 
 
 
-const { consoleSize , stdout , readTextFile , writeTextFile , symlink } = Deno;
+const { readTextFile , writeTextFile , symlink } = Deno;
 const { log , clear } = console;
+
+
 
 clear();
 
-
-
-
-
-const { columns } = consoleSize(stdout.rid);
-
 let printTask = () => {};
-
-
 
 function printHeadline(){
     log('');
-    log(rgb(center('Evolvere Icons Colorizer'),blue));
-    log(rgb(center('………………………………………………………………'),blue));
+    log(blue(center('Evolvere Icons Colorizer')));
+    log(blue(center('………………………………………………………………')));
     log('\n');
 }
 
@@ -69,22 +55,23 @@ const printer = setInterval(printScreen,5);
 if(!templatePath){
     
     printTask = () => {
-        log(rgb(center(`No Template Specified`),red),'\n\n');
+        log(red(center(`No Template Specified`)),'\n\n');
 
         log(center(
-            rgb(' Syntax:     ',cyan),
-            rgb('./Colorize.js <',yellow),
-            rgb('Template',red),
-            rgb('>',yellow)
+            cyan(' Syntax:     '),
+            yellow('./Colorize.js <'),
+            red('Template'),
+            yellow('>')
         ,36));
         
         log(center(
-            rgb('Example: ',cyan),
-            rgb('Tools/Colorize.js ',yellow),
-            rgb('ThemeA.yaml',red)
+            cyan('Example: '),
+            yellow('Tools/Colorize.js '),
+            red('ThemeA.yaml')
         ,36));
         
-        log('\n\n');
+        newline();
+        newline();
     }
     
     printScreen();
@@ -142,7 +129,9 @@ try {
 } catch (error) {
     
     printTask = () => {
-        log(rgb(center(`Couldn't Parse Template`),red),'\n\n');
+        log(red(center(`Couldn't Parse Template`)));
+        newline();
+        newline();
         log(error);
     }
     
@@ -157,10 +146,10 @@ Colorize.init(template);
 
 printTask = () => {
     printProjectFolder();
-    log('\n');
+    newline();
     log(
-        rgb('① ',blue),
-        rgb('Copying Theme',cyan)
+        blue('① '),
+        cyan('Copying Theme')
     );
 }
 
@@ -172,12 +161,12 @@ let found = 0;
 
 printTask = () => {
     printProjectFolder();
-    log('\n');
+    newline();
     log(
-        rgb('① ',blue),
-        rgb('Copied Theme',cyan)
+        blue('① '),
+        cyan('Copied Theme')
     );
-    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
+    log(blue('② '),cyan('Found Icons:'),yellow(found));
 }
 
 const paths = new Set;
@@ -205,7 +194,7 @@ let colored = 0;
 
 printTask = () => {
     printProjectFolder();
-    log('\n');
+    newline();
     printCopied();
     printIcons();
     printColorized();
@@ -235,13 +224,13 @@ for(const path of paths)
 
 printTask = () => {
     printProjectFolder();
-    log('\n');
+    newline();
     printCopied();
     printIcons();
     printColorized();
     log(
-        rgb('④ ',blue),
-        rgb('Generating Cache...',cyan)
+        blue('④ '),
+        cyan('Generating Cache...')
     );
 }
 
@@ -249,17 +238,18 @@ await generateCache();
 
 printTask = () => {
     printProjectFolder();
-    log('\n');
+    newline();
     printCopied();
     printIcons();
     printColorized();
     log(
-        rgb('④ ',blue),
-        rgb('Generated Cache',cyan)
+        blue('④ '),
+        cyan('Generated Cache')
     );
-    log('\n\n');
-    log(rgb(center('Finished Colorization'),green));
-    log('\n');
+    newline();
+    newline();
+    log(green(center('Finished Colorization')));
+    newline();
 }
 
 
@@ -272,48 +262,28 @@ setTimeout(() => {
 
 function printProjectFolder(){
     log(
-        rgb('Project Folder:',cyan),
-        rgb(Path.root,yellow)
+        cyan('Project Folder:'),
+        yellow(Path.root)
     );
 }
 
 function printCopied(){
-    log(task1,rgb('Copied Theme',cyan));
+    log(task1,cyan('Copied Theme'));
 }
 
 function printIcons(){
     log(task2,
-        rgb('Icons',cyan),
-        rgb(found + '',yellow)
+        cyan('Icons'),
+        yellow(found)
     );
 }
 
 function printColorized(){
     log(task3,
-        rgb('Colorized',cyan),
-        rgb('' + colored,yellow),
+        cyan('Colorized'),
+        yellow(colored),
     );
 }
 
 
-function center(...args){
-    
-    let width = args[args.length - 1];
-    
-    if(typeof width === 'number'){
-        args.pop();
-    } else {
-        width = null;
-    }
 
-    const text = args.join('');
-    
-    width ??= text.length;
-    
-    if(width >= columns)
-        return 0;
-        
-    const padding = (columns - width) * .5;
-
-    return ' '.repeat(padding) + text;
-}
