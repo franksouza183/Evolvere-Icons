@@ -13,6 +13,21 @@ import * as Colorize from './Colorizer/ModifySVG.js'
 
 const { rgb24 : rgb } = Colors;
 
+
+    
+const
+    yellow = { r : 183 , g : 136 , b :  49 },
+    green  = { r :  83 , g : 163 , b :  69 },
+    cyan   = { r : 124 , g : 180 , b : 207 },
+    blue   = { r :  70 , g : 114 , b : 203 },
+    red    = { r : 197 , g :  23 , b :  75 };
+
+const
+    task1 = rgb('① ',blue) ,
+    task2 = rgb('② ',blue) ,
+    task3 = rgb('③ ',blue) ;
+
+
 const args = Flags.parse(Deno.args);
 const templatePath = args._[0];
 
@@ -24,12 +39,7 @@ const { log , clear } = console;
 
 clear();
 
-const
-    yellow = { r : 183 , g : 136 , b :  49 },
-    green  = { r :  83 , g : 163 , b :  69 },
-    cyan   = { r : 124 , g : 180 , b : 207 },
-    blue   = { r :  70 , g : 114 , b : 203 },
-    red    = { r : 197 , g :  23 , b :  75 };
+
 
 
 
@@ -139,12 +149,13 @@ try {
     Deno.exit();
 }
 
+
 Colorize.init(template);
 
     
 
 printTask = () => {
-    log(rgb('Project Folder:',cyan),rgb(Path.root,yellow));
+    printProjectFolder();
     log('\n');
     log(
         rgb('① ',blue),
@@ -152,14 +163,14 @@ printTask = () => {
     );
 }
 
-await emptyDir(Path.build);
-await copy(Path.icons,Path.build,{ overwrite : true });
+// await emptyDir(Path.build);
+// await copy(Path.icons,Path.build,{ overwrite : true });
 
 
 let found = 0;
 
 printTask = () => {
-    log(rgb('Project Folder:',cyan),rgb(Path.root,yellow));
+    printProjectFolder();
     log('\n');
     log(
         rgb('① ',blue),
@@ -192,18 +203,11 @@ for await (const entry of walk(Path.build,{ followSymlinks : false })){
 let colored = 0;
 
 printTask = () => {
-    log(rgb('Project Folder:',cyan),rgb(Path.root,yellow));
+    printProjectFolder();
     log('\n');
-    log(
-        rgb('① ',blue),
-        rgb('Copied Theme',cyan)
-    );
-    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
-    log(
-        rgb('③ ',blue),
-        rgb('Colorized',cyan),
-        rgb('' + colored,yellow),
-    );
+    printCopied();
+    printIcons();
+    printColorized();
 }
 
 
@@ -229,18 +233,11 @@ for(const path of paths)
 
 
 printTask = () => {
-    log(rgb('Project Folder:',cyan),rgb(Path.root,yellow));
+    printProjectFolder();
     log('\n');
-    log(
-        rgb('① ',blue),
-        rgb('Copied Theme',cyan)
-    );
-    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
-    log(
-        rgb('③ ',blue),
-        rgb('Colorized',cyan),
-        rgb('' + colored,yellow),
-    );
+    printCopied();
+    printIcons();
+    printColorized();
     log(
         rgb('④ ',blue),
         rgb('Generating Cache...',cyan)
@@ -251,18 +248,11 @@ const process = Deno.run({ cmd : [ 'gtk-update-icon-cache' , Path.build ] , stdo
 await process.status();
 
 printTask = () => {
-    log(rgb('Project Folder:',cyan),rgb(Path.root,yellow));
+    printProjectFolder();
     log('\n');
-    log(
-        rgb('① ',blue),
-        rgb('Copied Theme',cyan)
-    );
-    log(rgb('② ',blue),rgb('Found Icons:',cyan),rgb(found + '',yellow));
-    log(
-        rgb('③ ',blue),
-        rgb('Colorized',cyan),
-        rgb('' + colored,yellow),
-    );
+    printCopied();
+    printIcons();
+    printColorized();
     log(
         rgb('④ ',blue),
         rgb('Generated Cache',cyan)
@@ -279,6 +269,31 @@ setTimeout(() => {
 
 
 
+
+function printProjectFolder(){
+    log(
+        rgb('Project Folder:',cyan),
+        rgb(Path.root,yellow)
+    );
+}
+
+function printCopied(){
+    log(task1,rgb('Copied Theme',cyan));
+}
+
+function printIcons(){
+    log(task2,
+        rgb('Icons',cyan),
+        rgb(found + '',yellow)
+    );
+}
+
+function printColorized(){
+    log(task3,
+        rgb('Colorized',cyan),
+        rgb('' + colored,yellow),
+    );
+}
 
 
 function center(...args){
