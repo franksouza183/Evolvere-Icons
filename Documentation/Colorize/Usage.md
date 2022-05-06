@@ -1,21 +1,13 @@
 
-# Colorize
+# Colorize     [<kbd> <br> Ｉｍｐｌｅｍｅｎｔａｔｉｏｎ　Ｄｅｔａｉｌｓ <br> </kbd>][Implementation]
 
 *How to customize the monochromatic icons.*
 
 <div align = center>
 
 <br>
-
-![Showcase]
-
-<br>
-
----
-
-[<kbd> <br> Ｉｍｐｌｅｍｅｎｔａｔｉｏｎ　Ｄｅｔａｉｌｓ <br> </kbd>][Implementation]
-
----
+   
+<kbd> <br> ![Showcase] <br> </kbd>
 
 <br>
 
