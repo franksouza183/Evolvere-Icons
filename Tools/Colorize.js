@@ -104,11 +104,14 @@ try {
                         
                         switch(attribute){
                         case 'Color':
+                        
+                            if(value === 'None')
+                                break;
                             
                             if(/^([0-9a-f]{3}){1,2}$/i.test(value))
                                 break;
                                 
-                            throw `「 ${ component } » ${ attribute } 」 '${ value }' is not a hex color string\n`;
+                            throw `「 ${ component } » ${ attribute } 」 '${ value }' is not a hex color string / 'None'\n`;
                         case 'Alpha':
                             
                             if(typeof value !== 'number')
