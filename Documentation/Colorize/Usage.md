@@ -3,20 +3,24 @@
 
 *How to customize the monochromatic icons.*
 
+<div align = center>
+
+<br>
+
+![Showcase]
 
 <br>
 
 ---
-
-<div align = center>
 
 [<kbd> <br> Ｉｍｐｌｅｍｅｎｔａｔｉｏｎ　Ｄｅｔａｉｌｓ <br> </kbd>][Implementation]
 
-</div>
-
 ---
 
 <br>
+
+</div>
+
 
 ## Requirements
 
@@ -117,7 +121,9 @@ Foreground:
     
 <!----------------------------------------------------------------------------->
 
+
 [Implementation]: Implementation.md
+[Showcase]: ../../Resources/Tools/Colorizer.png
 [Example]: ../../Resources/Examples/Template.yaml
 [Tools]: ../../Tools
 
