@@ -1,7 +1,7 @@
 
 import { newline , center , yellow , blue , cyan , green , red } from './Pretty.js'
 import { root } from './Paths.js'
-import stats from './Stats.js'
+import Stats from './Stats.js'
 
 
 const { log , clear } = console;
@@ -38,14 +38,14 @@ export function copied(){
 export function icons(){
     log(task2,
         cyan('Icons'),
-        yellow(stats().found)
+        yellow(Stats.found)
     );
 }
 
 export function colorized(){
     log(task3,
         cyan('Colorized'),
-        yellow(stats().colored),
+        yellow(Stats.colored),
     );
 }
 

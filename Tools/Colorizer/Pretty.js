@@ -48,11 +48,10 @@ export function center(...args){
     
     let width = args[args.length - 1];
     
-    if(typeof width === 'number'){
+    if(typeof width === 'number')
         args.pop();
-    } else {
+    else
         width = null;
-    }
 
     const text = args.join('');
     

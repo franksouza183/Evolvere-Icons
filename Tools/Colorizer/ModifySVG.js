@@ -108,11 +108,13 @@ function adjustPath(path){
 
 export function colorize(svgData){
     
+    const { svg } = svgData;
+    
     try {
         
-        svgData.svg.defs = styleClasses;
+        svg.defs = styleClasses;
 
-        const { path : paths } = svgData.svg;
+        const paths = svg.path;
         
         if(paths && isArray(paths))
             for(const path of paths)
