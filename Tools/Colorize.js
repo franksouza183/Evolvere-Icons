@@ -56,51 +56,77 @@ if(!templatePath){
 
 import template from './Colorizer/Template/Defaults.js'
 
+
+function first(string){
+    return string.at(0) ?? '';
+}
+
+function capitalize(string){
+    return first(string).toUpperCase() +
+        string.slice(1).toLowerCase();
+}
+
 try {
     
     const yaml = await readTextFile(templatePath);
     
     const raw = YAML.parse(yaml);
     
-    for(const component in template){
+    
+    const normalizeComponent = ([ key , value ]) => 
+        [ capitalize(key) , value ];
+    
+    const isRelevantComponent = ([ key ]) => 
+        key in template;
+        
+    const hasData = ([ _ , value ]) =>
+        value;
+    
+    Object
+    .entries(raw)
+    .map(normalizeComponent)
+    .filter(isRelevantComponent)
+    .filter(hasData)
+    .forEach(([ component , properties ]) => {
         
         const attributes = template[component];
         
-        if(component in raw){
+        for(let property in properties){
 
-            const data = raw[component];
+            let value = properties[property];
             
-            if(data)
-                for(const attribute in attributes)
-                    if(attribute in data){
-                        
-                        const value = data[attribute];
-                        
-                        switch(attribute){
-                        case 'Color':
-                        
-                            if(value === 'None')
-                                break;
-                            
-                            if(/^([0-9a-f]{3}){1,2}$/i.test(value))
-                                break;
-                                
-                            throw `「 ${ component } » ${ attribute } 」 '${ value }' is not a hex color string / 'None'\n`;
-                        case 'Alpha':
-                            
-                            if(typeof value !== 'number')
-                                throw `「 ${ component } » ${ attribute } 」 '${ value }' is not a float value\n`
-                        
-                            if(value > 1 || value < 0)
-                                throw `「 ${ component } » ${ attribute } 」 '${ value }' does not fulfill 0 ≤ Alpha ≤ 1\n`
-                        
-                            break;
-                        }
-                        
-                        attributes[attribute] = data[attribute];
-                    }
+            property = capitalize(property);
+            
+            if(!(property in attributes))
+                continue;
+                
+            
+            switch(property){
+            case 'Color':
+            
+                if(/^None$/i.test(value)){
+                    value = null;
+                    break;
+                }
+                
+                if(/^([0-9a-f]{3}){1,2}$/i.test(value))
+                    break;
+                    
+                throw `「 ${ component } » ${ property } 」 '${ value }' is not a hex color string / 'None'\n`;
+            case 'Alpha':
+                
+                if(typeof value !== 'number')
+                    throw `「 ${ component } » ${ property } 」 '${ value }' is not a float value\n`
+            
+                if(value > 1 || value < 0)
+                    throw `「 ${ component } » ${ property } 」 '${ value }' does not fulfill 0 ≤ Alpha ≤ 1\n`
+            
+                break;
+            }
+            
+            attributes[property] = value;
         }
-    }
+    });
     
 } catch (error) {
     
@@ -112,13 +138,11 @@ try {
     }
     
     printScreen();
-    Deno.exit();
+    exit();
 }
 
 
 Colorize.init(template);
-
-    
 
 printTask = () => {
     printProjectFolder();
@@ -229,7 +253,7 @@ printTask = () => {
 }
 
 
-setTimeout(() => stopScreen,100);
+setTimeout(() => stopScreen(),100);
 
 
 

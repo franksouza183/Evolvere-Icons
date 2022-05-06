@@ -51,9 +51,9 @@ export function init(template){
         
         const { Color , Alpha } = colors[color];
         
-        colors[color].inline = (Color === 'None')
-            ? 'opacity:0'
-            : `fill-opacity:${ Alpha }` ;
+        colors[color].inline = Color
+            ? `fill-opacity:${ Alpha }`
+            : 'opacity:0' ;
     }
 }
 

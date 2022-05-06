@@ -1,25 +1,28 @@
 
-Foreground:
+foreground:
     Color : '890b16'
     Alpha : .75
+    Random : testing
     
-Background:
+backGround:
     Color : 'f87fff'
     Alpha : .5
 
-Accent:
+ACCENT:
     Color : '628d5b'
     Alpha : 1
 
 Success:
-    Color : '43cecf'
-    Alpha : 1
+    color : none
+    ALPHA : 1
 
 Warning:
     Color : '89642b'
-    Alpha : 1
+    AlPHa : 1
     
 Error:
-    Color : 'c13535'
+    Color : None
     Alpha : 1
+    
+Unrelated : 3
     
