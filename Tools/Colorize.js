@@ -5,14 +5,12 @@ import { join , normalize , relative , resolve } from 'https://deno.land/std/pat
 import { parse , stringify } from 'https://deno.land/x/xml/mod.ts'
 import { walk , emptyDir , ensureFile , copy } from 'https://deno.land/std/fs/mod.ts'
 import * as YAML from 'https://deno.land/std/encoding/yaml.ts'
-import * as Flags from 'https://deno.land/std/flags/mod.ts'
 
-import * as Path from './Colorizer/Paths.js'
-import * as Colorize from './Colorizer/ModifySVG.js'
-import generateCache from './Colorizer/Cache.js'
 import { newline , center , yellow , blue , cyan , green , red } from './Colorizer/Pretty.js'
-
-
+import { templatePath } from './Colorizer/Parameter.js'
+import generateCache from './Colorizer/Cache.js'
+import * as Colorize from './Colorizer/ModifySVG.js'
+import * as Path from './Colorizer/Paths.js'
 
 
 const
@@ -21,13 +19,7 @@ const
     task3 = blue('③ ');
 
 
-const args = Flags.parse(Deno.args);
-const templatePath = args._[0];
-
-
-
-
-const { readTextFile , writeTextFile , symlink } = Deno;
+const { readTextFile , writeTextFile , symlink , exit } = Deno;
 const { log , clear } = console;
 
 
@@ -49,33 +41,17 @@ function printScreen(){
     printTask();
 }
 
-const printer = setInterval(printScreen,5);
+const screen = setInterval(printScreen,5);
+
+function stopScreen(){
+    clearInterval(screen);
+}
 
 
 if(!templatePath){
-    
-    printTask = () => {
-        log(red(center(`No Template Specified`)),'\n\n');
-
-        log(center(
-            cyan(' Syntax:     '),
-            yellow('./Colorize.js <'),
-            red('Template'),
-            yellow('>')
-        ,36));
-        
-        log(center(
-            cyan('Example: '),
-            yellow('Tools/Colorize.js '),
-            red('ThemeA.yaml')
-        ,36));
-        
-        newline();
-        newline();
-    }
-    
-    printScreen();
-    Deno.exit();
+    stopScreen();
+    printTemplateMissing();
+    exit();
 }
 
 import template from './Colorizer/Template/Defaults.js'
@@ -253,9 +229,7 @@ printTask = () => {
 }
 
 
-setTimeout(() => {
-    clearInterval(printer);    
-},100);
+setTimeout(() => stopScreen,100);
 
 
 
@@ -283,6 +257,31 @@ function printColorized(){
         cyan('Colorized'),
         yellow(colored),
     );
+}
+
+function printTemplateMissing(){
+    
+    clear();
+    
+    printHeadline();
+    
+    log(red(center(`No Template Specified`)),'\n\n');
+
+    log(center(
+        cyan(' Syntax:     '),
+        yellow('./Colorize.js <'),
+        red('Template'),
+        yellow('>')
+    ,36));
+    
+    log(center(
+        cyan('Example: '),
+        yellow('Tools/Colorize.js '),
+        red('ThemeA.yaml')
+    ,36));
+    
+    newline();
+    newline();
 }
 
 
