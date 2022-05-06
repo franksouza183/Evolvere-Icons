@@ -10,6 +10,7 @@ import * as Colors from 'https://deno.land/std/fmt/colors.ts'
 
 import * as Path from './Colorizer/Paths.js'
 import * as Colorize from './Colorizer/ModifySVG.js'
+import generateCache from './Colorizer/Cache.js'
 
 const { rgb24 : rgb } = Colors;
 
@@ -163,8 +164,8 @@ printTask = () => {
     );
 }
 
-// await emptyDir(Path.build);
-// await copy(Path.icons,Path.build,{ overwrite : true });
+await emptyDir(Path.build);
+await copy(Path.icons,Path.build,{ overwrite : true });
 
 
 let found = 0;
@@ -244,8 +245,7 @@ printTask = () => {
     );
 }
 
-const process = Deno.run({ cmd : [ 'gtk-update-icon-cache' , Path.build ] , stdout : 'null' , stderr : 'null' });
-await process.status();
+await generateCache();
 
 printTask = () => {
     printProjectFolder();

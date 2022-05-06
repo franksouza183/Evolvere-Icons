@@ -25,7 +25,7 @@ const classes = {
 
 
 
-let styleTemplate;
+let styleClasses;
 let colors;
 
 
@@ -39,7 +39,7 @@ export function init(template){
         .map(([ classname , color ]) => `.${ classname } { color : ${ color } }`)
         .join('');
     
-    styleTemplate = {
+    styleClasses = {
         style : {
             '@id' : 'current-color-scheme' ,
             '@type' : 'text/css' ,
@@ -78,6 +78,9 @@ function isOverridable(property){
 }
 
 
+/*
+ *  Adjust inline style of path elements  
+ */
 
 function adjustPath(path){
     
@@ -98,11 +101,16 @@ function adjustPath(path){
         .join(';');
 }
 
+
+/*
+ *  Add style classes & inject inline style
+ */
+
 export function colorize(svgData){
     
     try {
         
-        svgData.svg.defs = styleTemplate;
+        svgData.svg.defs = styleClasses;
 
         const { path : paths } = svgData.svg;
         
