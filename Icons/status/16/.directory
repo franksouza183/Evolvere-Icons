@@ -1,2 +1,11 @@
 [Desktop Entry]
 Icon=folder
+
+[Dolphin]
+SortOrder=1
+SortRole=modificationtime
+Timestamp=2022,5,4,17,22,10.306
+Version=4
+
+[Settings]
+HiddenFilesShown=true

@@ -1,4 +1,9 @@
 [Dolphin]
 ShowPreview=true
-Timestamp=2011,9,14,2,34,55
-Version=2
+SortOrder=1
+SortRole=modificationtime
+Timestamp=2022,5,7,4,45,24.004
+Version=4
+
+[Settings]
+HiddenFilesShown=true
