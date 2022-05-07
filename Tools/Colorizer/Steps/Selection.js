@@ -1,5 +1,5 @@
 
-import { relative , dirname , extname } from "https://deno.land/std/path/mod.ts";
+import { relative , dirname } from "https://deno.land/std/path/mod.ts";
 import { parse } from 'https://deno.land/std/encoding/yaml.ts'
 
 import { newline , center , red, blue } from '../Pretty.js'
@@ -20,9 +20,6 @@ const selection = new Map;
 
 export function isMonochrome(path){
     
-    if(extname(path) !== '.svg')
-        return false;
-        
     const subfolder = relative(build,dirname(path));
 
     let [ folder , size ] = subfolder.split('/');

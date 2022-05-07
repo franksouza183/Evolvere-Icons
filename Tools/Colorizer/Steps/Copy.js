@@ -19,7 +19,7 @@ export default async function(){
         
         log(
             blue('① '),
-            cyan('Copying Theme')
+            cyan('Copying Theme...')
         );
     });
     

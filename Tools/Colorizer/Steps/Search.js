@@ -1,5 +1,5 @@
 
-import { basename } from 'https://deno.land/std/path/mod.ts';
+import { basename , extname } from 'https://deno.land/std/path/mod.ts';
 import { walk } from 'https://deno.land/std/fs/mod.ts'
 
 import { newline , blue , cyan , yellow } from '../Pretty.js'
@@ -54,10 +54,14 @@ export default async function(){
         if(file === 'index.theme')
             continue;
             
-        if(isMonochrome(path)){
+        if(extname(path) === '.svg'){
             
-            paths.add(path);
-            Stats.found++;
+            Stats.icons++;
+            
+            if(isMonochrome(path)){
+                Stats.monochrome++;
+                paths.add(path);
+            }
             
             continue;
         }
