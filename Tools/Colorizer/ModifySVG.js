@@ -125,6 +125,26 @@ function adjustPath(path){
 }
 
 
+function toArray(value){
+    
+    if(isArray(value))
+        return value;
+        
+    return [ value ];
+}
+
+function colorizePaths(group){
+    
+    const { g , path } = group;
+    
+    if(path)
+        toArray(path).forEach(adjustPath);
+    
+    if(g)
+        toArray(g).forEach(colorizePaths);
+}
+
+
 /*
  *  Add style classes & inject inline style
  */
@@ -136,12 +156,8 @@ export function colorize(svgData){
     try {
         
         svg.defs = styleClasses;
-
-        const paths = svg.path;
         
-        if(paths && isArray(paths))
-            for(const path of paths)
-                adjustPath(path);
+        colorizePaths(svg);
                 
     } catch (error) {
         log(svgData);
