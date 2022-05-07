@@ -72,23 +72,14 @@ export function init(template){
 }
 
 
+function isNotEmpty(value){
+    return value;
+}
+
 function toProperties(style){
-    return style.split(';');
-}
-
-function isUnrelated(property){
-    return ! isOverridable(property);
-}
-
-function isOverridable(property){
-    
-    if(property.startsWith('fill-opacity'))
-        return true;
-        
-    if(property.startsWith('opacity'))
-        return true;
-        
-    return false;
+    return style
+        .split(';')
+        .filter(isNotEmpty);
 }
 
 
@@ -107,12 +98,30 @@ function adjustPath(path){
     
     const
         component = classes[classname],
-        { inline } = colors[component];
+        { inline , Color } = colors[component];
     
-    path['@style'] = toProperties(style)
+    
+    const isOverridable = (property) => {
+        
+        if(Color && property.startsWith('fill-opacity'))
+            return true;
+            
+        if(property.startsWith('opacity'))
+            return true;
+            
+        return false;
+    }
+    
+    const isUnrelated = (property) =>
+        ! isOverridable(property);
+    
+    
+    const adjusted = toProperties(style)
         .filter(isUnrelated)
         .concat([ inline ])
         .join(';');
+    
+    path['@style'] = adjusted;
 }
 
 
