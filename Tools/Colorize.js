@@ -12,6 +12,7 @@ clear();
 on();
 
 await Steps.template();
+await Steps.selection();
 await Steps.copy();
 
 const paths = await Steps.search();
