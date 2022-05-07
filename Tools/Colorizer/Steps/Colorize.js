@@ -29,7 +29,7 @@ export default async function(paths){
         let text = await readTextFile(path);
         
         const 
-            monochrome = parse(text),
+            monochrome = parse(text,{ reviveNumbers : false }),
             colorized = colorize(monochrome);
         
         text = stringify(colorized);
