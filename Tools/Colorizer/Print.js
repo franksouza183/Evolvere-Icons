@@ -36,7 +36,7 @@ export function copied(){
 }
 
 export function icons(){
-    log(task2,blue('Discoring:'))
+    log(task2,blue('Discovering:'))
     log('  ',
         cyan('Icons'),
         yellow(Stats.icons)
