@@ -1,7 +1,8 @@
 
 const values = {
+    monochrome : 0 ,
     colored : 0 ,
-    found : 0
+    icons : 0
 };
 
 
