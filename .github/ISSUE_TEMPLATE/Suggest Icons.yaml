@@ -1,0 +1,21 @@
+
+name : Suggeset Icons
+description : Suggest icons to be added to evolvere.
+title : Icon Suggestions
+
+labels:
+    - Icon Suggestion
+
+body:
+    
+    -
+        type : textarea
+        attributes:
+            
+            label : List Of Icons
+            description : A list of icons you want to suggest.
+            placeholder : - ...
+            
+            
+        validations:
+            required : true
