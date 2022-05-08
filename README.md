@@ -16,6 +16,7 @@
 
 <div align = center>
 
+[<kbd> <br> Install <br> </kbd>][Install] 
 [<kbd> <br> Colorize <br> </kbd>][Colorize] 
 [<kbd> <br> Changelog <br> </kbd>][Changelog]
 
@@ -43,23 +44,6 @@
 
 ---
 
-<br>
-
-## Installation
-
-1. Download the latest **[Release]** .
-
-2. Extract the archive.
-
-3. Place them in corresponding directory:
-
-  **System:** `/usr/share/icons/evolvere-icons`
-
-  **User:** `~/.icons/evolvere-icons`
-  
-4. Use your theming tool to select it.
-
-<br>
 
 ---
 
@@ -137,8 +121,8 @@ Paypal: franksouza183@gmail.com
 [Inkscape]: https://inkscape.org/
 
 [Old Variants]: https://github.com/franksouza183/EvolvereSuit
-[Release]: https://github.com/franksouza183/Evolvere-Icons/releases
 
 [Changelog]: Documentation/Changelog.md
 [Colorize]: Documentation/Colorize/Usage.md
+[Install]: Documentation/Installation.md
 [License]: LICENSE
