@@ -28,7 +28,8 @@
 
 ### Clone
 
-*You may alternatively choose to clone the repository.*
+*Alternatively you can* <br>
+*clone the repository.*
 
 <br>
 
@@ -54,6 +55,10 @@ git clone https://github.com/franksouza183/Evolvere-Icons
 <br>
 
 ## Placement
+
+*Now you have to place the icons in of these locations:*
+
+<br>
 
 | Scope  | Location
 |:------:|:--------:
