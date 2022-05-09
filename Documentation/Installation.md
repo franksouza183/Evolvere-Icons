@@ -1,6 +1,15 @@
 
 # Installation
 
+**To install you simply have to** 
+<kbd> [Fetch] </kbd>  › 
+<kbd> [Place] </kbd>  › 
+<kbd> [Use] </kbd>
+
+<br>
+
+---
+
 <br>
 
 ## Fetching
@@ -15,22 +24,28 @@
 *a **[Release]** and extract it.*
 
 <br>
+<br>
 
 ### Clone
 
 *You may alternatively choose to clone the repository.*
 
-#### Command
+<br>
+
+
+##### Desktop GUI
+
+<kbd> File </kbd>  › 
+<kbd> Clone Repository ... </kbd>  › 
+<kbd> URL </kbd>
+
+<br>
+
+##### Command
 
 ```sh
 git clone https://github.com/franksouza183/Evolvere-Icons
 ```
-
-#### Desktop GUI
-
-<kbd> File </kbd> › 
-<kbd> Clone Repository ... </kbd> › 
-<kbd> URL </kbd>
 
 <br>
 
@@ -41,9 +56,9 @@ git clone https://github.com/franksouza183/Evolvere-Icons
 ## Placement
 
 | Scope  | Location
-|:------:|:--------
-| System | `/usr/share/icons/evolvere-icons`
-| User   | `~/.icons/evolvere-icons`
+|:------:|:--------:
+| <kbd>   System   </kbd> | `/usr/share/icons/evolvere-icons`
+| <kbd>  User  </kbd>   | `~/.icons/evolvere-icons`
 
 <br>
 
@@ -56,7 +71,12 @@ git clone https://github.com/franksouza183/Evolvere-Icons
 *Just select the icon folder with* <br>
 *the theming tool of your choice.*
 
+<br>
 
 <!----------------------------------------------------------------------------->
 
 [Release]: https://github.com/franksouza183/Evolvere-Icons/releases
+
+[Fetch]: #fetching
+[Place]: #placement
+[Use]: #use
