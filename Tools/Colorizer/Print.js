@@ -36,9 +36,14 @@ export function copied(){
 }
 
 export function icons(){
-    log(task2,
+    log(task2,blue('Discovering:'))
+    log('  ',
         cyan('Icons'),
-        yellow(Stats.found)
+        yellow(Stats.icons)
+    );
+    log('  ',
+        cyan('Monochrome'),
+        yellow(Stats.monochrome)
     );
 }
 

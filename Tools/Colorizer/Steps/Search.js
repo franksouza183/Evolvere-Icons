@@ -1,8 +1,9 @@
 
-import { extname , basename } from 'https://deno.land/std/path/mod.ts';
+import { basename , extname } from 'https://deno.land/std/path/mod.ts';
 import { walk } from 'https://deno.land/std/fs/mod.ts'
 
 import { newline , blue , cyan , yellow } from '../Pretty.js'
+import { isMonochrome } from './Selection.js'
 import { display } from '../Screen.js'
 import * as Print from '../Print.js'
 import { build } from '../Paths.js'
@@ -23,7 +24,6 @@ async function * pathsIn(path){
 
 function infoFrom(path){
     return { 
-        extension : extname(path) ,
         file : basename(path) ,
         path
     }
@@ -46,18 +46,22 @@ export default async function(){
     const paths = new Set;
 
     
-    for await (const { path , file , extension } of pathsIn(build)){
+    for await (const { path , file } of pathsIn(build)){
         
         if(file === '.directory')
             continue;
             
         if(file === 'index.theme')
             continue;
-        
-        if(extension === '.svg'){
             
-            paths.add(path);
-            Stats.found++;
+        if(extname(path) === '.svg'){
+            
+            Stats.icons++;
+            
+            if(isMonochrome(path)){
+                Stats.monochrome++;
+                paths.add(path);
+            }
             
             continue;
         }
