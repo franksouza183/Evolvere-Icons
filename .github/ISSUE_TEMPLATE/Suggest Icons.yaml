@@ -14,7 +14,7 @@ body:
             
             label : List Of Icons
             description : A list of icons you want to suggest.
-            placeholder : - ...
+            placeholder : '- ...'
             
             
         validations:
