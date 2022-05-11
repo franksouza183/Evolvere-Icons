@@ -31,10 +31,18 @@ The tool can be found in [`/Tools/`][Tools] .
 
 <br>
 
-- You can call it from anywhere.
+- You don't have to be in a specific folder to run the tool.
 
-    *You don't have to be in a specific folder to start it.*
-    
+   ```console
+   user@computer:~/Projects/Evolvere-Icons$ Tools/Colorize.js
+   ```
+   
+   ```console
+   user@computer:~$ Projects/Evolvere-Icons/Tools/Colorize.js
+   ```
+   
+   <br>
+
 - You may require to make it executable.
 
     *Linux:*
