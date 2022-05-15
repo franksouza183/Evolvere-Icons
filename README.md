@@ -87,7 +87,7 @@ When using dark themes, the small <br>
 icons will be visible by bright outlines.
 If you don't want this, you can use the [Colorize][Colorize] tool created by @ElectronicsArchiver and colorize all monochromatic icons to your taste. Here's an example using the included EvolvereDark template:
 
-```*./local_path/to/evolvere-icons-repository*/Tools/Colorize.js *./local_path/to/evolvere-icons-repository*/Resources/Examples/EvolvereDark.yaml"```
+```./local_path/to/evolvere-icons-repository/Tools/Colorize.js ./local_path/to/evolvere-icons-repository/Resources/Examples/EvolvereDark.yaml"```
 
 <br>
 
