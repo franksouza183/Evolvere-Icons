@@ -85,6 +85,13 @@ the new style, so expect icons with the old one.
 
 When using dark themes, the small <br>
 icons will be visible by bright outlines.
+If you don't want this, you can use the [Colorize][Colorize] tool created by @ElectronicsArchiver and colorize all monochromatic icons to your taste. Here's an example using the included EvolvereDark template:
+
+```*./local_path/to/evolvere-icons-repository*/Tools/Colorize.js *./local_path/to/evolvere-icons-repository*/Resources/Examples/EvolvereDark.yaml"```
+
+<br>
+
+A new directory `Build` will be created on root level of the Evolvere Icons cloned repository, just rename that and move to `~/.local/share/icons` or to `/usr/share/icons` for multi user compatibility.
 
 <br>
 
