@@ -1,15 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="a" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<metadata id="d">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
-	<defs id="e">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
-	</defs>
-	<path id="b" d="m14.465 3.8125-7.6582 7.666-3.7559-3.7598a0.5 0.5 0 0 0-0.70703 0 0.5 0.5 0 0 0 0 0.70703l4.1094 4.1133a0.50005 0.50005 0 0 0 0.70703 0l8.0137-8.0195a0.5 0.5 0 0 0-2e-3 -0.70703 0.5 0.5 0 0 0-0.70703 0z" style="-inkscape-stroke:none;color:#090d11;fill-opacity:.75;fill:currentColor;stroke-linecap:round;stroke-linejoin:round"/>
-</svg>
+<svg id="a" width="16" height="16" version="1.0" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata id="d"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/></cc:Work></rdf:RDF></metadata><defs id="e"><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style><style type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style></defs><path id="f" class="ColorScheme-Text" d="m14.818 3.666c-0.1326 2.02e-5 -0.25976 0.052712-0.35352 0.14648l-7.6582 7.666-3.7559-3.7598c-0.19525-0.19521-0.51178-0.19521-0.70703 0-0.19521 0.19525-0.19521 0.51178 0 0.70703l4.1094 4.1133c0.19526 0.19518 0.51177 0.19518 0.70703 0l8.0137-8.0195c0.19467-0.19579 0.1938-0.51232-0.001953-0.70703-0.093753-0.093773-0.22092-0.14646-0.35352-0.14648z" style="fill-opacity:.75;fill:currentColor"/></svg>
