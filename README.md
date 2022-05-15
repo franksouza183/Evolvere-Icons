@@ -86,7 +86,7 @@ the new style, so expect icons with the old one.
 When using dark themes, the small <br>
 icons will be visible by bright outlines.<br>
 If you don't want this, you can use the [Colorize][Colorize] tool<br>
-created by @ElectronicsArchiver and colorize all<br>
+created by [@ElectronicsArchiver][https://github.com/ElectronicsArchiver] and colorize all<br>
 monochromatic icons to your taste. Here's<br>
 an example using the included EvolvereDark template:
 
