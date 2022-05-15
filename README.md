@@ -84,10 +84,11 @@ the new style, so expect icons with the old one.
 #### Dark Themes
 
 When using dark themes, the small <br>
-icons will be visible by bright outlines.
+icons will be visible by bright outlines.<br>
 If you don't want this, you can use the [Colorize][Colorize] tool<br>
-created by @ElectronicsArchiver and colorize all monochromatic<br>
-icons to your taste. Here's an example using the included EvolvereDark template:
+created by @ElectronicsArchiver and colorize all<br>
+monochromatic icons to your taste. Here's<br>
+an example using the included EvolvereDark template:
 
 ```./local_path/to/evolvere-icons-repository/Tools/Colorize.js ./local_path/to/evolvere-icons-repository/Resources/Examples/EvolvereDark.yaml"```
 
