@@ -120,6 +120,7 @@ Simply open an issue / pull request.
 
 Or buy me a coffee~
 
+[LiberaPay](https://liberapay.com/franksouza183/donate)<br>
 Paypal: franksouza183@gmail.com
 
 <!----------------------------------------------------------------------------->
