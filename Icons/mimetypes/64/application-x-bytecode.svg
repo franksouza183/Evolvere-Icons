@@ -60,7 +60,9 @@
 		<path transform="translate(-346.38,971.33)" d="m1 2e-3c-0.55274-0.0011088-1.0011 0.44726-1 1v2h64v-1.998c0.0011-0.55274-0.44726-1.0011-1-1h-62z" fill="url(#s)"/>
 		<path d="m-346.38 972.27v3.5l2-2zm64 3.5-2-2 2-1.5z" fill="#ccfbff" fill-opacity=".45"/>
 	</g>
-	<path d="m5 8v11h12v-11zm28 0v11h12v-11zm-14 13v11h12v-11zm28 0v11h12v-11zm-42 13v11h12v-11zm28 0v11h12v-11zm-14 13v11h12v-11zm28 0v11h12v-11z" color="#000000" fill="#fdffff" fill-opacity=".23174" fill-rule="evenodd"/>
-	<path d="m19 8v11h12v-11zm28 0v11h12v-11zm-42 13v11h12v-11zm28 0v11h12v-11zm-14 13v11h12v-11zm28 0v11h12v-11zm-42 13v11h12v-11zm28 0v11h12v-11z" fill="#ffffff" fill-opacity=".097315"/>
-	<path d="m5 8v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm-42 13v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm-42 13v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm-42 13v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12z" fill="#ffffff" fill-opacity=".091917"/>
+	<path d="m5 8v11h12v-11zm14 13v11h12v-11zm14 13v11h12v-11zm14 13v11h12v-11z" fill="#ffffff" fill-opacity=".67322" fill-rule="evenodd"/>
+	<path d="m33 8v11h12v-11h-12zm14 13v11h12v-11h-12zm-42 13v11h12v-11h-12zm14 13v11h12v-11h-12z" fill="#398fe7" fill-rule="evenodd" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+	<path d="m19 8v11h12v-11h-12zm-14 13v11h12v-11h-12zm42 13v11h12v-11h-12zm-14 13v11h12v-11h-12z" fill="#ffffff" fill-opacity=".4064" fill-rule="evenodd"/>
+	<path d="m47 8v11h12v-11h-12zm-14 13v11h12v-11h-12zm-14 13v11h12v-11h-12zm-14 13v11h12v-11h-12z" fill="#398fe7" fill-opacity=".59455" fill-rule="evenodd" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+	<path d="m5 8v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm-42 13v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm-42 13v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm-42 13v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1zm14 0v1h12v-1z" fill="#ffffff" fill-opacity=".091917"/>
 </svg>
