@@ -1,14 +1,16 @@
 
-import { fromFileUrl , dirname , join , resolve } from 'https://deno.land/std/path/mod.ts';
+export { monochrome , icons , build , root }
 
-const { url } = import.meta;
+import { fromFileUrl , dirname , join , resolve } from 'Path'
+
+const { url } = import.meta
 
 
-export const root = resolve(join(dirname(fromFileUrl(url)),'..','..'));
+const root = resolve(join(dirname(fromFileUrl(url)),'..','..'))
 
 
-export const monochrome = join(root,'Resources','Data','Monochrome.yaml');
+const monochrome = join(root,'Resources','Data','Monochrome.yaml')
 
-export const icons = join(root,'Icons');
+const icons = join(root,'Icons')
 
-export const build = join(root,'Build');
+const build = join(root,'Build')

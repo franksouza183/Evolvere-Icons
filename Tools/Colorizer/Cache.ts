@@ -1,19 +1,16 @@
 
-import { build } from './Paths.js'
+export default generate
 
-const { run } = Deno;
-
-
-const command = {
-    stdout : 'null' , 
-    stderr : 'null' ,
-    cmd : [ 'gtk-update-icon-cache' , build ]
-}
+import { build } from './Paths.ts'
 
 
-export default async function generate(){
+async function generate (){
 
-    const process = run(command);
+    const command = new Deno.Command(Deno.execPath(),{
+        args : [ 'gtk-update-icon-cache' , build ]
+    })
 
-    return await process.status();
+    const { code } = await command.output()
+
+    return code
 }

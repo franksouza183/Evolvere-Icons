@@ -1,45 +1,54 @@
 
-import { parse , stringify } from 'https://deno.land/x/xml/mod.ts'
+import { parse , stringify } from 'XML'
 
-import { colorize } from '../ModifySVG.js'
-import { newline } from '../Pretty.js'
-import { display } from '../Screen.js'
-import * as Print from '../Print.js'
-import Stats from '../Stats.js'
+import { colorize } from '../ModifySVG.ts'
+import { newline } from '../Pretty.ts'
+import { display } from '../Screen.ts'
 
-
-const { readTextFile , writeTextFile } = Deno;
+import * as Print from '../Print.ts'
+import Stats from '../Stats.ts'
 
 
-export default async function(paths){
-    
+const { writeTextFile , readTextFile } = Deno
+
+
+export default async function (
+    paths : Set<string>
+){
+
     display(() => {
-        
-        Print.project_folder();
-        
-        newline();
-        
-        Print.copied();
-        Print.icons();
-        Print.colorized();
-    });
-    
-    async function colorizeByPath(path){
-        
-        let text = await readTextFile(path);
-        
-        const 
-            monochrome = parse(text,{ reviveNumbers : false }),
-            colorized = colorize(monochrome);
-        
-        text = stringify(colorized);
-        
-        await writeTextFile(path,text);
-        
-        Stats.colored++;
+
+        Print.project_folder()
+
+        newline()
+
+        Print.copied()
+        Print.icons()
+        Print.colorized()
+    })
+
+    async function colorizeByPath (
+        path : string
+    ){
+
+        let xml = await readTextFile(path)
+
+        let svg = parse(xml,{
+            revive : {
+                numbers : false
+            }
+        })
+
+        svg = colorize(svg)
+
+        xml = stringify(svg)
+
+        await writeTextFile(path,xml)
+
+        Stats.colored++
     }
 
 
-    for(const path of paths)
-        await colorizeByPath(path);
+    for ( const path of paths )
+        await colorizeByPath(path)
 }

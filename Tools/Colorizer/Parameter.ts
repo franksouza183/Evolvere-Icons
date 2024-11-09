@@ -1,11 +1,11 @@
 
-import { parse } from 'https://deno.land/std/flags/mod.ts'
+export { templatePath }
+
+import { parseArgs } from 'Args'
 
 
-const { args } = Deno;
+const { args } = Deno
 
+const parameter = parseArgs(args)
 
-const parameter = parse(args);
-
-
-export const templatePath = parameter._[0];
+const templatePath = parameter._[ 0 ] as string

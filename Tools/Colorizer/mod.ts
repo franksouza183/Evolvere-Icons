@@ -1,22 +1,24 @@
 
-import { on , off } from './Screen.js'
-import { done } from './Print.js'
-import Steps from './Steps/Steps.js'
+import { on , off } from './Screen.ts'
+import { done } from './Print.ts'
 
-const { clear } = console;
+import * as Steps from './Steps/mod.ts'
 
 
-clear();
-on();
+const { clear } = console
 
-await Steps.template();
-await Steps.selection();
-await Steps.copy();
 
-const paths = await Steps.search();
+clear()
+on()
 
-await Steps.colorize(paths);
-await Steps.cache();
+await Steps.template()
+await Steps.select()
+await Steps.copy()
 
-off();
-done();
+const paths = await Steps.search()
+
+await Steps.colorize(paths)
+await Steps.cache()
+
+off()
+done()

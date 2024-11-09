@@ -1,66 +1,66 @@
 
-import { rgb24 } from 'https://deno.land/std/fmt/colors.ts'
+export { newline , center , yellow , green , cyan , blue , red }
+
+import { rgb24 } from 'Colors'
 
 
-const { consoleSize , stdout } = Deno;
-const { log } = console;
+const { consoleSize } = Deno
+const { log } = console
 
 const
-    Yellow = { r : 183 , g : 136 , b :  49 },
-    Green  = { r :  83 , g : 163 , b :  69 },
-    Cyan   = { r : 124 , g : 180 , b : 207 },
-    Blue   = { r :  70 , g : 114 , b : 203 },
-    Red    = { r : 197 , g :  23 , b :  75 };
+    Yellow = { r : 183 , g : 136 , b :  49 } ,
+    Green  = { r :  83 , g : 163 , b :  69 } ,
+    Cyan   = { r : 124 , g : 180 , b : 207 } ,
+    Blue   = { r :  70 , g : 114 , b : 203 } ,
+    Red    = { r : 197 , g :  23 , b :  75 }
 
 
-function toString(value){
-    return '' + value;
+
+function yellow ( value : any ){
+    return rgb24(String(value),Yellow)
 }
 
-
-export function yellow(value){
-    return rgb24(toString(value),Yellow);
+function green ( value : any ){
+    return rgb24(String(value),Green)
 }
 
-export function green(value){
-    return rgb24(toString(value),Green);
+function cyan ( value : any ){
+    return rgb24(String(value),Cyan)
 }
 
-export function cyan(value){
-    return rgb24(toString(value),Cyan);
+function blue ( value : any ){
+    return rgb24(String(value),Blue)
 }
 
-export function blue(value){
-    return rgb24(toString(value),Blue);
+function red ( value : any ){
+    return rgb24(String(value),Red)
 }
 
-export function red(value){
-    return rgb24(toString(value),Red);
+function newline (){
+    log('\n')
 }
 
-export function newline(){
-    log('\n');
-}
+function center (
+    ... args : Array<any>
+){
 
-export function center(...args){
-    
-    const { columns } = consoleSize(stdout.rid);
-    
-    let width = args[args.length - 1];
-    
-    if(typeof width === 'number')
-        args.pop();
+    const { columns } = consoleSize()
+
+    let width = args[ args.length - 1 ]
+
+    if( typeof width === 'number' )
+        args.pop()
     else
-        width = null;
+        width = null
 
-    const text = args.join('');
-    
-    width ??= text.length;
-    
-    if(width >= columns)
-        return 0;
-        
-    const padding = (columns - width) * .5;
+    const text = args.join('')
 
-    return ' '.repeat(padding) + text;
+    width ??= text.length
+
+    if( width >= columns )
+        return 0
+
+    const padding = ( columns - width ) * .5
+
+    return ' '.repeat(padding) + text
 }

@@ -1,31 +1,34 @@
 
-import { newline , center , yellow , blue , cyan , green , red } from './Pretty.js'
-import * as Print from './Print.js'
+export { display , off , on }
 
-const { clear , log } = console;
+import * as Print from './Print.ts'
 
-
-let content , id;
+const { clear } = console
 
 
-export function on(){
-    id = setInterval(render,5);
+let
+    content : () => void ,
+    id : number
+
+
+function on(){
+    id = setInterval(render,5)
 }
 
-export function off(){
-    clearInterval(id);
+function off(){
+    clearInterval(id)
 }
 
-export function display(generateContent){
-    content = generateContent;
+function display ( generateContent : () => void ){
+    content = generateContent
 }
 
 
 function render(){
-    
-    clear();
-    
-    Print.header();
-    
-    content();
+
+    clear()
+
+    Print.header()
+
+    content()
 }

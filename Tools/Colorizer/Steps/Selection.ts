@@ -1,80 +1,94 @@
 
-import { relative , dirname } from "https://deno.land/std/path/mod.ts";
-import { parse } from 'https://deno.land/std/encoding/yaml.ts'
+export { isMonochromeSVG , select }
 
-import { newline , center , red, blue } from '../Pretty.js'
-import { build , monochrome } from '../Paths.js'
-import * as Print from '../Print.js'
+import { newline , center , red } from '../Pretty.ts'
+import { build , monochrome } from '../Paths.ts'
+import { relative , dirname } from 'Path'
+import { parse } from 'YAML'
 
-
-const { readTextFile } = Deno;
-const { log , clear } = console;
+import * as Print from '../Print.ts'
 
 
-const toInt = (string) =>
-    parseInt(string);
+const { readTextFile , exit } = Deno
+const { log , clear } = console
 
 
-const selection = new Map;
+
+type Range = [ number , number ]
+
+const selection = new Map<string,Range>
 
 
-export function isMonochrome(path){
-    
-    const subfolder = relative(build,dirname(path));
+function isMonochromeSVG (
+    path : string
+){
 
-    let [ folder , size ] = subfolder.split('/');
+    const subfolder = relative(build,dirname(path))
 
-    if(!selection.has(folder))
-        return false;
+    const [ folder , size ] = subfolder.split('/')
 
-    size = parseInt(size);
-        
-    if(typeof size !== 'number')
-        return false;
-    
-    const [ min , max ] = selection.get(folder);
-    
-    return min <= size && size <= max;
+    if( ! selection.has(folder) )
+        return false
+
+    const amount = parseInt(size)
+
+    if( typeof amount !== 'number' )
+        return false
+
+    const [ min , max ] =
+        selection.get(folder)!
+
+    return (
+        min <= amount &&
+        max >= amount
+    )
 }
 
 
-export default async function(){
-    
+type MonochromeData = Record<string,string | number>
+
+
+async function select (){
+
     try {
-        const text = await readTextFile(monochrome);
-        const yaml = parse(text);
-        
-        for(const folder in yaml){
-            
-            let value = yaml[folder];
-            
-            const range = (typeof value === 'number')
+
+        const text = await readTextFile(monochrome)
+
+        const yaml = parse(text,{
+            schema : 'json'
+        }) as MonochromeData
+
+        for ( const [ folder , value ] of Object.entries(yaml) ){
+
+            const range = ( typeof value === 'number' )
                 ? [ value , value ]
                 : value
-                  .split('-')
-                  .map(toInt);
-                  
-            selection.set(folder,range);
+                    .match(/(\d+) *\- *(\d+)/)!
+                    .slice(1)
+                    .map(( value ) => parseInt(value))
+
+            selection.set(folder,range as Range )
         }
-    
-    } catch (error) {
-        
-        printParseError(error);
-        exit();
+
+    } catch ( exception ){
+        printParseError(exception)
+        exit()
     }
 }
 
 
-function printParseError(error){
+function printParseError (
+    exception : unknown
+){
 
-    clear();
+    clear()
 
-    Print.header();
+    Print.header()
 
-    log(red(center(`Couldn't Parse Monochrome Icon Selection`)));
+    log(red(center(`Couldn't Parse Monochrome Icon Selection`)))
 
-    newline();
-    newline();
+    newline()
+    newline()
 
-    log(error);
+    log(exception)
 }

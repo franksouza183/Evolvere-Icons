@@ -15,7 +15,7 @@ export default {
         Color : '2598e4' ,
         Alpha : 1
     },
-    
+
     Success : {
         Color : '42a53b' ,
         Alpha : 1
@@ -25,9 +25,12 @@ export default {
         Color : 'f2712c' ,
         Alpha : 1
     },
-        
+
     Error : {
         Color : 'f03489' ,
         Alpha : 1
     }
-}
+} as Record<string,{
+    Color : null | string
+    Alpha : number
+}>

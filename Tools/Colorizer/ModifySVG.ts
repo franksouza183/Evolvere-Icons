@@ -1,8 +1,10 @@
 
-const { isArray } = Array;
-const { exit } = Deno;
-const { log } = console;
+export { colorize , init }
 
+
+const { isArray } = Array
+const { exit } = Deno
+const { log } = console
 
 
 const components = {
@@ -12,7 +14,7 @@ const components = {
     Warning : 'NeutralText' ,
     Accent : 'Highlight' ,
     Error : 'NegativeText'
-};
+}
 
 const classes = {
     'ColorScheme-NegativeText' : 'Error' ,
@@ -21,127 +23,138 @@ const classes = {
     'ColorScheme-Background' : 'Background' ,
     'ColorScheme-Highlight' : 'Accent' ,
     'ColorScheme-Text' : 'Foreground'
-};
+}
 
 
 
-let styleClasses;
-let colors;
+let styleClasses : any
+let colors : any
 
 
-export function init(template){
-    
-    colors = template;
-    
-    const hasColor = ([ color ]) => 
-        color;
-        
-    const toColor = ([ component , name ]) => 
-        [ template[component].Color , name ];
-        
-    const toProperties = ([ color , name ]) => 
-        [ `ColorScheme-${ name }` , `#${ color }` ];
-    
-    const toStyle = ([ classname , color ]) => 
-        `.${ classname } { color : ${ color } }`;
-    
-    const style = Object
-        .entries(components)
-        .map(toColor)
-        .filter(hasColor)
-        .map(toProperties)
-        .map(toStyle)
-        .join('');
-    
+function init (
+    template : Record<string, {
+        Color : null | string
+        Alpha : number
+    }>
+){
+
+    colors = template
+
+    const rules = new Array<string>
+
+    for ( const [ component , name ] of Object.entries(components) ){
+
+        const { Color } = template[ component ]
+
+        rules.push(`
+            .ColorScheme-${ name } {
+                color : #${ Color } ;
+            }
+        `)
+    }
+
+
     styleClasses = {
         style : {
-            '@id' : 'current-color-scheme' ,
             '@type' : 'text/css' ,
-            '#text' : style
+            '#text' : rules.join('') ,
+            '@id' : 'current-color-scheme'
         }
-    };
-    
-    for(const color in colors){
-        
-        const { Color , Alpha } = colors[color];
-        
-        colors[color].inline = Color
+    }
+
+    for ( const color in colors ){
+
+        const { Color , Alpha } = colors[ color ]
+
+        colors[ color ].inline = Color
             ? `fill-opacity:${ Alpha }`
-            : 'opacity:0' ;
+            : 'opacity:0'
     }
 }
 
 
-function isNotEmpty(value){
-    return value;
-}
 
-function toProperties(style){
+function toProperties (
+    style : string
+){
     return style
         .split(';')
-        .filter(isNotEmpty);
+        .filter(( value ) => !! value )
 }
 
 
 /*
- *  Adjust inline style of path elements  
+ *  Adjust inline style of path elements
  */
 
-function adjustPath(path){
-    
-    const classname = path['@class'];
-    
-    if(!(classname in classes))
-        return;
-        
-    const style = path['@style'] ?? '';
-    
-    const
-        component = classes[classname],
-        { inline , Color } = colors[component];
-    
-    
-    const isOverridable = (property) => {
-        
-        if(Color && property.startsWith('fill-opacity'))
-            return true;
-            
-        if(property.startsWith('opacity'))
-            return true;
-            
-        return false;
+function adjustPath (
+    path : {
+        '@style' ?: string
+        '@class' ?: string
     }
-    
-    const isUnrelated = (property) =>
-        ! isOverridable(property);
-    
-    
+){
+
+    const classname = path[ '@class' ]
+
+    if( ! classname )
+        return
+
+    if( ! ( classname in classes ) )
+        return
+
+    const style = path[ '@style' ] ?? ''
+
+    // @ts-ignore
+    const component = classes[ classname ]
+
+    const { inline , Color } = colors[ component ]
+
+
+    const isOverridable = ( property : string ) => {
+
+        if( Color && property.startsWith('fill-opacity') )
+            return true
+
+        if( property.startsWith('opacity') )
+            return true
+
+        return false
+    }
+
+    const isUnrelated = ( property : string ) =>
+        ! isOverridable(property)
+
+
     const adjusted = toProperties(style)
         .filter(isUnrelated)
         .concat([ inline ])
-        .join(';');
-    
-    path['@style'] = adjusted;
+        .join(';')
+
+    path[ '@style' ] = adjusted
 }
 
 
-function toArray(value){
-    
+function toArray (
+    value : any
+){
+
     if(isArray(value))
-        return value;
-        
-    return [ value ];
+        return value
+
+    return [ value ]
 }
 
-function colorizePaths(group){
-    
-    const { g , path } = group;
-    
-    if(path)
-        toArray(path).forEach(adjustPath);
-    
-    if(g)
-        toArray(g).forEach(colorizePaths);
+function colorizePaths (
+    group : any
+){
+
+    const { path , g } = group
+
+    if( path )
+        toArray(path).forEach(adjustPath)
+
+    if( g )
+        toArray(g).forEach(colorizePaths)
 }
 
 
@@ -149,21 +162,23 @@ function colorizePaths(group){
  *  Add style classes & inject inline style
  */
 
-export function colorize(svgData){
-    
-    const { svg } = svgData;
-    
+function colorize (
+    svgData : any
+){
+
+    const { svg } = svgData
+
     try {
-        
-        svg.defs = styleClasses;
-        
-        colorizePaths(svg);
-                
-    } catch (error) {
-        log(svgData);
-        log(error);
-        exit();
+
+        svg.defs = styleClasses
+
+        colorizePaths(svg)
+
+    } catch ( exception ){
+        log(svgData)
+        log(exception)
+        exit()
     }
-    
-    return svgData;
+
+    return svgData
 }
