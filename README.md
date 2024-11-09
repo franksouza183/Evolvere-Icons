@@ -34,17 +34,13 @@
 
 <br>
 
-**Minimalist / Monochromatic**
+<kbd> <br> Minimalist / Monochromatic <br> </kbd> 
+<kbd> <br> Smooth Colors <br> </kbd>
 
-**Realistic Shading**
 
-*As far as I'm able to~*
-  
-**Smooth Colors**
-
-**Square**
-
-**Small**
+<kbd> <br> Realistic Shading <br> </kbd> 
+<kbd> <br> Square <br> </kbd> 
+<kbd> <br> Small <br> </kbd>
 
 </div>
 
