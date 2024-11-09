@@ -1,139 +1,75 @@
-[![Badge License]][License]
+
+<br>
 
 <div align = center>
+
+[![Badge Contribute]][Issues]   
+[![Badge License]][License]
+
+<br>
+<br>
 
 # Evolvere Icons
 
 ***Flat with Touches of Realism***
 
 <br>
+<br>
+
+[![Button Install]][Install]   
+[![Button Notes]][Notes]   
+[![Button Colorizer]][Colorizer]   
+[![Button Changelog]][Changelog]
+
+<br>
+<br>
 
 ![Preview]
 
-</div>
 
----
-
-<div align = center>
-
-[<kbd> <br> Install <br> </kbd>][Install] 
-[<kbd> <br> Colorize <br> </kbd>][Colorize] 
-[<kbd> <br> Changelog <br> </kbd>][Changelog]
-
-</div>
-
----
-
+<br>
 <br>
 
 ## Design
 
-- **Minimalist / Monochromatic**
+<br>
 
-- **Realistic Shading**
+<kbd> <br> Minimalist / Monochromatic <br> </kbd> 
+<kbd> <br> Smooth Colors <br> </kbd>
 
-  *As far as I'm able to~*
-  
-- **Smooth Colors**
 
-- **Square**
+<kbd> <br> Realistic Shading <br> </kbd> 
+<kbd> <br> Square <br> </kbd> 
+<kbd> <br> Small <br> </kbd>
 
-- **Small**
+</div>
 
 <br>
 
----
-
-<br>
-
-## Notes
-
-#### Variants
-
-The variants have been removed and will be replaced <br>
-with a script that will generate a custom theme with <br>
-the desired colors.
-
-> I promise xD
-
-
-You can still play with the **[Old Variants]**.
-
-*Compatible with some windows ( wine ) applications.*
-
-<br>
-
-#### Small Icons
-
-All icons smaller or equal to `24px` are monochromatic, <br>with very few exceptions, preventing consistency break.
-
-So, if you see small colorful icons, it is because they <br>
-haven't been covered yet or maybe it's hard-coded.
-
-<br>
-
-#### Transitioning
-
-The package is in the process of migrating to <br>
-the new style, so expect icons with the old one.
-
-*I am currently focusing on the most popular.*
-
-<br>
-
-#### Dark Themes
-
-When using dark themes, the small <br>
-icons will be visible by bright outlines.<br>
-If you don't want this, you can use the [Colorize][Colorize] tool<br>
-created by [@ElectronicsArchiver](https://github.com/ElectronicsArchiver) and colorize all<br>
-monochromatic icons to your taste. Here's<br>
-an example using the included EvolvereDark template:
-
-```./local_path/to/evolvere-icons-repository/Tools/Colorize.js ./local_path/to/evolvere-icons-repository/Resources/Examples/EvolvereDark.yaml"```
-
-<br>
-
-A new directory `Build` will be created on root level<br>
-of the Evolvere Icons cloned repository, just rename<br>
-it and move to `~/.local/share/icons` or to<br>
-`/usr/share/icons` for multi user compatibility.
-
-<br>
-
-#### Live Preview
-
-Open `Resources/preview.svg` <br>
-in **[Inkscape]** for a *'live'* preview.
-
-<br>
-
----
-
-<br>
-
-## Contributions
-
-Simply open an issue / pull request.
-
-*For missing icons for example.*
-
-Or buy me a coffee~
-
-[LiberaPay](https://liberapay.com/franksouza183/donate)<br>
-Paypal: franksouza183@gmail.com
 
 <!----------------------------------------------------------------------------->
 
-[Badge License]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
-
-[Preview]: Resources/preview.png 'Preview of the Evolvere Icons set'
-
-[Inkscape]: https://inkscape.org/
-
 [Old Variants]: https://github.com/franksouza183/EvolvereSuit
+[Issues]: https://github.com/franksouza183/Evolvere-Icons/issues
 
+[Colorizer]: Documentation/Colorize/Usage.md
 [Changelog]: Documentation/Changelog.md
-[Colorize]: Documentation/Colorize/Usage.md
+[Preview]: Resources/preview.png 'Showcase of the Evolvere Icons set'
 [Install]: Documentation/Installation.md
-[License]: LICENSE
+[License]: LICENSE 'This project is licensed under CreativeCommons BY SA 4.0'
+[Notes]: Documentation/Notes.md
+
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge Contribute]: https://img.shields.io/badge/Contributions-Welcome-33670f.svg?style=for-the-badge&labelColor=428813&logoColor=white&logo=GitHub
+[Badge License]: https://img.shields.io/badge/-BY_SA-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Colorizer]: https://img.shields.io/badge/Colorizer-428813?style=for-the-badge&logoColor=white&logo=GoogleSearchConsole
+[Button Changelog]: https://img.shields.io/badge/Changelog-EF9421?style=for-the-badge&logoColor=white&logo=AzureArtifacts
+[Button Install]: https://img.shields.io/badge/Install-C9284D?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Notes]: https://img.shields.io/badge/Notes_&_Usage-1578D3?style=for-the-badge&logoColor=white&logo=GitBook
+
