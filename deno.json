@@ -1,6 +1,6 @@
 {
     "tasks" : {
-        "compile" : "deno compile --allow-read --allow-write --allow-run Tools/Colorizer/mod.ts" ,
+        "compile" : "sh .GitHub/Tasks/Compile.sh" ,
         "dev" : "deno run --allow-all Tools/Colorizer/mod.ts"
     },
 
