@@ -14,14 +14,6 @@
 </div>
 
 
-## Requirements
-
-*What you need to run this tool.*
-
-<br>
-
-<kbd> <br> You only need [Ｄｅｎｏ][Deno] <br> </kbd>
-
 <br>
 <br>
 
@@ -34,21 +26,19 @@ The tool can be found in [`/Tools/`][Tools] .
 - You don't have to be in a specific folder to run the tool.
 
    ```console
-   user@computer:~/Projects/Evolvere-Icons$ Tools/Colorize.js
+   user@computer:~/Projects/Evolvere-Icons$ Tools/Colorize-AMD64
    ```
    
    ```console
-   user@computer:~$ Projects/Evolvere-Icons/Tools/Colorize.js
+   user@computer:~$ Projects/Evolvere-Icons/Tools/Colorize-ARM64
    ```
    
    <br>
 
-- You may require to make it executable.
+- You may need to make it executable.
 
-    *Linux:*
-    
     ```sh
-    sudo chmod ug+x Tools/Colorize.js
+    sudo chmod ug+x Tools/Colorize-AMD64
     ```
 
 <br>
@@ -57,7 +47,7 @@ The tool can be found in [`/Tools/`][Tools] .
 ## Syntax
 
 ```sh
-Tools/Colorize.js <Template>
+Tools/Colorize-AMD64 <Template>
 ```
 
 <kbd> Template </kbd> The path to your template file.
@@ -69,7 +59,7 @@ Tools/Colorize.js <Template>
 *You can try it with the example template.*
 
 ```sh
-Tools/Colorize.js Resources/Examples/Template.yaml
+Tools/Colorize-ARM64 Resources/Examples/Template.yaml
 ```
 
 <br>

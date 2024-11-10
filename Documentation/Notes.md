@@ -49,9 +49,11 @@ monochromatic icons to your taste. Here's<br>
 an example using the included EvolvereDark template:
 
 ```sh
-./path_to_evolvere/Tools/Colorize.js    \
+./path_to_evolvere/Tools/Colorize-AMD64    \
     ./path_to_evolvere/Resources/Examples/EvolvereDark.yaml
 ```
+
+( or `Colorize-ARM64` )
 
 <br>
 
